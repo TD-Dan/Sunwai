@@ -57,7 +57,7 @@ Example::   *A ke **ai**.* = "I sense **heat**." / "I feel **hot**."
 *   **Proto-Germanic**: Resonance with *\*ail-* (fire/burn).
 *   **German**: Resonance with *heiß* (hot).
 *   **English**: The sound evokes the interjection "Aye!" or "Ouch!", associating with sharp intensity or pain (like touching something hot).
-*   **Penetoki**: Chosen for its simple CVV structure, distinct phonetics, and the sharp, bright feel of the /ɑi/ diphthong fitting the concept of heat/fire intensity.
+*   **Sunwai**: Chosen for its simple CVV structure, distinct phonetics, and the sharp, bright feel of the /ɑi/ diphthong fitting the concept of heat/fire intensity.
 
 ## Proverbs
 

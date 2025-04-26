@@ -53,7 +53,7 @@ Example::   *Heim o pe.* = "The home **is substantial / has a tangible quality**
 
 ## Origin
 
--   Mostly internal to Penetoki.
+-   Mostly internal to Sunwai.
 
 ## Proverbs
 

@@ -18,4 +18,4 @@ author-comment:: Inuko is missing full entry in dictionary
 
 ## Origin
 
-Penetoki: I + Nuko ("inside puppy")  - perpetually childlike behaviour and attitude.
+Sunwai: I + Nuko ("inside puppy")  - perpetually childlike behaviour and attitude.

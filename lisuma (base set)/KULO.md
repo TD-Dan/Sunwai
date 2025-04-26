@@ -69,7 +69,7 @@ Example:: *A hat si kulo wakohu.* = "I have seven ducks"
 
 ## Origin
 
-*   **Penetoki**: Systematically derived from **[[KU]]** (sense, perception) + **[[LO]]** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability.
+*   **Sunwai**: Systematically derived from **[[KU]]** (sense, perception) + **[[LO]]** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability.
 
 ## Proverbs
 

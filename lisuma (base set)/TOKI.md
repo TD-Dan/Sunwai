@@ -22,7 +22,7 @@ Descriptor::	**Linguistic, relating to language/speech**
 ### Concept
 *   Refers to the system of communication using words or established signs (spoken, written, signed), or the act/content of speech/signing itself.
 
-Example:: *Le **toki** Penetoki o pene.* = "**The language** Penetoki is beautiful."
+Example:: *Le **toki** Sunwai o pene.* = "**The language** Sunwai is beautiful."
 
 Example:: *Ouman hat **toki**.* = "Sentient beings **have language/speech**."
 
@@ -45,7 +45,7 @@ Example:: *Pu **toki** o mo.* = "The **linguistic** form (e.g., grammar) **is** 
 Example:: *A hat sun **so toki**.* = "I have **linguistic** knowledge."
 
 ## Compounds
--   **[[Penetoki]]** (`PENE` + `TOKI`): The Penetoki language ("Beautiful Language").
+-   **[[Sunwai]]** (`PENE` + `TOKI`): The Sunwai language ("Beautiful Language").
 -   **[[Lisutoki]]** (`LISU` + `TOKI`): Dictionary, vocabulary ("word language").
 -   **[[Paitoki]]** (`PAI` + `TOKI`): Opinion, joke, banter, playful speech ("playful/mind language").
 -   **[[Haitoki]]** (`HAI` + `TOKI`): Conversation, dialogue ("greeting language").
@@ -53,11 +53,11 @@ Example:: *A hat sun **so toki**.* = "I have **linguistic** knowledge."
 -   **[[Noki]]** (`NO` + `KI`, or could be seen as `NO` + `TOKI` conceptually simplified): Miscommunication, Mute ("not communicating", potentially implies linguistic failure specifically).
 
 ## Origin
--   **Penetoki**: `TO` (order, sequence) + `KI` (communication, expression) = "Ordered communication/expression".
--   **Toki Pona**: Resonance with and conceptual borrowing from Sonja Lang's Toki Pona word _toki_ ("language, speech, talk, hello"). Penetoki adapts it into its root system and expands grammatical flexibility.
+-   **Sunwai**: `TO` (order, sequence) + `KI` (communication, expression) = "Ordered communication/expression".
+-   **Toki Pona**: Resonance with and conceptual borrowing from Sonja Lang's Toki Pona word _toki_ ("language, speech, talk, hello"). Sunwai adapts it into its root system and expands grammatical flexibility.
 
 ## Proverbs
 
-Proverb:: *Toki o sun.* = "Language **is** wisdom/clarity." (The motto of Penetoki).
+Proverb:: *Toki o sun.* = "Language **is** wisdom/clarity." (The motto of Sunwai).
 
-Proverb:: *Mu toki o u pu so mo. Penetoki o sun pu.* = "Many languages are a complexly chaotic structure. Penetoki is a clear structure."
+Proverb:: *Mu toki o u pu so mo. Sunwai o sun pu.* = "Many languages are a complexly chaotic structure. Sunwai is a clear structure."

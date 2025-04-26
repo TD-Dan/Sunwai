@@ -52,7 +52,7 @@ Example::   *A hat tape **ne ke**.* = "I had food **before / in the past**." (`n
 
 ## Origin
 
-*   **Penetoki**: Meaning swapped with [[KU]]. Primarily gets this meaning systemically through the swap, allowing [[KU]] to align phonetically with [[U]] (Uncertainty) for its Question particle role. Direct phonetic resonance for "past/before" is less strong than for other roots, though distant conceptual links might be considered (e.g., English *keep* related to preserving the past, or the /k/ sound in sequence markers across languages).
+*   **Sunwai**: Meaning swapped with [[KU]]. Primarily gets this meaning systemically through the swap, allowing [[KU]] to align phonetically with [[U]] (Uncertainty) for its Question particle role. Direct phonetic resonance for "past/before" is less strong than for other roots, though distant conceptual links might be considered (e.g., English *keep* related to preserving the past, or the /k/ sound in sequence markers across languages).
 
 ## Proverbs
 

@@ -19,6 +19,6 @@ Marker::			**Concept marker**
 
 Example:: *A ta **le** **tama** ne wai* = "I take **the bridge** over water."
 
-> More on usage in [[Penetoki#Concept marker Le]]
+> More on usage in [[Sunwai#Concept marker Le]]
 
 author-comment:: Le is missing additional usage and full dictionary entry.

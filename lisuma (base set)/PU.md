@@ -55,7 +55,7 @@ Example::   *Ta **pu** le lisu!* = "**Structure/Organize** the words!" (Abstract
 
 *   **Latin**: _putāre_ ("to prune, refine") – Reflects refinement in structure.
 *   **Finnish**: _puu_ ("wood" – primal crafting material) – Grounded in physical forming.
-*   **Penetoki**: Chosen as a simple CV root representing fundamental organization/arrangement.
+*   **Sunwai**: Chosen as a simple CV root representing fundamental organization/arrangement.
 
 ## Proverbs
 

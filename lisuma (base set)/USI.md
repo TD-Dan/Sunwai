@@ -55,7 +55,7 @@ Example::   *Se o sun so **usi**.* = "That is **conditional** knowledge."
 
 ## Origin
 
-*   **Penetoki**: Compound of **[[u]]** (Uncertainty, chaos, maybe) + **[[si]]** (Rule, standard, principle, condition, law). Combines the idea of an uncertain or potential state (**u**) with the notion of it being a governing condition or rule (**si**) for a potential consequence. Signifies an "Uncertain/Potential Condition/Rule".
+*   **Sunwai**: Compound of **[[u]]** (Uncertainty, chaos, maybe) + **[[si]]** (Rule, standard, principle, condition, law). Combines the idea of an uncertain or potential state (**u**) with the notion of it being a governing condition or rule (**si**) for a potential consequence. Signifies an "Uncertain/Potential Condition/Rule".
 
 ## Proverbs
 

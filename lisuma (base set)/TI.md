@@ -27,7 +27,7 @@ Example::	*A **ti** ta heim.* = "**Time after time** I go home **time after time
 
 author-note:: marker usage needs clarification
 
-> More examples in sentence structure rules -> [[Penetoki#14. Repetive (X repeats, always X, X times)]]
+> More examples in sentence structure rules -> [[Sunwai#14. Repetive (X repeats, always X, X times)]]
 
 ### Concept
 *   A defined span between points, or a recurring pattern.

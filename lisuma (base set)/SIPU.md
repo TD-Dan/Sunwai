@@ -66,7 +66,7 @@ Example::   *Oum ko o **sipu**.* = "All life **is systemic**." (Life functions a
 *   **[[sipusun]]** (`sipu` + `[[sun]]`): Systems Theory, Cybernetics, Knowledge of Systems
 ## Origin
 
-*   **Penetoki**: Compound of **[[si]]** (Measure, unit, standard, rule, law, principle) + **[[pu]]** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
+*   **Sunwai**: Compound of **[[si]]** (Measure, unit, standard, rule, law, principle) + **[[pu]]** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
 
 ## Proverbs
 

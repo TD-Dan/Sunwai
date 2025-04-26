@@ -21,7 +21,7 @@ Descriptor::	**Ordered, sequential, ranked, primary**
 ## Usage
 
 ### Marker
-*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker `[[#si]]`. See [[Penetoki#Ordinals]] for full details and examples.
+*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker `[[#si]]`. See [[Sunwai#Ordinals]] for full details and examples.
 
 Example::   *Se o **si an to**.* = "That **is** the **second**."
 

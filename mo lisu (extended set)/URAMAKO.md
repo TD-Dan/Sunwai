@@ -13,7 +13,7 @@ to: 1500
 
 # URAMAKO
 
-IPA::				/ˈu.ɾa.ma.ko/ (Standard Penetoki pronunciation; /r/ variants allowed)
+IPA::				/ˈu.ɾa.ma.ko/ (Standard Sunwai pronunciation; /r/ variants allowed)
 Concept::		**Rabbit, Hare; Skittish, Fast Earth-Lifeform**
 Action::		**To dart or bolt quickly and unpredictably, to react with sudden flight like a rabbit**
 Descriptor::	**Rabbit-like, hare-like (in movement or temperament), quick-darting, skittish, leporine**
@@ -47,7 +47,7 @@ Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like**
 
 ## Origin
 
--   **Penetoki**: **[[U]]** + **[[RAN]]** + **[[MA]]** + **[[KO]]**.
+-   **Sunwai**: **[[U]]** + **[[RAN]]** + **[[MA]]** + **[[KO]]**.
     *   `U`: Represents chaos, uncertainty, rotation, interpreted here as the **skittishness, alertness, and unpredictable zig-zagging** movement typical of these animals when startled.
     *   `RAN`: Represents **speed, quickness, rapidity**, contributing the core aspect of their fast movement.
     *   `MA`: Represents **earth, ground, land**, indicating their terrestrial habitat.

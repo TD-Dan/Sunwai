@@ -1,30 +1,29 @@
-# [[Penetoki]]	PENETOKI		ϘΞꓵΞTOXI
+---
+links:
+---
 
-[[Penetoki Summary]]
-[[Penetoki Reference Sheet]]
-[[Penetoki full dictionary]]
+# [[Sunwai]]	SUNWAI		⽇UꓵWΔI
 
-[[Penetoki Workbook]]
+[[Sunwai]] is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
 
-[[Oum sun ro Penetoki i li toki]]
-[[Oum sun ro Penetoki i mo toki]]
+**Important links:**
+Learning the language: [[Sunwai Workbook]]
+One page summary: [[Sunwai Summary]]
+Core grammar at a glance: [[Sunwai Reference Sheet]]
+Complete dictionary: [[Sunwai full dictionary.baked]]
+This document in Sunwai: [[Oum sun ro Sunwai i li toki]] and [[Oum sun ro Sunwai i mo toki]]
 
-author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor changes. Subject to major breaking changes. ))
-
-author-comment:: Alternative name for language: Sunwai - Flow of knowledge
-
-[[Penetoki]] is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
-
+author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor changes. Subject to major breaking changes.
 ## Base principles
 ### Easy to learn, hard to master
-Vowels and consonants used are the most common and easy to produce across all languages. Learning the base set of 100 words gives you skills to speak with any [[Penetoki]] speaker in any general topic. This could also be 'Easy to learn, hard to master' as the extensions and freedom give limitless options for exploration.
+Vowels and consonants used are the most common and easy to produce across all languages. Learning the base set of 100 words gives you skills to speak with any [[Sunwai]] speaker in any general topic. This could also be 'Easy to learn, hard to master' as the extensions and freedom give limitless options for exploration.
 ### Artistic freedom
 Pronunciation, word order, syllable stressing and typography are all flexible and can be understood even if you use your native style. This supports suitability for poetic, musical and other artistic purposes. Artistic freedom also makes sure it can be hard to master as the ways of expression are limitless.
 * Multiple homophones (Words have many layered meanings) allow for wordplay and nuanced meanings.
 * Word order does not matter, except for particles that describe unidirectional relations.
-	-> [[#Special set Typography]] defines the base for artistic letterforms that can be used with [[Penetoki]]
+	-> [[#Special set Typography]] defines the base for artistic letterforms that can be used with [[Sunwai]]
 ### Inclusion and neutrality is default
-Inclusivity is created by broadening terms, not creating division or exclusivity. There is no distinction between male/female/other, human/animal/other or good/bad in the words themselves. However, language by its nature is a system of categorization; all of these these distinctions can be made if necessary for any specific use case. [[Penetoki]] is not a human centerric language at its roots but extends and specialices to be one.
+Inclusivity is created by broadening terms, not creating division or exclusivity. There is no distinction between male/female/other, human/animal/other or good/bad in the words themselves. However, language by its nature is a system of categorization; all of these these distinctions can be made if necessary for any specific use case. [[Sunwai]] is not a human centerric language at its roots but extends and specialices to be one.
 	-> [[#Generality over specifity]]
 ### Extendability rules
 The language can be extended beyond the base and extended set by following common rules laid out in the extended set. This makes it possible to incorporate specialist fields, such as software, engineering and medicine, into the language without losing the needed precision of words in such use cases.
@@ -51,28 +50,28 @@ It is not triial how we speak and think. The ideas contained in words affect the
 The constructs and ideas contained in a language are vital for the development and betterment of humankind.
 
 ## Similarities and roots with Toki Pona
-[[Penetoki]] builds heavily on the principles of Toki Pona by Sonja Lang.
+[[Sunwai]] builds heavily on the principles of Toki Pona by Sonja Lang.
 - Easy to learn and speak
 - Simple and consice base vocabulary that is very broad in its meaning.
 
-However, [[Penetoki]] adds improvements:
-- where toki pona is more of an abstract language and a philosophy, [[Penetoki]] aims also for everyday usability and practicality.
+However, [[Sunwai]] adds improvements:
+- where toki pona is more of an abstract language and a philosophy, [[Sunwai]] aims also for everyday usability and practicality.
 - Allows wide artistic and expressive freedom with pronunciation, syllables, word ordering and letterforms, making it suitable for poetic, technical and everyday use.
 - Advanced rules to create more specific words for more accurate communication
 	- broad to narrow words by using compound words: ne + ko = nine + animal = nineanimal = cat
 - Similar but more excact word overloading: one word can have multiple meanings depending on context, f.ex 'li' can indicate 'small, short' or number 'one' depending on context and sentences structure. It can also be used as a verb to mean 'to reduce, to shorten'. Overloading can always resolved with particles if necessary for clarity.
 
-## Creator and history of [[Penetoki]]
-The language was created and conceptualized over several years by Daniel Herkert as a hobby project to both create an unifying language for humanity and to improve upon the foundations laid by toki pona. Several AI language models were used as assistants to gather knowledge and statistics of humanitys languages.
+## Creator and history of Sunwai
+The language was created and conceptualized over several years by Daniel Herkert as a hobby project to both create an unifying language for humanity and to improve upon the foundations laid by Toki Pona. Several AI language models were used as assistants to gather knowledge and statistics of humanitys languages. Sunwai was previously named penetoki.
 
 # Letters
 
-> Penetoki alphabets is order: **A E I O U T N S K M W L H R P**
+> Sunwai alphabets is order: **A E I O U T N S K M W L H R P**
 
-[[Penetoki]] uses most used and easy to learn vowels and consonants, almost similar to Toki Pona.
+[[Sunwai]] uses most used and easy to learn vowels and consonants, almost similar to Toki Pona.
 Letter distribution across words follows Zipf distribution for natural feel in vowel and consonant frequencies. These are listed as 'target frequency' in the following tables.
 
-The 15 used letters are ordered for easy remembering with phonetic sounds and creates the penetoki alphabetic order:
+The 15 used letters are ordered for easy remembering with phonetic sounds and creates the Sunwai alphabetic order:
 
 **[[A]] [[E]] [[I]] [[O]] [[U]]**				(the vowels, from common to rare)
 **[[TA]] [[NE]] [[SI]] [[KO]] [[MU]]**		(the common consonants)
@@ -88,7 +87,7 @@ Pronunciation of the letter can:
 
 ## Vowels
 
-| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | Letter variant in [[Penetoki]] | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
+| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | Letter variant in [[Sunwai]] | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
 | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ----------------------------- | -------------------------- | -------------------------------------- |
 | **a**     | [ɑ](https://en.wikipedia.org/wiki/Open*back*unrounded*vowel "Open back unrounded vowel")             | [a](https://en.wikipedia.org/wiki/Open*front*unrounded*vowel "Open front unrounded vowel") [ä](https://en.wikipedia.org/wiki/Open*central*unrounded*vowel "Open central unrounded vowel") [ɐ](https://en.wikipedia.org/wiki/Near-open*central*vowel "Near-open central vowel") | **A Δ**                        | 45%                           | 39%                        | 42%                                    |
 | **e**     | [e](https://en.wikipedia.org/wiki/Close-mid*front*unrounded*vowel "Close-mid front unrounded vowel") | [ɛ](https://en.wikipedia.org/wiki/Open-mid*front*unrounded*vowel "Open-mid front unrounded vowel")                                                                                                                                                                             | **Ξ ɵ**                        | 22%                           | 25%                        | 27%                                    |
@@ -106,7 +105,7 @@ Refer to the section [[#Dimensionality of prime roots]] for letter identity and 
 > See asection [[#Phonetics]] for more information on prononcuation of the language.
 ## Consonants
 
-| Character   | IPA (standard) | Allowed IPA Variations  | letter variant in [[Penetoki]] | target frequency among consonants | Current frequency in words | Current estimated sentence level usage |
+| Character   | IPA (standard) | Allowed IPA Variations  | letter variant in [[Sunwai]] | target frequency among consonants | Current frequency in words | Current estimated sentence level usage |
 | ----------- | -------------- | ----------------------- | ------------------------------ | --------------------------------- | -------------------------- | -------------------------------------- |
 | **t** (ta)  | [t]            | [t̪], [tʰ], [ʈ]         | **Γ ⵜ**                        | 17%                               | 18%                        | 20%                                    |
 | **n** (ne)  | [n]            | [n̼], [n̥]              | **ꓵ ʌ**                        | 35%                               | 22%                        | 25%                                    |
@@ -166,7 +165,7 @@ Where:
     - `tra` (two consonants at start), `ans` (two consonants at end).
 4. **Missing vowels**:
     - `tk`, `nm`, `ss` (no vowels).
-5. **Disallowed vowels or consonants not part of penetoki letters**:
+5. **Disallowed vowels or consonants not part of Sunwai letters**:
     - `ga` (invalid C1 `g`), `yom` (invalid C1 `y`), `fir` (invalid C1 `f`)
 
 > Long syllable form allows for varied root words that are both easy to distinguish and define the character of the language.
@@ -187,11 +186,11 @@ Where:
 
 ## Words: Structure, Meaning, and Creation
 
-Penetoki words are designed to be meaningful, flexible, and systematically related. Understanding their structure and inherent multi-layered meaning is key to both using and extending the language effectively.
+Sunwai words are designed to be meaningful, flexible, and systematically related. Understanding their structure and inherent multi-layered meaning is key to both using and extending the language effectively.
 
 ### 1. Homophonity: The Multi-Layered Nature of Words
 
-A core design principle of Penetoki is **homophonity**: most words intentionally possess multiple layers of meaning and can function flexibly in different grammatical roles based on context or the use of clarifying particles. This avoids needing unique words for every nuance and allows for expressive depth with a concise vocabulary.
+A core design principle of Sunwai is **homophonity**: most words intentionally possess multiple layers of meaning and can function flexibly in different grammatical roles based on context or the use of clarifying particles. This avoids needing unique words for every nuance and allows for expressive depth with a concise vocabulary.
 
 Each word entry in the dictionary typically lists its potential roles:
 
@@ -204,32 +203,32 @@ This layering allows for rich wordplay and requires attention to context for int
 
 ### 2. Word Structure: Roots and Compounds
 
-Penetoki vocabulary is built from two main types of words:
+Sunwai vocabulary is built from two main types of words:
 
 *   **Root Words:** These are the foundational, often single-syllable building blocks of the language (e.g., `a`, `ta`, `wai`, `sun`, `heim`). They represent the most basic concepts. (They are sometimes categorized as Prime, Secondary, and Tertiary roots based on their phonetic simplicity and foundational role).
-*   **Compound Words:** The vast majority of Penetoki words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
+*   **Compound Words:** The vast majority of Sunwai words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
 
 ### 3. Principles for Creating New Words
 
 While the official Base and Extended sets cover much communication, creating new words may be necessary for specific fields or expression. This should always prioritize internal consistency and the language's philosophy.
 
 **Compounding: The Core Method**
-Forming new words primarily involves combining existing Penetoki words:
+Forming new words primarily involves combining existing Sunwai words:
 
 1.  **Identify Core Concepts:** Break down the new idea into essential parts representable by existing words.
-2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `pene` [good] + `toki` [language] → `penetoki`).
+2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `pene` [good] + `toki` [language] → `Sunwai`).
 
 **Hierarchy for Word Creation:**
 Follow this preferred order when developing a new term:
 
-1.  **Compound Internally First:** Always try to build the word from existing Penetoki roots/compounds that logically convey the meaning. This maintains system integrity (e.g., `oum` + `an` → `ouman`).
+1.  **Compound Internally First:** Always try to build the word from existing Sunwai roots/compounds that logically convey the meaning. This maintains system integrity (e.g., `oum` + `an` → `ouman`).
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
     *   *Example:* **`neko`** (cat) is internally `ne` (nine) + `ko` (lifeform). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
-3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Penetoki's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
+3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
 4.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
     *   Highly specific, culturally bound concepts (unique foods, rituals) difficult to compound clearly.
     *   Technical/scientific terms challenging to represent concisely via compounding.
-    *   **Crucially:** Any loan *must* be adapted to Penetoki phonetics and syllable structure and be clearly marked as such. Excessive loans damage the language's systemic nature.
+    *   **Crucially:** Any loan *must* be adapted to Sunwai phonetics and syllable structure and be clearly marked as such. Excessive loans damage the language's systemic nature.
 
 **Essential Rules and Constraints for All New Words:**
 *   **Phonetics & Syllables:** Use only the 15 official letters and adhere strictly to the `(C1)V1(V2)(C2)` syllable structure (respecting allowed final consonants `t, n, s, m, r, p`).
@@ -239,11 +238,11 @@ Follow this preferred order when developing a new term:
 *   **Word Length:** Aim for conciseness. While not a hard rule, words over 3-4 syllables warrant scrutiny – could a phrase or simpler term work?
 
 **Guiding Philosophy:**
-New words should ideally reflect Penetoki's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
+New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
 
 ### 4. Generality Over Specificity
 
-A practical application of Penetoki's philosophy is preferring simple, general terms when context is clear. Compounding allows for specificity *when necessary*, rather than defaulting to narrow terms.
+A practical application of Sunwai's philosophy is preferring simple, general terms when context is clear. Compounding allows for specificity *when necessary*, rather than defaulting to narrow terms.
 
 *   **Example:** Use **`ouman`** (sentient being) for general reference. Only use more specific compounds like `ouman`**`koma`** (human of Earth), `ouman`**`uma`** (extraterrestrial), or `ouman`**`pi`** (AI) when the distinction is crucial to the meaning. This maintains neutrality and inclusivity by default.
 
@@ -255,7 +254,7 @@ Newly created words, following these principles, typically expand the **Extended
 # Word sets
 Words are divided into base set, extended set and many special sets. **Base set** consists roughly 100 most used words and should suffice for casual everyday use. **Extended set** of 300-1000  words add depth and presiness to the language. In addition **Special set**s for mathematics, engineering, medicine etc. can be added.
 
-> -> Refer to the [[Penetoki full dictionary.baked]] for full list and descriptions of the words.
+> -> Refer to the [[Sunwai full dictionary.baked]] for full list and descriptions of the words.
 
 ## Base set
 Base set covers all day to day encounters and broad concepts. . Knowing these words gives you ability to fully interact with society. It can also be tought as a 'travel set'. These words used in sentences rely heavily on context to be understood as they are quite broad in their meaning and can have multiple meanings and uses.
@@ -271,7 +270,7 @@ Base set is further divided into [[#Roots]] and [[#Base compounds]].
 ### Roots
 #### Prime roots (5 words)
 - The 5 vowel letters ( A E I O U) make a micro language by themselves.
-- They define the tonality of [[Penetoki]].
+- They define the tonality of [[Sunwai]].
 - Each prime root together with others map multiple dimensions of meaning. For example a in the context of interaction resolves to I/me, observer, locust of attention. In the context of physicality it represents solidity. This embodies the concept that on the surface words are easy to learn and seem simple (I/me), but actually convey a deeper meaning and truth about the universe.
 #### Secondary Roots (10 words)
 - Are made of single syllables and are the two groups: common TA NE SI KO MU and rare WAI LEI SI RO PU.
@@ -279,7 +278,7 @@ Base set is further divided into [[#Roots]] and [[#Base compounds]].
 
 #### Tertiary Roots ( ~35 words)
 * More varied syllables in the form CVV, CVC, CVVC and VVC
-- Together with prime, secondary and tertiary roots define the vocal repertoire of [[Penetoki]]. No other syllables can be used in [[Penetoki]] than the roots.
+- Together with prime, secondary and tertiary roots define the vocal repertoire of [[Sunwai]]. No other syllables can be used in [[Sunwai]] than the roots.
 - Examples: Heim, Oum, Hat, Hai
 
 ### Base compounds
@@ -294,11 +293,11 @@ Extended set of roughly 1000 words is created by combining [[#Base set]] words i
 
 Words in extended set are cross domain words that are generally useful in any field.
 
-As the extended set is constructed from the base words it aims to be mostly self teaching. Meaning of extended words could be learned just from reading or interaction with [[Penetoki]] speakers. Every extended word includes some kind of insight or 'knack' to make remembering it easy. For example the word for **maheim** is a compound word made from **ma** + **heim**, 'land' + 'home'.
+As the extended set is constructed from the base words it aims to be mostly self teaching. Meaning of extended words could be learned just from reading or interaction with [[Sunwai]] speakers. Every extended word includes some kind of insight or 'knack' to make remembering it easy. For example the word for **maheim** is a compound word made from **ma** + **heim**, 'land' + 'home'.
 
 
 ## Special sets
-Numerous special sets extend [[Penetoki]] into specific domains. They provide words and constructs to exactly communicate the nuances and finer details in those fields. Size of special sets is not limited, but their word lists should reflect the principles of [[Penetoki]]: Most used words should appear first in the dictionary and be the shortest and easiest to remember. It is recommended to further split the sets into subsets.
+Numerous special sets extend [[Sunwai]] into specific domains. They provide words and constructs to exactly communicate the nuances and finer details in those fields. Size of special sets is not limited, but their word lists should reflect the principles of [[Sunwai]]: Most used words should appear first in the dictionary and be the shortest and easiest to remember. It is recommended to further split the sets into subsets.
 
 Special sets can:
 - extend usage of existing words.
@@ -518,7 +517,7 @@ With rule [[#2. Excaggaration (X is more intense)]]:
 
 ### 13. Conditional (If X, then Y)
 
-Conditional sentences express that one situation or event (the result/apodosis) depends on another situation or event (the condition/protasis) being true or occurring. Penetoki uses the optional particle **`Usi`** to mark the condition and the optional particle **`se`** to mark the consequence.
+Conditional sentences express that one situation or event (the result/apodosis) depends on another situation or event (the condition/protasis) being true or occurring. Sunwai uses the optional particle **`Usi`** to mark the condition and the optional particle **`se`** to mark the consequence.
 
 *   **`Usi`** (`u`+`si`): Marks the conditional clause ("if"). Its use clarifies that the clause is hypothetical or a prerequisite.
 *   **`se`**: Can optionally introduce the main/consequent clause ("then", "in that case"), improving clarity, especially in spoken language.
@@ -572,7 +571,7 @@ Example:: *se pene, usi a tape.* = "Its good, if you eat."
 	* *Si e an ti.* = "Measure yourself two times."
 
 ## Markers
-Penetoki uses markers to clarify usage of words. These are optional and allow for more precise communication when needed.
+Sunwai uses markers to clarify usage of words. These are optional and allow for more precise communication when needed.
 
 ### Concept marker Le
 
@@ -682,7 +681,7 @@ Example:: *Le a ta wai i oumanheim.* = "I am going to home." ("I movement into b
  
  author-comment:: IMPORTANT! Latest changes to number system have not been fully updated to other sections and dictionary!
 ## Numerals
-Numbers in penetoki default to base10 and are represented using existing [[Penetoki]] words. Numeral use is usually defined usually by the si, sisi or to markers. See [[Penetoki#Numeral marker si]] for more info.
+Numbers in Sunwai default to base10 and are represented using existing [[Sunwai]] words. Numeral use is usually defined usually by the si, sisi or to markers. See [[Sunwai#Numeral marker si]] for more info.
 
 |                 |        | metaphorical meaning                   |
 | --------------- | ------ | -------------------------------------- |
@@ -744,7 +743,7 @@ Example:: *si paitameka-marokilo-nere* = 63 400 092
 Example:: ***Le sisi ta** o pene* = "**The number three (concept)** is good."
 
 ## Ordinals
-In [[Penetoki]], ordinals (first, second, third, etc.) are formed using the particles **[[#si]]** (numeral marker) and **[[#to]]** (sequence marker). These particles orbit numerals freely, allowing both technical precision and poetic ambiguity.
+In [[Sunwai]], ordinals (first, second, third, etc.) are formed using the particles **[[#si]]** (numeral marker) and **[[#to]]** (sequence marker). These particles orbit numerals freely, allowing both technical precision and poetic ambiguity.
 
 ### Core Principles
 
@@ -815,7 +814,7 @@ In [[Penetoki]], ordinals (first, second, third, etc.) are formed using the part
 
 # Dictionary
 
-For complete dictionary with entries see [[Penetoki full dictionary]].
+For complete dictionary with entries see [[Sunwai full dictionary]].
 ## Dictionary style guide:
 
 ### 1. Entry Heading  
@@ -842,7 +841,7 @@ Descriptor::	**1, one**
 - Split into subcategories: ### Marker, ### Concept, etc.
 - Provide examples using the Example:: prefix.
 - Each Example:: block must be preceded and followed by a single blank line for parsing.
-- Italicize Penetoki sentences with asterisks and add translations in "quotes"
+- Italicize Sunwai sentences with asterisks and add translations in "quotes"
 
 Example:  
 ```markdown
@@ -864,19 +863,19 @@ Example:
 ```
 ### 5. Origin  
 - Use bullet points with language names in **bold**.  
-- Include roots from penetoki if aplicable
+- Include roots from Sunwai if aplicable
 - Include etymological roots and adaptations.  
-- - Use _underscores_ to italicize non-Penetoki words or transliterations within the Origin section.
+- - Use _underscores_ to italicize non-Sunwai words or transliterations within the Origin section.
 
 Example:  
 ```markdown
 ## Origin  
-- **Penetoki**: **[[AN]]** + **[[TA]]** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **[[AN]]** + **[[TA]]** = "Togetherness action" - 'n' dropped for ease of speak
 - **Arabic**: _أَنَا_ (_Ana_, I)  
 - **Sanskrit**: _अहम्_ (_Aham_, self)  
 ```
 ### 6. Proverbs  
-- Format as `Proverb:: [Penetoki sentence] = "[Translation]"`. 
+- Format as `Proverb:: [Sunwai sentence] = "[Translation]"`. 
 - Each Proverb:: block must be preceded and followed by a single blank line for parsing.
 - Add contextual notes if needed.  
 
@@ -888,8 +887,8 @@ Proverb:: *Ouman o i a.* = "Sentience is in me."
 
 ```
 ### 7. Notes & Formatting  
-- **Examples**: Italicize Penetoki sentences with *asterisks*, add translations in "quotes". No need to use explicit markers when sentence structure (SVO word order) is clear.
-- **Origin**: Italicize with _underscores_ to distinguish from penetoki words.
+- **Examples**: Italicize Sunwai sentences with *asterisks*, add translations in "quotes". No need to use explicit markers when sentence structure (SVO word order) is clear.
+- **Origin**: Italicize with _underscores_ to distinguish from Sunwai words.
 - **Homonyms**: Clarify context-specific meanings (e.g., *a* = "I" vs. "one").  
 - **Cross-references**: Link related entries with `[[#Entry]]`.  
 - **Author Comments**: Use `author-comment::` for unresolved notes.  
@@ -969,7 +968,7 @@ Compounds:
 * **Mamakuku** = Ancestor  (*mama + ku + ku* = "Ancient parent")
 
 Origin:
-* Penetoki: *ma + ma* ("True birthplace")
+* Sunwai: *ma + ma* ("True birthplace")
 * **Global**: Echoes the near-universal /mama/ sound for "mother" (e.g., Mandarin *妈妈*, Swahili _mama_, Quechua _mama_).
 
 ---
@@ -982,7 +981,7 @@ WΔILU
 2. **To resonate universally** (verb) – To produce or experience vibrational waves that ripple through existence.
 
 Origin:
-* [[Penetoki]]: *wai + lu* ("Flowing void")
+* [[Sunwai]]: *wai + lu* ("Flowing void")
 
 Proverbs:
 * **Oum o wailu.**
@@ -1013,7 +1012,7 @@ Compounds:
 - **Oumanlutaum** = Free will (*ouman + lutaum* = "Sentient freedom").
 
 Origin:
-* [[Penetoki]]: *lu + ta + oum* ("void action everything")  - 'o' dropped for ease of speak
+* [[Sunwai]]: *lu + ta + oum* ("void action everything")  - 'o' dropped for ease of speak
 
 ---
 
@@ -1042,7 +1041,7 @@ Compounds:
 - **lumiakulo** (_lumia + kulo_): Radiation spectrum ("energy-hue")(Special Astronomical term)
 
 Origin:
-* **Penetoki**: *lu* + *mia* ("void ?")
+* **Sunwai**: *lu* + *mia* ("void ?")
 - **Latin**: _lūmen_ ("light") → English _luminosity_ ("radiant energy").
 - **Samoan**: _luma_ ("bright")
 - **Finnish**: _valo_ ("light")
@@ -1078,7 +1077,7 @@ Usage:Usage:l (Adjective):
 	- *A wai, a **pene**, a oum.* = "I flow, I heal, I become whole."
 
 Compounds:
-	**[[#Penetoki]]** (*pene + toki*): "Beutifull language" (the [[Penetoki]] language itself).
+	**[[#Sunwai]]** (*pene + toki*): "Beutifull language" (the [[Sunwai]] language itself).
 	**Peneheim** (*pene + heim*): Sanctuary, utopia ("beautiful home").
 	**Penetilo** (*pene + tilo*): Celebration, festival ("beautifull time").
 
@@ -1097,7 +1096,7 @@ Origin:
 * **To trade, to exchange goods, to purchase**
 
 Origin:
-* [[Penetoki]]: **Pi** (Circle) + **Sun** (Knowledge) - "knowledge of circular patterns"
+* [[Sunwai]]: **Pi** (Circle) + **Sun** (Knowledge) - "knowledge of circular patterns"
 
 ---
 ## Extended set dictionary
@@ -1120,7 +1119,7 @@ OUMΔNWAILU
 * **To sing**
 
 Origin:
-* [[Penetoki]] *ouman + wailu* ("Sentient sound") - Vibration created by sentient being
+* [[Sunwai]] *ouman + wailu* ("Sentient sound") - Vibration created by sentient being
 ---
 ### OUMANKOMA
 /ˈoum.ɑn.ko.mɑ/
@@ -1152,7 +1151,7 @@ Compounds:
 - **tamakule** = rainbow (*tama + kule* = "color bridge," poetic/mythic)
 
 Origins:
-* **[[Penetoki]]**: *ta* (movement) + *ma* (ground) ("movement over ground")
+* **[[Sunwai]]**: *ta* (movement) + *ma* (ground) ("movement over ground")
 - **Japanese**: 魂 (*tamashii* – "soul/spirit," metaphor for bridging physical and spiritual).
 - **Quechua**: *tampu* ("resting place along a road," extended to mean "connector")
 
@@ -1184,7 +1183,7 @@ Compounds:
 - **Nekouman** (_neko + ouman_): Anthropomorphic cat, furry ("cat-person").
 
 Origin:
-- **Penetoki**: _Ne_ ("nine/on") + _Ko_ ("lifeform")
+- **Sunwai**: _Ne_ ("nine/on") + _Ko_ ("lifeform")
 	-- Combines the numeral nine (mythic lives) with biological classification.
 	-- Lifeform that sits on top of things.
 - **Japanese**: 猫 (_neko_) retained for phonetic familiarity and cultural resonance.
@@ -1231,7 +1230,7 @@ Compounds:
 2. **Ear** -Organ or instrument for sensing vibrations
 
 Origin:
-	[[Penetoki]]: *ku* + *wailu* ("sense sound")
+	[[Sunwai]]: *ku* + *wailu* ("sense sound")
 
 ---
 ### KUNE
@@ -1264,7 +1263,7 @@ Origin:
 (( Kouwai is missing full dictionary entry.))
 
 Origin:
-	* **Penetoki**: *Ko* + *U* + *Wai* ("lifeform chaotic liquid")
+	* **Sunwai**: *Ko* + *U* + *Wai* ("lifeform chaotic liquid")
 
 ---
 ### LUMIAKO
@@ -1272,7 +1271,7 @@ Origin:
 1. **Flora, plant life** (noun) – Organisms that convert light into energy (e.g., trees, flowers, algae).
 
 Origin:
-- [[Penetoki]]: *lumia* + *ko* ("light lifeform")
+- [[Sunwai]]: *lumia* + *ko* ("light lifeform")
 
 ---
 ### KOHU
@@ -1308,7 +1307,7 @@ Compounds:
 - **SUNTAPENE** (_sunta + pene_): Mathematical proof ("beautiful conclusion").
 
 Origin:
-- **Penetoki Roots**: _Sun_ ("knowledge") + _Ta_ ("movement") = "Movement of wisdom."
+- **Sunwai Roots**: _Sun_ ("knowledge") + _Ta_ ("movement") = "Movement of wisdom."
 - **Latin**: _ergō_ ("therefore") in function.
 - **Greek**: _logos_ ("reasoned discourse") in philosophical scope.
 - **Japanese**: _推論_ (_suiron_, "inference") phonetically adapted to _sunta_.
@@ -1320,7 +1319,7 @@ Proverbs:
 ### PENETOKI
 /ˈpeː.ne.to.ki/
 ϘΞꓵΞTOXI
-* Special entry reserved to reference the penetoki language itself
+* Special entry reserved to reference the Sunwai language itself
 
 Roots:
 	Pene + Toki = Good language, beautiful language
@@ -1355,7 +1354,7 @@ MΔMΔ⽇Uꓵ
 
 
 Origin:
-- **Penetoki**: _Mama_ ("parent/nurturer") + _Sun_ ("knowledge/light").
+- **Sunwai**: _Mama_ ("parent/nurturer") + _Sun_ ("knowledge/light").
 
 Proverbs:
 - **Ta mamasun, ta oum.**  
@@ -1397,7 +1396,7 @@ Usage:
 	* *A ta maheim i oumankoma* = "I belong to humanity."
 
 Origin:
-- **[[Penetoki]]**: *ma* (earth/land) + *heim* (home)
+- **[[Sunwai]]**: *ma* (earth/land) + *heim* (home)
 - **Māori**: *whenua* ("land/placenta") → Metaphor for "land as womb."
 
 
@@ -1420,7 +1419,7 @@ WΔXOǑU
 	**Excitement** (noun/verb)
 
 Origin
-* **[[Penetoki]]**: from [[#Wai]] + [[#Ko]] +Hu -> Water Animal Flying
+* **[[Sunwai]]**: from [[#Wai]] + [[#Ko]] +Hu -> Water Animal Flying
 
 ---
 ### LUMIAHU
@@ -1439,7 +1438,7 @@ Usage:
     - _Ouman o **lumiaru** ne oumheim._ = "Beings are radiant sparks in the cosmos."
 
 Origin:
-- [[Penetoki]]: *lumia + ru* ("light above")
+- [[Sunwai]]: *lumia + ru* ("light above")
 - **Latin**: _luminārius_ ("light-giving")
 
 Proverbs:
@@ -1452,7 +1451,7 @@ Proverbs:
 2. **Any weather phenomena**
 
 Origin:
-	[[Penetoki]]: **ha** (Air,breath) + **wai** (Water, flow), i in end is dropped to distinguish from the country Hawaii
+	[[Sunwai]]: **ha** (Air,breath) + **wai** (Water, flow), i in end is dropped to distinguish from the country Hawaii
 
 (( Hawa lacks full dictionary entry.))
 
@@ -1487,7 +1486,7 @@ Compounds:
 - **Sipenewai** = perfect harmony, symphony, river’s flow (*sipene + wai* = "balanced water")
 
 Origin:
-- [[Penetoki]]: Combines *si* (measurement) and *pene* (beauty) to reflect the ideal union of logic and artistry.
+- [[Sunwai]]: Combines *si* (measurement) and *pene* (beauty) to reflect the ideal union of logic and artistry.
 - **Sanskrit**: *Shilpa* (sacred art/science of proportion).
 - **Greek**: Echoes *καλοκαγαθία* in meaning ("beauty and goodness as one ideal").
 
@@ -1502,7 +1501,7 @@ Proverbs:
 
 (( This section is experimental and not complete. ))
 
-These charts map the meaning accross the base set words among different semantic dimensions/axis. Words define points, regions or patterns in given dimensions. Penetoki overloads words to multiple dimensions.
+These charts map the meaning accross the base set words among different semantic dimensions/axis. Words define points, regions or patterns in given dimensions. Sunwai overloads words to multiple dimensions.
 
 These are not necessarily directly the meanings of the roots, but rather the domains that words compounding from them should recede in.
 
@@ -1763,7 +1762,7 @@ These are not necessarily directly the meanings of the roots, but rather the dom
 ---
 # Appendix 2: Selected translations from world literature
 
-(( To be translated into penetoki.))
+(( To be translated into Sunwai.))
 ## Famous Short Poems
 
 1. **"The Old Pond" by Matsuo Bashō (Japan, 17th century)**
@@ -1851,7 +1850,7 @@ Ku wai li— / ?ko ? i— / wailu ro wai.
 (( Section is work in progress))
 ## Swadesh 100
 
-| Swadesh No. | Swadesh Word  | Penetoki Word/Expression | Penetoki Set      | Notes                                                                         | Authors notes                                                                                            |
+| Swadesh No. | Swadesh Word  | Sunwai Word/Expression | Sunwai Set      | Notes                                                                         | Authors notes                                                                                            |
 | ----------- | ------------- | ------------------------ | ----------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | 1           | I/me          | **A**                    | Base              | Prime root (self/one).                                                        | **Ok**                                                                                                   |
 | 2           | You           | **E**                    | Base              | Secondary root (you/there).                                                   | **Ok**                                                                                                   |
@@ -1998,7 +1997,7 @@ author-comment:: work under progress, not a complete list yet.
 
  - Additional geometric shapes that expand base set to include all mathematical shapes.
 
-Adopt the SI unit metric prefixes as they are, but adjust for the [[Penetoki]] syllable and pronunciation rules.
+Adopt the SI unit metric prefixes as they are, but adjust for the [[Sunwai]] syllable and pronunciation rules.
 
 | tesi     | 10<sup>-1</sup>  | teka     | 10<sup>1</sup>  |
 | -------- | ---------------- | -------- | --------------- |
@@ -2036,14 +2035,14 @@ MOMOǑU
 1. **Maximum, maxima**
 
 Origins:
-* [[Penetoki]]: *mo + mo + ru* = "really big high"
+* [[Sunwai]]: *mo + mo + ru* = "really big high"
 ### LILIMA
 /ˈliː.li.mɑ/
 LYLYMΔ
 1. **Minimum, minima**
 
 Origins:
-* [[Penetoki]]: *li + li + ma* = "really small low"
+* [[Sunwai]]: *li + li + ma* = "really small low"
 
 
 ---
@@ -2061,14 +2060,14 @@ LUMAXOHEYM
 
 # Special set: Typography
 ---
-(( As a demonstration of penetoki this whole set could/should be written in penetoki! ))
+(( As a demonstration of Sunwai this whole set could/should be written in Sunwai! ))
 ## Typograhic letter variants
 
-[[Penetoki]] letter variants build on long lasting tradition of beautifull calligraphy, lettering and logograms. They are selected for vertical symmetry and inclusivity taking inspiration from all around the world.
+[[Sunwai]] letter variants build on long lasting tradition of beautifull calligraphy, lettering and logograms. They are selected for vertical symmetry and inclusivity taking inspiration from all around the world.
 
-[[Penetoki]] letter variants are an additional aesthetic variation and they do not alter pronunciation or meaning. They are not required as the modern latin letter variants can be used.
+[[Sunwai]] letter variants are an additional aesthetic variation and they do not alter pronunciation or meaning. They are not required as the modern latin letter variants can be used.
 
-As a stylistic choise they are a tool to distinquish [[Penetoki]] from other languages and convey a future oriented, forward looking attitude. Their design allows for huge artistic freedom in typography, as they can be distinquished from each other easily. This allows for the tradition of beautiful typography to evolve further combining the beauty accross all languages.
+As a stylistic choise they are a tool to distinquish [[Sunwai]] from other languages and convey a future oriented, forward looking attitude. Their design allows for huge artistic freedom in typography, as they can be distinquished from each other easily. This allows for the tradition of beautiful typography to evolve further combining the beauty accross all languages.
 
 First tests:
 
@@ -2176,4 +2175,4 @@ Origin:
 Origin:
 	Greek qoppa (Ϙ)
 ---
-# END OF [[Penetoki]]
+# END OF [[Sunwai]]

@@ -19,7 +19,7 @@ Descriptor::	**Universal, cosmic**
 > Root of totality, unity, the universe, completeness.
 
 ## Usage
-> Oum is the only word that cannot be intensified with [[Penetoki#2. Excaggaration (X is more intense)]]. That would be a paradox.
+> Oum is the only word that cannot be intensified with [[Sunwai#2. Excaggaration (X is more intense)]]. That would be a paradox.
 
 ### Marker
 *   Used as a pronoun representing totality.

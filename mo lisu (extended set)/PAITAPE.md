@@ -58,7 +58,7 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 ## Origin
 
-- **Penetoki**: **[[PAI]]** (Play, fun, joy, subjective experience) + **[[TAPE]]** (Food). Conceptualized as "Joy Food" or "Celebration Food," emphasizing its role in pleasure and special occasions over basic sustenance.
+- **Sunwai**: **[[PAI]]** (Play, fun, joy, subjective experience) + **[[TAPE]]** (Food). Conceptualized as "Joy Food" or "Celebration Food," emphasizing its role in pleasure and special occasions over basic sustenance.
 
 ## Proverbs
 

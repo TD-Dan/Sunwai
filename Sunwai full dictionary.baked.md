@@ -1,8 +1,8 @@
 
 <!--
-copy from "Penetoki full dictionary automatic"
+copy from "Sunwai full dictionary automatic"
 use ctrl-h -> replace "[ " with "["
-use ctrl-p -> bake into "Penetoki full dictionary.baked"
+use ctrl-p -> bake into "Sunwai full dictionary.baked"
 -->
 # **Base set**
 
@@ -471,7 +471,7 @@ Marker::			**Concept marker**
 
 Example:: *A ta **le** **tama** ne wai* = "I take **the bridge** over water."
 
-> More on usage in Penetoki > Concept marker Le
+> More on usage in Sunwai > Concept marker Le
 
 author-comment:: Le is missing additional usage and full dictionary entry.
 # HI
@@ -586,7 +586,7 @@ Example::   *Ta **pu** le lisu!* = "**Structure/Organize** the words!" (Abstract
 
 *   **Latin**: _putāre_ ("to prune, refine") – Reflects refinement in structure.
 *   **Finnish**: _puu_ ("wood" – primal crafting material) – Grounded in physical forming.
-*   **Penetoki**: Chosen as a simple CV root representing fundamental organization/arrangement.
+*   **Sunwai**: Chosen as a simple CV root representing fundamental organization/arrangement.
 
 ## Proverbs
 
@@ -646,7 +646,7 @@ Example::   *A ke **ai**.* = "I sense **heat**." / "I feel **hot**."
 *   **Proto-Germanic**: Resonance with *\*ail-* (fire/burn).
 *   **German**: Resonance with *heiß* (hot).
 *   **English**: The sound evokes the interjection "Aye!" or "Ouch!", associating with sharp intensity or pain (like touching something hot).
-*   **Penetoki**: Chosen for its simple CVV structure, distinct phonetics, and the sharp, bright feel of the /ɑi/ diphthong fitting the concept of heat/fire intensity.
+*   **Sunwai**: Chosen for its simple CVV structure, distinct phonetics, and the sharp, bright feel of the /ɑi/ diphthong fitting the concept of heat/fire intensity.
 
 ## Proverbs
 
@@ -781,7 +781,7 @@ Example::   *Pai **un** o u.* = "**Hidden/Subconscious** thoughts are chaotic."
 
 *   **German**: *unten* ("below, downstairs").
 *   **Latin**:  *sub* ("under")
-*   **Penetoki**: Chosen for its simple VC structure, phonetic distinctness, and the use of the back vowel /u/ which can subtly evoke depth or lowness.
+*   **Sunwai**: Chosen for its simple VC structure, phonetic distinctness, and the use of the back vowel /u/ which can subtly evoke depth or lowness.
 
 ## Proverbs
 
@@ -912,7 +912,7 @@ Descriptor::	**Universal, cosmic**
 > Root of totality, unity, the universe, completeness.
 
 ## Usage
-> Oum is the only word that cannot be intensified with Penetoki > 2. Excaggaration (X is more intense). That would be a paradox.
+> Oum is the only word that cannot be intensified with Sunwai > 2. Excaggaration (X is more intense). That would be a paradox.
 
 ### Marker
 *   Used as a pronoun representing totality.
@@ -1003,7 +1003,7 @@ Example::   *Se o sun so **usi**.* = "That is **conditional** knowledge."
 
 ## Origin
 
-*   **Penetoki**: Compound of **u** (Uncertainty, chaos, maybe) + **si** (Rule, standard, principle, condition, law). Combines the idea of an uncertain or potential state (**u**) with the notion of it being a governing condition or rule (**si**) for a potential consequence. Signifies an "Uncertain/Potential Condition/Rule".
+*   **Sunwai**: Compound of **u** (Uncertainty, chaos, maybe) + **si** (Rule, standard, principle, condition, law). Combines the idea of an uncertain or potential state (**u**) with the notion of it being a governing condition or rule (**si**) for a potential consequence. Signifies an "Uncertain/Potential Condition/Rule".
 
 ## Proverbs
 
@@ -1029,7 +1029,7 @@ Example::	*A **ti** ta heim.* = "**Time after time** I go home **time after time
 
 author-note:: marker usage needs clarification
 
-> More examples in sentence structure rules -> Penetoki > 14. Repetive (X repeats, always X, X times)
+> More examples in sentence structure rules -> Sunwai > 14. Repetive (X repeats, always X, X times)
 
 ### Concept
 *   A defined span between points, or a recurring pattern.
@@ -1070,7 +1070,7 @@ Descriptor::	**Ordered, sequential, ranked, primary**
 ## Usage
 
 ### Marker
-*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker `[[#si]]`. See Penetoki > Ordinals for full details and examples.
+*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker `[[#si]]`. See Sunwai > Ordinals for full details and examples.
 
 Example::   *Se o **si an to**.* = "That **is** the **second**."
 
@@ -1158,7 +1158,7 @@ Example::   *Oum ko **na** wai.* = "All life **needs** water."
 
 ## Origin
 
--   **Penetoki**: purely phonetic addition.
+-   **Sunwai**: purely phonetic addition.
 
 ## Proverbs
 
@@ -1594,7 +1594,7 @@ Example::   *A hat tape **ne ke**.* = "I had food **before / in the past**." (`n
 
 ## Origin
 
-*   **Penetoki**: Meaning swapped with KU. Primarily gets this meaning systemically through the swap, allowing KU to align phonetically with U (Uncertainty) for its Question particle role. Direct phonetic resonance for "past/before" is less strong than for other roots, though distant conceptual links might be considered (e.g., English *keep* related to preserving the past, or the /k/ sound in sequence markers across languages).
+*   **Sunwai**: Meaning swapped with KU. Primarily gets this meaning systemically through the swap, allowing KU to align phonetically with U (Uncertainty) for its Question particle role. Direct phonetic resonance for "past/before" is less strong than for other roots, though distant conceptual links might be considered (e.g., English *keep* related to preserving the past, or the /k/ sound in sequence markers across languages).
 
 ## Proverbs
 
@@ -2546,7 +2546,7 @@ Example::   *Heim o pe.* = "The home **is substantial / has a tangible quality**
 
 ## Origin
 
--   Mostly internal to Penetoki.
+-   Mostly internal to Sunwai.
 
 ## Proverbs
 
@@ -2655,7 +2655,7 @@ Example::   *Se o **si re**.* = "That is **two**."
 *   **[[Resun]]**: Relative Truth, Understanding through Comparison (`re` + `sun` = "reflection knowledge").
 
 ## Origin
-*   **Penetoki:** Newly introduced root. Conceptual core inspired by "reflection," "relation," and "response" to embody duality, fitting for the number 2. Sound `/re/` chosen for clarity and distinctness from other roots/numerals.
+*   **Sunwai:** Newly introduced root. Conceptual core inspired by "reflection," "relation," and "response" to embody duality, fitting for the number 2. Sound `/re/` chosen for clarity and distinctness from other roots/numerals.
 
 ## Proverbs
 Proverb:: *Oum re oum.* = "Everything reflects everything."
@@ -2741,7 +2741,7 @@ Example::	*Sisi e **ata** heim o eheim* = "Two together with four is twentyfour.
 
 ## Origin
 
-- **Penetoki**: **AN** + **TA** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **AN** + **TA** = "Togetherness action" - 'n' dropped for ease of speak
 
 - **Swahili**: _kutana_ ("to meet") 
 
@@ -2797,7 +2797,7 @@ Example:: *Ta **so ouman** o pene.* = "A **humane/empathetic** action **is** goo
 
 author-comment:: Ouman needs ways to distinguish between female/male/other/etc.
 ## Origin
-*   **Penetoki**: *OUM* (all, unity) + *AN* (we, together, and). Combines the universal with collective/relational identity.
+*   **Sunwai**: *OUM* (all, unity) + *AN* (we, together, and). Combines the universal with collective/relational identity.
 *   **Sanskrit**: Conceptual link to *Om* (cosmic unity) + *manas* ("mind").
 *   **Latin**: Conceptual link to *humanus* ("human, humane").
 
@@ -2848,7 +2848,7 @@ Example:: *Se ko o **tape** mo.* = "That creature is **very hungry**." (Lit. "Th
 
 ## Origin
 
-*   **Penetoki**: TA + PE ("action substance/essence").
+*   **Sunwai**: TA + PE ("action substance/essence").
 *   **Japanese**: _食べる_ (_taberu_, "to eat").
 *   **Mandarin**: _饕_ (_tāo_, "gluttonous"; archaic connection to intense consumption).
 
@@ -2874,7 +2874,7 @@ Descriptor::	**Linguistic, relating to language/speech**
 ### Concept
 *   Refers to the system of communication using words or established signs (spoken, written, signed), or the act/content of speech/signing itself.
 
-Example:: *Le **toki** Penetoki o pene.* = "**The language** Penetoki is beautiful."
+Example:: *Le **toki** Sunwai o pene.* = "**The language** Sunwai is beautiful."
 
 Example:: *Ouman hat **toki**.* = "Sentient beings **have language/speech**."
 
@@ -2897,7 +2897,7 @@ Example:: *Pu **toki** o mo.* = "The **linguistic** form (e.g., grammar) **is** 
 Example:: *A hat sun **so toki**.* = "I have **linguistic** knowledge."
 
 ## Compounds
--   **Penetoki** (`PENE` + `TOKI`): The Penetoki language ("Beautiful Language").
+-   **Sunwai** (`PENE` + `TOKI`): The Sunwai language ("Beautiful Language").
 -   **[[Lisutoki]]** (`LISU` + `TOKI`): Dictionary, vocabulary ("word language").
 -   **[[Paitoki]]** (`PAI` + `TOKI`): Opinion, joke, banter, playful speech ("playful/mind language").
 -   **[[Haitoki]]** (`HAI` + `TOKI`): Conversation, dialogue ("greeting language").
@@ -2905,14 +2905,14 @@ Example:: *A hat sun **so toki**.* = "I have **linguistic** knowledge."
 -   **[[Noki]]** (`NO` + `KI`, or could be seen as `NO` + `TOKI` conceptually simplified): Miscommunication, Mute ("not communicating", potentially implies linguistic failure specifically).
 
 ## Origin
--   **Penetoki**: `TO` (order, sequence) + `KI` (communication, expression) = "Ordered communication/expression".
--   **Toki Pona**: Resonance with and conceptual borrowing from Sonja Lang's Toki Pona word _toki_ ("language, speech, talk, hello"). Penetoki adapts it into its root system and expands grammatical flexibility.
+-   **Sunwai**: `TO` (order, sequence) + `KI` (communication, expression) = "Ordered communication/expression".
+-   **Toki Pona**: Resonance with and conceptual borrowing from Sonja Lang's Toki Pona word _toki_ ("language, speech, talk, hello"). Sunwai adapts it into its root system and expands grammatical flexibility.
 
 ## Proverbs
 
-Proverb:: *Toki o sun.* = "Language **is** wisdom/clarity." (The motto of Penetoki).
+Proverb:: *Toki o sun.* = "Language **is** wisdom/clarity." (The motto of Sunwai).
 
-Proverb:: *Mu toki o u pu so mo. Penetoki o sun pu.* = "Many languages are a complexly chaotic structure. Penetoki is a clear structure."
+Proverb:: *Mu toki o u pu so mo. Sunwai o sun pu.* = "Many languages are a complexly chaotic structure. Sunwai is a clear structure."
 
 # TILO
 
@@ -2962,7 +2962,7 @@ Example:: *Se o sun **so tilo**.* = "That is **time-related/temporal** knowledge
 
 ## Origin
 
-*   **Penetoki**: **TI** (Interval, repetition, rhythm) + **LO** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
+*   **Sunwai**: **TI** (Interval, repetition, rhythm) + **LO** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
 
 ## Proverbs
 
@@ -3027,7 +3027,7 @@ Example::   *Oum ko o **sipu**.* = "All life **is systemic**." (Life functions a
 *   **[[sipusun]]** (`sipu` + `[[sun]]`): Systems Theory, Cybernetics, Knowledge of Systems
 ## Origin
 
-*   **Penetoki**: Compound of **si** (Measure, unit, standard, rule, law, principle) + **pu** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
+*   **Sunwai**: Compound of **si** (Measure, unit, standard, rule, law, principle) + **pu** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
 
 ## Proverbs
 
@@ -3090,7 +3090,7 @@ Example::   *A hat wai **so kulo**.* = "I have **colored** water."
 
 ## Origin
 
-*   **Penetoki**: Systematically derived from **KU** (sense, perception) + **LO** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability.
+*   **Sunwai**: Systematically derived from **KU** (sense, perception) + **LO** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability.
 
 ## Proverbs
 
@@ -3147,7 +3147,7 @@ Example::	*A pai le **so lisu** ko.* = "I think about the **specific** lifeform.
 - **[[Lisupene]]** = Eloquence; Euphemism; A beautiful name/word (*lisu + pene* = "word beauty/goodness")
 
 ## Origin
-* Penetoki: *LI + SUN* ("small wisdom")  - 'n' dropped for ease of speak
+* Sunwai: *LI + SUN* ("small wisdom")  - 'n' dropped for ease of speak
 - **English**: _list_.
 - **Latin**: _littera_ (letter).
 
@@ -3198,7 +3198,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 - **[[Senolono]]** = Forgotten, amnesia, unrecorded (*seno + lono* = "no memory")
 
 ## Origin
-* Penetoki: *lo+no* ("long no" - acquiring of knowledge is an along and arduos process)
+* Sunwai: *lo+no* ("long no" - acquiring of knowledge is an along and arduos process)
 - **English** _know_
 - **Latin** _cognosco_ (know)
 - **Greek** _gnosis_ (knowledge)
@@ -3224,7 +3224,7 @@ author-comment:: Inuko is missing full entry in dictionary
 
 ## Origin
 
-Penetoki: I + Nuko ("inside puppy")  - perpetually childlike behaviour and attitude.
+Sunwai: I + Nuko ("inside puppy")  - perpetually childlike behaviour and attitude.
 # HEIMIMA
 
 **Roots**
@@ -3234,10 +3234,10 @@ author-comment:: Heimima is missing full entry in dictionary
 
 ## Origin
 
-Penetoki: Heim + i + ma ("home inside ground")
+Sunwai: Heim + i + ma ("home inside ground")
 # URAMAKO
 
-IPA::				/ˈu.ɾa.ma.ko/ (Standard Penetoki pronunciation; /r/ variants allowed)
+IPA::				/ˈu.ɾa.ma.ko/ (Standard Sunwai pronunciation; /r/ variants allowed)
 Concept::		**Rabbit, Hare; Skittish, Fast Earth-Lifeform**
 Action::		**To dart or bolt quickly and unpredictably, to react with sudden flight like a rabbit**
 Descriptor::	**Rabbit-like, hare-like (in movement or temperament), quick-darting, skittish, leporine**
@@ -3271,7 +3271,7 @@ Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like**
 
 ## Origin
 
--   **Penetoki**: **U** + **RAN** + **MA** + **KO**.
+-   **Sunwai**: **U** + **RAN** + **MA** + **KO**.
     *   `U`: Represents chaos, uncertainty, rotation, interpreted here as the **skittishness, alertness, and unpredictable zig-zagging** movement typical of these animals when startled.
     *   `RAN`: Represents **speed, quickness, rapidity**, contributing the core aspect of their fast movement.
     *   `MA`: Represents **earth, ground, land**, indicating their terrestrial habitat.
@@ -3333,7 +3333,7 @@ Example::   *An toki **so kipu**.* = "We communicate **symbolically/using charac
 
 ## Origin
 
-*   **Penetoki**: Compound of **ki** (Communication, Expression, Signal, Message, Transmission) + **pu** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
+*   **Sunwai**: Compound of **ki** (Communication, Expression, Signal, Message, Transmission) + **pu** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
 
 ## Proverbs
 
@@ -3391,7 +3391,7 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 ## Origin
 
-- **Penetoki**: **PAI** (Play, fun, joy, subjective experience) + **TAPE** (Food). Conceptualized as "Joy Food" or "Celebration Food," emphasizing its role in pleasure and special occasions over basic sustenance.
+- **Sunwai**: **PAI** (Play, fun, joy, subjective experience) + **TAPE** (Food). Conceptualized as "Joy Food" or "Celebration Food," emphasizing its role in pleasure and special occasions over basic sustenance.
 
 ## Proverbs
 

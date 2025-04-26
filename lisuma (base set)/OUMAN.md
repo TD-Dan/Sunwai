@@ -55,7 +55,7 @@ Example:: *Ta **so ouman** o pene.* = "A **humane/empathetic** action **is** goo
 
 author-comment:: Ouman needs ways to distinguish between female/male/other/etc.
 ## Origin
-*   **Penetoki**: *[[OUM]]* (all, unity) + *[[AN]]* (we, together, and). Combines the universal with collective/relational identity.
+*   **Sunwai**: *[[OUM]]* (all, unity) + *[[AN]]* (we, together, and). Combines the universal with collective/relational identity.
 *   **Sanskrit**: Conceptual link to *Om* (cosmic unity) + *manas* ("mind").
 *   **Latin**: Conceptual link to *humanus* ("human, humane").
 

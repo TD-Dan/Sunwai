@@ -1,8 +1,8 @@
-# Penetoki Reference Sheet
+# Sunwai Reference Sheet
 
 ## Grammar Essentials
 
-> Words in penetoki aren't fixed as Nouns or Verbs. Instead, they flexibly take on roles based on context, sentence position, or clarifying Markers. Every word entry in the dictionary lists its potential roles:
+> Words in Sunwai aren't fixed as Nouns or Verbs. Instead, they flexibly take on roles based on context, sentence position, or clarifying Markers. Every word entry in the dictionary lists its potential roles:
 
 | Role               | Function                            | Example Marker(s)     | Linguistic Equivalence (Approximate) |
 | ------------------ | ----------------------------------- | --------------------- | ------------------------------------ |

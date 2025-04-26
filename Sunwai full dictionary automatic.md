@@ -1,4 +1,4 @@
-copy contents to "penetoki full dictionary" and bake
+copy contents to "Sunwai full dictionary" and bake
 
 # Base set
 

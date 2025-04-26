@@ -60,7 +60,7 @@ Example::   *An toki **so kipu**.* = "We communicate **symbolically/using charac
 
 ## Origin
 
-*   **Penetoki**: Compound of **[[ki]]** (Communication, Expression, Signal, Message, Transmission) + **[[pu]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
+*   **Sunwai**: Compound of **[[ki]]** (Communication, Expression, Signal, Message, Transmission) + **[[pu]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
 
 ## Proverbs
 

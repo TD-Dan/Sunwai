@@ -36,7 +36,7 @@ Example::	*Sisi e **ata** heim o eheim* = "Two together with four is twentyfour.
 
 ## Origin
 
-- **Penetoki**: **[[AN]]** + **[[TA]]** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **[[AN]]** + **[[TA]]** = "Togetherness action" - 'n' dropped for ease of speak
 
 - **Swahili**: _kutana_ ("to meet") 
 

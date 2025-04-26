@@ -50,7 +50,7 @@ Example::   *Se o **si re**.* = "That is **two**."
 *   **[[Resun]]**: Relative Truth, Understanding through Comparison (`re` + `sun` = "reflection knowledge").
 
 ## Origin
-*   **Penetoki:** Newly introduced root. Conceptual core inspired by "reflection," "relation," and "response" to embody duality, fitting for the number 2. Sound `/re/` chosen for clarity and distinctness from other roots/numerals.
+*   **Sunwai:** Newly introduced root. Conceptual core inspired by "reflection," "relation," and "response" to embody duality, fitting for the number 2. Sound `/re/` chosen for clarity and distinctness from other roots/numerals.
 
 ## Proverbs
 Proverb:: *Oum re oum.* = "Everything reflects everything."

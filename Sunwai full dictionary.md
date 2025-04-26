@@ -1,8 +1,8 @@
 
 <!--
-copy from "Penetoki full dictionary automatic"
+copy from "Sunwai full dictionary automatic"
 use ctrl-h -> replace "[ " with "["
-use ctrl-p -> bake into "Penetoki full dictionary.baked"
+use ctrl-p -> bake into "Sunwai full dictionary.baked"
 -->
 # **Base set**
 

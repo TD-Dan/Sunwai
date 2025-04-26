@@ -55,7 +55,7 @@ Example::   *Oum ko **na** wai.* = "All life **needs** water."
 
 ## Origin
 
--   **Penetoki**: purely phonetic addition.
+-   **Sunwai**: purely phonetic addition.
 
 ## Proverbs
 

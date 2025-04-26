@@ -57,7 +57,7 @@ Example:: *Se o sun **so tilo**.* = "That is **time-related/temporal** knowledge
 
 ## Origin
 
-*   **Penetoki**: **[[#TI]]** (Interval, repetition, rhythm) + **[[#LO]]** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
+*   **Sunwai**: **[[#TI]]** (Interval, repetition, rhythm) + **[[#LO]]** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
 
 ## Proverbs
 

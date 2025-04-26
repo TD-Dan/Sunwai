@@ -65,7 +65,7 @@ Example::   *Pai **un** o u.* = "**Hidden/Subconscious** thoughts are chaotic."
 
 *   **German**: *unten* ("below, downstairs").
 *   **Latin**:  *sub* ("under")
-*   **Penetoki**: Chosen for its simple VC structure, phonetic distinctness, and the use of the back vowel /u/ which can subtly evoke depth or lowness.
+*   **Sunwai**: Chosen for its simple VC structure, phonetic distinctness, and the use of the back vowel /u/ which can subtly evoke depth or lowness.
 
 ## Proverbs
 

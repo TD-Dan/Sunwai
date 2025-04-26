@@ -18,4 +18,4 @@ author-comment:: Heimima is missing full entry in dictionary
 
 ## Origin
 
-Penetoki: Heim + i + ma ("home inside ground")
+Sunwai: Heim + i + ma ("home inside ground")

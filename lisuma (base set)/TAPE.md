@@ -52,7 +52,7 @@ Example:: *Se ko o **tape** mo.* = "That creature is **very hungry**." (Lit. "Th
 
 ## Origin
 
-*   **Penetoki**: [[#TA]] + [[PE]] ("action substance/essence").
+*   **Sunwai**: [[#TA]] + [[PE]] ("action substance/essence").
 *   **Japanese**: _食べる_ (_taberu_, "to eat").
 *   **Mandarin**: _饕_ (_tāo_, "gluttonous"; archaic connection to intense consumption).
 

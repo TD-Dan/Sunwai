@@ -58,7 +58,7 @@ Example::	*A pai le **so lisu** ko.* = "I think about the **specific** lifeform.
 - **[[Lisupene]]** = Eloquence; Euphemism; A beautiful name/word (*lisu + pene* = "word beauty/goodness")
 
 ## Origin
-* [[Penetoki]]: *[[LI]] + [[SUN]]* ("small wisdom")  - 'n' dropped for ease of speak
+* [[Sunwai]]: *[[LI]] + [[SUN]]* ("small wisdom")  - 'n' dropped for ease of speak
 - **English**: _list_.
 - **Latin**: _littera_ (letter).
 
