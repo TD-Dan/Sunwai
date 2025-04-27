@@ -4,7 +4,7 @@ tags:
   - base-set
   - word
   - tertiary-root
-to: 110
+to: 100
 ---
 
 # MA
@@ -14,7 +14,7 @@ Concept::       **Earth, Land, Soil, Ground; Physical Terrain/Location; Raw Mate
 Action::        **To ground (physically/metaphorically), to root, to establish (on a base), to provide foundation**
 Descriptor::    **Foundational, Ground-level, Earthen, Terrestrial**
 
-> Core root for the **physical planet, ground, unprocessed physical substrate, and the concept of foundation or basis.** Contrasts with `[[PE]]` (inherent tangible substance/quality of a specific thing) and `[[PU]]` (formed structure). `MA` is the base upon which things rest or from which they originate.
+> Core root for the **physical planet, ground, unprocessed physical substrate, and the concept of foundation or basis.** Contrasts with *[[PE]]* (inherent tangible substance/quality of a specific thing) and *[[PU]]* (formed structure). *MA* is the base upon which things rest or from which they originate.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Example::   *Ta **ma** le pai!* = "**Ground** the thought!" (Make it more concre
 ### Descriptor
 *   Describes something as being related to earth, land, being foundational, ground-level, or made of raw/earthy material.
 
-Example::   *Se o ko **so ma**.* = "That is an **earth-based/terrestrial** lifeform." (`so` optional).
+Example::   *Se o ko **so ma**.* = "That is an **earth-based/terrestrial** lifeform." (*so* optional).
 
-Example::   *Sun **so ma** o pene.* = "**Foundational** knowledge is good." (`so` optional).
+Example::   *Sun **so ma** o pene.* = "**Foundational** knowledge is good." (*so* optional).
 
 Example::   *A hat pu **ma**.* = "I have an **earthen/clay** structure (e.g., raw pottery)." (Focus on the raw material aspect).
 
 ## Compounds
 
--   **[[MAMA]]** (`MA` + `MA`): Parent, Caregiver, Origin Point ("earth-earth" / "foundation-foundation" - ultimate source/grounding).
--   **[[MAHEIM]]** (`MA` + `HEIM`): Homeland, Country, Territory ("earth/land home").
--   **[[MAPI]]** (`MA` + `PI`): Planet ("earth/land circle").
--   **[[MAKO]]** (`MA` + `KO`): Ecosystem, Biome ("earth lifeform").
--   **[[TAMA]]** (`TA` + `MA`): Road, Bridge ("action/movement on earth/ground").
--   **[[LIMA]]** (`LI` + `MA`): Dust, Sand, Fine Particle ("small earth/ground").
+-   **[[MAMA]]** (*MA* + *MA*): Parent, Caregiver, Origin Point ("earth-earth" / "foundation-foundation" - ultimate source/grounding).
+-   **[[MAHEIM]]** (*MA* + *HEIM*): Homeland, Country, Territory ("earth/land home").
+-   **[[MAPI]]** (*MA* + *PI*): Planet ("earth/land circle").
+-   **[[MAKO]]** (*MA* + *KO*): Ecosystem, Biome ("earth lifeform").
+-   **[[TAMA]]** (*TA* + *MA*): Road, Bridge ("action/movement on earth/ground").
+-   **[[LIMA]]** (*LI* + *MA*): Dust, Sand, Fine Particle ("small earth/ground").
 
 ## Origin
 
 *   **Sumerian**: <x_bin_992> (*ma*) – "land, nation."
 *   **Finnish**: _maa_ ("land, earth, ground, soil").
-*   **Mandarin**: _媽/妈_ (_mā_, "mother") - Conceptual link via `[[MAMA]]` compound.
+*   **Mandarin**: _媽/妈_ (_mā_, "mother") - Conceptual link via *[[MAMA]]* compound.
 *   **Proto-Austronesian**: _\*tanaq_ ("land, earth") - Conceptual ancestor.
 
 ## Proverbs

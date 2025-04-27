@@ -6,7 +6,7 @@ tags:
   - base-set
   - compound
   - word
-to: 250
+to: 240
 ---
 
 # OUMAN

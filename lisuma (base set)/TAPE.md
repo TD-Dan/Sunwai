@@ -6,7 +6,7 @@ tags:
   - base-set
   - compound
   - word
-to: 260
+to: 252
 ---
 
 # TAPE

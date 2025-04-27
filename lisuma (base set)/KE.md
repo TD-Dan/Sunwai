@@ -4,7 +4,7 @@ tags:
   - base-set
   - word
   - tertiary-root
-to: 91
+to: 92
 ---
 
 # KE

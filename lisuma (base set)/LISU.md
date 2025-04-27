@@ -6,7 +6,7 @@ tags:
   - base-set
   - compound
   - word
-to: 290
+to: 310
 ---
 # LISU
 

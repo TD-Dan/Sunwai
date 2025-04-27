@@ -7,55 +7,65 @@ tags:
   - word
 to: 1
 ---
-
 # A
 
 IPA::				/ˈɑ/
-Marker:: 		**I/Me**
-Marker::		**Here with the observer**
-Concept:: 	**Observer, with observer**
-Action::		**To observe, to concentrate, to take notice** 
-Descriptor::	**1, one**
+Marker::		**I/Me (Pronoun)**
+Marker::		**Here (with the observer - Locative)**
+Concept::		**Observer, Self, Point of Observation, Consciousness**
+Action::		**To observe, concentrate, notice, focus attention**
+Descriptor::	**Actual, Real (as observed/experienced by self), Present (at observer's location/time)**
 
+> Prime root representing the observing self, the locus of consciousness and attention, the 'here-and-now' from the observer's perspective, and the reality directly perceived by that observer. Contrasts with [[E]] (the observed other/object).
 
-
-> Root of observation, existence, individuality, solid, real, solitude, present moment, "I sense", bright spark of consciousness
 ## Usage
-### Marker
 
-- first person pronoun
+### Marker (Pronoun)
+*   First-person singular pronoun.
 
-Example::	_**A** o ouman._ ="**I** am human."
-Example:: *Tape ne a.* = "Food is here.", literal "Food on-top-of-something here with me."
-Example:: *A hat tape* = "I take food", context sensitive: could also be "I am eating."
+Example::   ***A** o ouman.* = "**I** am human."
+
+### Marker (Locative)
+*   Indicates location specifically with or around the speaker/observer.
+
+Example::   *Tape ne **a**.* = "Food is **here (with me)**."
+Example::   *Piko o **a**.* = "The robot is **here**."
 
 ### Concept
+*   The observing entity, the self, the point from which observation occurs.
 
-- The one that is observing
+Example::   *Le **a** o pai.* = "The **self** thinks."
+Example::   *Oum wai ne **a**.* = "Everything flows at the **point of observation**."
+
 ### Action
+*   The act of observing or focusing attention.
 
-- Act of focusing attention
-
-Example:: *Ta **a** le neko.* = "Observe the cat." - action marker [[#ta]] used to clarify use as action
-Example:: *E **a** heim* = "You observe "
+Example::   *A **ta a** le neko.* = "I **observe** the cat." (Lit: I action-observe the cat)
+Example::   *Ta **a** le sun!* = "**Focus on/Observe** the clarity!"
 
 ### Descriptor
+*   Describes something as being directly observed, actualized, or experienced by the self at the present moment/location. Can imply "real" in contrast to hypothetical or distant things.
 
-- number, singular [^1]
+Example::   *Se o sun **so a**.* = "That is **actual/observed** knowledge (something I see/know right now)."
+Example::   *Tilo o **a**.* = "The time is **present/now** (for me)."
+Example::   *Le sipu o **a**.* = "The system **is actual/real** (being observed)."
+Example::   *Pai **a** o mo.* = "The **present/subjective** thought is strong."
 
-Example:: *Si **a** neko.* = "One cat"
+## Compounds
+*(Compounds using A might relate to self-awareness, focus, or immediate presence)*
+*   **[[Asun]]** (*A* + *[[SUN]]*): Self-awareness, Consciousness ("self knowledge/clarity").
+*   **[[Aheim]]** (*A* + *[[HEIM]]*): Point of Focus, Center of Attention ("observer center/target").
 
 ## Origin
 
-* **Arabic**: *أَنَا* (*Ana*, I)
-
-* **Hawaiian**: *Au* (Me)
-
-* **Sanskrit**: *अहम्* (*Aham*, self)
+*   **Arabic**: *أَنَا* (*Ana*, "I").
+*   **Hawaiian**: *Au* ("Me").
+*   **Sanskrit**: *अहम्* (*Aham*, "Self").
 
 ## Proverbs
 
-Proverb:: *Ouman o i a.* = "Sentience is in me."
+Proverb:: *Ouman o i a.* = "Sentience is in me/the observer."
 
+Proverb:: *Ta a, o ta sun.* = "To observe is to gain clarity/knowledge."
 
-[^1]: Technically could be observed but we have 'e' for that
+Proverb:: *Seno a, seno oum.* = "Without the observer, nothing exists."

@@ -1,12 +1,12 @@
 ---
 roots:
-  - "[[KE]]"
+  - "[[KU]]"
   - "[[LO]]"
 tags:
   - base-set
   - compound
   - word
-to: 280
+to: 284
 ---
 
 # KULO
@@ -50,15 +50,15 @@ Example:: *A hat si kulo wakohu.* = "I have seven ducks"
 ### Base Set Color Compounds
 > These represent core, primary colors derived from fundamental concepts, following a Modifier + KULO structure where applicable.
 
+*   [[Oumkulo]] (*OUM* + *KULO*): **White** ("All Color"); Full Spectrum.
+*   [[Senokulo]] (*[[SENO]]* + *KULO*): **Black** ("No/Zero Color").
 *   [[Aikulo]] (*AI* + *KULO*): **Red** ("Hot/Fire Color").
 *   [[Eiskulo]] (*EIS* + *KULO*): **Blue** ("Cold/Ice Color").
 *   [[Lumakokulo]] (*[[LUMIAKO]]* + *KULO*): **Green** ("Plant Color").
 *   [[Sunkulo]] (*SUN* + *KULO*): **Yellow** ("Light/Sun Color").
-*   [[Oumkulo]] (*OUM* + *KULO*): **White** ("All Color"); Full Spectrum.
-*   [[Senokulo]] (*[[SENO]]* + *KULO*): **Black** ("No/Zero Color").
 
 ### Extended Set Compounds
-> These compounds describe qualities *about* color, specific types, or abstract concepts related to color.
+> These compounds describe qualities *about* color, specific types, or abstract concepts related to color or are more specific colors.
 
 *   [[Waikulo]] (*[[WAI]]* + *KULO*): Pigment, Dye, Paint ("water color" / "liquid color").
 *   [[Makulo]] (*[[MA]]* + *KULO*): Brown, Earth tone, Natural pigment ("earth color").

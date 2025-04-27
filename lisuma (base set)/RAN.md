@@ -5,7 +5,7 @@ tags:
   - base-set
   - tertiary-root
   - word
-to: 160
+to: 140
 ---
 
 # RAN

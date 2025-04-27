@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[A]]"
+  - "[[E]]"
 tags:
   - tertiary-root
   - base-set
@@ -15,7 +15,7 @@ Concept::		**Cold, Coolness, Low Temperature; Ice, Frost**
 Action::		**To cool down, to chill, to freeze; To become cold**
 Descriptor::	**Cold, Cool, Icy, Frozen**
 
-> Core root representing low temperature and its manifestations like ice and frost. Contrasts with concepts of heat (e.g., [[Talumia]]).
+> Core root representing low temperature and its manifestations like ice and frost. Contrasts with concepts of heat ([[AI]]).
 
 ## Usage
 

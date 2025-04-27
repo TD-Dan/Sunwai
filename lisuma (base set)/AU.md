@@ -7,32 +7,52 @@ tags:
   - word
 to: 17
 ---
+# AU
 
-# AU  
+IPA::				/ˈɑu/
+Marker::		**Or (disjunctive particle); Logical OR**
+Concept::		**Alternative, Choice, Duality (as options)**
+Action::		(Implicit: To offer/present alternatives)
+Descriptor::	**Alternative, Optional, Disjunctive**
 
-IPA::						/ˈɑu/  
-Marker::				**Or** (disjunctive particle) - 
-Marker::				**Logical OR**
-Concept				**Duality, alternative** (poetic) - Represents "either/or" uncertainty or complementary opposites.  
+> Particle expressing disjunction ("or"), presenting alternatives or choices. Conceptually relates to alternatives and duality of options. As a descriptor, indicates something is an alternative or optional choice.
 
 ## Usage
-### Marker
-* Basic Disjunction (Everyday "or"), marks alternatives in questions or statements.  
 
-Example:: *E hat kofi **au** tee ku?*  = "Do you have coffee **or** tea?"
-Example:: *A ta heim **au** bisu.*  = "I’m going home **or** to the market."  
+### Marker (Primary Use)
+*   Connects alternatives in statements or questions (logical/everyday OR).
 
-* Logical OR:  
+Example::   *E hat kohi **au** tehi ku?* = "Do you have coffee **or** tea?"
+Example::   *A ta heim **au** pisu.* = "I’m going home **or** to the market."
+Example::   *Kan se o pene **au** no pene.* = "It **can** be good **or** not good."
 
-Example:: *Sun o si a **au** si e ku?* = "Is the answer 1 **OR** 2?"  
-Example:: *timo > 10 **AU** wai < 5* = "time > 10 **OR** water < 5"
+### Concept
+*   Refers to the alternative or the concept of choice itself. Often requires `le`.
+
+Example::   *Le **au** o u.* = "The **alternative/choice** is uncertain."
+Example::   *A pai le **au**.* = "I think about the **alternative**."
+
+### Action
+*   *(Explicit action role is less common; typically handled by context or phrasing like "pa le au" - give the alternative/choice).*
+
+### Descriptor
+*   Describes something as being an alternative choice or optional.
+
+Example::   *Se o tama **au**.* = "That is an **alternative** path."
+Example::   *Sipu so **au** o li.* = "The **optional** system is small."
+Example::   *Pai ro e o **au**.* = "Your thought is an **alternative**.
+
+## Compounds
+*   none so far
 
 ## Origin
 
-- **Swahili**: *au* ("or")
+*   **Swahili**: *au* ("or").
+*   **Finnish**: *tai* ("or").
+*   **Latin**: *aut* ("or").
 
-- **Finnish**: _tai_ ("or")
+## Proverbs
 
-- **Inuktitut**: _unaami_ ("or")
+Proverb:: *Au o tama nu.* = "An alternative is a new path."
 
-- **Hawaiian**: *a i ʻole* ("or not")
+Proverb:: *I au o lutaum.* = "In choice/alternatives there is freedom."

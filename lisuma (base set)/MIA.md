@@ -4,7 +4,7 @@ tags:
   - base-set
   - word
   - tertiary-root
-to: 111
+to: 101
 ---
 
 # MIA
@@ -51,4 +51,4 @@ Example::   *Ko so **mia** ne ma.* = "**Spread-out** lifeforms on the earth."
 
 ## Proverbs
 
-Proverb:: *Oum hat mia.* = "Distribution is everywhere / Potential patterns are in everything."
+Proverb:: *Oum hat mia.* = "Everything has patterns."

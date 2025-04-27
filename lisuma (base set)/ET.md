@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[A]]"
+  - "[[E]]"
 tags:
   - tertiary-root
   - base-set

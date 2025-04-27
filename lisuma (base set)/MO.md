@@ -4,7 +4,7 @@ tags:
   - base-set
   - word
   - tertiary-root
-to: 112
+to: 102
 ---
 
 # MO

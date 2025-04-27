@@ -14,14 +14,14 @@ Concept::		**Void, Emptiness (potential), Unmanifest Potential, Openness**
 Action::		**To empty, to clear, to create space, to become void/open**
 Descriptor::	**Void, Empty (neutral), Open, Unmanifest**
 
-> Root representing unstructured, potential-filled emptiness, the cosmic void, or simply an open, unoccupied state. Contrasts with `[[MA]]` (substance), `[[OUM]]` (totality), and `[[U]]` (active chaos). Neutral connotation – neither good nor bad, just potential.
+> Root representing unstructured, potential-filled emptiness, the cosmic void, or simply an open, unoccupied state. Contrasts with *[[MA]]* (substance), *[[OUM]]* (totality), and *[[U]]* (active chaos). Neutral connotation – neither good nor bad, just potential.
 
 ## Usage
 
 ### Concept
 *   Refers to the void, empty space, or the state of potentiality.
 
-Example::   *Le **lu** o oumheim.* = "The **Void** is the universe." (`le` required).
+Example::   *Le **lu** o oumheim.* = "The **Void** is the universe." (*le* required).
 
 Example::   *A pai **lu**.* = "I think about **emptiness/potential**."
 
@@ -49,9 +49,9 @@ Example::   *A o **lu**.* = "I am **open/receptive**."
 
 ## Compounds
 
--   **[[LUMIA]]** (`LU` + `MIA`): Light, Energy ("void distribution/pattern").
--   **[[LUTAUM]]** (`LU` + `TA` + `OUM`): Freedom ("void action everything" - potential for any action).
--   **[[WAILU]]** (`WAI` + `LU`): Sound, Vibration ("flowing void" - vibration propagating through space).
+-   **[[LUMIA]]** (*LU* + *MIA*): Light, Energy ("void distribution/pattern").
+-   **[[LUTAUM]]** (*LU* + *TA* + *OUM*): Freedom ("void action everything" - potential for any action).
+-   **[[WAILU]]** (*WAI* + *LU*): Sound, Vibration ("flowing void" - vibration propagating through space).
 
 ## Origin
 
