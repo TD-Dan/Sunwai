@@ -303,7 +303,7 @@ Numerous special sets extend [[Sunwai]] into specific domains. They provide word
 Special sets can:
 - extend usage of existing words.
 - introduce new roots and compound words
-- loan words directly from established practises, words must be "penetokisized": letter, syllable and word rules have to be adhered to.
+- loan words directly from established practises, words must be "sunwainisized": letter, syllable and word rules have to be adhered to.
 
 Special sets so far:
 -> [[Special set Typography]]
