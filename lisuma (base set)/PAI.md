@@ -11,7 +11,7 @@ to: 151
 # PAI
 
 IPA::				/ˈpɑi/
-Concept::		**Subjective experience, mind, thought process, perspective, play, game, fun, joy, experimentation, creativity**
+Concept::		**Mind, thought process, subjective experience, perspective, play, game, fun, joy, experimentation, creativity**
 Action::		**To think, consider, perceive subjectively, opine; To play, have fun, jest, experiment playfully**
 Descriptor::	**Six (6)**
 Descriptor::	**Mental, subjective, thoughtful; Playful, fun, joyful, experimental**
