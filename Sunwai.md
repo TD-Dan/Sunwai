@@ -1062,9 +1062,6 @@ Proverbs:
     "To teach compassionately is to unite all."
 
 ---
-
-
----
 ### WAIKO
 /ˈwɑiko/
 WΔYXO

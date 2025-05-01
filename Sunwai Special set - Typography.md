@@ -13,9 +13,11 @@ As a stylistic choise they are a tool to distinquish [[Sunwai]] from other langu
 
 First tests:
 
-![[Pasted image 20250323134134.png]]
 
-![[Pasted image 20250323134454.png]]
+![[Pasted image 20250501104226.png]]
+
+author-comment:: Capital K and lowercase r clash.Capital S and small s should look like each other. H and h should look more like eachother.
+
 ---
 ### A Δ ᐃ - a ɑ α
 #### Majuscule

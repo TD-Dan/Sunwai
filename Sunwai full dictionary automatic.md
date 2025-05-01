@@ -83,8 +83,8 @@ copy contents to "Sunwai full dictionary" and bake
 - [[MAMAPI]]
 - [[MAHEIM]]
 - [[WAILU]]
-- [[LISU]]
 - [[LUTAUM]]
+- [[LISU]]
 - [[HAWA]]
 - [[LONO]]
 - [[LUMIA]]
@@ -100,8 +100,8 @@ copy contents to "Sunwai full dictionary" and bake
 <!-- QueryToSerialize: LIST FROM #extended-set SORT to ASC -->
 <!-- SerializedQuery: LIST FROM #extended-set SORT to ASC -->
 - [[HEIMIMA]]
-- [[INUKO]]
 - [[LUMIAHU]]
+- [[INUKO]]
 - [[URAMAKO]]
 - [[KIPU]]
 - [[PAITAPE]]
