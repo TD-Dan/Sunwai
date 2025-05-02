@@ -19,7 +19,7 @@ Descriptor::	**Desired, wanted, needed, preferred**
 ## Usage
 
 ### Concept
-*   Refers to the state or feeling of desire, want, or need itself. Often requires `[[#le]]` marker for clarity as a noun.
+*   Refers to the state or feeling of desire, want, or need itself. Often requires `[[le]]` marker for clarity as a noun.
 
 Example::   *Le **na** ro a o mo.* = "My **desire/need** is big."
 
@@ -37,7 +37,7 @@ Example::   *Neko **na** tape.* = "The cat **needs/wants** food."
 Example::   *E **na** ku?* = "What do you **want/need**?" (Lit. "You desire what?")
 
 ### Descriptor
-*   Describes something as being wanted, desired, or needed. Often requires `[[#so]]` marker for clarity.
+*   Describes something as being wanted, desired, or needed. Often requires `[[so]]` marker for clarity.
 
 Example::   *Se o sun **so na**.* = "That is **desired** knowledge."
 

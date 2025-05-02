@@ -33,7 +33,7 @@ Example::   *Lumia **ta mia** ne oum.* = "Light **distributes/radiates** through
 Example::   *A **ta mia** le sun.* = "I **distribute** the knowledge."
 
 ### Descriptor
-*   Describes something as being distributed, spread out, or having the quality of a field or pattern. Often requires `[[#so]]`.
+*   Describes something as being distributed, spread out, or having the quality of a field or pattern. Often requires `[[so]]`.
 
 Example::   *Sipu so **mia** o pene.* = "A **distributed** system is good."
 

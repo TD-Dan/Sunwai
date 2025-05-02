@@ -14,12 +14,12 @@ Concept::		**Size (multi-dimensional), Scale, Intensity, Magnitude (non-linear),
 Action::		**To enlarge (size), intensify, amplify, increase scale/degree**
 Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale), Great**
 
-> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[#LO]] (linear length, duration) and its direct opposite is [[#LI]] (small, low intensity). Does not imply importance or significance.
+> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[LO]] (linear length, duration) and its direct opposite is [[LI]] (small, low intensity). Does not imply importance or significance.
 
 ## Usage
 
 ### Concept
-*   Refers to the quality of largeness (in size), intensity, or degree. Often requires [[#le]].
+*   Refers to the quality of largeness (in size), intensity, or degree. Often requires [[le]].
 
 Example::   *Le **mo** ro heim o pene.* = "The **size** of the home is beautiful." (Focus on area/volume).
 Example::   *Le **mo** ro lumia o u.* = "The **intensity/brightness** of the light is chaotic."
@@ -28,7 +28,7 @@ Example::   *Se o **mo** lo.* = "That is **greatness** itself." (Magnitude/Inten
 Example::   *Se o **mo**.* = "That is **greatness/intensity**." (Better).
 
 ### Action
-*   To make something larger in size, more intense, or to amplify its scale/degree. Often requires [[#ta]].
+*   To make something larger in size, more intense, or to amplify its scale/degree. Often requires [[ta]].
 
 Example::   *A ta **mo** le heim.* = "I **enlarge** the home (in size)."
 Example::   *Ta **mo** le wailu!* = "**Amplify/Intensify** the sound!"

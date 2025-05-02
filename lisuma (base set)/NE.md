@@ -40,7 +40,7 @@ Example:: *Neko hat **si ne** ko.* = "A cat has **nine** lives."
 
 ### Compounds
 
-- **[[#Neko]]**: Cat (_ne_ + _ko_ = "nine-lifeform").
+- **[[Neko]]**: Cat (_ne_ + _ko_ = "nine-lifeform").
 
 - **Nema**: Terrain, ground layer ( _ne_ + _ma_ = "earth’s surface") (( Maybe add Nema, not very important word?))
 

@@ -16,7 +16,7 @@ Concept::		**Time, Duration; Temporal Rhythm, Temporal Cycle, Temporal Pattern**
 Action::		**To time, to pace; To occur in temporal cycles/rhythmically; To last, endure (for a duration)**
 Descriptor::	**Temporal, Related to time; Temporally Rhythmic, Temporally Cyclical, Temporally Patterned**
 
-> Root representing the concept of **time, its passage (duration), and recurring patterns or rhythms specifically *within* time.** It is the temporal framework itself. Systematically derived from [[#TI]] (Interval/Rhythm) + [[#LO]] (Length/Duration). Contrasts with [[#PI]] (cycle in any domain).
+> Root representing the concept of **time, its passage (duration), and recurring patterns or rhythms specifically *within* time.** It is the temporal framework itself. Systematically derived from [[TI]] (Interval/Rhythm) + [[LO]] (Length/Duration). Contrasts with [[PI]] (cycle in any domain).
 
 ## Usage
 
@@ -45,19 +45,19 @@ Example:: *Se o sun **so tilo**.* = "That is **time-related/temporal** knowledge
 
 ## Compounds
 
-*   [[#Nutilo]] = Future (*[[#nu]]* + *tilo* = "following/next time").
-*   [[#Ketilo]] = Past (*[[#ke]]* + *tilo* = "preceding time").
-*   [[#Tilopene]] = Good timing, festival, auspicious time (*tilo* + *[[#pene]]* = "good/beautiful time").
-*   [[#Tiloheim]] = Clock, calendar, place of timekeeping (*tilo* + *[[#heim]]* = "time home/center/object").
-*   [[#Senotilo]] = Timelessness, eternity (*[[#seno]]* + *tilo* = "no time").
-*   [[#Tapetilo]] = Mealtime (*[[#tape]]* + *tilo* = "food time").
-*   [[#Tilota]] = Journey, travel (experience of moving through time) (*tilo* + *[[#ta]]* = "time action/movement").
-*   [[#Tiloli]] = Moment, instant (*tilo* + *[[#li]]* = "small time").
-*   [[#Tilosi]] = Schedule, time standard, measured time (*tilo* + *[[#si]]* = "time measure/rule").
+*   [[Nutilo]] = Future (*[[nu]]* + *tilo* = "following/next time").
+*   [[Ketilo]] = Past (*[[ke]]* + *tilo* = "preceding time").
+*   [[Tilopene]] = Good timing, festival, auspicious time (*tilo* + *[[pene]]* = "good/beautiful time").
+*   [[Tiloheim]] = Clock, calendar, place of timekeeping (*tilo* + *[[heim]]* = "time home/center/object").
+*   [[Senotilo]] = Timelessness, eternity (*[[seno]]* + *tilo* = "no time").
+*   [[Tapetilo]] = Mealtime (*[[tape]]* + *tilo* = "food time").
+*   [[Tilota]] = Journey, travel (experience of moving through time) (*tilo* + *[[ta]]* = "time action/movement").
+*   [[Tiloli]] = Moment, instant (*tilo* + *[[li]]* = "small time").
+*   [[Tilosi]] = Schedule, time standard, measured time (*tilo* + *[[si]]* = "time measure/rule").
 
 ## Origin
 
-*   **Sunwai**: **[[#TI]]** (Interval, repetition, rhythm) + **[[#LO]]** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
+*   **Sunwai**: **[[TI]]** (Interval, repetition, rhythm) + **[[LO]]** (Length, duration, extension). Represents the extension (*LO*) of intervals (*TI*) through time.
 
 ## Proverbs
 

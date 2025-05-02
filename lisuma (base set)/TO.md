@@ -21,14 +21,14 @@ Descriptor::	**Ordered, sequential, ranked, primary**
 ## Usage
 
 ### Marker
-*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker `[[#si]]`. See [[Sunwai#Ordinals]] for full details and examples.
+*   Marks a preceding numeral as an ordinal (first, second, etc.), typically used with the numeral marker *[[si]]*. See [[Sunwai#Ordinals]] for full details and examples.
 
 Example::   *Se o **si an to**.* = "That **is** the **second**."
 
 Example::   *A ta ta **si ma to** ne pi.* = "I take the **fourth** position in the circle."
 
 ### Concept
-*   Refers to structured arrangement, sequence, hierarchy, or priority itself. Often requires the `[[#le]]` marker for clarity when used as the primary subject/object.
+*   Refers to structured arrangement, sequence, hierarchy, or priority itself. Often requires the *[[le]]* marker for clarity when used as the primary subject/object.
 
 Example::   *Le **to** ro sipu o mo.* = "The **order** of the system is important/big."
 
@@ -42,7 +42,7 @@ Example::   *Sun o **to** ne ouman.* = "Knowledge **is prioritized by/ranks high
 Example::   *Ta **to** le lisu!* = "**Prioritize/Order** the words!"
 
 ### Descriptor
-*   Describes something as being ordered, sequential, or ranked. Often requires the `[[#so]]` marker for clarity.
+*   Describes something as being ordered, sequential, or ranked. Often requires the *[[so]]* marker for clarity.
 
 Example::   *Sipu o so **to**.* = "The system is **ordered**."
 

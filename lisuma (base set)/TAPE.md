@@ -44,15 +44,15 @@ Example:: *Se ko o **tape** mo.* = "That creature is **very hungry**." (Lit. "Th
 
 ## Compounds
 
-*   [[#Tapeheim]] = Restaurant, kitchen (*[[#tape]]* + *[[#heim]]* = "food home").
-*   [[#Tapepene]] = Delicious (*[[#tape]]* + *[[#pene]]* = "good food").
-*   [[#Tapetimo]] = Mealtime (*[[#tape]]* + *[[#timo]]* = "food time").
-*   [[#Pisutape]] = Business lunch (*[[#pisu]]* + *[[#tape]]* = "business food").
-*   [[#Ketape]] = Taste, tongue (*[[#ke]]* + *[[#tape]]* = "sense food").
+*   [[Tapeheim]] = Restaurant, kitchen (*[[tape]]* + *[[heim]]* = "food home").
+*   [[Tapepene]] = Delicious (*[[tape]]* + *[[pene]]* = "good food").
+*   [[Tapetimo]] = Mealtime (*[[tape]]* + *[[timo]]* = "food time").
+*   [[Pisutape]] = Business lunch (*[[pisu]]* + *[[tape]]* = "business food").
+*   [[Ketape]] = Taste, tongue (*[[ke]]* + *[[tape]]* = "sense food").
 
 ## Origin
 
-*   **Sunwai**: [[#TA]] + [[PE]] ("action substance/essence").
+*   **Sunwai**: [[TA]] + [[PE]] ("action substance/essence").
 *   **Japanese**: _食べる_ (_taberu_, "to eat").
 *   **Mandarin**: _饕_ (_tāo_, "gluttonous"; archaic connection to intense consumption).
 

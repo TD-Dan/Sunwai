@@ -7,7 +7,7 @@ tags:
   - word
 to: 8
 ---
-Okay, let's revise the dictionary entry for `SI`. The goal is to ensure its definition clearly encompasses the broader sense of "governing principle/law" alongside "measure/standard," particularly to support its role in `sipu`.
+Okay, let's revise the dictionary entry for *SI*. The goal is to ensure its definition clearly encompasses the broader sense of "governing principle/law" alongside "measure/standard," particularly to support its role in *sipu*.
 
 Here's the revised entry:
 
@@ -19,45 +19,45 @@ Concept::		**Rule, Law, Principle; Standard, Measure, Unit**
 Action::		**To measure, quantify; To regulate (by rule), apply principles; To standardize**
 Descriptor::	**Exact, Measured; Principled, Regulated**
 
-> Represents systems of regulation, measurement, and underlying order. This includes not just quantifiable standards (`measure`, `unit`) but also the fundamental **principles, laws (natural or societal), or governing guidelines** (`rule`, `law`, `principle`) that structure behavior and interactions. It forms a core component of `[[sipu]]` (system = rule-based structure). Primary use is as a marker for numerals; other uses often require clarification (e.g., with `le` or `ta`).
+> Represents systems of regulation, measurement, and underlying order. This includes not just quantifiable standards (*measure*, *unit*) but also the fundamental **principles, laws (natural or societal), or governing guidelines** (*rule*, *law*, *principle*) that structure behavior and interactions. It forms a core component of *[[sipu]]* (system = rule-based structure). Primary use is as a marker for numerals; other uses often require clarification (e.g., with *le* or *ta*).
 
 ## Usage
 
 ### Marker
 *   Marks explicit numerical context to resolve ambiguity.
 
-Example::   *A hat `si` a neko.* = "I have **one** cat." (vs. *A hat a neko* = "I have my cat.")
+Example::   *A hat *si* a neko.* = "I have **one** cat." (vs. *A hat a neko* = "I have my cat.")
 
-Example::   *Tama o `si` heim.* = "The road is **four**."
+Example::   *Tama o *si* heim.* = "The road is **four**."
 
-Example::   *E o `si` an ku?* = "Are you **two**?"
+Example::   *E o *si* an ku?* = "Are you **two**?"
 
-> More examples in [[#Numerical context clarification]]
+> More examples in [[Numerical context clarification]]
 
 ### Concept
-*   A system of quantification (length, time, mass), agreed norms, a fundamental truth, or a governing guideline. Often requires `le`.
+*   A system of quantification (length, time, mass), agreed norms, a fundamental truth, or a governing guideline. Often requires *le*.
 
-Example::   *Le `si` ro mapi o sun.* = "The **principles/laws** (governing) the planets are known/clear."
+Example::   *Le *si* ro mapi o sun.* = "The **principles/laws** (governing) the planets are known/clear."
 
-Example::   *Ouman ta le `si` ro maheim.* = "Sentient beings follow **the laws/principles** of the homeland."
+Example::   *Ouman ta le *si* ro maheim.* = "Sentient beings follow **the laws/principles** of the homeland."
 
-Example::   *Pene o le `si`.* = "Goodness is the **principle/standard**."
+Example::   *Pene o le *si*.* = "Goodness is the **principle/standard**."
 
 ### Action
-*   To assess value against a scale, regulate according to a system, or apply underlying principles. Often requires `ta`.
+*   To assess value against a scale, regulate according to a system, or apply underlying principles. Often requires *ta*.
 
-Example::   *A `ta si` neko.* = "I **measure** the cat." (Quantify)
+Example::   *A *ta si* neko.* = "I **measure** the cat." (Quantify)
 
-Example::   *Timo `ta si` ouman.* = "Time **governs/regulates** humanity." (Applies principle/law)
+Example::   *Timo *ta si* ouman.* = "Time **governs/regulates** humanity." (Applies principle/law)
 
-Example::   *An `ta si` ne sun se.* = "We **apply the principle** based on that knowledge."
+Example::   *An *ta si* ne sun se.* = "We **apply the principle** based on that knowledge."
 
 ### Descriptor
-*   Describes something as conforming to a measurement, rule, or principle. Often requires `so`.
+*   Describes something as conforming to a measurement, rule, or principle. Often requires *so*.
 
-Example::   *Pu `so si` o mo.* = "The **regulated/measured** structure is big."
+Example::   *Pu *so si* o mo.* = "The **regulated/measured** structure is big."
 
-Example::   *Ta `so si` o pene.* = "A **principled/measured** action is good."
+Example::   *Ta *so si* o pene.* = "A **principled/measured** action is good."
 
 ## Compounds
 

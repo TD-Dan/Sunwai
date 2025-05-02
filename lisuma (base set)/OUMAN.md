@@ -46,12 +46,12 @@ Example:: *Piko o **ouman**.* = "The computer/robot **is sentient/thinking**."
 Example:: *Ta **so ouman** o pene.* = "A **humane/empathetic** action **is** good." (Using `so` marker).
 
 ## Compounds
-- **[[#Oumankoma]]** (*ouman + ko + ma*): Human being ("sentient lifeform of Earth").
-- **[[#Oumanpi]]** (*ouman + pi*): Artificial intelligence ("sentient cyclical/mathematical [being]").
-- **[[#Oumanuma]]** (*ouman + ? + ma*?): Extraterrestrial being ("sentient being not of Earth"). (*Need clearer root*)
-- **[[#Oumanheim]]** (*ouman + heim*): Dwelling (human), building, habitat for sentient beings ("sentient home").
-- **[[#Oumanwailu]]** (*ouman + wailu*): Song, sentient sound/music ("sentient sound").
-- **[[#Oumanlutaum]]** (*ouman + lutaum*): Free will ("sentient freedom").
+- **[[Oumankoma]]** (*ouman + ko + ma*): Human being ("sentient lifeform of Earth").
+- **[[Oumanpi]]** (*ouman + pi*): Artificial intelligence ("sentient cyclical/mathematical [being]").
+- **[[Oumanuma]]** (*ouman + ? + ma*?): Extraterrestrial being ("sentient being not of Earth"). (*Need clearer root*)
+- **[[Oumanheim]]** (*ouman + heim*): Dwelling (human), building, habitat for sentient beings ("sentient home").
+- **[[Oumanwailu]]** (*ouman + wailu*): Song, sentient sound/music ("sentient sound").
+- **[[Oumanlutaum]]** (*ouman + lutaum*): Free will ("sentient freedom").
 
 author-comment:: Ouman needs ways to distinguish between female/male/other/etc.
 ## Origin

@@ -217,7 +217,7 @@ While the official Base and Extended sets cover much communication, creating new
 Forming new words primarily involves combining existing Sunwai words:
 
 1.  **Identify Core Concepts:** Break down the new idea into essential parts representable by existing words.
-2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `pene` [good] + `toki` [language] → `Sunwai`).
+2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `sun` [wisdom] + `wai` [flow] → `Sunwai`).
 
 **Hierarchy for Word Creation:**
 Follow this preferred order when developing a new term:
@@ -438,11 +438,11 @@ No specific verb needed for existence or location, always use **o**.
 	* **Wai no heim**
 ### 6. Action (X does Y)
 
-`[Subject] [verb] [Target]`  
-`[Subject] ta [verb] [Target]`  
+`[Subject] [action] [Target]`  
+`[Subject] ta [action] [Target]`  
 
-*The verb between subject and target indicates directed action.*
-*The particle [[#ta]] can be used as action marker to resolve ambiquity in a sentence, if necessary.*
+The action between subject and target indicates directed action.
+The particle [[#ta]] can be used as action marker to resolve ambiquity in a sentence, if necessary.
 
 - **Action:**
     - *A **ta** heim.* = "I aim."
@@ -471,7 +471,7 @@ No specific verb needed for existence or location, always use **o**.
 Use repetition for emphasis
 
 - **Direct Command:**
-    - *Ta ta heim!* = "Go home!"
+    - *Ta ta le heim!* = "Go home!"
 
 - **Polite Request:**
     - *Tape ta ku?* = "Could (you) bring food?"
@@ -483,13 +483,17 @@ Use repetition for emphasis
 
 ### 9. Benefactive (X does Y for Z)
 
-`[Subject] ta [Action] ne [Recipient]`  
-*Use **ne** ("on/for") to indicate the beneficiary.*
-(( Not clear. maybe a different particle for 'for'))
+`[Subject] [Action] [Object (optional)] pae [Beneficiary]`
 
-- *A ta tape ne e.* = "I bring food **for** you."
-    
-- *Neko ta wai ne heim.* = "The cat carries water **to** the home."
+*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[[pae]]**.
+
+Example:: *A ta tape **pae** e.* = "I provide/get food **for** you."
+
+Example:: *Mama pu paitape **pae** nuko.* = "The parent makes cake **for** the offspring."
+
+Example:: *A toki **pae** e.* = "I speak **for / on behalf of** you."
+
+*Using `pae` provides clear distinction from direct recipients (`ne`) and possessors (`ro`), and avoids ambiguity when the main verb is `pa`.*
 
 ### 10. Comparative (X is more Y than Z)
 
@@ -628,17 +632,17 @@ Numeral marker [[#Si]] can be use to clarify that the next word is a number
 
 > see [[#Numbers]] for more details
 
-### Contrast marker Hi (conjunction)
+### Contrast marker Kas (conjunction)
 
-    hi [clause]
+    kas [clause]
 
-Contrast marker [[#Hi]] can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
+Contrast marker [[KAS]] can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
 
 *   Links contrasting statements:
 
-Example::   *Neko o li. **Hi**, inuko o mo.* = "The cat is small. **But/However**, the dog is big."
+Example::   *Neko o li. **Kas**, inuko o mo.* = "The cat is small. **But/However**, the dog is big."
 
-Example::   *A pai se o pene. **Hi**, e pai se o no pene.* = "I think it's good. **On the other hand**, you think it's not good."
+Example::   *A pai se o pene. **Kas**, e pai se o no pene.* = "I think it's good. **On the other hand**, you think it's not good."
 
 ## Marker chaining
 When words that are used as markers are used in their other meanings they must be clarified with preceding markers:
@@ -758,6 +762,7 @@ Example:: ***Le sisi ta** o pene* = "**The number three (concept)** is good."
 ## Ordinals
 In [[Sunwai]], ordinals (first, second, third, etc.) are formed using the particles **[[#si]]** (numeral marker) and **[[#to]]** (sequence marker). These particles orbit numerals freely, allowing both technical precision and poetic ambiguity.
 
+author-comment:: This still needs lots of work.
 ### Core Principles
 
 1. **Flexible Syntax**:
@@ -769,14 +774,12 @@ In [[Sunwai]], ordinals (first, second, third, etc.) are formed using the partic
 
 ### Formation & Examples
 
-| Structure         | Meaning                      | Example Sentence            | Translation                         |
-| ----------------- | ---------------------------- | --------------------------- | ----------------------------------- |
-| **si+numeral+to** | Standard ordinal (technical) | _A ta **si li to**._        | "I go **first**."                   |
-| **to+numeral+si** | Emphasizes sequence          | _Tilo **to ma si** o pene!_ | "The **fourth** time is beautiful!" |
-| **numeral + to**  | Casual/poetic ordinal        | _Heim o **ma to**._         | "Home is **fourth**."               |
-| **si + numeral**  | Hybrid cardinal/ordinal      | _An o **si re**._           | "We are measured **two**."          |
-| **to + numeral**  | Abstract sequence            | _Sun o **to ta**._          | "Knowledge is ordered **third**."   |
-|                   |                              |                             |                                     |
+| Structure         | Meaning                      | Example Sentence     | Translation                |
+| ----------------- | ---------------------------- | -------------------- | -------------------------- |
+| **si+numeral+to** | Standard ordinal (technical) | _A ta **si li to**._ | "I go **first**."          |
+| **si + numeral**  | Hybrid cardinal/ordinal      | _An o **si re**._    | "We are measured **two**." |
+| **to + numeral**  | Ordinal                      | _Sun o **to ta**._   | "Knowledge is **third**."  |
+|                   |                              |                      |                            |
 
 
 > Note: **si + to + numeral** or **numeral + to + si** breaks *si* out of the numerals vicinity. Therefore si is here considered as their own concepts *si* **to numeral** and **numeral to** *si*.
@@ -813,9 +816,9 @@ In [[Sunwai]], ordinals (first, second, third, etc.) are formed using the partic
 
 1. **Omission of _si_**:
     
-    - _A ta **a to**!_ = "I go **first**!" (Casual, context-dependent)
+    - _A ta **li to**!_ = "I go **first**!" (Casual, context-dependent)
         
-    - _Heim o **heim to**._ = "Home is **fourth**." (Numerology context)
+    - _Ma o **to ma**._ = "Earth is **fourth**." (Numerology context)
         
 2. **Standalone _to_**:
     

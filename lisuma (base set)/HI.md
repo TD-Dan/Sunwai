@@ -20,21 +20,21 @@ Descriptor::	**High, Elevated, Above, Lofty, Upward**
 ## Usage
 
 ### Concept
-*   Refers to height itself, altitude, or the sky/upper regions. Requires `[[#le]]` typically.
+*   Refers to height itself, altitude, or the sky/upper regions. Requires `[[le]]` typically.
 
 Example::   *Le **hi** o pene.* = "The **height / sky** is beautiful."
 Example::   *A pai **hi**.* = "I think about **height / the sky / things above**."
 Example::   ***Hi** ro ma o mo.* = "The **height** of the mountain (earth) is great."
 
 ### Action
-*   The act of rising, ascending, or becoming high. Requires `[[#ta]]`.
+*   The act of rising, ascending, or becoming high. Requires `[[ta]]`.
 
 Example::   *[[Kohi]] **ta hi** ne ha.* = "Birds **rise/ascend** in the air." (*Using new compound [[Kohi]]*)
 Example::   *Lumia **ta hi** ne oum.* = "Light **rises/ascends** over everything."
 Example::   *Ta **hi**!* = "**Rise up! / Ascend!**"
 
 ### Descriptor
-*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional `[[#so]]`.
+*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional `[[so]]`.
 
 Example::   *Ma o **hi**.* = "The mountain (earth) is **high**."
 Example::   *A hat heim **hi**.* = "I have a **high/lofty** home."

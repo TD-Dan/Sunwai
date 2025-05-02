@@ -26,7 +26,7 @@ Example::   *Neko **ta** pai.* = "The cat **plays/thinks**."
 Example::   *Sipu **ta** wailu.* = "The system **vibrates/resonates**."
 
 ### Concept
-*   Refers to action, change, a process, or a dynamic event itself. Often requires *[[#le]]* for clarity as a noun.
+*   Refers to action, change, a process, or a dynamic event itself. Often requires *[[le]]* for clarity as a noun.
 
 Example::   *Le **ta** o pene.* = "The **action/process** is good."
 Example::   *Oum o **ta**.* = "Everything is **change/process**."
@@ -42,7 +42,7 @@ Example::   *Piko **ta ta** ran.* = "The computer **processes/functions** quickl
 Example::   *Se **ta**.* = "It **happens/occurs**."
 
 ### Descriptor
-*   Describes something as active, changing, dynamic, functional, or related to the number three. Numeral use requires *[[#si]]*.
+*   Describes something as active, changing, dynamic, functional, or related to the number three. Numeral use requires *[[si]]*.
 
 Example::   *Ko o **ta**.* = "Life is **dynamic/active**."
 Example::   *A hat sipu **so ta**.* = "I have an **active/functional** system."
