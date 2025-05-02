@@ -10,7 +10,7 @@ to: 250
 ---
 # TAMA
 
-IPA::				/ˈtɑ.mɑ/
+IPA::				/ˈtɑː.mɑ/
 Concept::		**Road, Path, Way, Trail; Bridge; Connection, Link (physical or abstract)**
 Action::		**To traverse, travel along; To bridge, connect, link**
 Descriptor::	**Connecting, Linking, Traversing**

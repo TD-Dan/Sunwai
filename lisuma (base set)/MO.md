@@ -12,9 +12,9 @@ to: 102
 IPA::				/ˈmo/
 Concept::		**Size (multi-dimensional), Scale, Intensity, Magnitude (non-linear), Degree**
 Action::		**To enlarge (size), intensify, amplify, increase scale/degree**
-Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale), Great**
+Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale)**
 
-> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[LO]] (linear length, duration) and its direct opposite is [[LI]] (small, low intensity). Does not imply importance or significance.
+> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[LO]] (linear length, duration) and its direct opposite is [[LI]] (small, low intensity). Does not imply importance, greatness or significance.
 
 ## Usage
 
@@ -57,7 +57,7 @@ Example::   *Se o **mo** pene.* = "That is **great** beauty." (High degree).
 
 *   **[[MOLUMIA]]** (*MO* + *[[LUMIA]]*): Intense light, strong energy, blast ("Intense Energy/Light").
 *   **[[MOWAILU]]** (*MO* + *[[WAILU]]*): Loud noise, roar, boom ("Intense Sound").
-*   **[[MOSUN]]** (*MO* + *SUN*): Deep understanding, major principle, significant knowledge ("Large Scale/Intensity Knowledge").
+*   **[[MOSE]]** (*MO* + *SUN*): Deep understanding, major principle, significant knowledge ("Large Scale/Intensity Knowledge").
 
 ## Origin
 

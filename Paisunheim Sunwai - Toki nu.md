@@ -68,18 +68,3 @@ Hat heim i pai kan pa tasipu ne tilota paisun ro e.
 ---
 
 E kan ke ku? An wai pai Sunwai pene ata. Ta tilota ro e hat sun an pene!
-
----
-
-***Comments:***
-
-1.  **Workbook Title:** Translated as `Lisu Paisun Sunwai` ("Sunwai Learning/Play Document/Book"). Seems appropriate.
-2.  **Abstract Concepts:** Translating terms like "philosophy," "minimalism," "universality," "nuanced," "rewarding," "progressively," "manageable" required using descriptive Sunwai phrases (e.g., `pai sun` for philosophy, `li` for minimalism, `tama hi an pene` for unique/rewarding journey). This reflects how Sunwai builds complexity from simpler blocks.
-3.  **"Language is wisdom":** Directly uses the motto `Toki o sun!`.
-4.  **"Sentient being":** Uses `ouman`.
-5.  **Particles/Grammar:** Terms like "particles" became `lisu li` (small words) or `lisu li toki` (small language words). "Grammatical structure" became `pu toki`.
-6.  **Lesson Structure:** Translated "Objective" as `Heim` (Target/Goal), "Content" as `Sun` (Knowledge), "Vocabulary" as `Lisu` (Words), "Examples" as `Toki Se` (That Language/Example Language), "Exercises" as `Pai Ta` (Mind/Play Action -> Practice).
-7.  **Reference Documents:** `Sunwai Reference Sheet` became `Lisu Si Sunwai` ("Sunwai Rule/Standard Document"). `Sunwai.md` became `Lisu Oum Sunwai` ("All/Complete Sunwai Document").
-8.  **Flexibility/Artistic Freedom:** Used `lutaum` and related concepts.
-9.  **Tone:** Aimed for an encouraging and clear tone appropriate for an introduction.
-10. **Missing words check:** Concepts like "rewarding," "nuanced," "manageable," "comprehensive," "encyclopedia," "textbook," "Appendix," "Answer Key" required descriptive phrasing, indicating areas where specific vocabulary might eventually be developed in Extended Sets if needed, but the Base Set phrasing works.

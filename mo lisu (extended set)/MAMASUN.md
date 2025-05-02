@@ -1,8 +1,7 @@
 ---
 roots:
-  - "[[OUMAN]]"
-  - "[[KO]]"
   - "[[MA]]"
+  - "[[SUN]]"
 tags:
   - compound
   - extended-set

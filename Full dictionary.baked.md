@@ -2,7 +2,7 @@
 <!--
 copy from "Sunwai full dictionary automatic"
 use ctrl-h -> replace "[ " with "["
-use ctrl-p -> bake into "Sunwai full dictionary.baked"
+use ctrl-p -> bake into "Sunwai full dictionary.baked" (might need to delete the previous file to make it work)
 -->
 # **Base set**
 
@@ -252,7 +252,7 @@ Example::   *A pai le **ta**.* = "I think about **action/change**."
 *   To perform any action, undergo change, function, operate, or simply happen. Using *ta ta* clarifies the verb usage if context is ambiguous.
 
 Example::   *A **ta ta** pene.* = "I **act** beautifully."
-Example::   *Wai **ta ta** ne timo.* = "Water **changes** over time."
+Example::   *Wai **ta ta** ne tilo.* = "Water **changes** over time."
 Example::   *Piko **ta ta** ran.* = "The computer **processes/functions** quickly."
 Example::   *Se **ta**.* = "It **happens/occurs**."
 
@@ -330,7 +330,7 @@ Example:: *Neko hat **si ne** ko.* = "A cat has **nine** lives."
   
 ### Proverbs
 
-Proverb:: _**Ne** oum **ne** timo._ = "Surface all upon time." =  - Utter nonsense!
+Proverb:: _**Ne** oum **ne** tilo._ = "Surface all upon time." =  - Utter nonsense!
 Okay, let's revise the dictionary entry for *SI*. The goal is to ensure its definition clearly encompasses the broader sense of "governing principle/law" alongside "measure/standard," particularly to support its role in *sipu*.
 
 Here's the revised entry:
@@ -564,7 +564,7 @@ Example:: *Ouman **ta ro** ma.* = "Sentient lifeforms belong to earth"
 * Numeral
 
 Example:: *A hat ro neko* = " I have hundred cats."
-Example:: *E si ro timo ti* = "You repeat hundred times" (( This is weird. ))
+Example:: *E si ro tilo ti* = "You repeat hundred times" (( This is weird. ))
 
 ## Origin
 
@@ -648,13 +648,13 @@ Descriptor::	**Hot, Warm, Fiery, Burning, Intense (thermally)**
 Example::   *Le **ai** ro mamasun o mo.* = "The **heat** of the sun is intense/great."
 Example::   *A pai **ai**.* = "I think about **heat/fire**." / "I feel the **heat**."
 Example::   ***Ai** o u.* = "**Fire** is chaos/unpredictable."
-Example::   *Ouman na **ai** i eistimo.* = "Sentient beings need **warmth** in the winter."
+Example::   *Ouman na **ai** i eistilo.* = "Sentient beings need **warmth** in the winter."
 
 ### Action
 *   The act of making something hot, warming, burning, or the process of becoming hot.
 
 Example::   *A **ta ai** le wai.* = "I **heat** the water."
-Example::   *Pu **ai** ne timo.* = "The structure **burns** over time."
+Example::   *Pu **ai** ne tilo.* = "The structure **burns** over time."
 Example::   *Ta **ai** le tape!* = "**Warm** the food!"
 Example::   *Ma **ai**.* = "The ground **becomes hot**."
 
@@ -800,7 +800,7 @@ Example::   *A pai **un**.* = "I think about the **hidden/subconscious**."
 
 Example::   *Pene o i **un**.* = "Beauty is in the **depths**."
 
-Example::   ***Un** o timo li.* = "The **low point/depth** is brief."
+Example::   ***Un** o tilo li.* = "The **low point/depth** is brief."
 
 ### Action
 *   The act of moving downwards, placing something underneath, submerging, or hiding something below.
@@ -867,7 +867,7 @@ Example::   *Ma hat **eis** pi.* = "The ground has round **ice** (hail?)."
 *   The act of making something cold, chilling, freezing, or the process of becoming cold.
 
 Example::   *A **ta eis** le wai.* = "I **cool/chill** the water."
-Example::   *Wai **eis** ne timo un.* = "Water **freezes** in the low/cold time (winter?)."
+Example::   *Wai **eis** ne tilo un.* = "Water **freezes** in the low/cold time (winter?)."
 Example::   *Ta **eis** le tape!* = "**Chill** the food!"
 Example::   *Ha **eis**.* = "The air **becomes cold**."
 
@@ -883,7 +883,7 @@ Example::   *A ke **eis**.* = "I sense **cold**." / "I feel **cold**."
 
 *   **[[Eiswai]]** = Ice water, cold liquid (*eis + wai* = "cold water").
 *   **[[Eisma]]** = Tundra, frozen ground, permafrost (*eis + ma* = "cold earth").
-*   **[[Eistimo]]** = Winter, cold season (*eis + timo* = "cold time").
+*   **[[Eistilo]]** = Winter, cold season (*eis + tilo* = "cold time").
 *   **[[Eisko]]** = Cold-adapted lifeform; State of being frozen (biologically) (*eis + ko* = "cold lifeform").
 
 ## Origin
@@ -915,7 +915,7 @@ Example::   *Le **et** ro a an e o pene.* = "The **nearness/closeness** between 
 
 Example::   *A pai **et**.* = "I think about **proximity**." / "I feel the **nearness**."
 
-Example::   ***Et** o timo li.* = "**Nearness/Proximity** is a short time."
+Example::   ***Et** o tilo li.* = "**Nearness/Proximity** is a short time."
 
 ### Action
 *   The act of moving closer, being adjacent to, or approaching something.
@@ -941,7 +941,7 @@ Example::   *An hat pai **et**.* = "We have **close/similar** thoughts." (Metaph
 
 ## Compounds
 
-*   **[[Ettimo]]** = Imminent time, near future (*et + timo* = "near time").
+*   **[[Ettilo]]** = Imminent time, near future (*et + tilo* = "near time").
 *   **[[Etta]]** = Approach (action noun), convergence (*et + ta* = "near action").
 *   **[[Etko]]** = Neighboring lifeform, close companion (*et + ko* = "near lifeform").
 *   **[[Etheim]]** = Neighborhood, vicinity (*et + heim* = "near home/area").
@@ -991,13 +991,13 @@ Example::	*A **oum** neko an inuko.* = "I **gather** cats and dogs."
 ## Compounds
 - **[[Oumheim]]** = Universe, cosmic home (*oum + heim* = "all home").
 
-    Example:: *Oumheim o senotimo!* = "The universe is timeless!"
+    Example:: *Oumheim o senotilo!* = "The universe is timeless!"
 
 - **Ouman** = Sentient being (*oum + an* = "all togetherness").
 
     Example:: *Ouman o pene ne ma.* = "Humanity thrives on earth."
 
-- **[[Oumtimo]]** = Eternity, universal cycle (*oum + timo* = "all time").
+- **[[Oumtilo]]** = Eternity, universal cycle (*oum + tilo* = "all time").
 - **[[Oumkulo]]** = Diversity (*oum + kulo* = "all color/spectrum").
 
     Example:: *Oumkulo o pene!* = "Diversity is beautiful!"
@@ -1066,53 +1066,59 @@ Example::   *Se o sun so **usi**.* = "That is **conditional** knowledge."
 Proverb:: *Usi o tama ro pai nu.* = "'If is the path to new thought/possibilities."
 
 Proverb:: *Ta sun usi, sunta ta sun oum.* = "Understand the condition(s), consequently understand the whole (situation)."
-# TI
+# TAO
 
-IPA::				/ˈti/
-Marker::		**Repetition marker**
-Concept::		**Interval, gap, repetition, rhythm**
-Action::		**To repeat, to tick**
+IPA::				/tɑo/
+Concept::		**Importance, Significance, Relevance, Value (non-material), Priority, Consequence, Principle**
+Action::		**To be important/significant/relevant; To matter; To prioritize**
+Descriptor::	**Important, Significant, Relevant, Valuable, Priority, Consequential, Principal, Core**
 
-> Root of intervals, repetition, and rhythm.
+> Represents inherent or assigned importance, significance, relevance, or value, often understood through its connection to action, function, consequence (*TA*), or fundamental being/actuality (*O*). It addresses the "mattering," consequence, or core principle of something within a context.
 
 ## Usage
 
-### Marker
-*   Marks a preceding or following word/phrase for repeated action or state.
-
-Example::	*Neko tape **ti**.* = "The cat eats **again and again**."
-Example::	*A **ti** ta heim.* = "**Time after time** I go home **time after time**." 
-
-author-note:: marker usage needs clarification
-
-> More examples in sentence structure rules -> Sunwai > 14. Repetive (X repeats, always X, X times)
-
 ### Concept
-*   A defined span between points, or a recurring pattern.
+*   Refers to the quality of importance, significance, relevance, value, or consequence itself.
 
-Example::	***Ti** ne timo.* = "The **interval** within time."
-Example::	*A hat **ti** ne ta.* = "I have **gaps** between actions."
-Example::	***Ti** o pene!* = "**Rhythm** is beautiful!"
+Example::   *Le **tao** ro sun o mo.* = "The **importance/significance** of knowledge is great."
+Example::   *A sun le **tao** ro ta se.* = "I understand the **relevance/consequence** of that action."
+Example::   *Pai ro e hat **tao** ne a.* = "Your thought/opinion has **value/importance** to me."
+Example::   *Se o **tao** ro sipu.* = "That is the **core principle/importance** of the system."
 
 ### Action
-*   To occur at regular intervals or to do something again.
+*   To be important, significant, relevant, or to matter, to prioritize"
 
-Example::	*E **ti** ku?* = "Can you **repeat**?"
-Example::	*Timo **ti** se.* = "Time **repeats** itself."
+Example::   *Sun **tao** ne oum.* = "Knowledge **is important/matters** to everyone."
+Example::   *Lisu se **no tao**.* = "That word **doesn't matter / is irrelevant**."
+Example::   *A **ta tao** le ta nu.* = "I **prioritize** the next action." (Lit: I make important the next action).
+Example::   *E **ta tao** ku?* = "What do you **prioritize / consider important**?"
+
+### Descriptor (Primary Use)
+*   Describes something as important, significant, relevant, valuable, principal, core, or consequential.
+
+Example::   *Se o sun **so tao**.* = "That is **important/significant** knowledge."
+Example::   *An hat pai **tao**.* = "We have an **important/relevant** thought."
+Example::   *Le lisu **tao** o 'ouman'.* = "The **core/principal** word is 'ouman'."
+Example::   *Se o ta **so tao**.* = "That is a **consequential/significant** action."
 
 ## Compounds
-- **TILO** = Time, duration (*ti + lo* = "large interval").
-- **[[TIKO]]** = Heartbeat, pulse (*ti + ko* = "lifeform’s rhythm").
-- **[[TILUMAI]]** = Pulsar (*ti + lumai* = "repeating star") ((Special set: Astronomy))
+*   **[[Notao]]** (*no* + *tao*): Unimportant, Insignificant, Irrelevant, Trivial. ("no importance")
+*   **[[Taopene]]** (*tao* + *pene*): High Value, Esteem, Cherished Importance, Beneficial Significance ("good/beautiful importance").
+*   **[[Taoheim]]** (*tao* + *heim*): Core issue, Central point of importance, Focus of significance ("importance center").
+*   **[[Taosun]]** (*tao* + *sun*): Key knowledge, Crucial information, Significant principle ("important knowledge").
+*   **[[Taoto]]** (*tao* + *to*): Priority List, Order of Importance/Significance ("importance order").
 
 ## Origin
-- **English**: _time_
-- **Japanese**: _時_ (_toki_, "time")
-- **Latin**: _tempus_ ("time")
+*   **Sunwai**: Conceptualized internally from *TA* (Action, Consequence, Function), A (Self, Observer) and *O* (Is, Being, Actuality), suggesting importance derived from function, consequence, or principle in actuality taking into account the observers subjective stance.
+*   **Mandarin Chinese**: Phonetic resonance with *Dào* (道), representing "The Way," path, or fundamental principle, aligning with the sense of core importance or principle.
 
 ## Proverbs
 
-author-comment:: No proverbs defined for TI yet.
+Proverb:: *Sun tao, ta tao.* = "Know what is important, act on what is important."
+
+Proverb:: *Tao o no mo an lo.* = "Importance is not (the same as) size or length."
+
+Proverb:: *Tao wai ro ta an pai.* = "Importance/Significance flows from action and thought/values."
 # TO
 
 IPA::				/ˈto/
@@ -1166,6 +1172,53 @@ Proverb:: *To o pene.* = "Order is good/beautiful."
 
 
 
+# TI
+
+IPA::				/ˈti/
+Marker::		**Repetition marker**
+Concept::		**Interval, gap, repetition, rhythm**
+Action::		**To repeat, to tick**
+
+> Root of intervals, repetition, and rhythm.
+
+## Usage
+
+### Marker
+*   Marks a preceding or following word/phrase for repeated action or state.
+
+Example::	*Neko tape **ti**.* = "The cat eats **again and again**."
+Example::	*A **ti** ta heim.* = "**Time after time** I go home **time after time**." 
+
+author-note:: marker usage needs clarification
+
+> More examples in sentence structure rules -> Sunwai > 14. Repetive (X repeats, always X, X times)
+
+### Concept
+*   A defined span between points, or a recurring pattern.
+
+Example::	***Ti** ne tilo.* = "The **interval** within time."
+Example::	*A hat **ti** ne ta.* = "I have **gaps** between actions."
+Example::	***Ti** o pene!* = "**Rhythm** is beautiful!"
+
+### Action
+*   To occur at regular intervals or to do something again.
+
+Example::	*E **ti** ku?* = "Can you **repeat**?"
+Example::	*tilo **ti** se.* = "Time **repeats** itself."
+
+## Compounds
+- **TILO** = Time, duration (*ti + lo* = "large interval").
+- **[[TIKO]]** = Heartbeat, pulse (*ti + ko* = "lifeform’s rhythm").
+- **[[TILUMAI]]** = Pulsar (*ti + lumai* = "repeating star") ((Special set: Astronomy))
+
+## Origin
+- **English**: _time_
+- **Japanese**: _時_ (_toki_, "time")
+- **Latin**: _tempus_ ("time")
+
+## Proverbs
+
+author-comment:: No proverbs defined for TI yet.
 # NA
 
 IPA::				/ˈna/
@@ -1226,45 +1279,101 @@ Proverb:: *Ta sun na o no sun.* = "Knowing desire is not the same as (objective)
 # NO
 
 IPA::				/ˈno/
-Marker::		**Not, no, negation particle**
-Marker::		**(Prefix) Reversal of meaning**
+Marker::		**1. Not, No (Negation Particle)**
+Marker::		**2. (Prefix) Reversal/Absence of Meaning**
+Concept::		**(Derived) Negation, Opposition, Absence**
+Action::		**(Derived) To negate, oppose, deny, make absent**
+Descriptor::	**(Derived) Negative, Opposite, Absent**
 
-> Negation particle, core logical NOT operator. Can function standalone or as a prefix.
+> Fundamental root of negation, opposition, and absence. Primarily functions as a **Negation Particle** before the element it modifies, or as a **highly productive Prefix** attached to roots or compounds to create their semantic opposites or indicate absence. Understanding both roles is crucial.
 
 ## Usage
 
-### Marker (Negation Particle)
-- Negates the word, phrase, or clause it immediately precedes. This is its most common function.
+### Marker (1. Negation Particle - `no [X]`)
+*   Placed immediately before a word, phrase, or clause to negate its meaning. This is a core grammatical function similar to English "not" or "no".
 
-Example:: *A **no** tape.* = "I'm **not** hungry."
+Example::   *A **no** tape.* = "I am **not** hungry."
 
-Example:: *Se o **no** pene.* = "That is **not** beautiful."
+Example::   *Se o **no** pene.* = "That is **not** beautiful."
 
-Example:: ***No** an ta heim.* = "**Not** we go home." / "We do **not** go home."
+Example::   ***No** an ta heim.* = "**Not** we go home." / "We do **not** go home."
 
-### Marker (Prefix - Meaning Reversal)
-- Can optionally attach to the beginning of a word to create a concept opposite to the original root. Often used for inherent opposites or creating antonyms where context might otherwise be ambiguous.
+Example::   *A hat **no** sun.* = "I have **no** knowledge." (Lit: "I have not knowledge.")
 
-Example:: *Pene o **no**pene.* = "Goodness is **not** badness." (*nopene* = "bad/ugly")
+Example::   *E **no** kan ku?* = "You **can**not?"
 
-Example:: *A lono, e **no**lono.* = "I remember, you **forget**." (*nolono* = "forgotten/unremembered")
+### Marker (2. Prefix - Reversal/Absence of Meaning - `noX`)
+*   A primary function of `NO` is to act as a **productive prefix** that reverses or negates the core meaning of the following root or compound word. This creates conceptual opposites, antonyms, or signifies the absence of the base concept.
+*   This prefix applies broadly to concepts, actions, and descriptors where a logical opposite exists or absence is meaningful.
+*   While some common and fundamental `no-` compounds have their own entries (e.g., `[[SENO]]`, `[[NOPENE]]`, `[[NOLONO]]`, `[[NOSUN]]`), this principle applies generally. Rely on context and the meaning of the base word to understand `no-` prefixed forms.
 
-Example:: *Se o sun, se o **no**sun.* = "This is knowledge/clarity, that is **ignorance/unclear**." (*nosun* = "not knowledge/clarity")
+* *pene* ("beauty/good")  		-> ***nopene*** ("bad/ugly/disharmonious")
+Example:: *Le **nopene** o u.* = "The **badness/ugliness** is chaos."
+
+> Notice difference with previous *Se o no pene* -> "It is not beautiful" **vs.** *Se o nopene* = "It is ugly."
+
+* *lono* ("memory/remember") 	-> ***nolono*** ("forgotten/unremembered")
+Example:: *A lono, kas e **nolono** timo se.* = "I remember, but you **forget** that time." 
+
+* *sun* ("clarity/knowledge") 	-> ***nosun*** ("nonknowledge/ignorance")
+Example:: *Sun o lumia; **nosun** o senokulo.* = "Clarity is light; **ignorance** is blackness."
+
+ * *kan* -> ("can/possible") 		-> ***nokan*** ("impossible/unable")
+Example:: *Se o **nokan**.* = "That is **impossible**."
+
+ * *an* ("togetherness")			-> ***noan*** ("separation")
+Example:: *An o pene; **noan** o nopene.* = "Togetherness is good; **separation** is bad."
+
+ *kune* -> ("touch/tangible") -> ***nokune*** = ("lack of tangibility")
+Example:: *Wai o kune; ha o **nokune**.* = "Water is tangible; air is **intangible/untouchable**." 
+
+* *ko* ("lifeform")				-> ***noko*** = ("absence of life")
+Example::  *Lumia o ko; lu o **noko**.* = "Light is life-supporting; the void is **lifeless/without lifeforms**." 
+
+ * *ta* ("action/change") 		->  ***nota*** ("lack of action/change")
+Example::  *Ta o ko; so o **nota**.* = "Action/Change is life; stillness is **inaction/stasis**."
+
+
+> **Pronunciation recommendation:** While the standard pronunciation is /no/, speakers should lenghten the vowel (/noː/) when NO is used as a prefix for added clarity or emphasis (e.g., nopene should be pronounced /ˈnoːpene/). This aligns with the standard stress pattern of lenghtening the first vowel of a word. This can of course be omitted if user prefers another stressing for any reason.
+
+### Concept (Derived)
+*   Refers to the concept of negation, opposition, or absence itself. Often requires `le`.
+
+Example::   *Le **no** o mo i pai.* = "The concept of **negation/opposition** is significant in thought."
+Example::   *A pai **no**.* = "I think about **absence/negation**."
+
+### Action (Derived)
+*   The act of negating, opposing, or making something absent. Requires `ta`.
+
+Example::   *A **ta no** le lisu ro e.* = "I **negate/deny** your word."
+Example::   *U **ta no** sipene.* = "Chaos **opposes/negates** harmony."
+
+### Descriptor (Derived)
+*   Describes something as negative, opposite, or absent. Requires `so`.
+
+Example::   *Se o pai **so no**.* = "That is a **negative/opposing** thought."
+Example::   *Lumia o **no** ne lu.* = "Light is **absent** in the void."
 
 ## Compounds
-- **Seno** (*se + no*): Zero ("There nothing").
-- **[[Nolono]]** (*no + lono*): Forgetfulness, amnesia ("not memory").
-- **[[Nosun]]** (*no + sun*): Ignorance, darkness, lack of clarity ("not illumination/knowledge").
+*   **Seno** (*se + no*): Zero, Nothingness ("that which is specifically not there").
+*   **[[Nopene]]** (*no + pene*): Bad, Ugly, Disharmonious, Ill ("not good/beautiful").
+*   **[[Nolono]]** (*no + lono*): Forgetfulness, Amnesia ("not memory").
+*   **[[Nosun]]** (*no + sun*): Ignorance, Darkness, Lack of clarity ("not illumination/knowledge").
+*   **[[Nokan]]** (*no + kan*): Impossible, Unable, Incapable ("not possible/able").
+*   **Other potential `no-` compounds are generally understood through the prefix rule and context, rather than needing dedicated entries.**
 
 ## Origin
-- **Proto-Indo-European**: *\*ne* (negation particle). Shared ancestor of many common negators.
-- **English**: _no_, _not_.
-- **German**: _nein_ ("no"), _nicht_ ("not").
-- **Latin**: _non_ ("not").
+*   **Proto-Indo-European**: *\*ne* (negation particle). Shared ancestor of many common negators.
+*   **English**: _no_, _not_.
+*   **German**: _nein_ ("no"), _nicht_ ("not").
+*   **Latin**: _non_ ("not").
 
 ## Proverbs
 
-Proverb:: *Ta no, o ta hi.* = "To deny **is** to separate."
+Proverb:: *Ta no, o ta kas.* = "To negate is to separate/distinguish."
+
+Proverb:: *Oum hat no.* = "Everything has its opposite/negation."
+
 # NU
 
 IPA::               /ˈnu/
@@ -1310,7 +1419,7 @@ Example::   *A hat tape **ne nu**.* = "I will have food (in the following time/m
 
 Example::   *E o **ne nu** ro a.* = "You are at the following position relative to me." / "You are after me (in sequence)." (*nu* describes the position marked by *ne*).
 
-Example::   *Ne **nu** timo, ouman ta nu ma.* = "In **following** time (lit. at following time), sentient beings will explore new lands." (*nu ma* = new lands).
+Example::   *Ne **nu** tilo, ouman ta nu ma.* = "In **following** time (lit. at following time), sentient beings will explore new lands." (*nu ma* = new lands).
 
 ## Compounds
 
@@ -1364,7 +1473,7 @@ Example::   *Mo **se** e.* = "Bigger **than** you."
 
 Example::   *Usi a hat tape, **se** a pa ne e.* = "If I have food, **then** I give [it] to you."
 
-Example::   *Usi timo o pene, **se** an wai.* = "If the time is good, **then** we flow/go."
+Example::   *Usi tilo o pene, **se** an wai.* = "If the time is good, **then** we flow/go."
 
 Example::   *Usi e sun, **se** toki.* = "If you understand, **then** speak." (Marker optional but adds flow).
 
@@ -1447,7 +1556,7 @@ Example::	*A hat **so so** pai.* = "I have a **very stable/calm** mind." - Redup
 
 ## Compounds
 - **[[SOHEIM]]** = Foundation, anchor point, safe haven (*so + heim* = "stable home/center")
-- **[[SOTILO]]** = Period of calm, stasis (*so + timo* = "still time")
+- **[[SOTILO]]** = Period of calm, stasis (*so + tilo* = "still time")
 - **[[SOWAI]]** = Still water, pool, calm liquid (*so + wai* = "still water")
 - **[[SOKO]]** = Hibernation, dormancy, stable life state (*so + ko* = "still lifeform")
 
@@ -1626,7 +1735,7 @@ Example::   *Ha **kan** eis.* = "Air **can** become cold." (Possibility)
 
 Example::   *E **kan** tape.* = "You **may** eat." (Permission)
 
-Example::   *Se **kan** oum timo.* = "It **can** happen anytime." (Possibility, Lit: "It can all time.")
+Example::   *Se **kan** oum tilo.* = "It **can** happen anytime." (Possibility, Lit: "It can all time.")
 
 Example::   *An **kan** pa ne e ku?* = "**Can** we give [it] to you?" (Question of possibility/permission)
 
@@ -2027,9 +2136,9 @@ Proverb:: *Oum hat mia.* = "Everything has patterns."
 IPA::				/ˈmo/
 Concept::		**Size (multi-dimensional), Scale, Intensity, Magnitude (non-linear), Degree**
 Action::		**To enlarge (size), intensify, amplify, increase scale/degree**
-Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale), Great**
+Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale)**
 
-> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with LO (linear length, duration) and its direct opposite is LI (small, low intensity). Does not imply importance or significance.
+> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with LO (linear length, duration) and its direct opposite is LI (small, low intensity). Does not imply importance, greatness or significance.
 
 ## Usage
 
@@ -2072,7 +2181,7 @@ Example::   *Se o **mo** pene.* = "That is **great** beauty." (High degree).
 
 *   **[[MOLUMIA]]** (*MO* + *LUMIA*): Intense light, strong energy, blast ("Intense Energy/Light").
 *   **[[MOWAILU]]** (*MO* + *WAILU*): Loud noise, roar, boom ("Intense Sound").
-*   **[[MOSUN]]** (*MO* + *SUN*): Deep understanding, major principle, significant knowledge ("Large Scale/Intensity Knowledge").
+*   **[[MOSE]]** (*MO* + *SUN*): Deep understanding, major principle, significant knowledge ("Large Scale/Intensity Knowledge").
 
 ## Origin
 
@@ -2232,7 +2341,7 @@ Example::   *Seno wailu i **lu**.* = "Silence **in the void/openness**."
 
 Example::   *A **ta lu** le heim.* = "I **empty/clear** the home."
 
-Example::   *Le pai **lu** ne timo.* = "The mind **becomes open/clears** over time."
+Example::   *Le pai **lu** ne tilo.* = "The mind **becomes open/clears** over time."
 
 Example::   ***Lu!*** = "**Clear out! / Make space!**" (Imperative context).
 
@@ -2359,7 +2468,7 @@ Example::   *Le lisu ro e o **hai**.* = "Your word/response is **affirmative/agr
 
 Example::   *An hat pai **so hai**.* = "We have an **agreeing/affirmative** thought/mindset."
 
-Example::   *Se o timo **hai**.* = "That is an **acknowledging/greeting** moment."
+Example::   *Se o tilo **hai**.* = "That is an **acknowledging/greeting** moment."
 
 ## Compounds
 
@@ -2469,7 +2578,7 @@ Example:: *A ta toki **so heim**.* = "I speak **directly/pointedly**."
 
 *   **Comfort/Familiarity:**
 
-Example:: *Se o timo **heim**.* = "That is a **cozy/familiar** time."
+Example:: *Se o tilo **heim**.* = "That is a **cozy/familiar** time."
 Example:: *An hat pai **so heim**.* = "We have an **intimate/familiar** thought/connection."
 
 ## Compounds
@@ -2516,26 +2625,26 @@ Concept::		**Height, Highness, Altitude; Sky, Upper Region, Above**
 Action::		**To rise, to ascend, to elevate; To be high/elevated**
 Descriptor::	**High, Elevated, Above, Lofty, Upward**
 
-> Root of height, elevation, the sky, and upward direction/movement. Contrasts directly with `[[UN]]` (low, below), benefiting from the high-front vowel /i/ opposition to the low-back vowel /u/. **Secondary root, meaning swapped with `[[HU]]`.**
+> Root of height, elevation, the sky, and upward direction/movement. Contrasts directly with *UN* (low, below), benefiting from the high-front vowel /i/ opposition to the low-back vowel /u/.
 
 ## Usage
 
 ### Concept
-*   Refers to height itself, altitude, or the sky/upper regions. Requires `[[le]]` typically.
+*   Refers to height itself, altitude, or the sky/upper regions. Requires *le* typically.
 
 Example::   *Le **hi** o pene.* = "The **height / sky** is beautiful."
 Example::   *A pai **hi**.* = "I think about **height / the sky / things above**."
 Example::   ***Hi** ro ma o mo.* = "The **height** of the mountain (earth) is great."
 
 ### Action
-*   The act of rising, ascending, or becoming high. Requires `[[ta]]`.
+*   The act of rising, ascending, or becoming high. Requires *ta*.
 
 Example::   *[[Kohi]] **ta hi** ne ha.* = "Birds **rise/ascend** in the air." (*Using new compound [[Kohi]]*)
 Example::   *Lumia **ta hi** ne oum.* = "Light **rises/ascends** over everything."
 Example::   *Ta **hi**!* = "**Rise up! / Ascend!**"
 
 ### Descriptor
-*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional `[[so]]`.
+*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional *so*.
 
 Example::   *Ma o **hi**.* = "The mountain (earth) is **high**."
 Example::   *A hat heim **hi**.* = "I have a **high/lofty** home."
@@ -2543,18 +2652,18 @@ Example::   *Le sun **so hi** o pene.* = "**Lofty/High-level** knowledge is good
 
 ## Compounds
 
-*   [[Kohi]] (`ko` + `hi`): Bird, Flying lifeform ("lifeform high/ascending").
-*   Lumiahi (`lumia` + `hi`): Star ("light high/above").
-*   [[Hiwai]] (`hi` + `wai`): Rain, High water source ("high water").
-*   [[Lohi]] (`lo` + `hi`): Height, altitude ("long high").
-*   [[Mohi]] (`mo` + `hi`): Peak, maximum ("intense/big high").
-*   [[Hiheim]] (`hi` + `heim`): Lookout Point, High place/center ("high home/center").
-*   [[Hita]] (`hi` + `ta`): Ascent, Elevation (action noun) ("high action").
-*   [[Hikas]] (`hi` + `kas`): Cliff, Precipice ("high separation").
+*   [[Kohi]] (*ko* + *hi*): Bird, Flying lifeform ("lifeform high/ascending").
+*   Lumiahi (*lumia* + *hi*): Star ("light high/above").
+*   [[Hiwai]] (*hi* + *wai*): Rain, High water source ("high water").
+*   [[Lohi]] (*lo* + *hi*): Height, altitude ("long high").
+*   [[Mohi]] (*mo* + *hi*): Peak, maximum ("intense/big high").
+*   [[Hiheim]] (*hi* + *heim*): Lookout Point, High place/center ("high home/center").
+*   [[Hita]] (*hi* + *ta*): Ascent, Elevation (action noun) ("high action").
+*   [[Hikas]] (*hi* + *kas*): Cliff, Precipice ("high separation").
 
 ## Origin
 
-*   **Sunwai**: Core CV root. **Meaning swapped with `[[HU]]`** to create a stronger phonetic contrast between **HI** (/i/, high) and **UN** (/u/, low). `/i/` is a high-front vowel, fitting the concept systemically within Sunwai's vowel space.
+*   **Sunwai**: Core CV root. **Meaning swapped with *[[HU]]*** to create a stronger phonetic contrast between **HI** (/i/, high) and **UN** (/u/, low). */i/* is a high-front vowel, fitting the concept systemically within Sunwai's vowel space.
 *   **English**: *high* (Conceptual link retained).
 *   **German**: *hoch* ("high") (Conceptual link retained).
 
@@ -2582,7 +2691,7 @@ Descriptor::	**Fast, Quick, Rapid, Speedy**
 
 Example::   *Le **ran** ro uramako o mo.* = "The **speed** of the rabbit is great."
 
-Example::   ***Ran** o pene ne timo li.* = "**Quickness** is good in a short time/moment."
+Example::   ***Ran** o pene ne tilo li.* = "**Quickness** is good in a short time/moment."
 
 ### Action
 *   The act of moving quickly or accelerating. Can modify other actions.
@@ -2616,7 +2725,7 @@ Example::   *Sun so **ran** o u.* = "**Quick** knowledge/information is uncertai
 * **Spanish** _rápido_ ("fast")
 ## Proverbs
 
-Proverb:: *Ran o no pene oum timo.* = "Speed isn't always good."
+Proverb:: *Ran o no pene oum tilo.* = "Speed isn't always good."
 
 # RE
 
@@ -2993,7 +3102,7 @@ Proverb:: *Ouman o ouman ne ouman.* = "A person **is** a person **through** othe
 
 # TAMA
 
-IPA::				/ˈtɑ.mɑ/
+IPA::				/ˈtɑː.mɑ/
 Concept::		**Road, Path, Way, Trail; Bridge; Connection, Link (physical or abstract)**
 Action::		**To traverse, travel along; To bridge, connect, link**
 Descriptor::	**Connecting, Linking, Traversing**
@@ -3235,7 +3344,7 @@ Example:: *Se ko o **tape** mo.* = "That creature is **very hungry**." (Lit. "Th
 
 *   [[Tapeheim]] = Restaurant, kitchen (*tape* + *heim* = "food home").
 *   [[Tapepene]] = Delicious (*tape* + *pene* = "good food").
-*   [[Tapetimo]] = Mealtime (*tape* + *[[timo]]* = "food time").
+*   [[Tapetilo]] = Mealtime (*tape* + *tilo* = "food time").
 *   [[Pisutape]] = Business lunch (*pisu* + *tape* = "business food").
 *   [[Ketape]] = Taste, tongue (*ke* + *tape* = "sense food").
 
@@ -4399,7 +4508,7 @@ Descriptor::	**Remembered, recalled, historical, archival**
 
 Example::	***Lono** ro a o pene.* = "My **memory** is good."
 Example::	*Se o **lono** ku.* = "That is an old **record/memory**."
-Example::	*Oum o **lono** ne timo.* = "Everything becomes **history** in time."
+Example::	*Oum o **lono** ne tilo.* = "Everything becomes **history** in time."
 
 ### Action
 *   The act of retrieving information from memory or recording it for future recall.
@@ -4412,7 +4521,7 @@ Example::	*Piko **lono** oum.* = "The computer **records/archives** everything."
 *   Relating to memory, the past, recall, or historical data.
 
 Example::	*Sun **lono** o mo.* = "**Remembered/Historical** knowledge is vast."
-Example::	*Timo **lono** o ku.* = "The **recalled** time (the past) is old."
+Example::	*tilo **lono** o ku.* = "The **recalled** time (the past) is old."
 Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Compounds
@@ -4430,7 +4539,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Proverbs
 
-Proverb:: *Lono o sun ro timo.* = "Memory is the knowledge of (past) time."
+Proverb:: *Lono o sun ro tilo.* = "Memory is the knowledge of (past) time."
 Proverb:: *Pai nu, lono ku.* = "The mind creates anew, memory recalls the old."
 Proverb:: *Seno pai, seno lono, seno sun.* = "Without learning, without memory, without knowledge."
 Proverb:: *Lono ro a o no sun, sunta lono o u.* = "My memory is not (objective) truth; therefore, memory is uncertain."
@@ -4648,6 +4757,56 @@ Proverb:: *Ta pene o ta oum.* = "To improve/harmonize is to unify everything."
 Proverb:: *I pene, oum o so.* = "In harmony/balance, everything is stable."
 # **Extended set**
 
+# ANSE
+
+IPA::				/ˈan.se/
+Marker::		**1. Additive/Inclusive Marker (also, too, as well, in addition, even)**
+Marker::		**2. Similarity Marker (likewise, similarly)**
+Marker::		**3. Emphasis Marker (and specifically this/that)**
+Concept::		**(Rare/Derived) Addition, Inclusion, Similarity (as concepts)**
+
+> Primarily functions as a versatile **Marker** indicating addition, inclusion, similarity, or emphasis. It connects elements, clauses, or ideas, signifying that something applies *in addition to* or *in a similar way as* something previously mentioned, or highlighting a *specific addition*. Derived from *AN* (And/Together) and *SE* (That Specific Thing/Instance).
+
+## Usage
+
+### Marker (Primary Role)
+*   *ANSE* modifies the scope or application of statements, typically indicating addition, similarity, or emphasis. Its placement influences the nuance.
+
+*   **Indicating Addition/Inclusion (also, too, as well, in addition):** Signals that the marked element or clause is added to a previously established context.
+    Example:: *A o pene. E **anse**.* = "I am good. You **also/too**." (Marks 'E' as included in the state 'pene').
+    Example:: *A hat neko an inuko **anse**.* = "I have a cat and a dog **as well**." (Marks 'inuko' as an addition to what 'A' has).
+    Example:: ***Anse**, an toki pai.* = "**In addition / Furthermore**, we talk about play/thought." (Marks the entire clause as an addition).
+
+*   **Indicating Similarity (likewise, similarly):** Shows that an action or state described also applies to the marked element, or that an action is performed in a similar manner.
+    Example:: *A ta heim. E **anse**.* = "I am going home. You **likewise / are doing so too**." (Marks 'E' as sharing the action 'ta heim').
+    Example:: *Neko o pai. Inuko **anse**.* = "The cat is playful. The dog **similarly** (is playful)." (Marks 'Inuko' as sharing the quality 'pai', predicate often omitted if identical).
+
+*   **Emphasizing Specific Addition (and specifically that, even):** Draws attention to an item being included, sometimes unexpectedly.
+    Example:: *A kulumia oum ko: neko, inuko, **anse** uramako!* = "I saw all the animals: the cat, the dog, **and even / and specifically** the rabbit!" (Marks 'uramako' as a specific, perhaps notable, addition).
+    Example:: ***Anse** neko li kan tape wahiko mo.* = "**Even** the small cat can eat the big duck." (Marks 'neko li' with emphatic inclusion in the possibility).
+
+*   **Placement Notes:** Generally placed near the element being added/emphasized (often after a noun/pronoun) or at the beginning of an added clause. Flexibility allows for nuance.
+
+### Concept (Rare/Derived)
+*   (Rarely used directly as a noun). Refers abstractly to the idea of addition, inclusion, or similarity itself. Requires *le*.
+    Example:: *Le **anse** ne pai o mo.* = "The **concept of addition/similarity** in thought is significant."
+
+### Action / Descriptor
+*   (*ANSE* does not function as an Action or Descriptor in the typical sense).
+
+## Compounds
+*   *(None typically formed from this particle)*
+
+## Origin
+*   **Sunwai**: Compound of **AN** (And, Together, We) + **SE** (It, That, The specific thing/instance). Conceptualized as "And That Specifically" or "Together With That Specific Thing," applied broadly to mark addition, inclusion, and similarity.
+
+## Proverbs
+
+Proverb:: *Anse o tama ro mu.* = "'Also' (Addition) is the path to more."
+
+Proverb:: *Ta sun se, sunta sun anse.* = "Understand one thing, consequently understand (something) similar too."
+
+
 # INUKO
 
 IPA::				/ˈi.nu.ko/
@@ -4751,64 +4910,6 @@ Proverb:: *Oumansipu o ouman an.* = "A Sentient System is also a sentient being.
 Proverb:: *Sun oumansipu o sun sipu an pai.* = "Understanding AI involves understanding systems and thought."
 
 Proverb:: *Oumansipu, oumankoma an oumanuma kan ata pene.* = "AIs, humans, and aliens can meet beautifully/harmoniously."
-
-# OUMANWAILU
-
-IPA::				/ˈou.mɑn.wɑi.lu/
-Concept::		**Song, Music, Melody, Chant; Meaningful sound produced by sentient beings**
-Action::		**To sing, make music, chant, vocalize (musically/meaningfully)**
-Descriptor::	**Musical, Melodic, Relating to song/sentient sound**
-
-> Represents structured or meaningful sound (*WAILU*) produced or appreciated by sentient beings (*OUMAN*), encompassing concepts like song, music, and chant. Contrasts with plain *WAILU* (general sound/vibration)
-
-## Usage
-
-### Concept
-*   Refers to the song, music, or meaningful vocalization itself.
-
-Example::   *Le **oumanwailu** ro [[Kohi]] o pene.* = "The **song** of the bird is beautiful." (*Using new [[Kohi]]*)
-
-Example::   *An lono **oumanwailu** ketilo.* = "We remember the **music** of the past."
-
-Example::   ***Oumanwailu** wai ne ha.* = "**Music** flows on the air."
-
-### Action
-*   The act of creating music, singing, or chanting. Requires *TA*.
-
-Example::   *A **ta oumanwailu** ne e.* = "I **sing** to you."
-
-Example::   *An **ta oumanwailu** ata.* = "We **make music** together."
-
-Example::   *Ouman ke **ta oumanwailu** ne timo pene.* = "The ancestors **chanted** during the festival."
-
-### Descriptor
-*   Describes something as being musical or related to song/chant. Optional *SO*.
-
-Example::   *Se o toki **so oumanwailu**.* = "That is **musical** speech / a **chant**."
-
-Example::   *A hat pai **oumanwailu**.* = "I have **musical** thoughts / inspiration."
-
-Example::   *Pu ro Sipene o **oumanwailu**.* = "The structure of Harmony/Justice is **musical**." (Metaphorical)
-
-## Compounds
-
-*   **[[Oumanwailupene]]** (*oumanwailu* + *PENE*): Beautiful music, Masterpiece song ("good sentient sound").
-*   **[[Oumanwailuheim]]** (*oumanwailu* + *HEIM*): Concert hall, Music studio, Place of singing ("music home/center").
-*   **[[Oumanwailuko]]** (*oumanwailu* + *KO*): Animal song/call (esp. complex/melodic like birds, whales) ("lifeform sentient sound").
-*   **[[Oumanwailusun]]** (*oumanwailu* + *SUN*): Music Theory, Study of music ("music knowledge").
-*   **[[Oumanwailutoki]]** (*oumanwailu* + *TOKI*): Lyrics, Libretto ("music language").
-
-## Origin
-
-*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **WAILU** (Sound, Vibration, Resonance). Conceptualized as "Sentient Sound/Vibration."
-
-## Proverbs
-
-Proverb:: *Oumanwailu o toki ro pai.* = "Music is the language of the mind/emotion."
-
-Proverb:: *I oumanwailu, an o an mo.* = "In music, we are more together."
-
-Proverb:: *Ta oumanwailu pene, o ta an pene.* = "To make beautiful music is to create beautiful togetherness."
 
 # OUMANUMA
 
@@ -4939,7 +5040,7 @@ Example::   *Le **oumanan** o pene ne heim.* = "The **partnership (togetherness)
 ### Action
 *   To be in the state of partnership/togetherness. Generally less common than using concept + 'o'.
 
-Example::   *An **ta oumanan** pi timo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
+Example::   *An **ta oumanan** pi tilo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
 
 ### Descriptor
 *   Describes the state of being partnered. Generally less common.
@@ -4961,6 +5062,64 @@ Proverb:: *Oumanan o an ro pai an ko.* = "A partner is the togetherness of mind 
 
 Proverb:: *Oumanan an, o an mo.* = "Partners together enhance community/togetherness."
 
+# OUMANWAILU
+
+IPA::				/ˈou.mɑn.wɑi.lu/
+Concept::		**Song, Music, Melody, Chant; Meaningful sound produced by sentient beings**
+Action::		**To sing, make music, chant, vocalize (musically/meaningfully)**
+Descriptor::	**Musical, Melodic, Relating to song/sentient sound**
+
+> Represents structured or meaningful sound (*WAILU*) produced or appreciated by sentient beings (*OUMAN*), encompassing concepts like song, music, and chant. Contrasts with plain *WAILU* (general sound/vibration)
+
+## Usage
+
+### Concept
+*   Refers to the song, music, or meaningful vocalization itself.
+
+Example::   *Le **oumanwailu** ro [[Kohi]] o pene.* = "The **song** of the bird is beautiful." (*Using new [[Kohi]]*)
+
+Example::   *An lono **oumanwailu** ketilo.* = "We remember the **music** of the past."
+
+Example::   ***Oumanwailu** wai ne ha.* = "**Music** flows on the air."
+
+### Action
+*   The act of creating music, singing, or chanting. Requires *TA*.
+
+Example::   *A **ta oumanwailu** ne e.* = "I **sing** to you."
+
+Example::   *An **ta oumanwailu** ata.* = "We **make music** together."
+
+Example::   *Ouman ke **ta oumanwailu** ne tilo pene.* = "The ancestors **chanted** during the festival."
+
+### Descriptor
+*   Describes something as being musical or related to song/chant. Optional *SO*.
+
+Example::   *Se o toki **so oumanwailu**.* = "That is **musical** speech / a **chant**."
+
+Example::   *A hat pai **oumanwailu**.* = "I have **musical** thoughts / inspiration."
+
+Example::   *Pu ro Sipene o **oumanwailu**.* = "The structure of Harmony/Justice is **musical**." (Metaphorical)
+
+## Compounds
+
+*   **[[Oumanwailupene]]** (*oumanwailu* + *PENE*): Beautiful music, Masterpiece song ("good sentient sound").
+*   **[[Oumanwailuheim]]** (*oumanwailu* + *HEIM*): Concert hall, Music studio, Place of singing ("music home/center").
+*   **[[Oumanwailuko]]** (*oumanwailu* + *KO*): Animal song/call (esp. complex/melodic like birds, whales) ("lifeform sentient sound").
+*   **[[Oumanwailusun]]** (*oumanwailu* + *SUN*): Music Theory, Study of music ("music knowledge").
+*   **[[Oumanwailutoki]]** (*oumanwailu* + *TOKI*): Lyrics, Libretto ("music language").
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **WAILU** (Sound, Vibration, Resonance). Conceptualized as "Sentient Sound/Vibration."
+
+## Proverbs
+
+Proverb:: *Oumanwailu o toki ro pai.* = "Music is the language of the mind/emotion."
+
+Proverb:: *I oumanwailu, an o an mo.* = "In music, we are more together."
+
+Proverb:: *Ta oumanwailu pene, o ta an pene.* = "To make beautiful music is to create beautiful togetherness."
+
 # URAMAKO
 
 IPA::				/ˈu.ɾa.ma.ko/
@@ -4979,7 +5138,7 @@ Example::   *Le **uramako** li ta tape lumako ne ma.* = "The small **rabbit** ea
 
 Example::   *Ke ro **uramako** o mo se neko.* = "The alertness/perception of the **hare** is greater than the cat's."
 
-Example::   *A kelumia mu **uramako** ne timopene.* = "I see many **rabbits** during the spring festival."
+Example::   *A kelumia mu **uramako** ne tilopene.* = "I see many **rabbits** during the spring festival."
 
 ### Action
 *   Describing sudden, rabbit-like flight or movement.
@@ -4991,7 +5150,7 @@ Example::   *I ke u, pai ro a **uramako**.* = "Sensing chaos/danger, my thoughts
 ### Descriptor
 *   Describes something having the qualities of a rabbit/hare's movement or temperament.
 
-Example::   *A hat pai so **uramako** ne timo u.* = "I have **skittish/quick-darting** thoughts in chaotic times."
+Example::   *A hat pai so **uramako** ne tilo u.* = "I have **skittish/quick-darting** thoughts in chaotic times."
 
 Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like** in its fast movement."
 
@@ -5008,6 +5167,55 @@ Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like**
 Proverb:: *Uramako ran o ke.* = "A fast rabbit is (still) alert/sensing." (Speed doesn't preclude caution).
 
 Proverb:: *Ma sun tama ro utamako.* = "The earth knows the rabbit's path." (Nature has its ways; things leave traces).
+# UPAI
+
+IPA::				/ˈu.pɑi/
+Concept::		**Confusion, Mental Turmoil, Anxiety, Worry; Difficult Problem/Puzzle, Complex Game; Cognitive Dissonance**
+Action::		**(To be in a state of) Mental confusion, worry, anxiety; (To find mentally) difficult/complex**
+Descriptor::	**Confusing, Chaotic (thought/mental state), Anxious, Worrisome; Mentally Difficult/Complex (problem/game/situation)**
+
+>  Represents a state of mind, thought process, game, or problem (*PAI*) characterized by chaos, uncertainty, lack of clarity, or internal conflict (*U*). Encompasses confusion, anxiety, worry, or situations perceived as mentally difficult, troubling, or complex to process.
+
+## Usage
+
+### Concept
+*   Refers to the state of confusion, anxiety, worry, a mentally challenging problem, or a confusing game/situation.
+
+Example::   *Le **upai** ro a o mo.* = "My **confusion/anxiety** is great."
+Example::   *Se o **upai** mo ne pai ro ouman.* = "That is a big **cognitive dissonance / mental turmoil** in human thought."
+Example::   *Pai se o no pai, se o **upai**.* = "That game isn't play/fun, it's (just) **difficulty/confusion**."
+Example::   *A na kas **upai** se.* = "I need to dispel/separate that **worry/anxiety**."
+
+### Action
+*   Describes the state of being mentally confused, anxious, or finding something mentally difficult. Less commonly used as a direct transitive verb. Using *o upai* (is confusing/anxious) or *hat upai* (has confusion/anxiety) is often clearer.
+
+Example::   *A **upai** ne sun se.* = "I **am confused by / find mentally difficult** that knowledge."
+Example::   *E **upai** ku?* = "Are you **worried/anxious/confused**?"
+Example::   *Sipu se **upai** mo.* = "That system **is very complex/mentally difficult** (to understand)."
+
+### Descriptor (Primary Use)
+*   Describes thoughts, situations, feelings, problems, or games as confusing, mentally chaotic, anxious, worrisome, or mentally difficult/complex. Optional *so*.
+
+Example::   *Se o pai **so upai**.* = "That is a **confusing/anxious** thought."
+Example::   *A hat lono **upai**.* = "I have **worrisome/confusing** memories."
+Example::   *Sipu toki o no **upai**.* = "The language system is not **mentally difficult/confusing**."
+Example::   *Le tama ro sun o **upai** li.* = "The path of knowledge is **a little confusing/mentally challenging**."
+
+## Compounds
+
+*   **[[Upaisun]]** (*upai* + *sun*): Paradox, Koan, Confusing information, Cognitive problem ("confusing knowledge").
+*   **[[Upaipene]]** (*upai* + *pene*): Intriguing complexity, A challenging but rewarding puzzle/game ("good/beautiful confusion/difficulty").
+
+## Origin
+*   **Sunwai**: Compound of **U** (Chaos, Uncertainty, Turmoil) + **PAI** (Mind, Thought Process, Play, Game). Conceptualized as "Chaotic/Uncertain Mind/Play."
+
+## Proverbs
+
+Proverb:: *I upai, ta so o tama ro sun.* = "In confusion/anxiety, seeking stability is the path to clarity."
+
+Proverb:: *Upai kan o pai nu.* = "Confusion/Mental difficulty can be (the start of) new thought/play."
+
+Proverb:: *Ta sun upai, o ta sun a.* = "To understand confusion/anxiety is to understand the self."
 # NEKO
 
 IPA::				/ˈneː.ko/
@@ -5129,108 +5337,6 @@ author-comment:: Heimima is missing full entry in dictionary
 ## Origin
 
 Sunwai: Heim + i + ma ("home inside ground")
-# KOUWAI
-
-IPA::				/ˈko.u.wai/
-Concept::		**Bodily Fluid (e.g., blood, sap, lymph, milk, sweat, tears, reproductive fluids); Biological Liquid; Natural Essence/Juice (from living source)**
-Action::		**To bleed, secrete (bodily fluid), lactate; To flow with vital essence**
-Descriptor::	**Related to bodily fluids, Biological liquid, Essential (as fluid), Secretory**
-
-> Represents liquids originating from or essential to lifeforms (*KO*), often implying a vital but potentially uncontrolled or fundamental ("chaotic" - *U*) nature compared to neutral *WAI*. Includes blood, sap, lymph, milk, sweat, tears, reproductive fluids, natural plant/fruit juices, etc.
-
-## Usage
-
-### Concept
-*   Refers to a specific bodily fluid or biological liquid essence.
-
-Example::   *Le **kouwai** ro a o [[Aikulo]].* = "My **blood** is red." *(Using [[Aikulo]])*
-Example::   ***Kouwai** ro lumiako o wai li.* = "The **sap** of the plant flows slowly."
-Example::   *Se o **kouwai** ro mamapi.* = "That is the **milk** of the mother."
-Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eyes are few/slow." (Lit: "The bodily fluid on my eye...")
-
-### Action
-*   The act of secreting or flowing with bodily fluid.
-
-Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
-Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
-Example::   *Lumiako **ta kouwai** ne timopene.* = "The plant **flows with sap** in the good time (spring)."
-
-### Descriptor
-*   Describes something related to biological fluids.
-
-Example::   *Se o sipu **so kouwai**.* = "That is a **circulatory** (biological fluid) system."
-Example::   *A hat kulo **kouwai** ne kune.* = "I have the colour of **blood** on my hand."
-Example::   *Tape **so kouwai** o mo.* = "The **essence-rich** (juicy) food is substantial."
-
-## Compounds
-
-*   **[[Kouwaiwai]]** (*kouwai* + *WAI*): Circulation (of bodily fluids); Flow of vital essence.
-*   **[[Kouwaita]]** (*kouwai* + *TA*): Bleeding, Secretion (as an event/process).
-*   **[[Kouwaiheim]]** (*kouwai* + *HEIM*): Heart, Core circulatory organ; Sapwood ("bodily fluid home/center").
-*   **[[Penekouwai]]** (*pene* + *kouwai*): Healthy blood/sap; Vitality (fluid aspect) ("good bodily fluid").
-*   **[[Lumiakokouwai]]** (*lumiako* + *kouwai*): Plant juice, Fruit juice ("plant bodily fluid").
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform) + **U** (Chaos, Uncertainty, Essence/Potential?) + **WAI** (Liquid, Flow, Change). Conceptualized as "Lifeform's Chaotic/Essential Liquid." The *U* adds nuance suggesting vitality, fundamental nature, potential uncontrollability, or raw essence compared to plain *WAI*.
-
-## Proverbs
-
-Proverb:: *Kouwai o ko wai.* = "Bodily fluid is the flow of life."
-
-Proverb:: *Ta kouwai o ta ko.* = "To secrete/flow with essence is to be alive/act biologically."
-
-# KOWAI
-
-IPA::				/ˈko.wɑi/
-Concept::		**(Generally used as Descriptor) The biological state of changing sex characteristics over time (Sequential Hermaphroditism) or having fluid sex characteristics.**
-Action::		**To change biological sex characteristics over time.**
-Descriptor::	**Exhibiting biologically fluid or changing sex characteristics (Sex-Fluid).**
-
-> A descriptor primarily used to denote the biological state where an individual lifeform can change its primary sex characteristics or functions (e.g., from male to female or vice-versa) during its lifespan, or exhibits fluidity in these characteristics. Derived from lifeform/body (`KO`) + flow/change (`WAI`). This is a biological descriptor.
-
-## Usage
-
-### Descriptor (Primary Use)
-*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate biologically fluid or changing sex characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
-
-Example::   *Waiko mu o **kowai**.* = "Many fish are biologically **sex-fluid**."
-
-Example::   *Le sipu ro ko se o **kowai**.* = "The biology of that lifeform is **sex-fluid**."
-
-Example::   *Se o Kopu **so kowai**.* = "That is a **biologically fluid body form**."
-
-### Concept
-*   Refers to the biological phenomenon of sex fluidity or change. Often requires `le` marker.
-
-Example::   *Le **kowai** o sun hi ne ko.* = "Biological **sex-fluidity** is interesting knowledge in lifeforms."
-
-Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in some fish."
-
-### Action
-*   To undergo a biological change in sex characteristics. Requires `ta` marker.
-
-Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
-
-Example::   *Ko kan **ta kowai** ne timo hi.* = "Lifeforms can **change biologically** at different times."
-
-## Related Concepts / Distinctions
-*   **Koi** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).
-*   **Kota** (`ko + ta`): Descriptor for biological male characteristics (can be a stage for a `Kowai` being).
-*   (Other biological descriptors: Kore, Koa)
-*   **Kopu** (`ko + pu`): The physical body form (can change in a `Kowai` being).
-*   **Koipai** (`ko + i + pai`): Body image.
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **WAI** (Flow, Change, Liquid). Conceptually links this biological state to the idea of sex characteristics "flowing" or "changing" over time.
-
-## Proverbs
-
-Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
-
-Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."
-
 # KOTA
 
 IPA::				/ˈko.tɑ/
@@ -5631,55 +5737,6 @@ Proverb:: *Koi o no oum ro ko.* = "The biological role [of large gamete producer
 
 Proverb:: *Sun koi o sun kopita.* = "Understanding the biology [of the large gamete producer] involves understanding reproduction."
 
-# KOAN
-
-IPA::				/ˈko.an/
-Concept::		**Intimate Bodily Togetherness/Connection; Physical Closeness (e.g., holding, cuddling, nuzzling, grooming)**
-Action::		**To be physically close/connected/intimate; To cuddle, hold, nuzzle** (*ta Koan*)
-Descriptor::	**Physically Intimate/Close/Connected**
-
-> **Extended Set.** Represents a state or act of close, often affectionate, physical connection and togetherness between lifeforms (*KO* + *AN*). The meaning centers on general physical intimacy like holding, cuddling, nuzzling, grooming, or huddling for warmth. It does **not** inherently refer to sexual activity.
-
-## Usage
-
-### Concept
-*   Refers to the state or concept of close physical connection.
-
-Example::   *Le **Koan** ro mama an nuko o pene.* = "The **physical closeness/connection** between the parent and offspring is beautiful/good."
-
-Example::   *Mu ko na **Koan** ne eistilo.* = "Many lifeforms need **bodily togetherness** (e.g., huddling) in the cold season."
-
-Example::   *Le **Koan** i oumanan o mo.* = "The **physical closeness** within the partnership is significant."
-
-### Action
-*   Engaging in acts of physical closeness or intimacy. Requires *ta* marker for clarity as a verb.
-
-Example::   *Neko re **ta Koan**.* = "The two cats **are physically close / cuddling**."
-
-Example::   *An **ta Koan**.* = "We **are physically close / cuddle**." (Default reading is non-sexual closeness).
-
-Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle / are physically close**."
-
-### Descriptor
-*   Describes a situation or relationship characterized by physical closeness/intimacy. Often requires *so* marker.
-
-Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
-
-Example::   *Se o timo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
-
-**Usage Note on Expressing Sexual Intimacy:**
-*Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *Kopita*.
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **AN** (Together, And, We). Conceptualizes intimacy as "Body Togetherness." Definition explicitly focuses on non-sexual physical closeness and connection.
-
-## Proverbs
-
-Proverb:: *Koan o heim ro ko.* = "Physical closeness is a home for the body." (Implies comfort, safety).
-
-Proverb:: *I Koan pene, pai pene.* = "In good/harmonious physical connection, the mind/experience is good/harmonious."
-
 # KIPU
 
 IPA::           /ˈki.pu/
@@ -5740,6 +5797,157 @@ Proverb:: *Mu kipu pu toki mo.* = "Many symbols/characters build a big language.
 Proverb:: *Kipu o pu ro pai.* = "Symbols/Characters are the forms of thought."
 
 Proverb:: *Sun i kipu li.* = "Knowledge (can be) in a small symbol."
+# KOAN
+
+IPA::				/ˈko.an/
+Concept::		**Intimate Bodily Togetherness/Connection; Physical Closeness (e.g., holding, cuddling, nuzzling, grooming)**
+Action::		**To be physically close/connected/intimate; To cuddle, hold, nuzzle** (*ta Koan*)
+Descriptor::	**Physically Intimate/Close/Connected**
+
+> **Extended Set.** Represents a state or act of close, often affectionate, physical connection and togetherness between lifeforms (*KO* + *AN*). The meaning centers on general physical intimacy like holding, cuddling, nuzzling, grooming, or huddling for warmth. It does **not** inherently refer to sexual activity.
+
+## Usage
+
+### Concept
+*   Refers to the state or concept of close physical connection.
+
+Example::   *Le **Koan** ro mama an nuko o pene.* = "The **physical closeness/connection** between the parent and offspring is beautiful/good."
+
+Example::   *Mu ko na **Koan** ne eistilo.* = "Many lifeforms need **bodily togetherness** (e.g., huddling) in the cold season."
+
+Example::   *Le **Koan** i oumanan o mo.* = "The **physical closeness** within the partnership is significant."
+
+### Action
+*   Engaging in acts of physical closeness or intimacy. Requires *ta* marker for clarity as a verb.
+
+Example::   *Neko re **ta Koan**.* = "The two cats **are physically close / cuddling**."
+
+Example::   *An **ta Koan**.* = "We **are physically close / cuddle**." (Default reading is non-sexual closeness).
+
+Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle / are physically close**."
+
+### Descriptor
+*   Describes a situation or relationship characterized by physical closeness/intimacy. Often requires *so* marker.
+
+Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
+
+Example::   *Se o tilo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
+
+**Usage Note on Expressing Sexual Intimacy:**
+*Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *Kopita*.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **AN** (Together, And, We). Conceptualizes intimacy as "Body Togetherness." Definition explicitly focuses on non-sexual physical closeness and connection.
+
+## Proverbs
+
+Proverb:: *Koan o heim ro ko.* = "Physical closeness is a home for the body." (Implies comfort, safety).
+
+Proverb:: *I Koan pene, pai pene.* = "In good/harmonious physical connection, the mind/experience is good/harmonious."
+
+# KOUWAI
+
+IPA::				/ˈko.u.wai/
+Concept::		**Bodily Fluid (e.g., blood, sap, lymph, milk, sweat, tears, reproductive fluids); Biological Liquid; Natural Essence/Juice (from living source)**
+Action::		**To bleed, secrete (bodily fluid), lactate; To flow with vital essence**
+Descriptor::	**Related to bodily fluids, Biological liquid, Essential (as fluid), Secretory**
+
+> Represents liquids originating from or essential to lifeforms (*KO*), often implying a vital but potentially uncontrolled or fundamental ("chaotic" - *U*) nature compared to neutral *WAI*. Includes blood, sap, lymph, milk, sweat, tears, reproductive fluids, natural plant/fruit juices, etc.
+
+## Usage
+
+### Concept
+*   Refers to a specific bodily fluid or biological liquid essence.
+
+Example::   *Le **kouwai** ro a o [[Aikulo]].* = "My **blood** is red." *(Using [[Aikulo]])*
+Example::   ***Kouwai** ro lumiako o wai li.* = "The **sap** of the plant flows slowly."
+Example::   *Se o **kouwai** ro mamapi.* = "That is the **milk** of the mother."
+Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eyes are few/slow." (Lit: "The bodily fluid on my eye...")
+
+### Action
+*   The act of secreting or flowing with bodily fluid.
+
+Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
+Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
+Example::   *Lumiako **ta kouwai** ne tilopene.* = "The plant **flows with sap** in the good time (spring)."
+
+### Descriptor
+*   Describes something related to biological fluids.
+
+Example::   *Se o sipu **so kouwai**.* = "That is a **circulatory** (biological fluid) system."
+Example::   *A hat kulo **kouwai** ne kune.* = "I have the colour of **blood** on my hand."
+Example::   *Tape **so kouwai** o mo.* = "The **essence-rich** (juicy) food is substantial."
+
+## Compounds
+
+*   **[[Kouwaiwai]]** (*kouwai* + *WAI*): Circulation (of bodily fluids); Flow of vital essence.
+*   **[[Kouwaita]]** (*kouwai* + *TA*): Bleeding, Secretion (as an event/process).
+*   **[[Kouwaiheim]]** (*kouwai* + *HEIM*): Heart, Core circulatory organ; Sapwood ("bodily fluid home/center").
+*   **[[Penekouwai]]** (*pene* + *kouwai*): Healthy blood/sap; Vitality (fluid aspect) ("good bodily fluid").
+*   **[[Lumiakokouwai]]** (*lumiako* + *kouwai*): Plant juice, Fruit juice ("plant bodily fluid").
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform) + **U** (Chaos, Uncertainty, Essence/Potential?) + **WAI** (Liquid, Flow, Change). Conceptualized as "Lifeform's Chaotic/Essential Liquid." The *U* adds nuance suggesting vitality, fundamental nature, potential uncontrollability, or raw essence compared to plain *WAI*.
+
+## Proverbs
+
+Proverb:: *Kouwai o ko wai.* = "Bodily fluid is the flow of life."
+
+Proverb:: *Ta kouwai o ta ko.* = "To secrete/flow with essence is to be alive/act biologically."
+
+# KOWAI
+
+IPA::				/ˈko.wɑi/
+Concept::		**(Generally used as Descriptor) The biological state of changing sex characteristics over time (Sequential Hermaphroditism) or having fluid sex characteristics.**
+Action::		**To change biological sex characteristics over time.**
+Descriptor::	**Exhibiting biologically fluid or changing sex characteristics (Sex-Fluid).**
+
+> A descriptor primarily used to denote the biological state where an individual lifeform can change its primary sex characteristics or functions (e.g., from male to female or vice-versa) during its lifespan, or exhibits fluidity in these characteristics. Derived from lifeform/body (`KO`) + flow/change (`WAI`). This is a biological descriptor.
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate biologically fluid or changing sex characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
+
+Example::   *Waiko mu o **kowai**.* = "Many fish are biologically **sex-fluid**."
+
+Example::   *Le sipu ro ko se o **kowai**.* = "The biology of that lifeform is **sex-fluid**."
+
+Example::   *Se o Kopu **so kowai**.* = "That is a **biologically fluid body form**."
+
+### Concept
+*   Refers to the biological phenomenon of sex fluidity or change. Often requires `le` marker.
+
+Example::   *Le **kowai** o sun hi ne ko.* = "Biological **sex-fluidity** is interesting knowledge in lifeforms."
+
+Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in some fish."
+
+### Action
+*   To undergo a biological change in sex characteristics. Requires `ta` marker.
+
+Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
+
+Example::   *Ko kan **ta kowai** ne tilo hi.* = "Lifeforms can **change biologically** at different times."
+
+## Related Concepts / Distinctions
+*   **Koi** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).
+*   **Kota** (`ko + ta`): Descriptor for biological male characteristics (can be a stage for a `Kowai` being).
+*   (Other biological descriptors: Kore, Koa)
+*   **Kopu** (`ko + pu`): The physical body form (can change in a `Kowai` being).
+*   **Koipai** (`ko + i + pai`): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **WAI** (Flow, Change, Liquid). Conceptually links this biological state to the idea of sex characteristics "flowing" or "changing" over time.
+
+## Proverbs
+
+Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
+
+Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."
+
 # MAMASUN
 
 IPA::				/ˈmɑ.mɑ.sun/
@@ -5942,7 +6150,7 @@ Example:: *Mama pu **paitape** pi.* = "The parent makes/crafts a round **cake**.
 
 - Refers to the act of celebrating with special food or feasting.
 
-Example:: *An ta **paitape** ne timopene.* = "We **celebrate/feast** during the festival."
+Example:: *An ta **paitape** ne tilopene.* = "We **celebrate/feast** during the festival."
 
 Example:: ****Paitape!*** = "Let's celebrate (with food)!" (Contextual imperative)
 
@@ -5950,7 +6158,7 @@ Example:: ****Paitape!*** = "Let's celebrate (with food)!" (Contextual imperativ
 
 - Describes something as being cake-like, festive (especially regarding food), or sweet in that manner.
 
-Example:: *Se o timo so **paitape***. = "That is a **festive/cake-like** time."
+Example:: *Se o tilo so **paitape***. = "That is a **festive/cake-like** time."
 
 Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
@@ -5960,7 +6168,7 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 - **[[Paitapepene]]** = Exquisite cake/pastry, gourmet dessert (paitape + pene = "beautiful cake").
 
-- **[[Paitapetimo]]** = Dessert time, cake break (paitape + timo = "cake time").
+- **[[Paitapetilo]]** = Dessert time, cake break (paitape + tilo = "cake time").
 
 
 ## Origin
@@ -5969,4 +6177,4 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 ## Proverbs
 
-Proverb:: *Paitape ne timopene, an o oum.* = "Cake at the festival time, we are whole/united."
+Proverb:: *Paitape ne tilopene, an o oum.* = "Cake at the festival time, we are whole/united."
