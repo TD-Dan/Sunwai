@@ -51,7 +51,7 @@ Ne pai sun mo ne lisu paisun se:
 4.  **Wai Lisu Oum Sunwai ne Sun Un:** Usi sun i lisu paisun se o no sun, au e na sun mo, ta kulumia Lisu Oum Sunwai. Se o lisu oum mo ro lisu paisun se. No na kulumia oum lisu se ne ke.
 5.  **Kulumia Lisu Sun Ro e:** Ta Lisu Sun ne Appendix A ne kulumia ta ro e an sun ta u.
 6.  **Ta e Lutaum:** Lono Sunwai hat lutaum. Heim ne sun pu ma ke. Sun li an ki pene wai an pai ta.
-7.  **(No na, hi pene):** Kan kulumia ouman nu, pai ta an e. Ta toki o tama pene ro pai sun.
+7.  **(No na, kas pene):** Kan kulumia ouman nu, pai ta an e. Ta toki o tama pene ro pai sun.
 
 ## Pu Heim Paisun
 

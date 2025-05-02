@@ -68,4 +68,4 @@ Proverb:: *Kopita o ta ro ko.* = "Reproduction is the action of life."
 
 Proverb:: *Pi ro Kopita o pi ro oum ko.* = "The cycle of reproduction is the cycle of all life."
 
-Proverb:: *Kopita o no koan, hi kan o ata.* = "Reproduction is not (the same as) intimacy, but they can meet/occur together."
+Proverb:: *Kopita o no koan, kas kan o ata.* = "Reproduction is not (the same as) intimacy, but they can meet/occur together."
