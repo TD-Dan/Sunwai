@@ -209,6 +209,7 @@ Sunwai vocabulary is built from two main types of words:
 
 *   **Root Words:** These are the foundational, often single-syllable building blocks of the language (e.g., `a`, `ta`, `wai`, `sun`, `heim`). They represent the most basic concepts. (They are sometimes categorized as Prime, Secondary, and Tertiary roots based on their phonetic simplicity and foundational role).
 *   **Compound Words:** The vast majority of Sunwai words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
+* Additionally, Sunwai utilizes **productive prefixes**, most notably [[NO]], which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
 
 ### 3. Principles for Creating New Words
 
@@ -227,7 +228,8 @@ Follow this preferred order when developing a new term:
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
     *   *Example:* **`neko`** (cat) is internally `ne` (nine) + `ko` (lifeform). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
 3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
-4.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
+4. **Prioritize Productive Prefixes (Especially [[NO]]):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [[NO]] prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
+5.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
     *   Highly specific, culturally bound concepts (unique foods, rituals) difficult to compound clearly.
     *   Technical/scientific terms challenging to represent concisely via compounding.
     *   **Crucially:** Any loan *must* be adapted to Sunwai phonetics and syllable structure and be clearly marked as such. Excessive loans damage the language's systemic nature.
@@ -238,6 +240,7 @@ Follow this preferred order when developing a new term:
     *   Apply simplification rules: e.g., vowel and consonant doubling is removed (`sun + ne -> sune`), (`ta + an -> tan`)
     *   Avoid syllable repetition unless specifically creating an emphasis word (`li li` -> tiny) or an established concept derived from repetition (`sisi` -> number concept).
 *   **Word Length:** Aim for conciseness. While not a hard rule, words over 3-4 syllables warrant scrutiny – could a phrase or simpler term work?
+*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [[SENO]], [[NOPENE]]) warrant separate entries.
 
 **Guiding Philosophy:**
 New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
@@ -354,7 +357,7 @@ Example:: *Neko tape waku li.* = "Cat eats a small duck." (li describes waku)
 
 ### 1. Equative (X is Y)
 
-`[X] o [Descriptor]`
+	[X] o [Descriptor]
 
 Use the particle **o** ("is") to link a descriptor.
 
@@ -371,7 +374,7 @@ Use the particle **o** ("is") to link a descriptor.
 
 ### 2. Excaggaration (X is more intense)
 
-	'[x] [x]'
+	[x] [x]
 
 Any word repeated intiensifies its meaning.
 
@@ -385,8 +388,7 @@ Any word repeated intiensifies its meaning.
 > Reduplication is used in myriad languages; **Hawaiian, Yoruba, Swahili, Hindi, Japanese, Mandarin Chinese, Māori, etc.** and is a common pattern.
 ### 3. Possessive (X has Y, Y is X's)
 
-`[Owner] hat [Possessed]`  X has Y
-`[Owned] ro [Owner]`  Y is X's
+	[Owner] hat [Possessed]  X has Y
 
 The particle **hat** marks possession.
 
@@ -399,6 +401,8 @@ The particle **hat** marks possession.
 - **Negation**
     - *A no hat heim.*  = "I dont have a home"
 
+	`[Owned] ro [Owner]`
+
 The particle **ro** marks ownership.
 * **Literal Ownership:**
 	* *Heim ro a.* = "My home"
@@ -409,20 +413,51 @@ The particle **ro** marks ownership.
 
 Further examples:
 * *Tape ro neko hat lumako!* = "Cat's food has vegetables!"
-### 4. Negation (not X)
 
-	'no [X]'
-The word *[[#no]]* can be inserted in front of anything to flip its meaning over.
+### 4. Negation and Meaning Reversal with NO
 
-*no neko* = "Not a cat" / "No cats here"
-*A no i heim* = "Im not at home.", literal. "I not in home"
-*E no u ku?* = "Are you not conserned?", literal. "You not chaotic?"
+ The root [[NO]] is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
+#### Particle Usage 
+
+	no [X]
+
+As a particle, `no` directly precedes the word, phrase, or concept it negates, similar to "not" or "no" in English. This modifies the statement locally without creating a new word concept.
+
+Example:: *A **no** tape.* = "I am **not** hungry."
+Example:: *Se o **no** pene.* = "That is **not** beautiful." (Use *Se o nopene.* if the intended meaning is specifically "That is bad/ugly.")"
+Example:: *A hat **no** heim.* = "I have **no** home." / "I do **not** have a home."
+
+#### Prefix Usage - Meaning Reversal / Absence
+
+	noX
+
+A core feature of Sunwai is the ability of `[[NO]]` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
+
+**Principle:** Apply this prefix logically where an opposite or absence makes sense. You do not need a dictionary entry for every possible `noX` combination; the meaning is derived from the prefix rule and the base word.
+
+**Common Examples Illustrating the Pattern:**
+*   *(pene -> beauty/good)* `nopene` = **bad/ugly/disharmonious**
+    *   Example:: *Le **nopene** o u.* = "The **badness/ugliness** is chaos."
+*   *(lono -> memory/remember)* `nolono` = **forget/forgotten/unremembered**
+    *   Example:: *A lono, kas e **nolono**.* = "I remember, but you **forget**."
+*   *(sun -> clarity/knowledge)* `nosun` = **ignorance/unclear/darkness**
+    *   Example:: *Sun o lumia; **nosun** o senokulo.* = "Clarity is light; **ignorance** is blackness."
+*   *(kan -> can/possible)* `nokan` = **unable/impossible**
+    *   Example:: *Se o **nokan**.* = "That is **impossible**."
+*   *(ko -> lifeform)* `noko` = **lifeless/absence of life**
+    *   Example:: *Lu o **noko**.* = "The void is **lifeless**."
+*   *(ta -> action/change)* `nota` = **inaction/stasis**
+    *   Example:: *So o **nota**.* = "Stillness is **inaction**."
+
+> Refer to the main dictionary entry for [[NO]] for more details and nuances.
+
 
 ### 5. Existential/Locative (There is X / X is Y)
 
-`[X] o` 
-`o [X]` 
-`[X] o [Y]` 
+	[X] o
+	o [X]
+	[X] o [Y]
+
 No specific verb needed for existence or location, always use **o**.
 
 - **Existence:**
@@ -439,8 +474,8 @@ No specific verb needed for existence or location, always use **o**.
 	* **Wai no heim**
 ### 6. Action (X does Y)
 
-`[Subject] [action] [Target]`  
-`[Subject] ta [action] [Target]`  
+	[Subject] [action] [Target]
+	[Subject] ta [action] [Target]
 
 The action between subject and target indicates directed action.
 The particle [[#ta]] can be used as action marker to resolve ambiquity in a sentence, if necessary.
@@ -455,7 +490,7 @@ The particle [[#ta]] can be used as action marker to resolve ambiquity in a sent
 
 ### 7.Yes/No Questions
 
-`[...] ku?`  
+	[...] ku?
 
 *Add **ke** at the end to form a question.*
 
@@ -467,7 +502,8 @@ The particle [[#ta]] can be used as action marker to resolve ambiquity in a sent
 
 ### 8. Imperative (Command/Request)
 
-`[verb] + [verb] + [Target]`  
+	[action] + [action] + [Target]
+
 Use repetition for emphasis
 
 - **Direct Command:**
@@ -483,7 +519,7 @@ Use repetition for emphasis
 
 ### 9. Benefactive (X does Y for Z)
 
-`[Subject] [Action] [Object (optional)] pae [Beneficiary]`
+	[Subject] [Action] [Object (optional)] pae [Beneficiary]
 
 *To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[[pae]]**.
 
@@ -497,15 +533,16 @@ Example:: *A toki **pae** e.* = "I speak **for / on behalf of** you."
 
 ### 10. Comparative (X is more Y than Z)
 
-`[X] o [Quality] se [Z]`  
-`[X] o [Quality] [Z] se`  
+	[X] o [Quality] se [Z]
+	[X] o [Quality] [Z] se
 
 * *Neko o li inuko se.* = "Cat is smaller than dog."
 * *Inuko o mo se neko.* = "Cat is smaller than dog."
 
 ### 11. Relative (X is more Y)
 
-	`[X] o [Quality Y] se`  
+	[X] o [Quality Y] se
+
 *Add **se** after adjective to make it relative*
 
 * *A o li se.* = "I am smaller."
