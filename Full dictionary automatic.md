@@ -60,8 +60,8 @@ copy contents to "Sunwai full dictionary" and bake
 - [[ATA]]
 - [[OUMAN]]
 - [[TAMA]]
-- [[TILO]]
 - [[TAWAI]]
+- [[TILO]]
 - [[TOKI]]
 - [[TAPE]]
 - [[NUTILO]]
@@ -90,6 +90,7 @@ copy contents to "Sunwai full dictionary" and bake
 - [[LONO]]
 - [[LUMIAKO]]
 - [[PISU]]
+- [[PAE]]
 - [[PENE]]
 <!-- SerializedQuery END -->
 
