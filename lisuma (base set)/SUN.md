@@ -61,7 +61,7 @@ Example::   *Pai **so** **sun** o mo.* = "A **clear/lucid** thought is significa
 *   **[[Mamasun]]** = Guiding wisdom; The star Sol (*[[mama]]* + *sun* = "nurturing illumination/principle").
 *   **[[Lonosun]]** = Objective record, clarified history (*[[lono]]* + *sun* = "memory clarified/aligned with principle").
 *   **[[Paisun]]** = Philosophy (seeking principles), Insightful thought/play, learning game (*[[pai]]* + *sun* = "mind/play oriented by principles/clarity").
-*   **[[Sunheim]]** = Place of learning/clarity (school, library, observatory) (*sun* + *[[heim]]* = "illumination/clarity home").
+*   **[[Sunheim]]** = Place of stored wisdom/clarity (library, observatory) (*sun* + *[[heim]]* = "illumination/clarity home").
 *   **[[Sunkulo]]** = Spectrum (light); Spectrum/Range of clarity/understanding (*sun* + *[[KULO]]* = "illumination color/spectrum").
 *   **[[Seno sun]]** / **[[Nosun]]** = Confusion, Ignorance, Darkness (*[[seno]]*/*[[no]]* + *sun* = "no illumination/clarity").
 *   **[[Sunwai]]** = Flow of understanding, Enlightenment process (*sun* + *[[wai]]* = "illumination/clarity flow").

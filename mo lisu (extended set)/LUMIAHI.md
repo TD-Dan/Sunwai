@@ -6,7 +6,7 @@ tags:
   - compound
   - word
   - extended-set
-to: 1300
+to: 2200
 ---
 # LUMIAHI
 

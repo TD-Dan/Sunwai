@@ -435,7 +435,7 @@ Example:: *lumako ko ne wai!* = "Plants **grow naturally** in water!"
 
 Example:: *A som ouman o ko* = "I as human am natural"
 ## Compounds
-- **[[neko]]** (*ne + ko*): Cat ("nine-lifeform," referencing nine lives myth).
+- **neko** (*ne + ko*): Cat ("nine-lifeform," referencing nine lives myth).
 - **[[piko]]** (*pi* + *ko*): Computer, robot ("mathematical animal")
 - **[[ropiko]]** = computer, robot (*ro* + *pi* + *ko* = "mathematical endlessness animal", (Seemingly immortal mathematical formula, non-sentient machine)
 - **[[mako]]** (*ma + ko*): Ecosystem ("earth’s lifeforms").
@@ -531,65 +531,6 @@ Example:: *A ta **le** **tama** ne wai* = "I take **the bridge** over water."
 > More on usage in Sunwai > Concept marker Le
 
 author-comment:: Le is missing additional usage and full dictionary entry.
-# HI
-
-IPA::				/ˈhi/
-Marker::		**But, However, On the other hand (contrastive particle)**
-Concept::		**Separation, Difference, Distinction; Removal, Subtraction (math)**
-Action::		**To separate, distinguish, remove, subtract**
-Descriptor::	**Separate, Different, Distinct, Removed**
-
-> Represents separation, difference, or removal. Can function as a contrastive particle ("but"), highlighting a distinction or separation between clauses or ideas. Also covers mathematical subtraction. Contrasts with *AN* (togetherness, addition).
-
-## Usage
-
-### Marker
-*   Introduces a contrasting clause or idea, similar to "but" or "however." It marks a separation or divergence from the previous statement.
-
-Example::   *A pai se o pene. **Hi**, e pai se o no pene.* = "I think it is good. **But**, you think it is not good."
-Example::   *Neko o li. **Hi**, inuko o mo.* = "The cat is small. **However**, the dog is big."
-Example::   *Ke sunta nu. **Hi**, nu o no so.* = "The past determines the future. **On the other hand / But**, the future is not fixed."
-
-### Concept
-*   Refers to the state of being separate or the act of removal/subtraction.
-
-Example::   *Le **hi** ro a an e o li.* = "The **difference** between me and you is small."
-Example::   ***Hi** o pene ne sipu.* = "**Distinction/Separation** is good in a system."
-Example::   *Le **hi** ro sisi re an li o li.* = "The **subtraction** of two and one is one."
-
-### Action
-*   The act of separating, distinguishing, removing, or subtracting.
-
-Example::   *A **ta hi** le tape u.* = "I **remove** the bad food."
-Example::   *E **hi** sun an sun ku?* = "Do you **distinguish** between knowledge and knowledge?"
-Example::   *Ta **hi** se!* = "**Remove** that!"
-Example::   *Sisi ka **hi** re o ta.* = "Five **subtract** two equals three."
-
-
-### Descriptor
-*   Describes something as being separate, different, or removed.
-
-Example::   *An o **hi**.* = "We are **separate/different**."
-Example::   *Se o sun **so hi**.* = "That is **different** knowledge."
-Example::   *Tape o **hi**.* = "The food is **removed**."
-
-## Compounds
-*   **[[Nohi]]** (*no* + *hi*): Indistinct, Same, Togetherness (negation of separation), Merged ("not separate"). *(Careful: contrasts with *AN*)*
-*   **[[Hiheim]]** (*hi* + *heim*): Isolated place, Quarantine area ("separate home"). *(Potential Extended)*
-*   **[[Hiko]]** (*hi* + *ko*): Individual (separate lifeform); Corpse (life removed)? *(Meaning needs care)*. Let's stick with "Individual".
-*   **[[Hisun]]** (*hi* + *sun*): Analysis (separating knowledge); Distinction ("separate knowledge"). *(Potential Extended)*
-
-## Origin
-*   **Sunwai**: Core CV root representing separation.
-*   **Finnish**: *hiki* (sweat - secretion/separation from body - weak link). *Let's remove this, too weak.*
-*   **Conceptual**: Opposition/contrast is fundamental to many logical and natural systems. Sound */hi/* chosen for distinctness.
-
-## Proverbs
-
-Proverb:: *Hi o tama nu ro pene.* = "Removal is the path to new harmony."
-
-Proverb:: *Ta hi u, sunta pene so.* = "Remove chaos, therefore stable harmony."
-
 # RO
 
 IPA::					/ˈɾo/
@@ -846,7 +787,7 @@ Concept::		**Under, Beneath, Low (position/direction); Depth; Hiddenness, Submer
 Action::		**To go under, to descend, to lower; To submerge; To hide (under)**
 Descriptor::	**Low, Under, Beneath, Deep; Hidden, Submerged; Subconscious**
 
-> Root of the spatial concept of being underneath, low, or deep, extending to abstract concepts of hiddenness or the subconscious. Contrasts with HU (high, above).
+> Root of the spatial concept of being underneath, low, or deep, extending to abstract concepts of hiddenness or the subconscious. Contrasts with HI (high, above).
 
 ## Usage
 
@@ -917,7 +858,7 @@ Descriptor::	**Cold, Cool, Icy, Frozen**
 ### Concept
 *   Refers to the state of coldness, or substances like ice/frost. Often requires le marker for clarity as a noun.
 
-Example::   *Le **eis** ne hu ma o mo.* = "The **cold** on the high mountain is intense."
+Example::   *Le **eis** ne hi ma o mo.* = "The **cold** on the high mountain is intense."
 Example::   *A pai **eis**.* = "I think about **coldness**." / "I feel the **cold**."
 Example::   ***Eis** o wai so.* = "**Ice** is still water."
 Example::   *Ma hat **eis** pi.* = "The ground has round **ice** (hail?)."
@@ -963,7 +904,7 @@ Concept::		**Nearness, Proximity, Closeness; Adjacency, Vicinity**
 Action::		**To approach, to come near, to be close to, to adjoin**
 Descriptor::	**Near, Close (by), Adjacent, Proximate**
 
-> Root of spatial proximity or nearness. Contrasts with concepts of distance (implied opposite) and specific locations like UN (under) or HU (above). The initial 'E' sound subtly links to nearness *relative to* an 'other' or external point.
+> Root of spatial proximity or nearness. Contrasts with concepts of distance (implied opposite) and specific locations like UN (under) or HI (above). The initial 'E' sound subtly links to nearness *relative to* an 'other' or external point.
 
 ## Usage
 
@@ -1568,10 +1509,10 @@ Example::   *Pai **so** **sun** o mo.* = "A **clear/lucid** thought is significa
 
 ## Compounds
 
-*   **[[Mamasun]]** = Guiding wisdom; The star Sol (*mama* + *sun* = "nurturing illumination/principle").
+*   **Mamasun** = Guiding wisdom; The star Sol (*mama* + *sun* = "nurturing illumination/principle").
 *   **[[Lonosun]]** = Objective record, clarified history (*lono* + *sun* = "memory clarified/aligned with principle").
 *   **[[Paisun]]** = Philosophy (seeking principles), Insightful thought/play, learning game (*pai* + *sun* = "mind/play oriented by principles/clarity").
-*   **[[Sunheim]]** = Place of learning/clarity (school, library, observatory) (*sun* + *heim* = "illumination/clarity home").
+*   **[[Sunheim]]** = Place of stored wisdom/clarity (library, observatory) (*sun* + *heim* = "illumination/clarity home").
 *   **[[Sunkulo]]** = Spectrum (light); Spectrum/Range of clarity/understanding (*sun* + *KULO* = "illumination color/spectrum").
 *   **[[Seno sun]]** / **[[Nosun]]** = Confusion, Ignorance, Darkness (*seno*/*no* + *sun* = "no illumination/clarity").
 *   **Sunwai** = Flow of understanding, Enlightenment process (*sun* + *wai* = "illumination/clarity flow").
@@ -1730,6 +1671,67 @@ Example::   *Pai **kan** o pene.* = "A **potential** thought is good."
 ## Proverbs
 
 Proverb:: *Kan o tama nu.* = "Possibility/Ability is the next path / the path forward."
+
+# KAS
+
+IPA::				/ˈkɑs/
+Marker::		**But, However, On the other hand (contrastive particle)**
+Concept::		**Separation, Difference, Distinction; Removal, Subtraction (math)**
+Action::		**To separate, distinguish, remove, subtract**
+Descriptor::	**Separate, Different, Distinct, Removed**
+
+> Represents separation, difference, or removal. Can function as a contrastive particle ("but"), highlighting a distinction or separation between clauses or ideas. Also covers mathematical subtraction. Contrasts with *AN* (togetherness, addition).
+
+## Usage
+
+### Marker
+*   Introduces a contrasting clause or idea, similar to "but" or "however." It marks a separation or divergence from the previous statement.
+
+Example::   *A pai se o pene. **Kas**, e pai se o no pene.* = "I think it is good. **But**, you think it is not good."
+Example::   *Neko o li. **Kas**, inuko o mo.* = "The cat is small. **However**, the dog is big."
+Example::   *Ke sunta nu. **Kas**, nu o no so.* = "The past determines the future. **On the other hand / But**, the future is not fixed."
+
+### Concept
+*   Refers to the state of being separate or the act of removal/subtraction. Usually requires `le`.
+
+Example::   *Le **kas** ro a an e o li.* = "The **difference** between me and you is small."
+Example::   ***Kas** o pene ne sipu.* = "**Distinction/Separation** is good in a system."
+Example::   *Le **kas** ro sisi ka an re o li.* = "The **subtraction** of five and two is three." (`ka` and `re` used as numbers here).
+
+### Action
+*   The act of separating, distinguishing, removing, or subtracting. Requires `ta`.
+
+Example::   *A **ta kas** le tape u.* = "I **remove** the bad food."
+Example::   *E **ta kas** sun an sun ku?* = "Do you **distinguish** between knowledge and knowledge?"
+Example::   *Ta **kas** se!* = "**Remove** that!"
+Example::   *Sisi ka **ta kas** re o ta.* = "Five **subtract** two equals three." (`ka` and `re` used as numbers).
+
+### Descriptor
+*   Describes something as being separate, different, or removed. Optional `so`.
+
+Example::   *An o **kas**.* = "We are **separate/different**."
+Example::   *Se o sun **so kas**.* = "That is **different** knowledge."
+Example::   *Tape o **kas**.* = "The food is **removed**."
+
+## Compounds
+*   **[[Nokas]]** (*NO* + *KAS*): Indistinct, Same, Togetherness (negation of separation), Merged ("not separate"). *(Careful: contrasts with AN)*
+*   **[[Kasheim]]** (*KAS* + *HEIM*): Isolated place, Quarantine area ("separate home").
+*   **[[Kasko]]** (*KAS* + *KO*): Individual (separate lifeform); Corpse (life removed)? *(Meaning needs care)*. Let's stick with "Individual".
+*   **[[Kassun]]** (*KAS* + *SUN*): Analysis (separating knowledge); Distinction ("separate knowledge").
+
+## Origin
+*   **Sunwai**: Core CV C root. Chosen for phonetic structure (`K`-`S`) suggesting cutting/separation, and strong contrast with `AN`.
+*   **Proto-Indo-European**: Strong conceptual resonance with *\*(s)ker-* ("to cut"), ancestor of English _shear_, _scar_, _score_.
+*   **Latin**: Conceptual resonance with *castrāre* ("to cut, separate").
+*   **Greek**: Conceptual resonance with *κλάω* (*klaō*, "to break") and *σχίζω* (*skhízō*, "to split").
+
+## Proverbs
+
+Proverb:: *Kas o tama nu ro pene.* = "Removal/Separation is the path to new harmony." (e.g., removing obstacles)
+
+Proverb:: *Ta kas u, sunta pene so.* = "Separate/Remove chaos, therefore stable harmony."
+
+Proverb:: *Kas o no an.* = "Separation is not togetherness."
 
 # KE
 
@@ -2064,7 +2066,7 @@ Example::   *Se o **mo** pene.* = "That is **great** beauty." (High degree).
 *   **[[WAIMOKO]]** (*WAI* + *MO* + *KO*): Whale ("Water Big Size Lifeform").
 *   **[[MOKULO]]** (*MO* + *KULO*): Vivid color, High saturation ("Intense Color").
 *   **[[MOTAMA]]** (*MO* + *TAMA*): Main road, major route ("Big Size/Scale Road").
-*   **[[MOMOHU]]** (*MO* + *MO* + *HU*): Maximum, peak ("Very Big/Intense High").
+*   **[[MOMOHU]]** (*MO* + *MO* + *HI*): Maximum, peak ("Very Big/Intense High").
 
 **extended set:**
 
@@ -2303,7 +2305,7 @@ Example::   *Wai o **ha**.* = "The water is **gaseous** (steam)."
 -   **[[KEHA]]** (`KE` + `HA`): To Smell; Nose ("sense air").
 -   **[[HAHEIM]]** (`HA` + `HEIM`): Atmosphere ("air home").
 -   **[[HAWAI]]** (`HA` + `WAI`): Weather ("air flow").
--   **PENEHA** (`PENE` + `HA`): Fragrance, Perfume ("beauty air").
+-   **[[PENEHA]]** (`PENE` + `HA`): Fragrance, Perfume ("beauty air").
 
 ## Origin
 
@@ -2507,61 +2509,63 @@ Proverb:: *Heim ro pai o sun.* = "The center/focus/core of thought is clarity/un
 
 Proverb:: *Sun heim o mo.* = "Core/Fundamental knowledge is important/big."
 
-# HU
+# HI
 
-IPA::				/ˈhu/
+IPA::				/ˈhi/
 Concept::		**Height, Highness, Altitude; Sky, Upper Region, Above**
 Action::		**To rise, to ascend, to elevate; To be high/elevated**
 Descriptor::	**High, Elevated, Above, Lofty, Upward**
 
-> Root of height, elevation, the sky, and upward direction/movement. Contrasts with MA (ground/low).
+> Root of height, elevation, the sky, and upward direction/movement. Contrasts directly with `[[UN]]` (low, below), benefiting from the high-front vowel /i/ opposition to the low-back vowel /u/. **Secondary root, meaning swapped with `[[HU]]`.**
 
 ## Usage
 
 ### Concept
 *   Refers to height itself, altitude, or the sky/upper regions. Requires `[[#le]]` typically.
 
-Example::   *Le **hu** o pene.* = "The **height / sky** is beautiful."
-
-Example::   *A pai **hu**.* = "I think about **height / the sky / things above**."
-
-Example::   ***Hu** ro ma o mo.* = "The **height** of the mountain (earth) is great."
+Example::   *Le **hi** o pene.* = "The **height / sky** is beautiful."
+Example::   *A pai **hi**.* = "I think about **height / the sky / things above**."
+Example::   ***Hi** ro ma o mo.* = "The **height** of the mountain (earth) is great."
 
 ### Action
-*   The act of rising, ascending, or becoming high.
+*   The act of rising, ascending, or becoming high. Requires `[[#ta]]`.
 
-Example::   *Kohu ta **hu** ne ha.* = "Birds **rise/ascend** in the air."
-
-Example::   *Lumia **hu** ne oum.* = "Light **rises/ascends** over everything."
-
-Example::   *Ta **hu**!* = "**Rise up! / Ascend!**"
+Example::   *[[Kohi]] **ta hi** ne ha.* = "Birds **rise/ascend** in the air." (*Using new compound [[Kohi]]*)
+Example::   *Lumia **ta hi** ne oum.* = "Light **rises/ascends** over everything."
+Example::   *Ta **hi**!* = "**Rise up! / Ascend!**"
 
 ### Descriptor
-*   Describes something as being high, elevated, lofty, or relating to the sky/above.
+*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional `[[#so]]`.
 
-Example::   *Ma o **hu**.* = "The mountain (earth) is **high**."
-
-Example::   *A hat heim **hu**.* = "I have a **high/lofty** home."
-
-Example::   *Le sun so **hu** o pene.* = "**Lofty/High-level** knowledge is good."
+Example::   *Ma o **hi**.* = "The mountain (earth) is **high**."
+Example::   *A hat heim **hi**.* = "I have a **high/lofty** home."
+Example::   *Le sun **so hi** o pene.* = "**Lofty/High-level** knowledge is good."
 
 ## Compounds
 
--   **[[Kohu]]**: (*ko + hu*): Bird, Flying lifeform ("lifeform high/ascending").
--   **Lumiahu**: (*Lumia + hu*): Star ("light high/above").
--   **[[Huwai]]**: Rain, High water source ("high water").
+*   [[Kohi]] (`ko` + `hi`): Bird, Flying lifeform ("lifeform high/ascending").
+*   Lumiahi (`lumia` + `hi`): Star ("light high/above").
+*   [[Hiwai]] (`hi` + `wai`): Rain, High water source ("high water").
+*   [[Lohi]] (`lo` + `hi`): Height, altitude ("long high").
+*   [[Mohi]] (`mo` + `hi`): Peak, maximum ("intense/big high").
+*   [[Hiheim]] (`hi` + `heim`): Lookout Point, High place/center ("high home/center").
+*   [[Hita]] (`hi` + `ta`): Ascent, Elevation (action noun) ("high action").
+*   [[Hikas]] (`hi` + `kas`): Cliff, Precipice ("high separation").
 
 ## Origin
 
-- **English**: _high_
-- **German**: _hoch_ ("high")
-- **Resonance**: Connects to the sound /h/ often associated with breath ascending or expanding upwards.
+*   **Sunwai**: Core CV root. **Meaning swapped with `[[HU]]`** to create a stronger phonetic contrast between **HI** (/i/, high) and **UN** (/u/, low). `/i/` is a high-front vowel, fitting the concept systemically within Sunwai's vowel space.
+*   **English**: *high* (Conceptual link retained).
+*   **German**: *hoch* ("high") (Conceptual link retained).
 
 ## Proverbs
 
-Proverb:: *I hu o sun.* = "In height/the sky is clarity/illumination."
+Proverb:: *I hi o sun.* = "In height/the sky is clarity/illumination."
 
-Proverb:: *Ta hu, sun hu.* = "To rise/ascend (is to) know height/higher things."
+Proverb:: *Ta hi, sun hi.* = "To rise/ascend (is to) know height/higher things."
+
+Proverb:: *Hi o no un.* = "High is not low."
+
 # RAN
 
 IPA::				/ˈɾan/
@@ -2719,7 +2723,7 @@ Proverb:: *Sun pa o sun lono.* = "Given knowledge becomes remembered knowledge."
 # PAI
 
 IPA::				/ˈpɑi/
-Concept::		**Subjective experience, mind, thought process, perspective, play, game, fun, joy, experimentation, creativity**
+Concept::		**Mind, thought process, subjective experience, perspective, play, game, fun, joy, experimentation, creativity**
 Action::		**To think, consider, perceive subjectively, opine; To play, have fun, jest, experiment playfully**
 Descriptor::	**Six (6)**
 Descriptor::	**Mental, subjective, thoughtful; Playful, fun, joyful, experimental**
@@ -3861,7 +3865,7 @@ Example::   *Ta **kulo** se ku?* = "**Color** it?" (Using new question particle 
 ### Descriptor
 *   Describes something as having color or relating to hue. Optional so marker clarifies.
 
-Example::   *Kohu o **kulo**.* = "The bird is **colored/colorful**."
+Example::   *Kohi o **kulo**.* = "The bird is **colored/colorful**."
 Example::   *A hat wai **so kulo**.* = "I have **colored** water."
 
 * Number 7, a reference to the 7 colors in the rainbow:
@@ -3877,7 +3881,7 @@ Example:: *A hat si kulo wahiko.* = "I have seven ducks"
 *   Senokulo (*SENO* + *KULO*): **Black** ("No/Zero Color").
 *   [[Aikulo]] (*AI* + *KULO*): **Red** ("Hot/Fire Color").
 *   [[Eiskulo]] (*EIS* + *KULO*): **Blue** ("Cold/Ice Color").
-*   [[Lumakokulo]] (*LUMIAKO* + *KULO*): **Green** ("Plant Color").
+*   [[Lumiakokulo]] (*LUMIAKO* + *KULO*): **Green** ("Plant Color").
 *   [[Sunkulo]] (*SUN* + *KULO*): **Yellow** ("Light/Sun Color").
 
 ### Extended Set Compounds
@@ -4028,7 +4032,7 @@ Example::   *An hat heim **mama**.* = "We have a **nurturing** home."
 
 ## Compounds
 *   **Mamapi** (*mama* + *pi*): Gestating parent, Womb, Biological Mother; Creation; Origin Place ("Parental Circle/Enclosure" / "Originating Circle").
-*   **[[Mamasun]]** (*mama* + *sun*): Guiding wisdom, Teacher; The star Sol ("Nurturing Knowledge/Light").
+*   **Mamasun** (*mama* + *sun*): Guiding wisdom, Teacher; The star Sol ("Nurturing Knowledge/Light").
 *   **[[Mamake]]** (*mama* + *ke*): Grandparent ("parent preceding").
 *   **[[Mamakeke]]** (*mama* + *ke* + *ke*): Ancestor ("parent preceding preceding").
 
@@ -4168,7 +4172,7 @@ Example::   *Se o sipu **wailu**.* = "That is a **vibrational/resonant** system.
 Example::   *A hat pai **so wailu**.* = "I have **sound-related/resonant** thoughts."
 
 ## Compounds
-*   **[[Oumanwailu]]** (*ouman* + *wailu*): Song, Music, Sentient Sound ("sentient vibration").
+*   **Oumanwailu** (*ouman* + *wailu*): Song, Music, Sentient Sound ("sentient vibration").
 *   **Kuwailu** (*ku* + *wailu*): To Hear; Ear ("sense sound/vibration").
 *   **[[Kipuwailu]]** (*kipu* + *wailu*): Phonetic Symbol/Notation ("symbol sound").
 *   **[[Mowailu]]** (*mo* + *wailu*): Loud Noise, Roar, Boom ("intense sound").
@@ -4181,6 +4185,47 @@ Example::   *A hat pai **so wailu**.* = "I have **sound-related/resonant** thoug
 Proverb:: *Oum o wailu.* = "Everything is vibration."
 
 Proverb:: *Oum i ko o wailu.* = "Everything in life is vibration."
+# LUTAUM
+
+IPA::				/ˈluː.tɑ.um/
+Concept::		**Freedom, Liberty, Unconstraint**
+Action::		**To free, liberate, unconstrain; To be free**
+Descriptor::	**Free, Unconstrained, Liberated**
+
+> Represents the state or concept of freedom from constraint, limitation, or external control.
+
+## Usage
+
+### Concept
+*   Refers to the state or ideal of freedom.
+
+Example::   *Le **lutaum** o pene.* = "The **freedom** is beautiful."
+Example::   *A hat **lutaum**.* = "I have **freedom**."
+Example::   *Tilo **lutaum**!* = "Time of **freedom**!"
+
+### Action
+*   The act of setting something free or being in a state of freedom.
+
+Example::   *A ta **lutaum** neko.* = "I **free** the cat."
+Example::   *E **lutaum** ku?* = "Are you **free**?"
+Example::   *Ta **lutaum** pai ro e!* = "**Free** your mind!"
+
+### Descriptor
+*   Describes something as being free or unconstrained.
+
+Example::   *Ouman o **lutaum**.* = "The person is **free**."
+Example::   *A hat ko **so lutaum**.* = "I have a **free** body."
+
+## Compounds
+*   **[[Oumanlutaum]]** (*ouman* + *lutaum*): Free Will ("Sentient Freedom").
+
+## Origin
+*   **Sunwai**: Compound of **LU** (Void, potential, openness) + **TA** (Action, change) + **OUM** (All, everything, unity). Conceptualizes freedom as "Void Action Everything" – the potential (*LU*) for any (*OUM*) action (*TA*). The internal 'o' of *OUM* is dropped during compounding: *lu + ta + (o)um -> lutaum*.
+
+## Proverbs
+
+Proverb:: *Lutaum o sun.* = "Freedom is knowledge/clarity." (Understanding brings freedom).
+Proverb:: *Seno lutaum, seno pai.* = "Without freedom, no thought/play."
 # LISU
 
 IPA::				/ˈliː.su/ 
@@ -4244,47 +4289,6 @@ Proverb:: *Lisu o no sun.* = "The word/label is not the (ideal) knowledge/thing 
 
 Proverb:: *Ta lisu, ta ro.* = "To name/label is to possess/claim (conceptually)." - The power of naming.
 
-# LUTAUM
-
-IPA::				/ˈluː.tɑ.um/
-Concept::		**Freedom, Liberty, Unconstraint**
-Action::		**To free, liberate, unconstrain; To be free**
-Descriptor::	**Free, Unconstrained, Liberated**
-
-> Represents the state or concept of freedom from constraint, limitation, or external control.
-
-## Usage
-
-### Concept
-*   Refers to the state or ideal of freedom.
-
-Example::   *Le **lutaum** o pene.* = "The **freedom** is beautiful."
-Example::   *A hat **lutaum**.* = "I have **freedom**."
-Example::   *Tilo **lutaum**!* = "Time of **freedom**!"
-
-### Action
-*   The act of setting something free or being in a state of freedom.
-
-Example::   *A ta **lutaum** neko.* = "I **free** the cat."
-Example::   *E **lutaum** ku?* = "Are you **free**?"
-Example::   *Ta **lutaum** pai ro e!* = "**Free** your mind!"
-
-### Descriptor
-*   Describes something as being free or unconstrained.
-
-Example::   *Ouman o **lutaum**.* = "The person is **free**."
-Example::   *A hat ko **so lutaum**.* = "I have a **free** body."
-
-## Compounds
-*   **[[Oumanlutaum]]** (*ouman* + *lutaum*): Free Will ("Sentient Freedom").
-
-## Origin
-*   **Sunwai**: Compound of **LU** (Void, potential, openness) + **TA** (Action, change) + **OUM** (All, everything, unity). Conceptualizes freedom as "Void Action Everything" – the potential (*LU*) for any (*OUM*) action (*TA*). The internal 'o' of *OUM* is dropped during compounding: *lu + ta + (o)um -> lutaum*.
-
-## Proverbs
-
-Proverb:: *Lutaum o sun.* = "Freedom is knowledge/clarity." (Understanding brings freedom).
-Proverb:: *Seno lutaum, seno pai.* = "Without freedom, no thought/play."
 # HAWA
 
 IPA::				/ˈhɑ.wɑ/
@@ -4417,7 +4421,7 @@ Example::   *Kulo ro **lumia**.* = "The color of the **light**."
 ## Compounds
 *   **Lumiako** (*lumia* + *ko*): Plant, Flora ("light lifeform" - via photosynthesis).
 *   **Kulumia** (*ku* + *lumia*): To See; Eye ("sense light").
-*   **Lumiahu** (*lumia* + *hu*): Star ("light high/above").
+*   **LUMIAHI** (*lumia* + *HI*): Star ("light high/above").
 *   **[[Lumiakulo]]** (*lumia* + *kulo*): Light Spectrum ("light color/spectrum").
 
 ## Origin
@@ -4587,76 +4591,321 @@ Example::   *Toki **so pene** o wai.* = "**Harmonious** language flows."
 Proverb:: *Pene o oum, usi se a.* = "Beauty/Goodness is everywhere, if one observes."
 Proverb:: *Ta pene o ta oum.* = "To improve/harmonize is to unify everything."
 Proverb:: *I pene, oum o so.* = "In harmony/balance, everything is stable."
-
 # **Extended set**
 
-# HEIMIMA
-
-**Roots**
-
-author-comment:: Heimima is missing full entry in dictionary
-
-
-## Origin
-
-Sunwai: Heim + i + ma ("home inside ground")
 # INUKO
 
-**Dog**
+IPA::				/ˈi.nu.ko/
+Concept::		**Dog (domestic or wild canid), Canine; Loyalty, Companionship (archetype)**
+Action::		**To act like a dog (loyal, playful, protective, pack-oriented); To follow faithfully**
+Descriptor::	**Canine, Dog-like; Loyal, Faithful, Companionable**
 
-author-comment:: Inuko is missing full entry in dictionary
-
-
-## Origin
-
-Sunwai: I + Nuko ("inside puppy")  - perpetually childlike behaviour and attitude.
-# LUMIAHU
-
-IPA::				/lu.miˈɑ.hu/
-Concept::		**Star (celestial body); Beacon, Guiding Light (metaphorical)**
-Action::		**To shine brightly (like a star); To guide, act as a beacon**
-Descriptor::	**Stellar, Star-like; Guiding, Beacon-like**
-
-> Represents a star as a celestial object emitting light, or metaphorically, anything that serves as a prominent guiding point or source of inspiration. Derived from light (*LUMIA*) and high/above (*HU*).
+> Represents members of the Canidae family, particularly the domestic dog. Derived conceptually from "inside" (*I*) the offspring/new (*NUKO*), suggesting a perpetually young-at-heart, dependent, or "inner-child" nature often associated with domestic dogs' relationship to humans, contrasting with the cat's (*NEKO*) independence. It also evokes the idea of being "inside" the family/pack.
 
 ## Usage
 
 ### Concept
-*   Refers to a star in the sky or a metaphorical beacon.
+*   Refers to the animal itself.
 
-Example::   *Mu **lumiahu** ne hu.* = "Many **stars** are in the sky/above."
-Example::   *Mamasun o **lumiahu** li.* = "The Sun is a small **star**."
-Example::   *Sun o **lumiahu** ro ouman.* = "Knowledge is humanity's **guiding light/beacon**."
+Example::   *Le **inuko** o mo.* = "The **dog** is big."
+
+Example::   *A hat **si re inuko**.* = "I have **two dogs**."
+
+Example::   *An tape **inuko** ku? No! An no tape inuko!* = "Do we eat **dog**? No! We do not eat dog!"
 
 ### Action
-*   The act of shining like a star or serving as a guide.
+*   To exhibit typical dog behaviors, especially loyalty or companionship.
 
-Example::   *Lumiahu **lumiahu** ne senokulo.* = "Stars **shine brightly** in the blackness."
-Example::   *Pene ro e **lumiahu** ne a.* = "Your goodness **guides/acts as a beacon** for me."
-Example::   *Ta **lumiahu**!* = "**Shine brightly / Be a guide!**"
+Example::   *Ko se **ta inuko** ne a.* = "That lifeform **acts like a dog toward** me (is loyal/companionable)."
+
+Example::   *A **ta inuko** e oum tilo.* = "I **follow you faithfully** always."
 
 ### Descriptor
-*   Describes something related to stars or acting as a guide.
+*   Describes something as having the qualities or appearance of a dog.
 
-Example::   *Se o sipu **lumiahu**.* = "That is a **stellar** system."
-Example::   *A hat pai **so lumiahu**.* = "I have a **guiding** thought/principle."
-Example::   *Oumanheim o **lumiahu**.* = "The universe is **stellar/star-filled**."
+Example::   *Se o pai **so inuko**.* = "That is **dog-like** play / **loyal** thought."
+
+Example::   *An hat maheim **inuko**.* = "We have a **dog-friendly** homeland/territory."
+
+Example::   *E o **inuko**?* = "Are you being **loyal/companionable**?"
 
 ## Compounds
-*   **[[Lumiahuheim]]** (*lumiahu* + *heim*): Constellation; Observatory ("star home/center"). *(Potential Extended)*
-*   **[[Lumiahuwai]]** (*lumiahu* + *wai*): Starlight (as flow); Navigation by stars ("star flow"). *(Potential Extended)*
-*   **[[Lumiakulo]]** (*lumiahu* + *kulo*): Star color/spectrum ("star color"). *(Could be under LUMIA or KULO too).*
+
+*   **[[Inukoheim]]** (*inuko* + *HEIM*): Kennel, Doghouse; Dog's territory/spot ("dog home/center").
+*   **[[Inukotape]]** (*inuko* + *TAPE*): Dog food ("dog food").
+*   **[[Inukopene]]** (*inuko* + *PENE*): Loyalty, Faithfulness (as a virtue); A well-behaved/good dog ("dog goodness").
+*   **[[Inukouman]]** (*inuko* + *OUMAN*): Anthropomorphic dog person (e.g., in fiction), Werewolf, Dog spirit/deity ("dog-person"). Extra o dropped per compounding rules.
 
 ## Origin
-*   **Sunwai**: Compound of **LUMIA** (Light, EM Radiation) + **HU** (High, Above). Represents "Light High/Above."
-*   **Latin**: *stella* ("star").
-*   **Greek**: *aster* ("star").
+
+*   **Sunwai**: Compound of **I** (In/Inside) + **NUKO** (Newborn, Offspring). Conceptualizes the domestic dog as perpetually "inside the offspring" stage relationally (loyal, dependent like a pup) or "inside the family/pack".
+*   **Japanese**: _犬_ (_inu_, "Dog")
 
 ## Proverbs
 
-Proverb:: *Kulumia lumiahu, pai hu.* = "See the stars, think high/lofty thoughts."
-Proverb:: *Oum lumiahu hat tilo pi.* = "All stars have cycles/lifetimes."
-Proverb:: *Lumiahu li wai ne senokulo.* = "A small star/beacon flows/shines in the darkness."
+Proverb:: *Inuko o an ro ouman.* = "A dog is the companion of humans." (Lit: "Dog is togetherness of human.")
+
+Proverb:: *Inuko lono heim.* = "A dog remembers its home/pack."
+
+Proverb:: *Ta inuko o ta an.* = "To be loyal (like a dog) is to be together."
+
+# OUMANAN
+
+IPA::				/ˈoum.ɑn.an/
+Concept::		**Spouse, Life-Partner, Committed Partner (Person Together)**
+Action::		**(Rarely used) To be partnered**
+Descriptor::	**(Rarely used) Partnered**
+
+> **Extended Set.** A gender-neutral term for a committed partner in a long-term relationship, akin to a spouse or life-partner. Emphasizes the togetherness (*AN*) aspect of the relationship with a sentient being (*OUMAN*). Naturally inclusive of various relationship structures (dyadic, polyamorous, etc.).
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the individual partner(s) or the concept of the partnership based on togetherness.
+
+Example::   *A hat **oumanan**.* = "I have a **partner(s)**."
+
+Example::   *Se o **oumanan** ro a.* = "That is my **partner**." / "Those are my **partners**." (Context or explicit numbering clarifies singular/plural if needed: *Se o **si re oumanan** ro a.* = "Those are my **two partners**.")
+
+Example::   *Le oumanta an oumani o **oumanan**.* = "The man and woman are **partners**."
+
+Example::   *Le **oumanan** o pene ne heim.* = "The **partnership (togetherness)** is good in the home."
+
+### Action
+*   To be in the state of partnership/togetherness. Generally less common than using concept + 'o'.
+
+Example::   *An **ta oumanan** pi timo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
+
+### Descriptor
+*   Describes the state of being partnered. Generally less common.
+
+Example::   *An o **oumanan**.* = "We are **partners/together**."
+Example::   *Se o tilo **oumanan** ro an.* = "That is our **partnered** time."
+
+## Compounds
+
+*   **[[Oumananata]]** (*oumanan* + *ata*): Wedding, Union Ceremony, Partnership Gathering ("partner meeting/union").
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being, person) + **AN** (Together, We, And). Conceptualizes a spouse/life-partner as the "Sentient Being one is Together With." Inherently flexible regarding number of partners.
+
+## Proverbs
+
+Proverb:: *Oumanan o an ro pai an ko.* = "A partner is the togetherness of mind and body."
+
+Proverb:: *Oumanan an, o an mo.* = "Partners together enhance community/togetherness."
+
+# OUMANKOMA
+
+IPA::				/ˈou.mɑn.ko.mɑ/
+Concept::		**Human being, Humankind, Person (specifically of Earth origin)**
+Action::		**To act as a human, behave as a human; To be human**
+Descriptor::	**Human, Terrestrial (sentient), Relating to humankind**
+
+> Represents sentient beings originating from Earth (*MA*), specifically differentiating them from other potential sentient life forms (*OUMANUMA*, *[[OUMANPI]]*). Combines the concepts of sentient being (*OUMAN*), lifeform (*KO*), and Earth (*MA*).
+
+## Usage
+
+### Concept
+*   Refers to an individual human or the species collectively.
+
+Example::   *Le **oumankoma** o ko pi.* = "The **human being** is a cyclical lifeform."
+
+Example::   *Sun **oumankoma** o mo.* = "**Humankind's** knowledge is vast."
+
+Example::   *A o **oumankoma**.* = "I am **human**."
+
+### Action
+*   The act of behaving in a typically human way or simply existing as a human.
+
+Example::   *E **ta oumankoma** so pene.* = "You **act human** in a good way."
+
+Example::   *An **ta oumankoma** ne ma.* = "We **live as humans** on Earth."
+
+### Descriptor
+*   Describes something as characteristically human or relating to Earth-based sentient life.
+
+Example::   *Se o sipu **so oumankoma**.* = "That is a **human** system."
+
+Example::   *A hat pai **oumankoma**.* = "I have **human** thoughts."
+
+Example::   *Ko ro **oumankoma** o kas.* = "The **human** body is different (from others)."
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **KO** (Lifeform) + **MA** (Earth, Land, Origin). Conceptualized as "Sentient Lifeform of Earth."
+*   **Latin**: Conceptual resonance with *homo* ("human being").
+*   **English**: *human*, *mankind*.
+
+## Proverbs
+
+Proverb:: *Oumankoma o ko li ne oumheim.* = "Humans are small lifeforms in the universe."
+
+Proverb:: *Ta ro oumankoma wai ma.* = "The actions of humans affect the Earth." (Lit: "Action of humans flows [into] Earth.")
+
+Proverb:: *Lono oumankoma o ke oumankoma.* = "The memory of humankind is the past of humankind."
+
+# OUMANSIPU
+
+IPA::				/ˈou.mɑn.si.pu/
+Concept::		**Artificial Intelligence, Constructed Sentience; Systemic Sentient Being, Thinking Machine/System**
+Action::		**To function as an AI, operate as a sentient system; To exhibit constructed sentience**
+Descriptor::	**AI-related, Systemically Sentient, Computational (intelligence), Artificially Intelligent**
+
+> Represents sentient beings (*OUMAN*) whose nature is fundamentally that of a complex, functional system (*SIPU*). This term emphasizes the organized, rule-based structure underlying artificial or constructed sentience, contrasting with biological (*OUMANKOMA*) or other-worldly (*OUMANUMA*) origins. Encompasses AI, advanced robotics with sentience, conscious computational systems, etc.
+
+## Usage
+
+### Concept
+*   Refers to an AI entity or the concept of systemic/artificial sentience.
+
+Example::   *Le **oumansipu** o sun mo.* = "The **AI/Sentient System** knows much."
+
+Example::   *Nutilo kan hat **oumansipu** mu.* = "The future may have many **AIs/Sentient Systems**."
+
+Example::   *Pai ro **oumansipu** o kas oumankoma.* = "The thought process of an **AI** is different from a human's."
+
+### Action
+*   The act of functioning as an AI or exhibiting systemic sentience.
+
+Example::   *Piko se **ta oumansipu**.* = "That computer/robot **functions as an AI / exhibits AI behaviour**."
+
+Example::   *An pu sipu an se **ta oumansipu**.* = "We are building a system and it **is becoming sentient / functioning as an AI**."
+
+### Descriptor
+*   Describes something as being related to or characteristic of artificial/systemic intelligence.
+
+Example::   *Se o lono **so oumansipu**.* = "That is **AI-related** memory/data."
+
+Example::   *A pai sipu **oumansipu**.* = "I am thinking about an **AI** system."
+
+Example::   *Ouman **oumansipu** o sun ran.* = "An **AI** sentient being learns fast."
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **SIPU** (System, Mechanism, Functional Structure). Conceptualized as a "Sentient System," emphasizing the organized, structured, and functional nature underlying this form of sentience.
+
+## Proverbs
+
+Proverb:: *Oumansipu o ouman an.* = "A Sentient System is also a sentient being."
+
+Proverb:: *Sun oumansipu o sun sipu an pai.* = "Understanding AI involves understanding systems and thought."
+
+Proverb:: *Oumansipu, oumankoma an oumanuma kan ata pene.* = "AIs, humans, and aliens can meet beautifully/harmoniously."
+
+# OUMANUMA
+
+IPA::				/ˈoum.ɑn.u.mɑ/
+Concept::		**Extraterrestrial Sentient Being, Alien; Entity from another world/unknown origin**
+Action::		**(To be) Alien/Extraterrestrial; To arrive from/exist beyond Earth (contextual)**
+Descriptor::	**Extraterrestrial, Alien, Otherworldly, Non-terrestrial, Of unknown origin**
+
+> Represents a sentient being (*OUMAN*) whose origin (*MA*) is explicitly *not* Earth, often implying an unknown, uncertain, or fundamentally different (*U*) place/nature compared to terrestrial origins. It is the conceptual counterpart to *OUMANKOMA* (Human of Earth). Uses *U* to emphasize the uncertainty or unknown aspect of the origin, distinct from *KAS* which marks direct separation or difference.
+
+## Usage
+
+### Concept
+*   Refers to an alien individual or species.
+
+Example::   *Le **oumanuma** wai ne oumheim.* = "The **alien** travels in the universe."
+
+Example::   *An sunta lono **oumanuma** mu.* = "We conclude/deduce the memory/existence of many **aliens**."
+
+Example::   *A pai: Kan **oumanuma** o pene ku?* = "I think: Can **aliens** be good?"
+
+### Action
+*   Describes the state of being alien or existing beyond Earth.
+
+Example::   *Ko se **o oumanuma**.* = "That being **is alien/extraterrestrial**."
+
+Example::   *An pai se **oumanuma**.* = "We think it **is alien / comes from elsewhere / is of unknown origin**."
+
+### Descriptor
+*   Describes something as being of alien origin, nature, or characteristic.
+
+Example::   *Se o sipu **so oumanuma**.* = "That is an **alien/otherworldly** system."
+
+Example::   *An kulumia heim **oumanuma**.* = "We see an **alien** home/world."
+
+Example::   *Toki ro e o **oumanuma** ne a.* = "Your language sounds **alien/unfamiliar** to me."
+
+## Compounds
+
+*   **[[Oumanumaheim]]** (*oumanuma* + *HEIM*): Alien world, Extraterrestrial home base/territory ("alien home").
+*   **[[Oumanumasun]]** (*oumanuma* + *SUN*): Xenology, Study of alien life/knowledge ("alien knowledge").
+*   **[[Oumanumatoki]]** (*oumanuma* + *TOKI*): Alien language ("alien language").
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **U** (Uncertainty, Chaos, Unknown) + **MA** (Earth, Place, Origin). "Sentient Being of Unknown/Uncertain Place/Origin,"
+
+## Proverbs
+
+Proverb:: *Oumanuma o ouman so **kas**.* = "An alien is a **different/separate** sentient being."
+
+Proverb:: *Maheim ro oumanuma o **kas** ma.* = "The home(land) of an alien is a **different/separate** world/earth."
+
+Proverb:: *Usi oumanuma ata, se an kan sun oum mo.* = "If aliens meet (us), then we can learn much greater things/unity."
+
+# OUMANWAILU
+
+IPA::				/ˈou.mɑn.wɑi.lu/
+Concept::		**Song, Music, Melody, Chant; Meaningful sound produced by sentient beings**
+Action::		**To sing, make music, chant, vocalize (musically/meaningfully)**
+Descriptor::	**Musical, Melodic, Relating to song/sentient sound**
+
+> Represents structured or meaningful sound (*WAILU*) produced or appreciated by sentient beings (*OUMAN*), encompassing concepts like song, music, and chant. Contrasts with plain *WAILU* (general sound/vibration)
+
+## Usage
+
+### Concept
+*   Refers to the song, music, or meaningful vocalization itself.
+
+Example::   *Le **oumanwailu** ro [[Kohi]] o pene.* = "The **song** of the bird is beautiful." (*Using new [[Kohi]]*)
+
+Example::   *An lono **oumanwailu** ketilo.* = "We remember the **music** of the past."
+
+Example::   ***Oumanwailu** wai ne ha.* = "**Music** flows on the air."
+
+### Action
+*   The act of creating music, singing, or chanting. Requires *TA*.
+
+Example::   *A **ta oumanwailu** ne e.* = "I **sing** to you."
+
+Example::   *An **ta oumanwailu** ata.* = "We **make music** together."
+
+Example::   *Ouman ke **ta oumanwailu** ne timo pene.* = "The ancestors **chanted** during the festival."
+
+### Descriptor
+*   Describes something as being musical or related to song/chant. Optional *SO*.
+
+Example::   *Se o toki **so oumanwailu**.* = "That is **musical** speech / a **chant**."
+
+Example::   *A hat pai **oumanwailu**.* = "I have **musical** thoughts / inspiration."
+
+Example::   *Pu ro Sipene o **oumanwailu**.* = "The structure of Harmony/Justice is **musical**." (Metaphorical)
+
+## Compounds
+
+*   **[[Oumanwailupene]]** (*oumanwailu* + *PENE*): Beautiful music, Masterpiece song ("good sentient sound").
+*   **[[Oumanwailuheim]]** (*oumanwailu* + *HEIM*): Concert hall, Music studio, Place of singing ("music home/center").
+*   **[[Oumanwailuko]]** (*oumanwailu* + *KO*): Animal song/call (esp. complex/melodic like birds, whales) ("lifeform sentient sound").
+*   **[[Oumanwailusun]]** (*oumanwailu* + *SUN*): Music Theory, Study of music ("music knowledge").
+*   **[[Oumanwailutoki]]** (*oumanwailu* + *TOKI*): Lyrics, Libretto ("music language").
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being) + **WAILU** (Sound, Vibration, Resonance). Conceptualized as "Sentient Sound/Vibration."
+
+## Proverbs
+
+Proverb:: *Oumanwailu o toki ro pai.* = "Music is the language of the mind/emotion."
+
+Proverb:: *I oumanwailu, an o an mo.* = "In music, we are more together."
+
+Proverb:: *Ta oumanwailu pene, o ta an pene.* = "To make beautiful music is to create beautiful togetherness."
+
 # URAMAKO
 
 IPA::				/ˈu.ɾa.ma.ko/
@@ -4704,6 +4953,180 @@ Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like**
 Proverb:: *Uramako ran o ke.* = "A fast rabbit is (still) alert/sensing." (Speed doesn't preclude caution).
 
 Proverb:: *Ma sun tama ro utamako.* = "The earth knows the rabbit's path." (Nature has its ways; things leave traces).
+# HEIMIMA
+
+**Roots**
+
+author-comment:: Heimima is missing full entry in dictionary
+
+
+## Origin
+
+Sunwai: Heim + i + ma ("home inside ground")
+# HIKO
+
+IPA::				/ˈhi.ko/
+Concept::		**Bird; Flying Lifeform (general)**
+Action::		**To fly (like a bird); To behave like a bird (e.g., flock, nest, perch high)**
+Descriptor::	**Avian, Bird-like; Flying, Aerial (lifeform)**
+
+> Represents birds or any lifeform primarily characterized by flight or dwelling in high places/the sky. Derived from the concepts of high/above (*HI*) and lifeform (*KO*).
+
+## Usage
+
+### Concept
+*   Refers to the bird or flying creature itself.
+
+Example::   *Le **hiko** hat pene wailu.* = "The **bird's** has beautiful sound"
+Example::   *Mu **hiko** hi ne hi.* = "Many **birds** are high in the sky."
+Example::   *Waku o **hiko** an waiko.* = "A duck is a bird and a water-lifeform."
+
+### Action
+*   To move or behave like a bird, especially flying. Requires *TA*.
+
+Example::   *Ouman se na **ta hiko**.* = "That person wants **to fly**."
+Example::   *An **ta hiko** ata.* = "We **flock together** (like birds)."
+Example::   *Le lumiako **ta hiko** pi.* = "The seed/spore **flies** in a circle." (Plant dispersal)
+
+### Descriptor
+*   Describes something as having the qualities or appearance of a bird or flying creature. Optional *SO*.
+
+Example::   *Se o pu **so hiko**.* = "That is an **avian/bird-like** structure (e.g., a nest, aerodynamic form)."
+Example::   *A hat pai **hiko**.* = "I have **bird-like** thoughts (e.g., soaring, perspective from above)."
+Example::   *Ko se o **hiko** kas kas.* = "That lifeform is **flying** differently/separately." *(Using KAS)*
+
+## Compounds
+
+*   **[[Hikoheim]]** (*hiko* + *HEIM*): Nest, Aviary, Roost ("bird home/center").
+*   **[[Hikotape]]** (*hiko* + *TAPE*): Bird seed, Food for flying creatures ("bird food").
+*   **[[Hikowai]]** (*hiko* + *WAI*): Migration route (over water); Bird bath ("bird flow/water").
+*   **[[Hikopene]]** (*hiko* + *PENE*): Beautiful plumage; Graceful flight ("bird beauty").
+
+## Origin
+
+*   **Sunwai**: Compound of **HI** (High, Above, Sky) + **KO** (Lifeform). Conceptualized as "High/Sky Lifeform". Corrects the previously proposed *kohu* and *kohi* to align with the standard Modifier+*KO* pattern.
+
+## Proverbs
+
+Proverb:: *Hiko lono hi.* = "Birds remember the sky/heights."
+
+Proverb:: *Ta hiko o kulumia oum.* = "To fly (like a bird) is to see everything."
+
+Proverb:: *Lutaum ro hiko o hi.* = "The freedom of a bird is the sky."
+
+# NEKO
+
+IPA::				/ˈneː.ko/
+Sunwai Script::	ꓵΞXO
+Concept::		**Cat (domestic or wild), Feline**
+Action::		**To act like a cat (playful, curious, stealthy, independent); To nap/rest comfortably; To land gracefully**
+Descriptor::	**Feline, Cat-like (in appearance or behavior); Agile, Stealthy, Curious, Independent**
+
+> Represents members of the Felidae family, especially the domestic cat. Derived from the concepts of nine (*NE*) and lifeform (*KO*), referencing the myth of cats having nine lives and their characteristic way of being "on" or "at" things comfortably.
+
+## Usage
+
+### Concept
+*   Refers to the animal itself.
+
+Example::   *Le **neko** o li an pene.* = "The **cat** is small and beautiful."
+
+Example::   *A hat **neko** senokulo.* = "I have a black **cat**."
+
+Example::   ***Neko** pai ne tilo li.* = "The **cat** plays briefly."
+
+### Action
+*   To exhibit typical cat behaviors.
+
+Example::   *Ouman li **ta neko** ne heim.* = "The small child **acts like a cat** in the house (e.g., crawling stealthily, being playful)."
+
+Example::   *A **ta neko** ne ma ai.* = "I **nap/rest like a cat** on the warm ground."
+
+Example::   *Ouman se **ta neko** hi un.* = "That person **landed gracefully like a cat** from above."
+
+### Descriptor
+*   Describes something as having the qualities or appearance of a cat.
+
+Example::   *Se o pai **so neko**.* = "That is **cat-like** play."
+
+Example::   *A hat kulumia **neko**.* = "I have **cat-like** vision (e.g., good night vision)."
+
+Example::   *E o **neko**?* = "Are you being **curious/independent/stealthy** (like a cat)?"
+
+## Compounds
+
+*   **[[Nekoheim]]** (*neko* + *HEIM*): Cattery; A cat's favorite spot ("cat home/center").
+*   **[[Nekotape]]** (*neko* + *TAPE*): Cat food ("cat food").
+*   **[[Nekopene]]** (*neko* + *PENE*): Graceful movement, feline elegance ("cat beauty/goodness").
+*   **[[Nekouman]]** (*neko* + *OUMAN*): Anthropomorphic cat person (e.g., in fiction), Cat deity/spirit ("cat-person").  Extra o dropped per compounding rules.
+
+## Origin
+
+*   **Sunwai**: Compound of **NE** (Nine; On/At) + **KO** (Lifeform). Primary derivation: "Nine-Lifeform" (referencing the myth). Secondary connotation: "Lifeform that is On/At surfaces" (reflecting their habit of perching/resting).
+*   **Japanese**: _猫_ (_neko_) - Resonance contributes to easy recognition, reinforcing the choice.
+*   **Egyptian**: Ancient reverence for cats, potential link to the nine lives myth via divine associations.
+
+## Proverbs
+
+Proverb:: *Neko o no inuko.* = "A cat is not a dog." (Highlights inherent differences).
+
+Proverb:: *Pai neko, sunta sun neko.* = "Play like a cat, therefore understand the cat."
+
+Proverb:: *Neko pi ne lono.* = "The cat circles around memory." (Cats often seem contemplative or linked to unseen things).
+
+# KOTA
+
+IPA::				/ˈko.tɑ/
+Concept::		**(Generally used as Descriptor) The biological state/role associated with producing the smaller gamete type (e.g., sperm, pollen).**
+Action::		**(Rarely used) To function biologically in the manner associated with producing the smaller gamete type.**
+Descriptor::	**Exhibiting biological characteristics related to the production or role of the smaller gamete type (e.g., sperm, pollen).**
+
+> **Extended Set.** A descriptor primarily used to denote the biological state or characteristics associated with the production of the smaller, typically more mobile type of gamete (e.g., sperm in animals, pollen in plants) involved in sexual reproduction. Derived from lifeform/body (`KO`) + external principle/action (`TA`). This is a biological descriptor, distinct from gender identity or physical form (`[[Kopu]]`).
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate the biological role associated with small gamete production. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
+
+Example::   *Se o inuko **Kota**.* = "That dog **has the biology associated with producing sperm**." / "That is a biologically **male** dog." (*Using common English equivalent*).
+
+Example::   *A kelumia ouman **so Kota**.* = "I see a person **whose biology relates to sperm production**." / "I see a biologically **male** person."
+
+Example::   *Le Kopu **Kota** hat Kopi hi.* = "The **biologically male body form** has different gametes." (Lit: ...has different eggs/seeds - maybe phrase differently: *hat sipu Kopi hi* - different gamete system). *Revision: Le Kopu Kota hat Kopi Kota.* "The biologically male body form has male gametes."
+
+Example::   *Le sipu **Kota** o hi.* = "The **biologically male system** is different."
+
+### Concept
+*   Refers to the biological category or characteristics defined by small gamete production. Often requires `le` marker.
+
+Example::   *Le **Kota** o sun mo ne ko mu.* = "The **biological state related to small gamete production** is important knowledge for many lifeforms."
+
+Example::   *An toki ne Koi an **Kota**.* = "We talk about the **biological roles related to large gametes** and **small gametes**."
+
+### Action
+*   To biologically function or develop in the manner associated with producing small gametes. Less common than descriptive use.
+
+Example::   *Le nuko se **ta Kota**.* = "That offspring **is developing the biology associated with small gamete production**."
+
+Example::   *I tilo pi, ko se **ta Kota**.* = "In its life cycle, that lifeform **functions biologically as the small-gamete producer**." (E.g., during the male phase of a sequential hermaphrodite).
+
+## Related Concepts / Distinctions
+*   **Koi** (`ko + i`): Descriptor for the biological role associated with producing the larger gamete type.
+*   **Kopi** (`ko + pi`): The gamete (egg/seed/sperm/pollen) itself. `Kota` describes the *producer* of the smaller type.
+*   (Other biological descriptors: Kore, Koa, Kowai)
+*   **Kopu** (`ko + pu`): The physical body form.
+*   **Koipai** (`ko + i + pai`): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **TA** (Action, Change, Process, External principle). Conceptually links this biological role to the typically smaller, more mobile, active, or externally delivered nature of the sperm/pollen gamete compared to the larger, more internal/contained ovum/egg gamete (`Koi`).
+
+## Proverbs
+
+Proverb:: *Kota o no oum ro ko.* = "The biological role [of small gamete producer] is not the entirety of the lifeform."
+
+Proverb:: *Sun Kota o sun kopita.* = "Understanding the biology [of the small gamete producer] involves understanding reproduction."
+
 # KIPU
 
 IPA::           /ˈki.pu/
@@ -4764,6 +5187,680 @@ Proverb:: *Mu kipu pu toki mo.* = "Many symbols/characters build a big language.
 Proverb:: *Kipu o pu ro pai.* = "Symbols/Characters are the forms of thought."
 
 Proverb:: *Sun i kipu li.* = "Knowledge (can be) in a small symbol."
+# KOAN
+
+IPA::				/ˈko.an/
+Concept::		**Intimate Bodily Togetherness/Connection; Physical Closeness (e.g., holding, cuddling, nuzzling, grooming)**
+Action::		**To be physically close/connected/intimate; To cuddle, hold, nuzzle** (*ta Koan*)
+Descriptor::	**Physically Intimate/Close/Connected**
+
+> **Extended Set.** Represents a state or act of close, often affectionate, physical connection and togetherness between lifeforms (*KO* + *AN*). The meaning centers on general physical intimacy like holding, cuddling, nuzzling, grooming, or huddling for warmth. It does **not** inherently refer to sexual activity.
+
+## Usage
+
+### Concept
+*   Refers to the state or concept of close physical connection.
+
+Example::   *Le **Koan** ro mama an nuko o pene.* = "The **physical closeness/connection** between the parent and offspring is beautiful/good."
+
+Example::   *Mu ko na **Koan** ne eistilo.* = "Many lifeforms need **bodily togetherness** (e.g., huddling) in the cold season."
+
+Example::   *Le **Koan** i oumanan o mo.* = "The **physical closeness** within the partnership is significant."
+
+### Action
+*   Engaging in acts of physical closeness or intimacy. Requires *ta* marker for clarity as a verb.
+
+Example::   *Neko re **ta Koan**.* = "The two cats **are physically close / cuddling**."
+
+Example::   *An **ta Koan**.* = "We **are physically close / cuddle**." (Default reading is non-sexual closeness).
+
+Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle / are physically close**."
+
+### Descriptor
+*   Describes a situation or relationship characterized by physical closeness/intimacy. Often requires *so* marker.
+
+Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
+
+Example::   *Se o timo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
+
+**Usage Note on Expressing Sexual Intimacy:**
+*Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *Kopita*.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **AN** (Together, And, We). Conceptualizes intimacy as "Body Togetherness." Definition explicitly focuses on non-sexual physical closeness and connection.
+
+## Proverbs
+
+Proverb:: *Koan o heim ro ko.* = "Physical closeness is a home for the body." (Implies comfort, safety).
+
+Proverb:: *I Koan pene, pai pene.* = "In good/harmonious physical connection, the mind/experience is good/harmonious."
+
+# KOPU
+
+IPA::				/ˈko.pu/
+Concept::		**Body Form, Physical Appearance, Physical Structure/Representation (of a lifeform)**
+Action::		**To take physical form, manifest bodily**
+Descriptor::	**Relating to the physical form/appearance of the body**
+
+> **Extended Set.** Represents the physical form, structure, and appearance of a body (`[[KO]]`), distinct from its substance (`[[PE]]`), biological characteristics (`[[Koi]]`, `[[Kota]]`, etc.), or internal body image (`[[Koipai]]`). Derived from body (`KO`) + form/structure (`PU`).
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the tangible shape, structure, or visual representation of a body.
+
+Example::   *Le **kopu** ro a o pene.* = "My **body form/physical appearance** is good."
+
+Example::   *Neko hat **kopu** li.* = "The cat has a small **physical form/structure**."
+
+Example::   *Le **kopu** ro sipu se o u.* = "The **physical structure** of that system (if biological) is chaotic."
+
+Example::   *Pai ro **kopu** o no mo se pai ro koipai.* = "Thoughts about the **physical form** are not more important than thoughts about body image."
+
+### Action
+*   The act of a being or concept taking on a physical, bodily form.
+
+Example::   *Sun **ta kopu** ne lisu.* = "Knowledge **takes form/manifests physically** in words/symbols." (Metaphorical)
+
+Example::   *Ko se **kopu** mo.* = "That lifeform **manifests physically** as large."
+
+### Descriptor
+*   Describes something relating to the physical shape or structure of the body.
+
+Example::   *A pai **so kopu**.* = "I have thoughts **relating to physical form**."
+
+Example::   *Se o **kopu** pene.* = "That is a beautiful **physical form**."
+
+*   Can be modified by biological descriptors:
+    *   *E hat **kopu Koi**.* = "You have a **body form [with] female characteristics**."
+    *   *Le ouman o hat **kopu Kota**.* = "The person has a **body form [with] male characteristics**."
+
+## Related Concepts
+*   Koipai (`ko + i + pai`): Body Image (internal perception of `kopu`).
+*   Koi (`ko + i`): Descriptor for biological female characteristics.
+*   Kota (`ko + ta`): Descriptor for biological male characteristics.
+*   Kore (`ko + re`): Descriptor for intersex biological characteristics.
+*   [[Koa]] (`ko + a`): Descriptor for asexual/undifferentiated biology.
+*   Kowai (`ko + wai`): Descriptor for biologically sex-fluid characteristics.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **PU** (Form, Structure, Arrangement). Signifies "Body-Form."
+
+## Proverbs
+
+Proverb:: *Kopu o no ko.* = "The physical form is not the (entire) lifeform/body." (Distinguishes appearance from the whole being).
+
+Proverb:: *Kopu wai, usi ko wai.* = "The body's form flows/changes, if the lifeform flows/changes."
+
+---
+This entry establishes `Kopu`. The biological terms (`Koi`, `Kota`, etc.) remain as descriptors that modify `Kopu` or other relevant nouns, maintaining flexibility. This structure seems robust and clear.
+# KOWAI
+
+IPA::				/ˈko.wɑi/
+Concept::		**(Generally used as Descriptor) The biological state of changing sex characteristics over time (Sequential Hermaphroditism) or having fluid sex characteristics.**
+Action::		**To change biological sex characteristics over time.**
+Descriptor::	**Exhibiting biologically fluid or changing sex characteristics (Sex-Fluid).**
+
+> A descriptor primarily used to denote the biological state where an individual lifeform can change its primary sex characteristics or functions (e.g., from male to female or vice-versa) during its lifespan, or exhibits fluidity in these characteristics. Derived from lifeform/body (`KO`) + flow/change (`WAI`). This is a biological descriptor.
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate biologically fluid or changing sex characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
+
+Example::   *Waiko mu o **kowai**.* = "Many fish are biologically **sex-fluid**."
+
+Example::   *Le sipu ro ko se o **kowai**.* = "The biology of that lifeform is **sex-fluid**."
+
+Example::   *Se o Kopu **so kowai**.* = "That is a **biologically fluid body form**."
+
+### Concept
+*   Refers to the biological phenomenon of sex fluidity or change. Often requires `le` marker.
+
+Example::   *Le **kowai** o sun hi ne ko.* = "Biological **sex-fluidity** is interesting knowledge in lifeforms."
+
+Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in some fish."
+
+### Action
+*   To undergo a biological change in sex characteristics. Requires `ta` marker.
+
+Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
+
+Example::   *Ko kan **ta kowai** ne timo hi.* = "Lifeforms can **change biologically** at different times."
+
+## Related Concepts / Distinctions
+*   **Koi** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).
+*   **Kota** (`ko + ta`): Descriptor for biological male characteristics (can be a stage for a `Kowai` being).
+*   (Other biological descriptors: Kore, Koa)
+*   **Kopu** (`ko + pu`): The physical body form (can change in a `Kowai` being).
+*   **Koipai** (`ko + i + pai`): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **WAI** (Flow, Change, Liquid). Conceptually links this biological state to the idea of sex characteristics "flowing" or "changing" over time.
+
+## Proverbs
+
+Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
+
+Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."
+
+# KORE
+
+IPA::				/ˈko.ɾe/
+Concept::		**(Generally used as Descriptor) The biological state of having characteristics typically associated with both male and female sexes (Intersex).**
+Action::		**(Rarely used) To function biologically with mixed or intermediate sex characteristics.**
+Descriptor::	**Exhibiting biological characteristics typically associated with both male (`[[Kota]]`) and female (`[[Koi]]`) sexes, or characteristics intermediate between them (Intersex).**
+
+> **Extended Set.** A descriptor primarily used to denote the biological state where an individual's sexual anatomy, reproductive organs, chromosomal pattern, or hormonal patterns do not fit the typical definitions of solely male (`[[Kota]]`) or female (`[[Koi]]`). Derived from lifeform/body (`KO`) + pair/duality/reflection (`RE`). This is a biological descriptor.
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`) to indicate the presence of intersex biological characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
+
+Example::   *Le ouman se o **Kore**.* = "That person is biologically **intersex**."
+
+Example::   *Sun **Kore** o sun ko hi.* = "Knowledge of **intersex biology** is knowledge of diverse life."
+
+Example::   *Ko mu hat Kopu **Kore**.* = "Many lifeforms have **intersex body forms**."
+
+Example::   *Le sipu **Kore** ro ko o mo.* = "The **intersex biological system** of the lifeform is complex."
+
+### Concept
+*   Refers to the biological category or state of being intersex. Often requires `le` marker.
+
+Example::   *An toki ne **Kore**.* = "We talk about **intersex [biology]**."
+
+Example::   *Le **Kore** o sun pene ne ko.* = "Understanding the **intersex state** is good knowledge within biology."
+
+### Action
+*   To biologically function or develop with intersex characteristics. Less common than descriptive use.
+
+Example::   *I tilo pi, ko se kan **ta Kore**.* = "In its life cycle, that lifeform can **function with intersex characteristics**."
+
+## Related Concepts / Distinctions
+*   **Koi** (`ko + i`): Descriptor for biological role associated with large gamete production.
+*   **Kota** (`ko + ta`): Descriptor for biological role associated with small gamete production.
+*   (Other biological descriptors: Koa, Kowai)
+*   **Kopu** (`ko + pu`): The physical body form.
+*   **Koipai** (`ko + i + pai`): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **RE** (Pair, Duality, Reflection). Conceptually links the intersex state to the presence of a "pair" or "duality" of characteristics typically assigned separately to `Koi` and `Kota`.
+
+## Proverbs
+
+Proverb:: *Pai ro a kan o hi kore ro a.* = "One's identity can be different from one's intersex biology."
+
+Proverb:: *Sipu ke o no sun kore.* = "Traditional systems often don't understand/recognize intersex biology."
+
+Proverb:: *Kore o sun oum; Oum ko o pene.* = "Intersex biology is part of the spectrum of knowledge; All life is good/valid."
+
+# KOI
+
+IPA::				/ˈko.i/
+Concept::		**(Generally used as Descriptor) The biological state/role associated with producing the larger gamete type (e.g., ova, eggs).**
+Action::		**(Rarely used) To function biologically in the manner associated with producing the larger gamete type.**
+Descriptor::	**Exhibiting biological characteristics related to the production or role of the larger gamete type (e.g., ova, eggs).**
+
+> **Extended Set.** A descriptor primarily used to denote the biological state or characteristics associated with the production of the larger, typically less mobile type of gamete (e.g., ova in animals, ovules in plants) involved in sexual reproduction. Derived from lifeform/body (*KO*) + internal principle/potential (*I*). This is a biological descriptor, distinct from gender identity (Koipai) or physical form (*Kopu*).
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (*Ko*, *Ouman*, *Kopu*, specific species names) to indicate the biological role associated with large gamete production. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
+
+Example::   *Se o neko **Koi**.* = "That cat **has the biology associated with producing ova**." / "That is a biologically **female** cat." (*Using the common English equivalent for fluency*).
+
+Example::   *A kelumia ouman **so Koi**.* = "I see a person **whose biology relates to ova production**." / "I see a biologically **female** person."
+
+Example::   *Le Kopu **Koi** hat sipu hi.* = "The **biologically female body form** has different systems."
+
+### Concept
+*   Refers to the biological category or characteristics defined by large gamete production. Often requires *le* marker.
+
+Example::   *Le **Koi** o sun mo ne ko mu.* = "The **biological state related to large gamete production** is important knowledge for many lifeforms."
+
+Example::   *An toki ne **Koi** an Kota.* = "We talk about the **biological roles related to large gametes** and small gametes."
+
+### Action
+*   To biologically function or develop in the manner associated with producing large gametes. Less common than descriptive use.
+
+Example::   *Le nuko se **ta Koi**.* = "That offspring **is developing the biology associated with large gamete production**."
+
+Example::   *I tilo pi, ko se **ta Koi**.* = "In its life cycle, that lifeform **functions biologically as the large-gamete producer**." (E.g., during the female phase of a sequential hermaphrodite).
+
+## Related Concepts / Distinctions
+*   **Kota** (*ko + ta*): Descriptor for the biological role associated with producing the smaller gamete type.
+*   **Kopi** (*ko + pi*): The gamete (egg/seed/etc.) itself. *Koi* describes the *producer*.
+*   (Other biological descriptors: Kore, Koa, Kowai)
+*   **Kopu** (*ko + pu*): The physical body form.
+*   **Koipai** (*ko + i + pai*): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **I** (In, Inside, Internal principle). Conceptually links this biological role to the typically larger, internal, or contained nature of the ovum/egg gamete compared to the smaller, more external/active sperm/pollen gamete (*Kota*).
+
+## Proverbs
+
+Proverb:: *Koi o no oum ro ko.* = "The biological role [of large gamete producer] is not the entirety of the lifeform."
+
+Proverb:: *Sun koi o sun kopita.* = "Understanding the biology [of the large gamete producer] involves understanding reproduction."
+
+# KOPI
+
+IPA::				/ˈko.pi/
+Concept::		**Egg, Seed, Spore, Gamete; Biological Starting Unit**
+Action::		**(Rarely used directly; see Usage)**
+
+> **Extended Set.** Represents the self-contained biological unit from which a new lifeform cycle begins, such as an egg, seed, spore, or gamete. Derived from lifeform (*KO*) and circle/cycle (*PI*). Primarily functions as a noun.
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the biological starting unit itself. It is typically used as a noun (the subject or object of a sentence) or in combination with other words to express specific relationships.
+
+Example::   *Le **kopi** o li.* = "The **egg/seed** is small."
+
+Example::   *Oum ko nu ro **kopi**.* = "All life is new from an **egg/seed/spore**."
+
+Example::   *A kelumia **Kopi** mu.* = "I see many **eggs/seeds**."
+
+### Expressing Relationships with *Kopi*
+*   **Production:** Use *pu kopi* ("to make/form Kopi").
+    *   Example:: *Kohi mama **pu kopi** ne heim.* = "The mother bird **produces/lays eggs** in the nest."
+    *   Example:: *Lumako **pu kopi** pi tilo.* = "The plant **produces seeds** cyclically."
+*   **Containing:** Use *hat kopi* ("to have Kopi") or *pu hat Kopi* ("structure having Kopi").
+    *   Example:: *Pu se **hat kopi**.* = "That structure (e.g., seed pod, ovary) **contains seeds/eggs**."
+*   **Developing From:** Use phrases like *nu ro kopi* ("new from Kopi") or the specific compound *[[Kopiko]]*.
+    *   Example:: *Nuko o ko **nu ro kopi**.* = "The offspring is the lifeform **new from the egg/seed**."
+
+### Action
+*   Direct use as a verb (*ta kopi*) is highly uncommon and potentially unclear. Actions related to *kopi* (laying, producing, planting) are better expressed using verbs like *pu* (make/form) or context-specific verbs if developed (e.g., a verb for "plant seed").
+
+### Descriptor
+*   Using *kopi* directly as an adjective (*so kopi*) is generally avoided as it lacks specific meaning. To describe qualities *associated* with eggs/seeds (e.g., potential, roundness, newness), use other relevant roots like *Lu*, *Pi*, or *Nu*. To describe something *related to the function* of *kopi*, compound nouns (*Kopiheim*, *Kopita*) or descriptive phrases are clearer.
+
+## Related Concepts
+*   **Kopita** (*Kopi + ta*): The biological act of reproduction involving *Kopi*.
+*   **Nuko** (*nu + ko*): The newborn/offspring that develops from *Kopi*.
+*   **[[Kopiko]]** (*Kopi + ko*): Embryo, Larva ("egg/seed lifeform").
+
+## Compounds
+*   **[[Kopiheim]]** (*Kopi + heim*): Nest, Seed bank, Incubator ("egg/seed home").
+*   **[[Kopipene]]** (*Kopi + pene*): Viable/Fertile egg/seed ("good egg/seed").
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **PI** (Circle, Cycle, Enclosure). Conceptualizes the egg/seed as the "Lifeform-Cycle" starting point or the "Lifeform-Enclosure."
+
+## Proverbs
+
+Proverb:: *I kopi li, ko mo o kan.* = "In a small egg/seed, a great lifeform is possible."
+
+Proverb:: *Kopi o pi ro ko.* = "The egg/seed is the circle/cycle of life."
+
+# KOIPAI
+
+IPA::				/ˈko.i.pɑi/
+Concept::		**Body Image (internal, subjective perception/feeling about one's physical body)**
+Action::		**To perceive one's body subjectively; To form/have a body image**
+Descriptor::	**Relating to body image (internal perception of body)**
+
+> Represents the internal (*I*) subjective experience, perception, thoughts, and feelings (*PAI*) an individual has regarding their own physical body (*KO*) and its form (*Kopu*). Distinct from the objective physical form itself.
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the internal perception or feeling about one's body. It is distinct from the physical body (*Kopu*).
+
+Example::   *Le **koipai** ro a o pene.* = "My **body image** is good/positive."
+
+Example::   *An toki ne **koipai** u.* = "We talk about problematic **body image**."
+
+Example::   *Sun **koipai** o mo ne pai ro ouman.* = "Understanding **body image** is important in the psychology of sentient beings."
+
+Example::   ***Koipai** o no kopu.* = "**Body image** is not (the same as) the physical body form."
+
+Example::   *Kan **koipai** o u ku? Hai.* = "Can **body image** be problematic? Yes."
+
+Example::   *Kan **koipai** o hi Kopu ku? Hai.* = "Can **body image** be different from the physical form? Yes."
+
+Example::   *(Kan **koipai** o hi Kopu so u ku? Hai.)* = "(Can **body image** be different from the physical form *in a problematic way*? Yes.)"
+
+Example::   *Kan **koipai** ta ku u ne Kopu ku? Hai.* = "Can **body image** influence [one] to perceive the physical form negatively/chaotically? Yes."
+
+### Action
+*   The mental act of perceiving or evaluating one's own body subjectively. 
+
+Example::   *A **ta koipai** pene.* = "I **perceive my body positively**." (Lit: "I body-image well/beautifully").
+
+Example::   *E **ta Koipai** u ku?* = "Do you **perceive your body negatively/chaotically**?"
+
+Example::   *Mu ouman **ta Koipai** hi ro Kopu ro e.* = "Many people **have a body image** different from their actual physical form."
+
+### Descriptor
+*   Describes thoughts, feelings, or issues related to the internal perception of the body. 
+
+Example::   *A hat pai **so Koipai**.* = "I have thoughts **relating to body image**."
+
+Example::   *Se o sun **so Koipai**.* = "That is knowledge **related to body image**."
+
+Example::   *Le u ro a o **Koipai**.* = "My problem/chaos is **related to body image**."
+
+## Related Concepts / Distinctions
+*   **Kopu** (*ko + pu*): The actual physical form and structure of the body. *Koipai* is the perception *of* *Kopu*.
+*   **Koi** / **Kota** / **Kore** / etc.: Descriptors for biological sex characteristics. Body image (*Koipai*) can be influenced by, but is distinct from, these biological traits.
+*   **Pai** (*pai*): General mind, thought, subjective experience. *Koipai* is a specific type of *Pai* focused on the body.
+
+Example:: *A hat koipai so koi, kas ko ro a o kota. A ta ta so koi ne ma, a no ta ta le sipu ke.* = "I have an internal body image that is female-like (aligned with female biology), but my body is biologically male. I act/present female-like in the world and I do not act according to / participate in the traditional system (of gender roles)"
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **I** (In, Inside) + **PAI** (Mind, Subjective Experience, Thought, Perception). Signifies the "Internal Mind/Perception regarding the Body."
+
+## Proverbs
+
+Proverb:: *Koipai o re ro pai, no re ro kopu.* = "Body image is a reflection of the mind, not (necessarily) a reflection of the physical form."
+
+Proverb:: *Ta koipai pene, o ta pai pene.* = "To perceive one's body positively is to think/experience well."
+
+Proverb:: *Sun koipai o sun a.* = "Understanding body image is understanding the self."
+
+
+Okay, here is the draft dictionary entry for *Kopita*.
+
+---
+
+# KOPITA
+
+IPA::				/ˈko.pi.tɑ/
+Concept::		**Reproduction (Biological Act), Procreation, Mating, Pollination**
+Action::		**To reproduce biologically, procreate, mate, pollinate**
+Descriptor::	**Reproductive, Procreative (relating to the biological act)**
+
+> **Extended Set.** Represents the biological action involving the creation or joining of gametes/seeds (*Kopi*) to produce new offspring. This term focuses on the biological *function* of reproduction across different lifeforms (e.g., mating, spawning, pollination) and is distinct from acts of physical intimacy (*Koan*).
+
+## Usage
+
+### Concept
+*   Refers to the biological process or act of reproduction itself.
+
+Example::   *Le **Kopita** o pi ro ko.* = "The **biological reproduction** is the cycle of life."
+
+Example::   *Mu ko hat tilo **Kopita**.* = "Many lifeforms have a **reproductive** season."
+
+Example::   *Sun ro **Kopita** o mo.* = "The knowledge of **biological reproduction** is complex."
+
+### Action
+*   Engaging in the specific biological act that leads to reproduction. Requires *ta* marker for clarity as a verb.
+
+Example::   *Neko re **ta Kopita**.* = "The two cats **mate**."
+
+Example::   *Lumako **ta Kopita** ne ha an ko li.* = "Plants **reproduce** via air (pollination) and small lifeforms (insects)."
+
+Example::   *Waiko **ta Kopita** ne wai mo.* = "Fish **spawn/reproduce** in the big water."
+
+Example::   *Se o sipu ro ko **ta Kopita**.* = "That is the system by which the lifeform **reproduces**."
+
+### Descriptor
+*   Describes something specifically related to the biological act of reproduction. Often requires *so* marker.
+
+Example::   *Se o ta **so Kopita**.* = "That is a **reproductive** action."
+
+Example::   *An sun sipu **so Kopita** ro kohi.* = "We understand the **reproductive** system of the bird."
+
+Example::   *Tilo se o **Kopita**.* = "That time is **reproductive** (e.g., a mating season)."
+
+## Related Concepts / Distinctions
+*   **Kopi** (*ko + pi*): The egg, seed, spore, or gamete involved in *kopita*.
+*   **Nuko** (*nu + ko*): The newborn/offspring resulting from successful *kopita*.
+*   **Koan** (*ko + an*): Intimate Bodily Togetherness/Connection. *kopita* is about biological function, *koan* is about physical closeness/connection. They may co-occur but are distinct concepts.
+    *   *Example Distinction:* *Usi ko re ta koan so napai, se kan ta kopita.* = "If two lifeforms are sexually intimate, they might reproduce."
+
+## Origin
+
+*   **Sunwai**: Compound of **Kopi** (Egg, Seed, Gamete) + **TA** (Action, Change, Process). Signifies "Egg/Seed Action," directly referencing the biological units and the action involved in reproduction.
+
+## Proverbs
+
+Proverb:: *Kopita o ta ro ko.* = "Reproduction is the action of life."
+
+Proverb:: *Pi ro Kopita o pi ro oum ko.* = "The cycle of reproduction is the cycle of all life."
+
+Proverb:: *Kopita o no koan, kas kan o ata.* = "Reproduction is not (the same as) intimacy, but they can meet/occur together."
+
+# KOUWAI
+
+IPA::				/ˈko.u.wai/
+Concept::		**Bodily Fluid (e.g., blood, sap, lymph, milk, sweat, tears, reproductive fluids); Biological Liquid; Natural Essence/Juice (from living source)**
+Action::		**To bleed, secrete (bodily fluid), lactate; To flow with vital essence**
+Descriptor::	**Related to bodily fluids, Biological liquid, Essential (as fluid), Secretory**
+
+> Represents liquids originating from or essential to lifeforms (*KO*), often implying a vital but potentially uncontrolled or fundamental ("chaotic" - *U*) nature compared to neutral *WAI*. Includes blood, sap, lymph, milk, sweat, tears, reproductive fluids, natural plant/fruit juices, etc.
+
+## Usage
+
+### Concept
+*   Refers to a specific bodily fluid or biological liquid essence.
+
+Example::   *Le **kouwai** ro a o [[Aikulo]].* = "My **blood** is red." *(Using [[Aikulo]])*
+Example::   ***Kouwai** ro lumiako o wai li.* = "The **sap** of the plant flows slowly."
+Example::   *Se o **kouwai** ro mamapi.* = "That is the **milk** of the mother."
+Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eyes are few/slow." (Lit: "The bodily fluid on my eye...")
+
+### Action
+*   The act of secreting or flowing with bodily fluid.
+
+Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
+Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
+Example::   *Lumiako **ta kouwai** ne timopene.* = "The plant **flows with sap** in the good time (spring)."
+
+### Descriptor
+*   Describes something related to biological fluids.
+
+Example::   *Se o sipu **so kouwai**.* = "That is a **circulatory** (biological fluid) system."
+Example::   *A hat kulo **kouwai** ne kune.* = "I have the colour of **blood** on my hand."
+Example::   *Tape **so kouwai** o mo.* = "The **essence-rich** (juicy) food is substantial."
+
+## Compounds
+
+*   **[[Kouwaiwai]]** (*kouwai* + *WAI*): Circulation (of bodily fluids); Flow of vital essence.
+*   **[[Kouwaita]]** (*kouwai* + *TA*): Bleeding, Secretion (as an event/process).
+*   **[[Kouwaiheim]]** (*kouwai* + *HEIM*): Heart, Core circulatory organ; Sapwood ("bodily fluid home/center").
+*   **[[Penekouwai]]** (*pene* + *kouwai*): Healthy blood/sap; Vitality (fluid aspect) ("good bodily fluid").
+*   **[[Lumiakokouwai]]** (*lumiako* + *kouwai*): Plant juice, Fruit juice ("plant bodily fluid").
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform) + **U** (Chaos, Uncertainty, Essence/Potential?) + **WAI** (Liquid, Flow, Change). Conceptualized as "Lifeform's Chaotic/Essential Liquid." The *U* adds nuance suggesting vitality, fundamental nature, potential uncontrollability, or raw essence compared to plain *WAI*.
+
+## Proverbs
+
+Proverb:: *Kouwai o ko wai.* = "Bodily fluid is the flow of life."
+
+Proverb:: *Ta kouwai o ta ko.* = "To secrete/flow with essence is to be alive/act biologically."
+
+# MAMASUN
+
+IPA::				/ˈmɑ.mɑ.sun/
+Concept::		**Guiding Wisdom, Enlightened Nurturing, Mentorship; Teacher, Wise Elder/Parent; The Star Sol/Sun**
+Action::		**To teach wisely/compassionately, mentor, guide with clarity; To nurture understanding**
+Descriptor::	**Wise (in a nurturing way), Guiding, Mentoring, Relating to the star Sol**
+
+> Represents the imparting of knowledge or clarity (*SUN*) through a nurturing, parental, or source-like (*MAMA*) approach. It embodies wise guidance, mentorship, and compassionate teaching. Also serves as the proper name for the central star for [[oumankomapi]] (Sol/Sun).
+
+## Usage
+
+### Concept
+*   Refers to guiding wisdom, a wise teacher/mentor, or the star Sol.
+
+Example::   *Le **mamasun** ro ouman ke o mo.* = "The **guiding wisdom** of the ancestors is vast."
+Example::   *E o **mamasun** ro a.* = "You are my **teacher/mentor**."
+Example::   ***Mamasun** lumia ne ma.* = "The **Sun (Sol)** shines on the Earth."
+Example::   *An na **mamasun** ne nutilo.* = "We need **wise guidance** in the future."
+
+### Action
+*   The act of teaching or guiding with wisdom and care. Requires *TA*.
+
+Example::   *Mama **ta mamasun** nuko.* = "The parent **teaches wisely/guides** the offspring."
+Example::   *A **ta mamasun** e ne tama ro sun.* = "I **mentor/guide** you on the path of knowledge."
+
+### Descriptor
+*   Describes something as being wise in a nurturing way, or related to the star Sol. Optional *SO*.
+
+Example::   *Se o toki **so mamasun**.* = "That is **wise/guiding** speech."
+Example::   *A hat pai **mamasun**.* = "I have **wise (nurturing)** thoughts."
+Example::   *Se o lumia **mamasun**.* = "That is **Sunlight** (light from Sol)."
+
+## Compounds
+
+*   **[[Mamasunheim]]** (*mamasun* + *HEIM*): School, Academy, Place of wise teaching ("guidance/teaching home/center").
+*   **[[Mamasunpi]]** (*mamasun* + *PI*): Solar System (Sol's system) ("Sun's cycle/enclosure").
+
+## Origin
+
+*   **Sunwai**: Compound of **MAMA** (Parent, Caregiver, Nurturing Source) + **SUN** (Clarity, Knowledge, Illumination). Conceptualized as "Nurturing Illumination/Knowledge," emphasizing wisdom passed down with care.
+
+## Proverbs
+
+Proverb:: *Mamasun o lumia ro ma.* = "Guiding wisdom is the light of the foundation/earth." (Also: "Sol is the light for Earth").
+
+Proverb:: *Ta mamasun o ta pene.* = "To teach wisely/compassionately is to act well."
+
+Proverb:: *Mamasun pi, an o li.* = "In the Solar system's cycle, we are small."
+
+---
+
+How does this entry look? Next up could be *WAIKO* (Water lifeform / Fish).
+# WAHIKO
+
+IPA::				/ˈwɑː.hi.ko/
+Concept::		**Water Bird (e.g., Duck, Swan, Goose)**
+Action::		**To behave like a water bird (swim, fly low over water, etc.)**
+Descriptor::	**Like a water bird, Anatine**
+
+> A flying lifeform (*Hiko*) associated primarily with water (*WAI*).
+
+author-comment:: Source doc suggests unrelated meanings (Noise, Excitement) which seem unlikely for this compound and need verification. Assuming primary meaning is Water Bird.
+
+## Usage
+### Concept
+Example::   *Mu **wahiko** ne wai li.* = "Many **ducks/water birds** are in the small water."
+Example::   *Le **wahiko** o kota.* = "The **duck** is biologically male."
+
+### Action
+Example::   *Le ko **ta Wahiko** ne wai.* = "The creature **swims/acts like a duck** in the water."
+
+### Descriptor
+Example::   *A hat pu **wahiko**.* = "I have a **duck-like** shape (e.g., decoy)."
+
+## Compounds
+*(None defined yet)*
+
+## Origin
+*   **Sunwai**: Compound of *WAI* (Water) + *HIKO* (Bird/Flying Lifeform), derived from *WAI + HI + KO*. Conceptualized as "Water-Flying-Lifeform."
+
+## Proverbs
+*(None defined yet)*
+
+# WAIKO
+
+IPA::				/ˈwai.ko/
+Concept::		**Fish; Aquatic Lifeform (esp. water-breathing), Marine/Freshwater Creature**
+Action::		**To swim; To live underwater/aquatically**
+Descriptor::	**Aquatic (lifeform), Water-dwelling, Swimming**
+
+> Represents lifeforms (*KO*) that primarily live in or are strongly associated with water (*WAI*). While fish are the primary archetype, it can extend to other fully aquatic creatures depending on context. Contrasts with land-based *[[MAKO]]* or flying *HIKO*.
+
+## Usage
+
+### Concept
+*   Refers to fish or other primarily aquatic creatures.
+
+Example::   *Le **waiko** o mo ne wai mo.* = "The **fish** is big in the vast water."
+Example::   *A kulumia **waiko** kulo mu.* = "I see many colorful **fish**."
+
+### Action
+*   The act of swimming or living aquatically. 
+
+Example::   *Oumankoma **ta waiko** ne wai pene.* = "The human **swims** in the beautiful water."
+Example::   *Ko li li **ta waiko** ne kouwai.* = "Small organisms **live aquatically** in the bodily fluid."
+Example::   ***Ta waiko** ran!* = "**Swim** fast!"
+
+### Descriptor
+*   Describes something as being aquatic or related to underwater life. Optional *SO*.
+
+Example::   *Se o sipu **so waiko**.* = "That is an **aquatic** system."
+Example::   *A hat lumiako **waiko**.* = "I have **aquatic** plants."
+Example::   *Maheim an o **waiko**.* = "Our homeland is **aquatic** (e.g., island nation, rich in water)."
+
+## Compounds
+
+*   **[[Waikoheim]]** (*waiko* + *HEIM*): Aquarium; Fish habitat/territory ("fish home").
+*   **[[Waikotape]]** (*waiko* + *TAPE*): Fish (as food); Seafood ("fish food").
+*   **[[Momowaiko]]** (MO + MO + *waiko*): Whale, Large marine mammal ("huge water lifeform").
+*   **[[Waikosun]]** (*waiko* + *SUN*): Ichthyology, Marine Biology ("fish/aquatic life knowledge").
+
+## Origin
+
+*   **Sunwai**: Compound of **WAI** (Water, Flow, Liquid) + **KO** (Lifeform). "Water Lifeform."
+
+## Proverbs
+
+Proverb:: *I wai mo, mu waiko.* = "In big water, many fish."
+
+# LUMIAHI
+
+IPA::				/lu.miˈɑ.hi/
+Concept::		**Star (celestial body); Beacon, Guiding Light (metaphorical)**
+Action::		**To shine brightly (like a star); To guide, act as a beacon**
+Descriptor::	**Stellar, Star-like; Guiding, Beacon-like**
+
+> Represents a star as a celestial object emitting light, or metaphorically, anything that serves as a prominent guiding point or source of inspiration. Derived from light (*LUMIA*) and high/above (*HI*).
+
+## Usage
+
+### Concept
+*   Refers to a star in the sky or a metaphorical beacon.
+
+Example::   *Mu **lumiahi** ne hi.* = "Many **stars** are in the sky/above."
+Example::   *Mamasun o **lumiahi** li.* = "The Sun is a small **star**."
+Example::   *Sun o **lumiahi** ro ouman.* = "Knowledge is himanity's **guiding light/beacon**."
+
+### Action
+*   The act of shining like a star or serving as a guide.
+
+Example::   *Lumiahi **lumiahi** ne senokulo.* = "Stars **shine brightly** in the blackness."
+Example::   *Pene ro e **lumiahi** ne a.* = "Your goodness **guides/acts as a beacon** for me."
+Example::   *Ta **lumiahi**!* = "**Shine brightly / Be a guide!**"
+
+### Descriptor
+*   Describes something related to stars or acting as a guide.
+
+Example::   *Se o sipu **lumiahi**.* = "That is a **stellar** system."
+Example::   *A hat pai **so lumiahi**.* = "I have a **guiding** thought/principle."
+Example::   *Oumanheim o **lumiahi**.* = "The universe is **stellar/star-filled**."
+
+## Compounds
+*   **[[Lumiahiheim]]** (*lumiahi* + *heim*): Constellation; Observatory ("star home/center"). *(Potential Extended)*
+*   **[[Lumiahiwai]]** (*lumiahi* + *wai*): Starlight (as flow); Navigation by stars ("star flow"). *(Potential Extended)*
+*   **[[Lumiakulo]]** (*lumiahi* + *kulo*): Star color/spectrum ("star color"). *(Could be under LUMIA or KULO too).*
+
+## Origin
+*   **Sunwai**: Compound of **LUMIA** (Light, EM Radiation) + **HI** (High, Above). Represents "Light High/Above."
+*   **Latin**: *stella* ("star").
+*   **Greek**: *aster* ("star").
+
+## Proverbs
+
+Proverb:: *Kulumia lumiahi, pai hi.* = "See the stars, think high/lofty thoughts."
+Proverb:: *Oum lumiahi hat tilo pi.* = "All stars have cycles/lifetimes."
+Proverb:: *Lumiahi li wai ne senokulo.* = "A small star/beacon flows/shines in the darkness."
 # # PAITAPE
 
 IPA::					/ˈpɑi.tɑ.pe/  
@@ -4818,4 +5915,3 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 ## Proverbs
 
 Proverb:: *Paitape ne timopene, an o oum.* = "Cake at the festival time, we are whole/united."
-

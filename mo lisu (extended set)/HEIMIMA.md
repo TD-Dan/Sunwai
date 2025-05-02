@@ -6,7 +6,7 @@ tags:
   - compound
   - extended-set
   - word
-to: 1300
+to: 1700
 ---
 
 # HEIMIMA

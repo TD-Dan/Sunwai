@@ -6,7 +6,7 @@ tags:
   - compound
   - extended-set
   - word
-to: 1500
+to: 1400
 ---
 
 
