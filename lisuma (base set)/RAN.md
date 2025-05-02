@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[HU]]"
+  - "[[HI]]"
 tags:
   - base-set
   - tertiary-root

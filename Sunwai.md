@@ -76,7 +76,7 @@ The 15 used letters are ordered for easy remembering with phonetic sounds and cr
 
 **[[A]] [[E]] [[I]] [[O]] [[U]]**				(the vowels, from common to rare)
 **[[TA]] [[NE]] [[SI]] [[KO]] [[MU]]**		(the common consonants)
-**[[WAI]] [[LE]] [[HI]] [[RO]] [[PU]]**		(the rare consonants)
+**[[WAI]] [[LE]] [[KAS]] [[RO]] [[PU]]**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -740,7 +740,7 @@ Numbers in Sunwai default to base10 and are represented overloading existing [[S
 ### Examples
 
 Example:: *A hat **si re** neko.* = " I have two cats."
-Example:: ***si ma** wakohu* = "Four ducks."
+Example:: ***si ma** wahiko* = "Four ducks."
 
 * **long numbers:**
 
@@ -1064,16 +1064,14 @@ Proverbs:
 ---
 ### WAIKO
 /ˈwɑiko/
-WΔYXO
 	1.Water lifeform, Fish
 ---
-### WAKOHU
-/ˈwɑːko.hu/
-WΔXOǑU
+### WAHIKO
+/ˈwɑːhi.ko/
 	**Water bird, duck** (noun)
 	**Noise, loud** (noun)
 	**Excitement** (noun/verb)
 
 Origin
-* **[[Sunwai]]**: from [[#Wai]] + [[#Ko]] +Hu -> Water Animal Flying
+* **[[Sunwai]]**: from [[#Wai]] + Hi + [[#Ko]] -> Water Flying Animal
 

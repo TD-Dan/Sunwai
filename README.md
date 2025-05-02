@@ -32,7 +32,7 @@
 | **Aspect**          | **Details**                                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Word Roles**      | Words act flexibly in multiple roles as **Marker (M)**, **Concept (C)**, **Action (A)**, or **Descriptor (D)**.         |
-| **Basic Flow**      | Common sentence flow is **`Concept - Action - Concept` (C-A-C)**. Ex: *Wakohu tape paitape* (Duck eats cake).           |
+| **Basic Flow**      | Common sentence flow is **`Concept - Action - Concept` (C-A-C)**. Ex: *Wahiko tape paitape* (Duck eats cake).           |
 | **Linking**         | Use `o` to link Concepts or assign qualities: **`Concept o Descriptor` (C o D)**. Ex: *Neko o pene* (Cat is beautiful). |
 | **Role Clarifiers** | Particles (`le`, `ta`, `so`, `si`, `se`, etc.) clarify word roles when needed for precision.                            |
 | **Word Order**      | Flexible, but the C-A-C flow is the default for clarity without extra markers.                                          |

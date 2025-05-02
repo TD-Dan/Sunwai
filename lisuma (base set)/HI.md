@@ -1,66 +1,66 @@
 ---
-parent: "[[I]]"
+roots:
+  - "[[I]]"
 tags:
-  - secondary-root
   - base-set
+  - tertiary-root
   - word
-to: 13
+to: 134
 ---
+
 # HI
 
 IPA::				/ˈhi/
-Marker::		**But, However, On the other hand (contrastive particle)**
-Concept::		**Separation, Difference, Distinction; Removal, Subtraction (math)**
-Action::		**To separate, distinguish, remove, subtract**
-Descriptor::	**Separate, Different, Distinct, Removed**
+Concept::		**Height, Highness, Altitude; Sky, Upper Region, Above**
+Action::		**To rise, to ascend, to elevate; To be high/elevated**
+Descriptor::	**High, Elevated, Above, Lofty, Upward**
 
-> Represents separation, difference, or removal. Can function as a contrastive particle ("but"), highlighting a distinction or separation between clauses or ideas. Also covers mathematical subtraction. Contrasts with *AN* (togetherness, addition).
+> Root of height, elevation, the sky, and upward direction/movement. Contrasts directly with `[[UN]]` (low, below), benefiting from the high-front vowel /i/ opposition to the low-back vowel /u/. **Secondary root, meaning swapped with `[[HU]]`.**
 
 ## Usage
 
-### Marker
-*   Introduces a contrasting clause or idea, similar to "but" or "however." It marks a separation or divergence from the previous statement.
-
-Example::   *A pai se o pene. **Hi**, e pai se o no pene.* = "I think it is good. **But**, you think it is not good."
-Example::   *Neko o li. **Hi**, inuko o mo.* = "The cat is small. **However**, the dog is big."
-Example::   *Ke sunta nu. **Hi**, nu o no so.* = "The past determines the future. **On the other hand / But**, the future is not fixed."
-
 ### Concept
-*   Refers to the state of being separate or the act of removal/subtraction.
+*   Refers to height itself, altitude, or the sky/upper regions. Requires `[[#le]]` typically.
 
-Example::   *Le **hi** ro a an e o li.* = "The **difference** between me and you is small."
-Example::   ***Hi** o pene ne sipu.* = "**Distinction/Separation** is good in a system."
-Example::   *Le **hi** ro sisi re an li o li.* = "The **subtraction** of two and one is one."
+Example::   *Le **hi** o pene.* = "The **height / sky** is beautiful."
+Example::   *A pai **hi**.* = "I think about **height / the sky / things above**."
+Example::   ***Hi** ro ma o mo.* = "The **height** of the mountain (earth) is great."
 
 ### Action
-*   The act of separating, distinguishing, removing, or subtracting.
+*   The act of rising, ascending, or becoming high. Requires `[[#ta]]`.
 
-Example::   *A **ta hi** le tape u.* = "I **remove** the bad food."
-Example::   *E **hi** sun an sun ku?* = "Do you **distinguish** between knowledge and knowledge?"
-Example::   *Ta **hi** se!* = "**Remove** that!"
-Example::   *Sisi ka **hi** re o ta.* = "Five **subtract** two equals three."
-
+Example::   *[[Kohi]] **ta hi** ne ha.* = "Birds **rise/ascend** in the air." (*Using new compound [[Kohi]]*)
+Example::   *Lumia **ta hi** ne oum.* = "Light **rises/ascends** over everything."
+Example::   *Ta **hi**!* = "**Rise up! / Ascend!**"
 
 ### Descriptor
-*   Describes something as being separate, different, or removed.
+*   Describes something as being high, elevated, lofty, or relating to the sky/above. Optional `[[#so]]`.
 
-Example::   *An o **hi**.* = "We are **separate/different**."
-Example::   *Se o sun **so hi**.* = "That is **different** knowledge."
-Example::   *Tape o **hi**.* = "The food is **removed**."
+Example::   *Ma o **hi**.* = "The mountain (earth) is **high**."
+Example::   *A hat heim **hi**.* = "I have a **high/lofty** home."
+Example::   *Le sun **so hi** o pene.* = "**Lofty/High-level** knowledge is good."
 
 ## Compounds
-*   **[[Nohi]]** (*[[no]]* + *hi*): Indistinct, Same, Togetherness (negation of separation), Merged ("not separate"). *(Careful: contrasts with *AN*)*
-*   **[[Hiheim]]** (*hi* + *[[heim]]*): Isolated place, Quarantine area ("separate home"). *(Potential Extended)*
-*   **[[Hiko]]** (*hi* + *[[ko]]*): Individual (separate lifeform); Corpse (life removed)? *(Meaning needs care)*. Let's stick with "Individual".
-*   **[[Hisun]]** (*hi* + *[[sun]]*): Analysis (separating knowledge); Distinction ("separate knowledge"). *(Potential Extended)*
+
+*   [[Kohi]] (`ko` + `hi`): Bird, Flying lifeform ("lifeform high/ascending").
+*   [[Lumiahi]] (`lumia` + `hi`): Star ("light high/above").
+*   [[Hiwai]] (`hi` + `wai`): Rain, High water source ("high water").
+*   [[Lohi]] (`lo` + `hi`): Height, altitude ("long high").
+*   [[Mohi]] (`mo` + `hi`): Peak, maximum ("intense/big high").
+*   [[Hiheim]] (`hi` + `heim`): Lookout Point, High place/center ("high home/center").
+*   [[Hita]] (`hi` + `ta`): Ascent, Elevation (action noun) ("high action").
+*   [[Hikas]] (`hi` + `kas`): Cliff, Precipice ("high separation").
 
 ## Origin
-*   **Sunwai**: Core CV root representing separation.
-*   **Finnish**: *hiki* (sweat - secretion/separation from body - weak link). *Let's remove this, too weak.*
-*   **Conceptual**: Opposition/contrast is fundamental to many logical and natural systems. Sound */hi/* chosen for distinctness.
+
+*   **Sunwai**: Core CV root. **Meaning swapped with `[[HU]]`** to create a stronger phonetic contrast between **HI** (/i/, high) and **UN** (/u/, low). `/i/` is a high-front vowel, fitting the concept systemically within Sunwai's vowel space.
+*   **English**: *high* (Conceptual link retained).
+*   **German**: *hoch* ("high") (Conceptual link retained).
 
 ## Proverbs
 
-Proverb:: *Hi o tama nu ro pene.* = "Removal is the path to new harmony."
+Proverb:: *I hi o sun.* = "In height/the sky is clarity/illumination."
 
-Proverb:: *Ta hi u, sunta pene so.* = "Remove chaos, therefore stable harmony."
+Proverb:: *Ta hi, sun hi.* = "To rise/ascend (is to) know height/higher things."
+
+Proverb:: *Hi o no un.* = "High is not low."

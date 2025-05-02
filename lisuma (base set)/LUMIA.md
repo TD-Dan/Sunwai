@@ -43,7 +43,7 @@ Example::   *Kulo ro **lumia**.* = "The color of the **light**."
 ## Compounds
 *   **[[Lumiako]]** (*lumia* + *[[ko]]*): Plant, Flora ("light lifeform" - via photosynthesis).
 *   **[[Kulumia]]** (*[[ku]]* + *lumia*): To See; Eye ("sense light").
-*   **[[Lumiahu]]** (*lumia* + *[[hu]]*): Star ("light high/above").
+*   **[[LUMIAHI]]** (*lumia* + *[[HI]]*): Star ("light high/above").
 *   **[[Lumiakulo]]** (*lumia* + *[[kulo]]*): Light Spectrum ("light color/spectrum").
 
 ## Origin

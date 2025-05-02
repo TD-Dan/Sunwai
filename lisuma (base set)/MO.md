@@ -51,7 +51,7 @@ Example::   *Se o **mo** pene.* = "That is **great** beauty." (High degree).
 *   **[[WAIMOKO]]** (*WAI* + *MO* + *KO*): Whale ("Water Big Size Lifeform").
 *   **[[MOKULO]]** (*MO* + *[[KULO]]*): Vivid color, High saturation ("Intense Color").
 *   **[[MOTAMA]]** (*MO* + *[[TAMA]]*): Main road, major route ("Big Size/Scale Road").
-*   **[[MOMOHU]]** (*MO* + *MO* + *[[HU]]*): Maximum, peak ("Very Big/Intense High").
+*   **[[MOMOHU]]** (*MO* + *MO* + *[[HI]]*): Maximum, peak ("Very Big/Intense High").
 
 **extended set:**
 

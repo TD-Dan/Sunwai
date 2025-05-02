@@ -16,7 +16,6 @@ copy contents to "Sunwai full dictionary" and bake
 - [[MU]]
 - [[WAI]]
 - [[LE]]
-- [[HI]]
 - [[RO]]
 - [[PU]]
 - [[AI]]
@@ -37,6 +36,7 @@ copy contents to "Sunwai full dictionary" and bake
 - [[SUN]]
 - [[KA]]
 - [[KAN]]
+- [[KAS]]
 - [[KE]]
 - [[KI]]
 - [[KU]]
@@ -50,7 +50,7 @@ copy contents to "Sunwai full dictionary" and bake
 - [[HAI]]
 - [[HAT]]
 - [[HEIM]]
-- [[HU]]
+- [[HI]]
 - [[RAN]]
 - [[RE]]
 - [[PA]]
@@ -89,8 +89,8 @@ copy contents to "Sunwai full dictionary" and bake
 - [[LONO]]
 - [[LUMIA]]
 - [[LUMIAKO]]
-- [[PISU]]
 - [[PENE]]
+- [[PISU]]
 <!-- SerializedQuery END -->
 
 
@@ -99,11 +99,23 @@ copy contents to "Sunwai full dictionary" and bake
 
 <!-- QueryToSerialize: LIST FROM #extended-set SORT to ASC -->
 <!-- SerializedQuery: LIST FROM #extended-set SORT to ASC -->
-- [[HEIMIMA]]
-- [[LUMIAHU]]
 - [[INUKO]]
+- [[HEIMIMA]]
+- [[LUMIAHI]]
 - [[URAMAKO]]
+- [[OUMANAN]]
+- [[OUMANUMA]]
+- [[WAHIKO]]
+- [[KOTA]]
 - [[KIPU]]
+- [[KOAN]]
+- [[KOPU]]
+- [[KOWAI]]
+- [[KORE]]
+- [[KOIPAI]]
+- [[KOI]]
+- [[KOPI]]
+- [[KOPITA]]
 - [[PAITAPE]]
 <!-- SerializedQuery END -->
 

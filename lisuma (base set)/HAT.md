@@ -1,5 +1,5 @@
 ---
-parent: "[[HI]]"
+parent: "[[KAS]]"
 tags:
   - base-set
   - word

@@ -3866,7 +3866,7 @@ Example::   *A hat wai **so kulo**.* = "I have **colored** water."
 
 * Number 7, a reference to the 7 colors in the rainbow:
 
-Example:: *A hat si kulo wakohu.* = "I have seven ducks"
+Example:: *A hat si kulo wahiko.* = "I have seven ducks"
 
 ## Compounds
 

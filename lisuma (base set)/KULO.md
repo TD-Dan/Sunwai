@@ -38,12 +38,12 @@ Example::   *Ta **kulo** se ku?* = "**Color** it?" (Using new question particle 
 ### Descriptor
 *   Describes something as having color or relating to hue. Optional [[so]] marker clarifies.
 
-Example::   *Kohu o **kulo**.* = "The bird is **colored/colorful**."
+Example::   *Kohi o **kulo**.* = "The bird is **colored/colorful**."
 Example::   *A hat wai **so kulo**.* = "I have **colored** water."
 
 * Number 7, a reference to the 7 colors in the rainbow:
 
-Example:: *A hat si kulo wakohu.* = "I have seven ducks"
+Example:: *A hat si kulo wahiko.* = "I have seven ducks"
 
 ## Compounds
 
@@ -54,7 +54,7 @@ Example:: *A hat si kulo wakohu.* = "I have seven ducks"
 *   [[Senokulo]] (*[[SENO]]* + *KULO*): **Black** ("No/Zero Color").
 *   [[Aikulo]] (*AI* + *KULO*): **Red** ("Hot/Fire Color").
 *   [[Eiskulo]] (*EIS* + *KULO*): **Blue** ("Cold/Ice Color").
-*   [[Lumakokulo]] (*[[LUMIAKO]]* + *KULO*): **Green** ("Plant Color").
+*   [[Lumiakokulo]] (*[[LUMIAKO]]* + *KULO*): **Green** ("Plant Color").
 *   [[Sunkulo]] (*SUN* + *KULO*): **Yellow** ("Light/Sun Color").
 
 ### Extended Set Compounds

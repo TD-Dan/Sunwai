@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[HI]]"
+  - "[[KAS]]"
 tags:
   - base-set
   - word

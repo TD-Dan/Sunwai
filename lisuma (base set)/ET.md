@@ -15,7 +15,7 @@ Concept::		**Nearness, Proximity, Closeness; Adjacency, Vicinity**
 Action::		**To approach, to come near, to be close to, to adjoin**
 Descriptor::	**Near, Close (by), Adjacent, Proximate**
 
-> Root of spatial proximity or nearness. Contrasts with concepts of distance (implied opposite) and specific locations like [[UN]] (under) or [[HU]] (above). The initial 'E' sound subtly links to nearness *relative to* an 'other' or external point.
+> Root of spatial proximity or nearness. Contrasts with concepts of distance (implied opposite) and specific locations like [[UN]] (under) or [[HI]] (above). The initial 'E' sound subtly links to nearness *relative to* an 'other' or external point.
 
 ## Usage
 

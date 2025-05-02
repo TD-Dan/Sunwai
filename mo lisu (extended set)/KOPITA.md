@@ -48,7 +48,7 @@ Example::   *Se o sipu ro ko **ta Kopita**.* = "That is the system by which the 
 
 Example::   *Se o ta **so Kopita**.* = "That is a **reproductive** action."
 
-Example::   *An sun sipu **so Kopita** ro kohu.* = "We understand the **reproductive** system of the bird."
+Example::   *An sun sipu **so Kopita** ro kohi.* = "We understand the **reproductive** system of the bird."
 
 Example::   *Tilo se o **Kopita**.* = "That time is **reproductive** (e.g., a mating season)."
 

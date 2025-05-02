@@ -1,6 +1,6 @@
 # Appendix 1: Dimensionality of base set
 
-author-comment:: This section is experimental and not complete.
+author-comment:: This section is experimental and not complete. NEEDS UPDATE due to changed word meanings!
 
 These charts map the meaning accross the base set words among different semantic dimensions/axis. Words define points, regions or patterns in given dimensions. Sunwai overloads words to multiple dimensions.
 

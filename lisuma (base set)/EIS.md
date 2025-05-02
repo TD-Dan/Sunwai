@@ -22,7 +22,7 @@ Descriptor::	**Cold, Cool, Icy, Frozen**
 ### Concept
 *   Refers to the state of coldness, or substances like ice/frost. Often requires [[le]] marker for clarity as a noun.
 
-Example::   *Le **eis** ne hu ma o mo.* = "The **cold** on the high mountain is intense."
+Example::   *Le **eis** ne hi ma o mo.* = "The **cold** on the high mountain is intense."
 Example::   *A pai **eis**.* = "I think about **coldness**." / "I feel the **cold**."
 Example::   ***Eis** o wai so.* = "**Ice** is still water."
 Example::   *Ma hat **eis** pi.* = "The ground has round **ice** (hail?)."

@@ -65,7 +65,7 @@
 *   **Lesson 11: Location and Position (`ne` and `i`)**
     *   Objective: Use `ne` (on, at) and `i` (in, inside) to indicate location.
     *   Content: Placement and meaning of `ne` and `i`.
-    *   Vocabulary: `ne`, `i`, `ma` (earth/ground), `hu` (high/sky), `un` (under/low), `lu` (void/space).
+    *   Vocabulary: `ne`, `i`, `ma` (earth/ground), `hi` (high/sky), `un` (under/low), `lu` (void/space).
     *   Exercises: Describing locations (`Neko ne ma`), translating sentences with `ne` and `i`.
 *   **Lesson 12: Numbers (`si`) and Counting**
     *   Objective: Understand and use the Sunwai number system (0-10) and the numeral marker `si`.

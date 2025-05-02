@@ -15,7 +15,7 @@ Concept::		**Under, Beneath, Low (position/direction); Depth; Hiddenness, Submer
 Action::		**To go under, to descend, to lower; To submerge; To hide (under)**
 Descriptor::	**Low, Under, Beneath, Deep; Hidden, Submerged; Subconscious**
 
-> Root of the spatial concept of being underneath, low, or deep, extending to abstract concepts of hiddenness or the subconscious. Contrasts with [[HU]] (high, above).
+> Root of the spatial concept of being underneath, low, or deep, extending to abstract concepts of hiddenness or the subconscious. Contrasts with [[HI]] (high, above).
 
 ## Usage
 

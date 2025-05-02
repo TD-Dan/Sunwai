@@ -4,7 +4,7 @@ tags:
   - base-set
   - word
   - tertiary-root
-to: 94
+to: 95
 ---
 
 # KU
