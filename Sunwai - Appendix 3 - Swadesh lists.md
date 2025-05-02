@@ -106,5 +106,215 @@ author-comment:: Section is work in progress
 | 99          | Name          | **Lisu**                 | Base              | "Word, label, name"                                                           | **Ok**                                                                                                   |
 | 100         | Sing          | **Oumanwailu**           | Extended          | "Song, to sing"                                                               | **Ok**                                                                                                   |
 Current coverage 58/100.
+
 ## Swadesh 207
 
+| #   | Swadesh Word  | Sunwai Word/Expression | Set      | Notes                                    |
+| --- | ------------- | ---------------------- | -------- | ---------------------------------------- |
+| 1   | I/me          | A                      | Base     | Prime root                               |
+| 2   | you (sg)      | E                      | Base     | Secondary root                           |
+| 3   | we            | An                     | Base     | Tertiary root                            |
+| 4   | this          | A / Se a               | Base     | "here/self"                              |
+| 5   | that          | Se / Se e              | Base     | "it/that"                                |
+| 6   | who           | Ke / Ouman ku?         | Base     | Question + person                        |
+| 7   | what          | Ke / Se ku?            | Base     | Question                                 |
+| 8   | not           | No                     | Base     | Negation particle                        |
+| 9   | all           | Oum                    | Base     | "All/everything"                         |
+| 10  | many          | Mu                     | Base     | "Much/many"                              |
+| 11  | one           | L / Si li              | Base     | Root/number                              |
+| 12  | two           | Re / Si re             | Base     | Root/number                              |
+| 13  | three         | Ta / Si ta             | Base     | Root/number                              |
+| 14  | four          | Ma / Si ma             | Base     | Root/number                              |
+| 15  | five          | Ka / Si ka             | Base     | Root/number                              |
+| 16  | big           | Mo                     | Base     | "Big"                                    |
+| 17  | long          | Lo                     | Base     | "Long"                                   |
+| 18  | small         | Li                     | Base     | "Small"                                  |
+| 19  | woman         | Ouman                  | Base     | Gender-neutral                           |
+| 20  | man           | Ouman                  | Base     | Gender-neutral                           |
+| 21  | person        | Ouman / Oumankoma      | Base     | "Person"/"Human"                         |
+| 22  | child         | Nuko                   | Extended | Offspring                                |
+| 23  | wife          | missing                |          |                                          |
+| 24  | husband       | missing                |          |                                          |
+| 25  | mother        | Mama                   | Extended | Parent                                   |
+| 26  | father        | missing                |          |                                          |
+| 27  | animal        | Ko                     | Base     | Any lifeform                             |
+| 28  | fish          | Waiko                  | Extended | "Water lifeform"                         |
+| 29  | bird          | Kohu                   | Extended | "Flying lifeform"                        |
+| 30  | dog           | Inuko                  | Extended | "Dog"                                    |
+| 31  | louse         | Lisuko                 | Proposed | "Parasite"                               |
+| 32  | snake         | Loko                   | Extended | (Tall/elongated lifeform)                |
+| 33  | worm          | Lokoli                 | Extended | (Small elongated lifeform)               |
+| 34  | tree          | Lokolumia              | Extended | "Tall light-lifeform"                    |
+| 35  | forest        | Lumiakoma              | Extended | "Plant earth"                            |
+| 36  | stick         | missing                |          |                                          |
+| 37  | fruit         | Lumiakotape            | Extended | "Plant food"                             |
+| 38  | seed          | Kopi                   | Proposed | "Animal egg" (could be adapted for seed) |
+| 39  | leaf          | Lumiako ne             | Extended | "Plant surface"                          |
+| 40  | root          | Heimima                | Extended | "Home inside ground"                     |
+| 41  | bark          | Mane                   | Proposed | "Tree outer layer"                       |
+| 42  | flower        | missing                |          |                                          |
+| 43  | grass         | missing                |          |                                          |
+| 44  | rope          | missing                |          |                                          |
+| 45  | skin          | Kone                   | Proposed | "Animal surface"                         |
+| 46  | meat          | Ko                     | Base     | Any body/flesh                           |
+| 47  | blood         | Kouwai                 | Extended | "Bodily fluid"                           |
+| 48  | bone          | Kopu                   | Proposed | "Body structure"                         |
+| 49  | fat (n.)      | Kope                   | Proposed | "Body substance"                         |
+| 50  | egg           | Kopi                   | Proposed | "Body circle"                            |
+| 51  | horn          | Koka                   | Proposed | "Body point"                             |
+| 52  | tail          | Konu                   | Proposed | "Body next/following"                    |
+| 53  | feather       | Konehu                 | Proposed | "Animal surface high"                    |
+| 54  | hair          | Koneli                 | Proposed | "Animal surface small"                   |
+| 55  | head          | Kokaheim               | Proposed | "Body point center"                      |
+| 56  | ear           | Kuwailu                | Extended | "Sense sound"                            |
+| 57  | eye           | Kulumia                | Extended | "Sense light"                            |
+| 58  | nose          | Kuha                   | Extended | "Sense air"                              |
+| 59  | mouth         | Ketape                 | Extended | "Sense food"                             |
+| 60  | tooth         | Kolipe                 | Proposed | "Body small substance"                   |
+| 61  | tongue        | Ketape                 | Extended | "Sense food"                             |
+| 62  | claw          | Kolika                 | Proposed | "Body small pivot"                       |
+| 63  | foot          | Konema                 | Proposed | "Body surface ground"                    |
+| 64  | knee          | Koneka                 | Proposed | "Body surface pivot"                     |
+| 65  | hand          | Kune                   | Extended | "Sense surface"                          |
+| 66  | belly         | Konelo                 | Proposed | "Body surface long"                      |
+| 67  | neck          | Koneto                 | Proposed | "Body surface order"                     |
+| 68  | breast        | missing                |          |                                          |
+| 69  | heart         | Koka                   | Proposed | "Body point/core"                        |
+| 70  | liver         | Konepa                 | Proposed | "Body surface give"                      |
+| 71  | drink         | Waita                  | Proposed | "Water action"                           |
+| 72  | eat           | Tape                   | Base     | "To eat/food"                            |
+| 73  | bite          | Kolipeta               | Proposed | "Tooth action"                           |
+| 74  | suck          | missing                |          |                                          |
+| 75  | swallow       | missing                |          |                                          |
+| 76  | spit          | missing                |          |                                          |
+| 77  | vomit         | missing                |          |                                          |
+| 78  | blow          | missing                |          |                                          |
+| 79  | breathe       | Ha                     | Base     | "Air, breath"                            |
+| 80  | laugh         | missing                |          |                                          |
+| 81  | see           | Kulumia                | Extended | "Sense light"                            |
+| 82  | hear          | Kuwailu                | Extended | "Sense sound"                            |
+| 83  | know          | Sun / Ta sun           | Base     | "Knowledge"                              |
+| 84  | think         | Pai                    | Base     | "Thought, mind, play"                    |
+| 85  | smell         | Kuha                   | Extended | "Sense air"                              |
+| 86  | fear          | missing                |          |                                          |
+| 87  | sleep         | Konota                 | Proposed | "Body not action"                        |
+| 88  | die           | Koseno                 | Proposed | "Body nothingness"                       |
+| 89  | kill          | Kotaseno               | Proposed | "Body action nothingness"                |
+| 90  | fight         | missing                |          |                                          |
+| 91  | hunt          | missing                |          |                                          |
+| 92  | hit           | missing                |          |                                          |
+| 93  | cut           | missing                |          |                                          |
+| 94  | split         | missing                |          |                                          |
+| 95  | stab          | missing                |          |                                          |
+| 96  | scratch       | missing                |          |                                          |
+| 97  | dig           | missing                |          |                                          |
+| 98  | swim          | Waipita                | Proposed | "Water cycle action"                     |
+| 99  | fly           | Hupita                 | Proposed | "High cycle action"                      |
+| 100 | walk          | Tamata                 | Proposed | "Path action"                            |
+| 101 | come          | Neta                   | Proposed | "Surface action"                         |
+| 102 | go            | Wai                    | Base     | "To flow, to go"                         |
+| 103 | lie (recline) | Malita                 | Proposed | "Ground small action"                    |
+| 104 | sit           | Matata                 | Proposed | "Ground action action"                   |
+| 105 | stand         | Sotata                 | Proposed | "Stable action action"                   |
+| 106 | turn          | missing                |          |                                          |
+| 107 | fall          | missing                |          |                                          |
+| 108 | give          | Pa                     | Base     | "To give"                                |
+| 109 | hold          | Hat                    | Base     | "To have, to hold"                       |
+| 110 | squeeze       | missing                |          |                                          |
+| 111 | rub           | missing                |          |                                          |
+| 112 | wash          | missing                |          |                                          |
+| 113 | wipe          | missing                |          |                                          |
+| 114 | pull          | missing                |          |                                          |
+| 115 | push          | missing                |          |                                          |
+| 116 | throw         | missing                |          |                                          |
+| 117 | tie           | missing                |          |                                          |
+| 118 | sew           | missing                |          |                                          |
+| 119 | count         | Sisi / Ta sisi         | Base     | "Number"/"To count"                      |
+| 120 | say           | Ki / Toki              | Base     | "To communicate"/"To speak"              |
+| 121 | sing          | Oumanwailu             | Extended | "Song, to sing"                          |
+| 122 | play          | Pai                    | Base     | "To play"                                |
+| 123 | float         | missing                |          |                                          |
+| 124 | flow          | Wai                    | Base     | "To flow, water"                         |
+| 125 | freeze        | Eis                    | Base     | "To freeze/cold"                         |
+| 126 | swell         | missing                |          |                                          |
+| 127 | sun           | Mamasun                | Extended | "Sun"                                    |
+| 128 | moon          | Eispi                  | Proposed | "Cold cycle"                             |
+| 129 | star          | Lumiahu                | Extended | "Light high/above"                       |
+| 130 | water         | Wai                    | Base     | "Water"                                  |
+| 131 | rain          | Huwai                  | Proposed | "High water"                             |
+| 132 | river         | Tawai                  | Base     | "Current, river, electricity"            |
+| 133 | lake          | Sowai                  | Extended | "Still water" (pool)                     |
+| 134 | sea           | Waimo                  | Extended | "Big water"                              |
+| 135 | salt          | missing                |          |                                          |
+| 136 | stone         | Mape                   | Proposed | "Earth substance"                        |
+| 137 | sand          | Lima                   | Proposed | "Small earth"                            |
+| 138 | earth         | Ma                     | Base     | "Earth, ground"                          |
+| 139 | cloud         | Hawa                   | Extended | "Weather/cloud"                          |
+| 140 | smoke         | missing                |          |                                          |
+| 141 | fire          | Ai                     | Base     | "Fire, heat"                             |
+| 142 | ash           | Aima                   | Proposed | "Fire earth"                             |
+| 143 | burn          | Ai                     | Base     | "Fire, to burn"                          |
+| 144 | path          | Tama                   | Base     | "Road/path"                              |
+| 145 | mountain      | Maheim                 | Extended | "Earth home"                             |
+| 146 | red           | Aikulo                 | Extended | "Hot color"                              |
+| 147 | green         | Lumakokulo             | Extended | "Plant color"                            |
+| 148 | yellow        | Sunkulo                | Extended | "Light color"                            |
+| 149 | white         | Oumkulo                | Extended | "All color"                              |
+| 150 | black         | Senokulo               | Extended | "Zero color"                             |
+| 151 | night         | Eistilo                | Proposed | "Cold time"                              |
+| 152 | day           | Tilo / Mamasun         | Base/Ext | "Time"/"Sun"                             |
+| 153 | year          | missing                |          |                                          |
+| 154 | warm          | Ai                     | Base     | "Hot, warm"                              |
+| 155 | cold          | Eis                    | Base     | "Cold, freeze"                           |
+| 156 | full          | Oum                    | Base     | "All/full"                               |
+| 157 | new           | Nu                     | Base     | "New"                                    |
+| 158 | good          | Pene                   | Base     | "Good, beautiful"                        |
+| 159 | bad           | Nopene                 | Extended | "Not good"                               |
+| 160 | rotten        | missing                |          |                                          |
+| 161 | dirty         | missing                |          |                                          |
+| 162 | straight      | missing                |          |                                          |
+| 163 | round         | Pi                     | Base     | "Circle"                                 |
+| 164 | sharp         | so koka / so kolika    | Proposed | "Pointed/horned/clawed"                  |
+| 165 | dull (blunt)  | missing                |          |                                          |
+| 166 | smooth        | missing                |          |                                          |
+| 167 | wet           | Wai                    | Base     | "Water/liquid"                           |
+| 168 | dry           | Senowai                | Proposed | "No water"                               |
+| 169 | correct       | Pene / Sipene          | Base/Ext | "Good/just/harmonious"                   |
+| 170 | near          | Et                     | Base     | "Near"                                   |
+| 171 | far           | missing                |          |                                          |
+| 172 | right         | missing                |          |                                          |
+| 173 | left          | missing                |          |                                          |
+| 174 | at            | Ne                     | Base     | "On, at, upon"                           |
+| 175 | in            | I                      | Base     | "In, inside"                             |
+| 176 | with          | An / Ne                | Base     | "And/together" / "on, with"              |
+| 177 | and           | An                     | Base     | "And, together"                          |
+| 178 | if            | Usi                    | Base     | "Conditional marker"                     |
+| 179 | because       | missing                |          |                                          |
+| 180 | name          | Lisu                   | Base     | "Word, name"                             |
+| 181 | one           | Li / si li             | Base     | "One, small"                             |
+| 182 | two           | Re / si re             | Base     | "Two, reflection"                        |
+| 183 | three         | Ta / si ta             | Base     | "Three, action"                          |
+| 184 | four          | Ma / si ma             | Base     | "Four, ground"                           |
+| 185 | five          | Ka / si ka             | Base     | "Five, center"                           |
+| 186 | big           | Mo                     | Base     | "Big, large"                             |
+| 187 | small         | Li                     | Base     | "Small"                                  |
+| 188 | woman         | Ouman                  | Base     | "Sentient being"                         |
+| 189 | man           | Ouman                  | Base     | "Sentient being"                         |
+| 190 | person        | Ouman                  | Base     | "Sentient being"                         |
+| 191 | child         | Nuko                   | Extended | "Offspring"                              |
+| 192 | wife          | missing                |          |                                          |
+| 193 | husband       | missing                |          |                                          |
+| 194 | mother        | Mama                   | Extended | "Parent"                                 |
+| 195 | father        | missing                |          |                                          |
+| 196 | animal        | Ko                     | Base     | "Lifeform"                               |
+| 197 | fish          | Waiko                  | Extended | "Water lifeform"                         |
+| 198 | bird          | Kohu                   | Extended | "Flying lifeform"                        |
+| 199 | dog           | Inuko                  | Extended | "Dog"                                    |
+| 200 | louse         | Lisuko                 | Proposed | "Louse, parasite"                        |
+| 201 | snake         | Loko                   | Extended | "Elongated lifeform"                     |
+| 202 | worm          | Lokoli                 | Extended | "Small elongated lifeform"               |
+| 203 | tree          | Lokolumia              | Extended | "Tall light-lifeform"                    |
+| 204 | forest        | Lumiakoma              | Extended | "Plant earth"                            |
+| 205 | stick         | missing                |          |                                          |
+| 206 | fruit         | Lumiakotape            | Extended | "Plant food"                             |
+| 207 | seed          | Kopi                   | Proposed | "Egg/seed, body circle"                  |
