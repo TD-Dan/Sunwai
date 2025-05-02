@@ -6,14 +6,15 @@ links:
 
 [[Sunwai]] is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
 
-**Important links:**
+**Important links:**]]
+One page summary: [[Sunwai Summary
 Learning the language: [[Sunwai Workbook]]
-One page summary: [[Sunwai Summary]]
 Core grammar at a glance: [[Sunwai Reference Sheet]]
 Complete dictionary: [[Sunwai full dictionary.baked]]
 This document in Sunwai: [[Oum sun ro Sunwai i li toki]] and [[Oum sun ro Sunwai i mo toki]]
 
-author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor changes. Subject to major breaking changes.
+author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor and even major changes.
+
 ## Base principles
 ### Easy to learn, hard to master
 Vowels and consonants used are the most common and easy to produce across all languages. Learning the base set of 100 words gives you skills to speak with any [[Sunwai]] speaker in any general topic. This could also be 'Easy to learn, hard to master' as the extensions and freedom give limitless options for exploration.
@@ -930,4 +931,26 @@ Example:: *Si **a** neko.* = "One cat."
 ## Proverbs  
 Proverb:: *A o oum.* = "I am everything."  
 ```
+
+# Appendices
+
+[[Sunwai - Appendix 1 - Dimensionalities]]
+
+[[Sunwai - Appendix 2 - Selected translations]]
+
+[[Sunwai - Appendix 3 - Swadesh lists]]
+
+[[Sunwai - Appendix 4 - Common phrases and Idioms]]
+
+# Special sets
+
+[[Sunwai Special set - Linguistics]]
+
+[[Sunwai Special set - Mathematics]]
+
+[[Special set Typography]]
+
+[[Sunwai Special set - Business and economy]]
+
+[[Sunwai Special set - Civil engineering and Architecture]]
 

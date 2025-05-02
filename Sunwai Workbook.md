@@ -3,6 +3,7 @@
 
 **[[Sunwai Workbook - Introduction]]**
 
+author-comment:: integrate essential phrases into each lesson
 
 **Part 1: The Sounds and Shapes of Sunwai (Foundations)**
 
