@@ -37,7 +37,7 @@ Example::   *A pai le **ta**.* = "I think about **action/change**."
 *   To perform any action, undergo change, function, operate, or simply happen. Using *ta ta* clarifies the verb usage if context is ambiguous.
 
 Example::   *A **ta ta** pene.* = "I **act** beautifully."
-Example::   *Wai **ta ta** ne timo.* = "Water **changes** over time."
+Example::   *Wai **ta ta** ne tilo.* = "Water **changes** over time."
 Example::   *Piko **ta ta** ran.* = "The computer **processes/functions** quickly."
 Example::   *Se **ta**.* = "It **happens/occurs**."
 

@@ -29,7 +29,7 @@ Example::   *Ha **kan** eis.* = "Air **can** become cold." (Possibility)
 
 Example::   *E **kan** tape.* = "You **may** eat." (Permission)
 
-Example::   *Se **kan** oum timo.* = "It **can** happen anytime." (Possibility, Lit: "It can all time.")
+Example::   *Se **kan** oum tilo.* = "It **can** happen anytime." (Possibility, Lit: "It can all time.")
 
 Example::   *An **kan** pa ne e ku?* = "**Can** we give [it] to you?" (Question of possibility/permission)
 

@@ -52,7 +52,7 @@ Example::	*A hat **so so** pai.* = "I have a **very stable/calm** mind." - Redup
 
 ## Compounds
 - **[[SOHEIM]]** = Foundation, anchor point, safe haven (*so + heim* = "stable home/center")
-- **[[SOTILO]]** = Period of calm, stasis (*so + timo* = "still time")
+- **[[SOTILO]]** = Period of calm, stasis (*so + tilo* = "still time")
 - **[[SOWAI]]** = Still water, pool, calm liquid (*so + wai* = "still water")
 - **[[SOKO]]** = Hibernation, dormancy, stable life state (*so + ko* = "still lifeform")
 

@@ -24,7 +24,7 @@ Descriptor::	**Remembered, recalled, historical, archival**
 
 Example::	***Lono** ro a o pene.* = "My **memory** is good."
 Example::	*Se o **lono** ku.* = "That is an old **record/memory**."
-Example::	*Oum o **lono** ne timo.* = "Everything becomes **history** in time."
+Example::	*Oum o **lono** ne tilo.* = "Everything becomes **history** in time."
 
 ### Action
 *   The act of retrieving information from memory or recording it for future recall.
@@ -37,7 +37,7 @@ Example::	*Piko **lono** oum.* = "The computer **records/archives** everything."
 *   Relating to memory, the past, recall, or historical data.
 
 Example::	*Sun **lono** o mo.* = "**Remembered/Historical** knowledge is vast."
-Example::	*Timo **lono** o ku.* = "The **recalled** time (the past) is old."
+Example::	*tilo **lono** o ku.* = "The **recalled** time (the past) is old."
 Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Compounds
@@ -55,7 +55,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Proverbs
 
-Proverb:: *Lono o sun ro timo.* = "Memory is the knowledge of (past) time."
+Proverb:: *Lono o sun ro tilo.* = "Memory is the knowledge of (past) time."
 Proverb:: *Pai nu, lono ku.* = "The mind creates anew, memory recalls the old."
 Proverb:: *Seno pai, seno lono, seno sun.* = "Without learning, without memory, without knowledge."
 Proverb:: *Lono ro a o no sun, sunta lono o u.* = "My memory is not (objective) truth; therefore, memory is uncertain."

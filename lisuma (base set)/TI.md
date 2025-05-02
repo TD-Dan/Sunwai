@@ -32,7 +32,7 @@ author-note:: marker usage needs clarification
 ### Concept
 *   A defined span between points, or a recurring pattern.
 
-Example::	***Ti** ne timo.* = "The **interval** within time."
+Example::	***Ti** ne tilo.* = "The **interval** within time."
 Example::	*A hat **ti** ne ta.* = "I have **gaps** between actions."
 Example::	***Ti** o pene!* = "**Rhythm** is beautiful!"
 
@@ -40,7 +40,7 @@ Example::	***Ti** o pene!* = "**Rhythm** is beautiful!"
 *   To occur at regular intervals or to do something again.
 
 Example::	*E **ti** ku?* = "Can you **repeat**?"
-Example::	*Timo **ti** se.* = "Time **repeats** itself."
+Example::	*tilo **ti** se.* = "Time **repeats** itself."
 
 ## Compounds
 - **[[TILO]]** = Time, duration (*ti + lo* = "large interval").

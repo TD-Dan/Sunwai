@@ -41,7 +41,7 @@ Without clarifying Markers or clear context, word roles are inferred by position
 | **Equative**            | `X o Y`                         | *Neko o pene* ("Cat is beautiful")                                                                         |
 | **Possessive**          | `X hat Y` <br>`Y ro X`          | *A hat heim* ("I have a home")<br>*Tabe ro neko* ("Cat's food")                                            |
 | **Negation**            | `no X`                          | *No neko* ("Not a cat")                                                                                    |
-| **Question**            | `... ku?`<br>`ku ...?`          | *E hat heim ku?* ("Do you have a home?")<br>*Ku timo o se?* ("What time is it?")                           |
+| **Question**            | `... ku?`<br>`ku ...?`          | *E hat heim ku?* ("Do you have a home?")<br>*Ku tilo o se?* ("What time is it?")                           |
 | **Conditional**         | `usi X, se Y`<br>`Y, usi X`     | *Usi a hat tape, se pa* ("If I have food then (I) give.")                                                  |
 | **Logical Consequence** | `sunta X, se Y`<br>`Y, sunta X` | *Sunta e pai, se lono* ("Because you play you learn")<br>*E pai, sunta lono* ("You play, therefore learn") |
 | **Intensifier**         | `X X`                           | repreating any word intensifies its meaning. *li* = small, *li li* = tiny.                                 |

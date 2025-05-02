@@ -51,7 +51,7 @@ Example::   *A hat tape **ne nu**.* = "I will have food (in the following time/m
 
 Example::   *E o **ne nu** ro a.* = "You are at the following position relative to me." / "You are after me (in sequence)." (*nu* describes the position marked by *ne*).
 
-Example::   *Ne **nu** timo, ouman ta nu ma.* = "In **following** time (lit. at following time), sentient beings will explore new lands." (*nu ma* = new lands).
+Example::   *Ne **nu** tilo, ouman ta nu ma.* = "In **following** time (lit. at following time), sentient beings will explore new lands." (*nu ma* = new lands).
 
 ## Compounds
 

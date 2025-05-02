@@ -25,13 +25,13 @@ Descriptor::	**Hot, Warm, Fiery, Burning, Intense (thermally)**
 Example::   *Le **ai** ro mamasun o mo.* = "The **heat** of the sun is intense/great."
 Example::   *A pai **ai**.* = "I think about **heat/fire**." / "I feel the **heat**."
 Example::   ***Ai** o u.* = "**Fire** is chaos/unpredictable."
-Example::   *Ouman na **ai** i eistimo.* = "Sentient beings need **warmth** in the winter."
+Example::   *Ouman na **ai** i eistilo.* = "Sentient beings need **warmth** in the winter."
 
 ### Action
 *   The act of making something hot, warming, burning, or the process of becoming hot.
 
 Example::   *A **ta ai** le wai.* = "I **heat** the water."
-Example::   *Pu **ai** ne timo.* = "The structure **burns** over time."
+Example::   *Pu **ai** ne tilo.* = "The structure **burns** over time."
 Example::   *Ta **ai** le tape!* = "**Warm** the food!"
 Example::   *Ma **ai**.* = "The ground **becomes hot**."
 

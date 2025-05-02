@@ -36,7 +36,7 @@ Example::   *A **ta oumanwailu** ne e.* = "I **sing** to you."
 
 Example::   *An **ta oumanwailu** ata.* = "We **make music** together."
 
-Example::   *Ouman ke **ta oumanwailu** ne timo pene.* = "The ancestors **chanted** during the festival."
+Example::   *Ouman ke **ta oumanwailu** ne tilo pene.* = "The ancestors **chanted** during the festival."
 
 ### Descriptor
 *   Describes something as being musical or related to song/chant. Optional *[[SO]]*.

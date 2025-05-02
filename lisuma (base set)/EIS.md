@@ -31,7 +31,7 @@ Example::   *Ma hat **eis** pi.* = "The ground has round **ice** (hail?)."
 *   The act of making something cold, chilling, freezing, or the process of becoming cold.
 
 Example::   *A **ta eis** le wai.* = "I **cool/chill** the water."
-Example::   *Wai **eis** ne timo un.* = "Water **freezes** in the low/cold time (winter?)."
+Example::   *Wai **eis** ne tilo un.* = "Water **freezes** in the low/cold time (winter?)."
 Example::   *Ta **eis** le tape!* = "**Chill** the food!"
 Example::   *Ha **eis**.* = "The air **becomes cold**."
 
@@ -47,7 +47,7 @@ Example::   *A ke **eis**.* = "I sense **cold**." / "I feel **cold**."
 
 *   **[[Eiswai]]** = Ice water, cold liquid (*eis + wai* = "cold water").
 *   **[[Eisma]]** = Tundra, frozen ground, permafrost (*eis + ma* = "cold earth").
-*   **[[Eistimo]]** = Winter, cold season (*eis + timo* = "cold time").
+*   **[[Eistilo]]** = Winter, cold season (*eis + tilo* = "cold time").
 *   **[[Eisko]]** = Cold-adapted lifeform; State of being frozen (biologically) (*eis + ko* = "cold lifeform").
 
 ## Origin

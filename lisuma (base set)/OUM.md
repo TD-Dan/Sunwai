@@ -42,13 +42,13 @@ Example::	*A **oum** neko an inuko.* = "I **gather** cats and dogs."
 ## Compounds
 - **[[Oumheim]]** = Universe, cosmic home (*oum + heim* = "all home").
 
-    Example:: *Oumheim o senotimo!* = "The universe is timeless!"
+    Example:: *Oumheim o senotilo!* = "The universe is timeless!"
 
 - **[[Ouman]]** = Sentient being (*oum + an* = "all togetherness").
 
     Example:: *Ouman o pene ne ma.* = "Humanity thrives on earth."
 
-- **[[Oumtimo]]** = Eternity, universal cycle (*oum + timo* = "all time").
+- **[[Oumtilo]]** = Eternity, universal cycle (*oum + tilo* = "all time").
 - **[[Oumkulo]]** = Diversity (*oum + kulo* = "all color/spectrum").
 
     Example:: *Oumkulo o pene!* = "Diversity is beautiful!"

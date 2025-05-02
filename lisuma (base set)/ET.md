@@ -26,7 +26,7 @@ Example::   *Le **et** ro a an e o pene.* = "The **nearness/closeness** between 
 
 Example::   *A pai **et**.* = "I think about **proximity**." / "I feel the **nearness**."
 
-Example::   ***Et** o timo li.* = "**Nearness/Proximity** is a short time."
+Example::   ***Et** o tilo li.* = "**Nearness/Proximity** is a short time."
 
 ### Action
 *   The act of moving closer, being adjacent to, or approaching something.
@@ -52,7 +52,7 @@ Example::   *An hat pai **et**.* = "We have **close/similar** thoughts." (Metaph
 
 ## Compounds
 
-*   **[[Ettimo]]** = Imminent time, near future (*et + timo* = "near time").
+*   **[[Ettilo]]** = Imminent time, near future (*et + tilo* = "near time").
 *   **[[Etta]]** = Approach (action noun), convergence (*et + ta* = "near action").
 *   **[[Etko]]** = Neighboring lifeform, close companion (*et + ko* = "near lifeform").
 *   **[[Etheim]]** = Neighborhood, vicinity (*et + heim* = "near home/area").

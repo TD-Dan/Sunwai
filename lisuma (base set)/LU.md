@@ -34,7 +34,7 @@ Example::   *Seno wailu i **lu**.* = "Silence **in the void/openness**."
 
 Example::   *A **ta lu** le heim.* = "I **empty/clear** the home."
 
-Example::   *Le pai **lu** ne timo.* = "The mind **becomes open/clears** over time."
+Example::   *Le pai **lu** ne tilo.* = "The mind **becomes open/clears** over time."
 
 Example::   ***Lu!*** = "**Clear out! / Make space!**" (Imperative context).
 

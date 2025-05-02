@@ -40,7 +40,7 @@ Example:: *Ouman **ta ro** ma.* = "Sentient lifeforms belong to earth"
 * Numeral
 
 Example:: *A hat ro neko* = " I have hundred cats."
-Example:: *E si ro timo ti* = "You repeat hundred times" (( This is weird. ))
+Example:: *E si ro tilo ti* = "You repeat hundred times" (( This is weird. ))
 
 ## Origin
 

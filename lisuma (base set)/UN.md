@@ -28,7 +28,7 @@ Example::   *A pai **un**.* = "I think about the **hidden/subconscious**."
 
 Example::   *Pene o i **un**.* = "Beauty is in the **depths**."
 
-Example::   ***Un** o timo li.* = "The **low point/depth** is brief."
+Example::   ***Un** o tilo li.* = "The **low point/depth** is brief."
 
 ### Action
 *   The act of moving downwards, placing something underneath, submerging, or hiding something below.

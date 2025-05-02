@@ -462,8 +462,7 @@ The particle [[#ta]] can be used as action marker to resolve ambiquity in a sent
 - *Neko o pene ku?* = "Is the cat beautiful?"
 
 - **Multiple Options:**
-    - *E ta heim ??? bisu ku?* = "Are you going home **or** to the market?"
-    - (( Needs a dedicated or particle for multiple options ))
+    - *E wai heim **au** pisu ku?* = "Are you going home **or** to the market?"
 
 ### 8. Imperative (Command/Request)
 

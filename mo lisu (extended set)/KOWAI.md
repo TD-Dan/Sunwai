@@ -41,7 +41,7 @@ Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in
 
 Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
 
-Example::   *Ko kan **ta kowai** ne timo hi.* = "Lifeforms can **change biologically** at different times."
+Example::   *Ko kan **ta kowai** ne tilo hi.* = "Lifeforms can **change biologically** at different times."
 
 ## Related Concepts / Distinctions
 *   **[[Koi]]** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).

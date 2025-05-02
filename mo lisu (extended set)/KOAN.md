@@ -43,7 +43,7 @@ Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle /
 
 Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
 
-Example::   *Se o timo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
+Example::   *Se o tilo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
 
 **Usage Note on Expressing Sexual Intimacy:**
 *Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *[[Kopita]]*.

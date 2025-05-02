@@ -24,7 +24,7 @@ Descriptor::	**Fast, Quick, Rapid, Speedy**
 
 Example::   *Le **ran** ro uramako o mo.* = "The **speed** of the rabbit is great."
 
-Example::   ***Ran** o pene ne timo li.* = "**Quickness** is good in a short time/moment."
+Example::   ***Ran** o pene ne tilo li.* = "**Quickness** is good in a short time/moment."
 
 ### Action
 *   The act of moving quickly or accelerating. Can modify other actions.
@@ -58,4 +58,4 @@ Example::   *Sun so **ran** o u.* = "**Quick** knowledge/information is uncertai
 * **Spanish** _rápido_ ("fast")
 ## Proverbs
 
-Proverb:: *Ran o no pene oum timo.* = "Speed isn't always good."
+Proverb:: *Ran o no pene oum tilo.* = "Speed isn't always good."

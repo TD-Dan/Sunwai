@@ -34,7 +34,7 @@ Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eye
 
 Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
 Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
-Example::   *Lumiako **ta kouwai** ne timopene.* = "The plant **flows with sap** in the good time (spring)."
+Example::   *Lumiako **ta kouwai** ne tilopene.* = "The plant **flows with sap** in the good time (spring)."
 
 ### Descriptor
 *   Describes something related to biological fluids.

@@ -54,4 +54,4 @@ Example:: *Neko hat **si ne** ko.* = "A cat has **nine** lives."
   
 ### Proverbs
 
-Proverb:: _**Ne** oum **ne** timo._ = "Surface all upon time." =  - Utter nonsense!
+Proverb:: _**Ne** oum **ne** tilo._ = "Surface all upon time." =  - Utter nonsense!

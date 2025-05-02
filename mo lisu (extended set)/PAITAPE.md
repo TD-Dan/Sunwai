@@ -35,7 +35,7 @@ Example:: *Mama pu **paitape** pi.* = "The parent makes/crafts a round **cake**.
 
 - Refers to the act of celebrating with special food or feasting.
 
-Example:: *An ta **paitape** ne timopene.* = "We **celebrate/feast** during the festival."
+Example:: *An ta **paitape** ne tilopene.* = "We **celebrate/feast** during the festival."
 
 Example:: ****Paitape!*** = "Let's celebrate (with food)!" (Contextual imperative)
 
@@ -43,7 +43,7 @@ Example:: ****Paitape!*** = "Let's celebrate (with food)!" (Contextual imperativ
 
 - Describes something as being cake-like, festive (especially regarding food), or sweet in that manner.
 
-Example:: *Se o timo so **paitape***. = "That is a **festive/cake-like** time."
+Example:: *Se o tilo so **paitape***. = "That is a **festive/cake-like** time."
 
 Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
@@ -53,7 +53,7 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 - **[[Paitapepene]]** = Exquisite cake/pastry, gourmet dessert (paitape + pene = "beautiful cake").
 
-- **[[Paitapetimo]]** = Dessert time, cake break (paitape + timo = "cake time").
+- **[[Paitapetilo]]** = Dessert time, cake break (paitape + tilo = "cake time").
 
 
 ## Origin
@@ -62,4 +62,4 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 
 ## Proverbs
 
-Proverb:: *Paitape ne timopene, an o oum.* = "Cake at the festival time, we are whole/united."
+Proverb:: *Paitape ne tilopene, an o oum.* = "Cake at the festival time, we are whole/united."

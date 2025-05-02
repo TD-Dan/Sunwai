@@ -35,7 +35,7 @@ Example::   *Le **oumanan** o pene ne heim.* = "The **partnership (togetherness)
 ### Action
 *   To be in the state of partnership/togetherness. Generally less common than using concept + 'o'.
 
-Example::   *An **ta oumanan** pi timo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
+Example::   *An **ta oumanan** pi tilo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
 
 ### Descriptor
 *   Describes the state of being partnered. Generally less common.

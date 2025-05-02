@@ -2,7 +2,7 @@
 
 ## Hai ne Sunwai!
 
-*Hai!* Hai ne Lisu Paisun Sunwai. Se o lisu tama sun ro e ne pai sun toki pu ne sun, an, an pai pene. E na toki pu, au e na tama li ne toki sun mo, au e pai pu nu ro ki pene ku? Sunwai pa timota hi an pene.
+*Hai!* Hai ne Lisu Paisun Sunwai. Se o lisu tama sun ro e ne pai sun toki pu ne sun, an, an pai pene. E na toki pu, au e na tama li ne toki sun mo, au e pai pu nu ro ki pene ku? Sunwai pa tilota hi an pene.
 
 Lisu paisun se o pu ne ta an Lisu Oum Sunwai an Lisu Si Sunwai. Lisu se pa si oum an sun li. Hi, lisu paisun se heim ne ta mo sun ro e ne to li.
 
@@ -63,11 +63,11 @@ Ke e ke pai sun, pai li ne ku e na ta ne pai sun Sunwai. E na:
 *   Kan pai ne ki pene au kipu pai?
 *   Kan pa ne ta mo toki?
 
-Hat heim i pai kan pa tasipu ne timota paisun ro e.
+Hat heim i pai kan pa tasipu ne tilota paisun ro e.
 
 ---
 
-E kan ke ku? An wai pai Sunwai pene ata. Ta timota ro e hat sun an pene!
+E kan ke ku? An wai pai Sunwai pene ata. Ta tilota ro e hat sun an pene!
 
 ---
 
