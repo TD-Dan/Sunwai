@@ -63,3 +63,4 @@ Example:: Wai so **paitape**. = "A **sweet/dessert-like** liquid."
 ## Proverbs
 
 Proverb:: *Paitape ne tilopene, an o oum.* = "Cake at the festival time, we are whole/united."
+

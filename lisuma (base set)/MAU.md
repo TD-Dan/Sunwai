@@ -11,7 +11,7 @@ to: 290
 
 # MAU
 
-IPA::				/mau/
+IPA::				/maˈu/
 Concept::		**End, Finish, Completion (esp. returning to base state), Conclusion, Cessation (returning to potential); Grounding point (final), Material Dissolution/Return**
 Action::		**To end, finish, complete, conclude, cease (esp. returning to potential/base); To ground finally, return to source**
 Descriptor::	**Finished, Completed, Concluded, Final, Ended (returning to base); Grounded (finally), Returned to potential**
