@@ -47,7 +47,7 @@ Example::   *A ke **ai**.* = "I sense **heat**." / "I feel **hot**."
 
 *   **[[Aiwai]]** = Hot liquid, steam, lava? (*ai + wai* = "hot water").
 *   **[[Aima]]** = Hot ground, desert, volcanic land? (*ai + ma* = "hot earth").
-*   **[[Aitilo]]** = Summer, hot season (*ai + tilo* = "hot time").
+*   **[[Aitilon]]** = Summer, hot season (*ai + tilo* = "hot time").
 *   **[[Aiko]]** = Heat-adapted lifeform; Fever state? (*ai + ko* = "hot lifeform").
 *   **[[Aipai]]** = Passion, intense thought/emotion, "burning desire" (*ai + pai* = "hot mind/play").
 *   **[[Aitoki]]** = Heated argument, passionate speech (*ai + toki* = "hot language").

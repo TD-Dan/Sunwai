@@ -48,7 +48,7 @@ Example::	*A **oum** neko an inuko.* = "I **gather** cats and dogs."
 
     Example:: *Ouman o pene ne ma.* = "Humanity thrives on earth."
 
-- **[[Oumtilo]]** = Eternity, universal cycle (*oum + tilo* = "all time").
+- **[[Oumtilon]]** = Eternity, universal cycle (*oum + tilon* = "all time").
 - **[[Oumkulo]]** = Diversity (*oum + kulo* = "all color/spectrum").
 
     Example:: *Oumkulo o pene!* = "Diversity is beautiful!"

@@ -51,4 +51,6 @@ Example::   *An hat heim **mama**.* = "We have a **nurturing** home."
 ## Proverbs
 
 Proverb:: *Mama o ma ro ko.* = "A parent/caregiver is the earth/foundation of a lifeform."
+
 Proverb:: *Ta mama o ta an.* = "To nurture is to create togetherness."
+

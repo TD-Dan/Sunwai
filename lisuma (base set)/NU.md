@@ -55,7 +55,7 @@ Example::   *Ne **nu** tilo, ouman ta nu ma.* = "In **following** time (lit. at 
 
 ## Compounds
 
--   **[[NUTILO]]** (*NU* + *TILO*): Future Time, The Future Era. Provides emphasis beyond *ne nu*.
+-   **[[NUTILON]]** (*NU* + *TILO*): Future Time, The Future Era. Provides emphasis beyond *ne nu*.
 -   **[[NUKO]]** (*NU* + *KO*): Offspring, New Generation ("following lifeform").
 -   **[[NUHEIM]]** (*NU* + *HEIM*): New Settlement, Modern Dwelling ("following/next home").
 

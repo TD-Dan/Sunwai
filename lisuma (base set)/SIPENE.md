@@ -43,7 +43,7 @@ Example::   *Ta **sipene** o pene.* = "A **just/fair** action is good."
 
 ## Compounds
 *   **[[Sipeneheim]]** (*sipene* + *[[heim]]*): Court of Justice; Place of Harmony ("justice/harmony home"). 
-*   **[[Sipenetilo]]** (*sipene* + *[[tilo]]*): Golden Age, Era of Peace/Justice ("harmony/justice time").
+*   **[[Sipenetilo]]** (*sipene* + *[[TILON]]*): Golden Age, Era of Peace/Justice ("harmony/justice time").
 *   **[[Sipenewai]]** (*sipene* + *[[wai]]*): Perfect Harmony (dynamic), Symphony; Fair distribution ("harmonious/just flow"). 
 *   **[[Sipenesun]]** (*sipene* + *[[sun]]*): Ethics, Aesthetics; Study of Proportion ("harmony/justice/precision knowledge").
 

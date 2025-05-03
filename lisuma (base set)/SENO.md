@@ -47,7 +47,7 @@ Example::   *Ko o **seno** i lu.* = "Life is **non-existent** in the void."
 *   **[[SENOKULO]]** (*SENO* + *[[KULO]]*): Black ("zero color").
 *   **[[SENOLISU]]** (*SENO* + *[[LISU]]*): Unnamed, Anonymous ("zero word/name").
 *   **[[SENOLONO]]** (*SENO* + *[[LONO]]*): Forgotten, Amnesia, Unrecorded ("zero memory").
-*   **[[SENOTILO]]** (*SENO* + *[[TILO]]*): Timelessness, Eternity ("zero time").
+*   **[[SENOTILO]]** (*SENO* + *[[TILON]]*): Timelessness, Eternity ("zero time").
 
 ## Origin
 *   **Sunwai**: Compound of **[[SE]]** (It, that specific thing) + **[[NO]]** (Not, negation). Conceptualizes zero/nothingness as "that which is specifically not there" or "the state of non-existence of a specific thing."

@@ -1,12 +1,12 @@
 ---
 roots:
-  - "[[LO]]"
+  - "[[LON]]"
   - "[[NO]]"
 tags:
   - base-set
   - compound
   - word
-to: 311
+to: 310
 ---
 # LONO
 
@@ -24,7 +24,7 @@ Descriptor::	**Remembered, recalled, historical, archival**
 
 Example::	***Lono** ro a o pene.* = "My **memory** is good."
 Example::	*Se o **lono** ku.* = "That is an old **record/memory**."
-Example::	*Oum o **lono** ne tilo.* = "Everything becomes **history** in time."
+Example::	*Oum o **lono** ne tilon.* = "Everything becomes **history** in time."
 
 ### Action
 *   The act of retrieving information from memory or recording it for future recall.
@@ -37,7 +37,7 @@ Example::	*Piko **lono** oum.* = "The computer **records/archives** everything."
 *   Relating to memory, the past, recall, or historical data.
 
 Example::	*Sun **lono** o mo.* = "**Remembered/Historical** knowledge is vast."
-Example::	*tilo **lono** o ku.* = "The **recalled** time (the past) is old."
+Example::	*Tilon **lono** o ku.* = "The **recalled** time (the past) is old."
 Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Compounds
@@ -46,7 +46,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 - **[[Senolono]]** = Forgotten, amnesia, unrecorded (*seno + lono* = "no memory")
 
 ## Origin
-* [[Sunwai]]: *lo+no* ("long no" - acquiring of knowledge is an along and arduos process)
+* [[Sunwai]]: *lon+no* ("long no" - acquiring of knowledge is an along and arduos process), (secon n is dropped per sunwai compounding rules)
 - **English** _know_
 - **Latin** _cognosco_ (know)
 - **Greek** _gnosis_ (knowledge)
@@ -55,7 +55,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 
 ## Proverbs
 
-Proverb:: *Lono o sun ro tilo.* = "Memory is the knowledge of (past) time."
+Proverb:: *Lono o sun ro tilon.* = "Memory is the knowledge of (past) time."
 Proverb:: *Pai nu, lono ku.* = "The mind creates anew, memory recalls the old."
 Proverb:: *Seno pai, seno lono, seno sun.* = "Without learning, without memory, without knowledge."
 Proverb:: *Lono ro a o no sun, sunta lono o u.* = "My memory is not (objective) truth; therefore, memory is uncertain."

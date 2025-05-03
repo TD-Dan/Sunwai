@@ -48,7 +48,7 @@ Example:: *A ta toki **so heim**.* = "I speak **directly/pointedly**."
 
 *   **Comfort/Familiarity:**
 
-Example:: *Se o tilo **heim**.* = "That is a **cozy/familiar** time."
+Example:: *Se o tilon **heim**.* = "That is a **cozy/familiar** time."
 Example:: *An hat pai **so heim**.* = "We have an **intimate/familiar** thought/connection."
 
 ## Compounds

@@ -30,7 +30,7 @@ Example::   *Se o **nuko** ro sipu.* = "That is the **nascent stage** of the sys
 *   The act of being born or the process of birth/reproduction.
 
 Example::   *Mama **ta nuko**.* = "The parent **gives birth**."
-Example::   *A **nuko** ne ketilo li.* = "I **was born** a short time ago."
+Example::   *A **nuko** ne ketilon li.* = "I **was born** a short time ago."
 Example::   *Ko **nuko**.* = "Life **is born / reproduces**."
 
 ### Descriptor

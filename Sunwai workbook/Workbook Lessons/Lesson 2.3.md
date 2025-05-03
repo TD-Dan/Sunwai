@@ -9,6 +9,9 @@
 
 ---
 
+## Lesson intro
+
+
 ## Objective
 
 By the end of this lesson, you will be able to:
@@ -19,9 +22,7 @@ By the end of this lesson, you will be able to:
 *   Recognize `NUKO` (Newborn/Offspring) and the compound `NUKO URAMAKO` (Baby Rabbit).
 *   Use `AMA`, `KE`, `KA`, `NU`, `MAU`, and `URAMAKO` as nouns (Concepts) in simple "X is Y" (`X o Y`) sentences.
 
-## Lets start the lesson!
-
-**The Flow of Time & Process**
+## The Flow of Time & Process
 
 Sunwai uses simple, core words to represent fundamental ideas. One key set of concepts relates to the progression of time or the stages of any process – from its beginning to its end.
 
@@ -119,7 +120,7 @@ author-comment:: This section needs more content. Maybe another visualisation wi
 *   `Ama o pene.` = "The beginning is good."
 *   `Ke o lono.` = "The past is memory."
 *   `Uramako ke o mo.` = "The old rabbit is big." (Referring to the past stage)
-*   `Ka o tilo a.` = "The present is my time." (Uses `tilo` - replace if needed: `Ka o pene.` = The present is good.)
+*   `Ka o tilon a.` = "The present is my time." (Uses `tilo` - replace if needed: `Ka o pene.` = The present is good.)
 *   `Uramako o ran.` = "The rabbit is fast."
 *   `Nu o u.` = "The future is uncertain."
 *   `Nuko uramako o li.` = "The baby rabbit is small." (Referring to the future/new stage)

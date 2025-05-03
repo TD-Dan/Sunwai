@@ -27,11 +27,10 @@ Example::   *Neko o li. **Kas**, inuko o mo.* = "The cat is small. **However**, 
 Example::   *Ke sunta nu. **Kas**, nu o no so.* = "The past determines the future. **On the other hand / But**, the future is not fixed."
 
 ### Concept
-*   Refers to the state of being separate or the act of removal/subtraction. Usually requires `le`.
+*   Refers to the state of being separate or the act of removal/subtraction.
 
 Example::   *Le **kas** ro a an e o li.* = "The **difference** between me and you is small."
 Example::   ***Kas** o pene ne sipu.* = "**Distinction/Separation** is good in a system."
-Example::   *Le **kas** ro sisi ka an re o li.* = "The **subtraction** of five and two is three." (`ka` and `re` used as numbers here).
 
 ### Action
 *   The act of separating, distinguishing, removing, or subtracting. Requires `ta`.
@@ -39,7 +38,7 @@ Example::   *Le **kas** ro sisi ka an re o li.* = "The **subtraction** of five a
 Example::   *A **ta kas** le tape u.* = "I **remove** the bad food."
 Example::   *E **ta kas** sun an sun ku?* = "Do you **distinguish** between knowledge and knowledge?"
 Example::   *Ta **kas** se!* = "**Remove** that!"
-Example::   *Sisi ka **ta kas** re o ta.* = "Five **subtract** two equals three." (`ka` and `re` used as numbers).
+Example::   *Sisi ka **ta kas** ere o ta.* = "Five **subtract** two equals three." (`ka` and `re` used as numbers).
 
 ### Descriptor
 *   Describes something as being separate, different, or removed. Optional `so`.
@@ -52,7 +51,7 @@ Example::   *Tape o **kas**.* = "The food is **removed**."
 *   **[[Nokas]]** (*NO* + *KAS*): Indistinct, Same, Togetherness (negation of separation), Merged ("not separate"). *(Careful: contrasts with AN)*
 *   **[[Kasheim]]** (*KAS* + *HEIM*): Isolated place, Quarantine area ("separate home").
 *   **[[Kasko]]** (*KAS* + *KO*): Individual (separate lifeform); Corpse (life removed)? *(Meaning needs care)*. Let's stick with "Individual".
-*   **[[Kassun]]** (*KAS* + *SUN*): Analysis (separating knowledge); Distinction ("separate knowledge").
+*   **[[Kasun]]** (*KAS* + *SUN*): Analysis (separating knowledge); Distinction ("separate knowledge").
 
 ## Origin
 *   **Sunwai**: Core CV C root. Chosen for phonetic structure (`K`-`S`) suggesting cutting/separation, and strong contrast with `AN`.

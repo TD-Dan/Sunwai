@@ -42,7 +42,7 @@ Example::   *An **ama** ne heim.* = "We **start** at home / We **found** [it] at
 
 Example::   *Se o lisu **so ama**.* = "That is the **starting/initial** word."
 Example::   *A hat **ama** pai.* = "I have the **initial/foundational** thought."
-Example::   *Le tilo **ama** o mo.* = "The **beginning** time (e.g., genesis) is significant."
+Example::   *Le tilon **ama** o mo.* = "The **beginning** time (e.g., genesis) is significant."
 Example::   *Sipu o **ama** ne ma.* = "The system is **founded/originating** on earth."
 
 ## Compounds

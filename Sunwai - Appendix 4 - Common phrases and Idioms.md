@@ -74,13 +74,13 @@ Example:: *E pai ta tama se o ran. A no pai se.* = "You think taking that road i
 #### Breakdown
 [[A]] (I) + [[NO]] (Not) + [[PAI]] (Think/Perceive) + [[SE]] (That/It) + [[(O PENE)]]. Expresses disagreement or negative opinion. The final `o pene` is often implied and omitted.
 
-### Hai, a pai re e.
+### Hai, a pai ere e.
 *   Yes, I agree. (Lit: Yes, I think mirroring/like you.)
 
-Example:: *E pai Sunwai o pene. Hai, a pai re e.* = "You think Sunwai is good. Yes, I agree."
+Example:: *E pai Sunwai o pene. Hai, a pai ere e.* = "You think Sunwai is good. Yes, I agree."
 
 #### Breakdown
-[[HAI]] (Yes/Affirmation) + [[A]] (I) + [[PAI]] (Think/Perceive) + [[RE]] (Mirror/Pair/Relation) + [[E]] (You). Expresses agreement by stating one's thought/perception mirrors or relates closely to the other person's.
+[[HAI]] (Yes/Affirmation) + [[A]] (I) + [[PAI]] (Think/Perceive) + [[ERE]] (Mirror/Pair/Relation) + [[E]] (You). Expresses agreement by stating one's thought/perception mirrors or relates closely to the other person's.
 
 ## Expressing Understanding / Knowledge / Memory
 

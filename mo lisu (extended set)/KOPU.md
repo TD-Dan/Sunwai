@@ -53,7 +53,7 @@ Example::   *Se o **kopu** pene.* = "That is a beautiful **physical form**."
 *   [[Koipai]] (`ko + i + pai`): Body Image (internal perception of `kopu`).
 *   [[Koi]] (`ko + i`): Descriptor for biological female characteristics.
 *   [[Kota]] (`ko + ta`): Descriptor for biological male characteristics.
-*   [[Kore]] (`ko + re`): Descriptor for intersex biological characteristics.
+*   [[KOERE]] (`ko + re`): Descriptor for intersex biological characteristics.
 *   [[Koa]] (`ko + a`): Descriptor for asexual/undifferentiated biology.
 *   [[Kowai]] (`ko + wai`): Descriptor for biologically sex-fluid characteristics.
 

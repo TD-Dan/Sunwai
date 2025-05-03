@@ -41,7 +41,7 @@ Example::   *An toki ne **Koi** an Kota.* = "We talk about the **biological role
 
 Example::   *Le nuko se **ta Koi**.* = "That offspring **is developing the biology associated with large gamete production**."
 
-Example::   *I tilo pi, ko se **ta Koi**.* = "In its life cycle, that lifeform **functions biologically as the large-gamete producer**." (E.g., during the female phase of a sequential hermaphrodite).
+Example::   *I tilon pi, ko se **ta Koi**.* = "In its life cycle, that lifeform **functions biologically as the large-gamete producer**." (E.g., during the female phase of a sequential hermaphrodite).
 
 ## Related Concepts / Distinctions
 *   **[[Kota]]** (*ko + ta*): Descriptor for the biological role associated with producing the smaller gamete type.

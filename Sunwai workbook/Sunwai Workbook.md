@@ -5,18 +5,15 @@
 
 author-comment:: integrate essential phrases into each lesson
 
+author-comment:: Integrate overarching story that carries trough the lessons
+
 # Part 1: The Sounds and Shapes of Sunwai (Foundations)
 
-*   **Lesson 1.1: The Sunwai Alphabet & Basic Pronunciation**
-    *   Objective: Recognize and pronounce the 15 Sunwai letters (AEIOUTNSKMWLHRP).
-    *   Content: Introduction to vowels and consonants, standard IPA sounds, basic pronunciation tips.
-    *   Vocabulary: The letters themselves, `Sunwai`, `toki`, `sun`, `a`, `e`, `o`.
-    *   Exercises: Listening/repetition (if audio available), matching letters to sounds, identifying letters in simple words.
-*   **Lesson 1.2: Syllables and Stress**
-    *   Objective: Understand Sunwai syllable structure (CVVC) and basic stress patterns.
-    *   Content: Allowed syllable forms, examples, typical first-syllable stress.
-    *   Vocabulary: `neko`, `wai`, `pene`, `heim`, `ouman`.
-    *   Exercises: Breaking words into syllables, identifying stressed syllables (simple words).
+## [[Lesson 1.1]]
+![[Lesson 1.1#In this lesson]]
+## [[Lesson 1.2]]
+![[Lesson 1.2#In this lesson]]
+
 *   **Lesson 1.3: Words Have Roles (M, C, A, D)**
     *   Objective: Grasp the core concept that Sunwai words have flexible roles.
     *   Content: Introduction to Markers (M), Concepts (C), Actions (A), Descriptors (D) with simple examples. Emphasize context dependence.

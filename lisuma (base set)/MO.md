@@ -14,7 +14,7 @@ Concept::		**Size (multi-dimensional), Scale, Intensity, Magnitude (non-linear),
 Action::		**To enlarge (size), intensify, amplify, increase scale/degree**
 Descriptor::	**Big, Large (size/area/volume); Intense, Loud, Bright, High (degree/scale)**
 
-> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[LO]] (linear length, duration) and its direct opposite is [[LI]] (small, low intensity). Does not imply importance, greatness or significance.
+> Root representing magnitude concerning multi-dimensional size (area, volume), intensity (loudness, brightness, force), or abstract scale/degree. Answers "how big?" or "how intense?". Contrasts with [[LON]] (linear length, duration) and its direct opposite is [[LI]] (small, low intensity). Does not imply importance, greatness or significance.
 
 ## Usage
 

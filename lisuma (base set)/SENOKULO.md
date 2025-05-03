@@ -23,13 +23,13 @@ Descriptor::	**Black, Dark (lacking light/color)**
 
 Example::   *Le **senokulo** o pene.* = "The **blackness** is beautiful."
 Example::   *A pai **senokulo**.* = "I think about **blackness**."
-Example::   *Heim o **senokulo** i tilo seno.* = "The home is **black** in the timeless time."
+Example::   *Heim o **senokulo** i tilon seno.* = "The home is **black** in the timeless time."
 
 ### Action
 *   The act of making something black or the process of becoming dark/black.
 
 Example::   *A ta **senokulo** le pu.* = "I **blacken** the structure."
-Example::   *Hu **senokulo** ne tilo li.* = "The sky **darkens** briefly."
+Example::   *Hu **senokulo** ne tilon li.* = "The sky **darkens** briefly."
 Example::   *Ta **senokulo** se!* = "**Make it black!**"
 
 ### Descriptor

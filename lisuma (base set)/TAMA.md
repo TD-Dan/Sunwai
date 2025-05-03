@@ -42,7 +42,7 @@ Example::   *An o sipu **so tama**.* = "We are a **connecting** system."
 
 ## Compounds
 
-*   **[[Lotama]]** (*[[lo]]* + *tama*): Long road, Highway.
+*   **[[Lotama]]** (*[[LON]]* + *tama*): Long road, Highway.
 *   **[[Litama]]** (*[[li]]* + *tama*): Short path, Shortcut.
 *   **[[Motama]]** (*[[mo]]* + *tama*): Main road, Major route.
 *   **[[Waitama]]** (*[[wai]]* + *tama*): Canal, Aqueduct ("water path/connection").

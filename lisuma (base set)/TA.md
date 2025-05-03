@@ -51,7 +51,7 @@ Example::   *An hat **si ta** heim.* = "We have **three** homes."
 ## Compounds
 *   **[[Tama]]** (*ta* + *[[ma]]*): Road, Bridge ("action/process on ground").
 *   **[[Tawai]]** (*ta* + *[[wai]]*): River, Current ("action/process [of] water").
-*   **[[Tilota]]** (*[[tilo]]* + *ta*): Journey, Travel ("time action/process").
+*   **[[Tilota]]** (*[[TILON]]* + *ta*): Journey, Travel ("time action/process").
 *   **[[Sunta]]** (*[[sun]]* + *ta*): Therefore, Conclusion ("clarity/knowledge action/process" -> logical consequence).
 *   **[[Siputa]]** (*[[sipu]]* + *ta*): Operating System, Active Mechanism, Functional Process ("system action/process").
 *   **[[Ata]]** (*[[an]]* + *ta*): Meeting, Gathering ("togetherness action").

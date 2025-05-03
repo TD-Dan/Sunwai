@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[KU]]"
-  - "[[LO]]"
+  - "[[LON]]"
 tags:
   - base-set
   - compound
@@ -16,7 +16,7 @@ Concept::		**Color, Hue, Tint; Visual Spectrum Property**
 Action::		**To color, add hue, tint; To become colored**
 Descriptor::	**Colored, Hued, Chromatic; Number 7**
 
-> Root representing the perceptual property derived from the magnitude/length (wavelength) of light interacting with objects (color, hue). Systematically derived from [[KU]] (Sense) + [[LO]] (Magnitude/Length). It encompasses the entire visual spectrum and individual shades.
+> Root representing the perceptual property derived from the magnitude/length (wavelength) of light interacting with objects (color, hue). Systematically derived from [[KU]] (Sense) + [[LON]] (Magnitude/Length). It encompasses the entire visual spectrum and individual shades.
 
 ## Usage
 
@@ -32,7 +32,7 @@ Example::   *Se o **kulo** li.* = "That is a subtle/light **color/hue**."
 *   The act of applying color, adding a tint, or the process of something taking on color. Often requires [[ta]].
 
 Example::   *A ta **kulo** le heim.* = "I **color** the home."
-Example::   *Hu **kulo** ne tilo pene.* = "The sky **becomes colored** during the beautiful time (e.g., sunrise/sunset)." (Using new *tilo*)
+Example::   *Hu **kulo** ne tilon pene.* = "The sky **becomes colored** during the beautiful time (e.g., sunrise/sunset)." (Using new *tilon*)
 Example::   *Ta **kulo** se ku?* = "**Color** it?" (Using new question particle *ku*)
 
 ### Descriptor
@@ -69,7 +69,7 @@ Example:: *A hat si kulo wahiko.* = "I have seven ducks"
 
 ## Origin
 
-*   **Sunwai**: Systematically derived from **[[KU]]** (sense, perception) + **[[LO]]** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability.
+*   **Sunwai**: Systematically derived from **[[KU]]** (sense, perception) + **[[LON]]** (magnitude, scale, length), reflecting the concept of color as the *_"sensed magnitude/length"_* (wavelength) of light. This internal derivation aligns with the external phonetic **resonance** found in many world languages (e.g., Latin _color_, Greek _chrōma_), achieving both systemic logic and learnability. The n in the end is dropped for brevity in compounds and ease of speak.
 
 ## Proverbs
 

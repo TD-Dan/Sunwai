@@ -5,7 +5,7 @@ tags:
   - base-set
   - compound
   - word
-to: 252
+to: 254
 ---
 
 # TOKI

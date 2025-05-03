@@ -29,7 +29,7 @@ Example::   *Le **uramako** li ta tape lumako ne ma.* = "The small **rabbit** ea
 
 Example::   *Ke ro **uramako** o mo se neko.* = "The alertness/perception of the **hare** is greater than the cat's."
 
-Example::   *A kelumia mu **uramako** ne tilopene.* = "I see many **rabbits** during the spring festival."
+Example::   *A kelumia mu **uramako** ne tilonpene.* = "I see many **rabbits** during the spring festival."
 
 ### Action
 *   Describing sudden, rabbit-like flight or movement.
@@ -41,7 +41,7 @@ Example::   *I ke u, pai ro a **uramako**.* = "Sensing chaos/danger, my thoughts
 ### Descriptor
 *   Describes something having the qualities of a rabbit/hare's movement or temperament.
 
-Example::   *A hat pai so **uramako** ne tilo u.* = "I have **skittish/quick-darting** thoughts in chaotic times."
+Example::   *A hat pai so **uramako** ne tilon u.* = "I have **skittish/quick-darting** thoughts in chaotic times."
 
 Example::   *Ko se o **uramako** ne ta ran.* = "That creature is **rabbit-like** in its fast movement."
 

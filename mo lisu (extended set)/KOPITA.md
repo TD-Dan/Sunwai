@@ -28,14 +28,14 @@ Descriptor::	**Reproductive, Procreative (relating to the biological act)**
 
 Example::   *Le **Kopita** o pi ro ko.* = "The **biological reproduction** is the cycle of life."
 
-Example::   *Mu ko hat tilo **Kopita**.* = "Many lifeforms have a **reproductive** season."
+Example::   *Mu ko hat tilon **Kopita**.* = "Many lifeforms have a **reproductive** season."
 
 Example::   *Sun ro **Kopita** o mo.* = "The knowledge of **biological reproduction** is complex."
 
 ### Action
 *   Engaging in the specific biological act that leads to reproduction. Requires *ta* marker for clarity as a verb.
 
-Example::   *Neko re **ta Kopita**.* = "The two cats **mate**."
+Example::   *Neko ere **ta Kopita**.* = "The two cats **mate**."
 
 Example::   *Lumako **ta Kopita** ne ha an ko li.* = "Plants **reproduce** via air (pollination) and small lifeforms (insects)."
 
@@ -50,13 +50,13 @@ Example::   *Se o ta **so Kopita**.* = "That is a **reproductive** action."
 
 Example::   *An sun sipu **so Kopita** ro kohi.* = "We understand the **reproductive** system of the bird."
 
-Example::   *Tilo se o **Kopita**.* = "That time is **reproductive** (e.g., a mating season)."
+Example::   *Tilon se o **Kopita**.* = "That time is **reproductive** (e.g., a mating season)."
 
 ## Related Concepts / Distinctions
 *   **[[Kopi]]** (*ko + pi*): The egg, seed, spore, or gamete involved in *kopita*.
 *   **[[Nuko]]** (*nu + ko*): The newborn/offspring resulting from successful *kopita*.
 *   **[[Koan]]** (*ko + an*): Intimate Bodily Togetherness/Connection. *kopita* is about biological function, *koan* is about physical closeness/connection. They may co-occur but are distinct concepts.
-    *   *Example Distinction:* *Usi ko re ta koan so napai, se kan ta kopita.* = "If two lifeforms are sexually intimate, they might reproduce."
+    *   *Example Distinction:* *Usi ko ere ta koan so napai, se kan ta kopita.* = "If two lifeforms are sexually intimate, they might reproduce."
 
 ## Origin
 

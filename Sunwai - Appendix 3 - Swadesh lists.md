@@ -16,7 +16,7 @@ author-comment:: Section is work in progress
 | 9           | All           | **Oum**                                    | Base              | "All/everything."                                                                                                                         | **Ok**                             |
 | 10          | Many          | **Mu**                                     | Base              | "Much/many"                                                                                                                               | **Ok**                             |
 | 11          | One           | **Si li**                                  | Base              | "smallest number" Must be clarified as number with the **si** particle.                                                                   | **Ok**                             |
-| 12          | Two           | **Si re**                                  | Base              | "mirror number" Can be clarified as number with the **si** particle.                                                                      | **Ok**                             |
+| 12          | Two           | **Si ere**                                 | Base              | "mirror number" Can be clarified as number with the **si** particle.                                                                      | **Ok**                             |
 | 13          | Big           | **Mo**                                     | Base              | Tertiary root.                                                                                                                            | **Ok**                             |
 | 14          | Long          | **Lo**                                     | Base              | Tertiary root.                                                                                                                            | **Ok**                             |
 | 15          | Small         | **Li**                                     | Base              | Tertiary root.                                                                                                                            | **Ok**                             |
@@ -109,6 +109,8 @@ Current coverage 60/100.
 
 ## Swadesh 207
 
+author-comment:: Swadesh 207 list is completely unfinished.
+
 | #   | Swadesh Word  | Sunwai Word/Expression         | Set             | Notes                                               | Author notes |
 | --- | ------------- | ------------------------------ | --------------- | --------------------------------------------------- | ------------ |
 | 1   | I/me          | A                              | Base            | Prime root                                          |              |
@@ -122,7 +124,7 @@ Current coverage 60/100.
 | 9   | all           | Oum                            | Base            | "All/everything"                                    |              |
 | 10  | many          | Mu                             | Base            | "Much/many"                                         |              |
 | 11  | one           | L / Si li                      | Base            | Root/number                                         |              |
-| 12  | two           | Re / Si re                     | Base            | Root/number                                         |              |
+| 12  | two           | Ere / Si ere                   | Base            | Root/number                                         |              |
 | 13  | three         | Ta / Si ta                     | Base            | Root/number                                         |              |
 | 14  | four          | Ma / Si ma                     | Base            | Root/number                                         |              |
 | 15  | five          | Ka / Si ka                     | Base            | Root/number                                         |              |
@@ -261,8 +263,8 @@ Current coverage 60/100.
 | 148 | yellow        | Sunkulo                        | Extended        | "Light color"                                       |              |
 | 149 | white         | Oumkulo                        | Extended        | "All color"                                         |              |
 | 150 | black         | Senokulo                       | Extended        | "Zero color"                                        |              |
-| 151 | night         | Eistilo                        | Proposed        | "Cold time"                                         |              |
-| 152 | day           | Tilo / Mamasun                 | Base/Ext        | "Time"/"Sun"                                        |              |
+| 151 | night         | Eistilon                       | Proposed        | "Cold time"                                         |              |
+| 152 | day           | Tilon / Mamasun                | Base/Ext        | "Time"/"Sun"                                        |              |
 | 153 | year          | missing                        |                 |                                                     |              |
 | 154 | warm          | Ai                             | Base            | "Hot, warm"                                         |              |
 | 155 | cold          | Eis                            | Base            | "Cold, freeze"                                      |              |
@@ -292,7 +294,7 @@ Current coverage 60/100.
 | 179 | because       | missing                        |                 |                                                     |              |
 | 180 | name          | Lisu                           | Base            | "Word, name"                                        |              |
 | 181 | one           | Li / si li                     | Base            | "One, small"                                        |              |
-| 182 | two           | Re / si re                     | Base            | "Two, reflection"                                   |              |
+| 182 | two           | ere / si ere                   | Base            | "Two, reflection"                                   |              |
 | 183 | three         | Ta / si ta                     | Base            | "Three, action"                                     |              |
 | 184 | four          | Ma / si ma                     | Base            | "Four, ground"                                      |              |
 | 185 | five          | Ka / si ka                     | Base            | "Five, center"                                      |              |

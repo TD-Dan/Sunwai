@@ -51,7 +51,7 @@ Example::   *Le lisu ro e o **hai**.* = "Your word/response is **affirmative/agr
 
 Example::   *An hat pai **so hai**.* = "We have an **agreeing/affirmative** thought/mindset."
 
-Example::   *Se o tilo **hai**.* = "That is an **acknowledging/greeting** moment."
+Example::   *Se o tilon **hai**.* = "That is an **acknowledging/greeting** moment."
 
 ## Compounds
 

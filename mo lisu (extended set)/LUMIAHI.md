@@ -53,5 +53,5 @@ Example::   *Oumanheim o **lumiahi**.* = "The universe is **stellar/star-filled*
 ## Proverbs
 
 Proverb:: *Kulumia lumiahi, pai hi.* = "See the stars, think high/lofty thoughts."
-Proverb:: *Oum lumiahi hat tilo pi.* = "All stars have cycles/lifetimes."
+Proverb:: *Oum lumiahi hat tilon pi.* = "All stars have cycles/lifetimes."
 Proverb:: *Lumiahi li wai ne senokulo.* = "A small star/beacon flows/shines in the darkness."

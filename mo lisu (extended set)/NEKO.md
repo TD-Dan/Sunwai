@@ -28,7 +28,7 @@ Example::   *Le **neko** o li an pene.* = "The **cat** is small and beautiful."
 
 Example::   *A hat **neko** senokulo.* = "I have a black **cat**."
 
-Example::   ***Neko** pai ne tilo li.* = "The **cat** plays briefly."
+Example::   ***Neko** pai ne tilon li.* = "The **cat** plays briefly."
 
 ### Action
 *   To exhibit typical cat behaviors.

@@ -1,12 +1,12 @@
 ---
 roots:
+  - "[[HA]]"
   - "[[WAI]]"
-  - "[[LU]]"
 tags:
   - base-set
   - compound
   - word
-to: 310
+to: 320
 ---
 # HAWA
 

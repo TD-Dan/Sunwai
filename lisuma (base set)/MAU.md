@@ -24,7 +24,7 @@ Descriptor::	**Finished, Completed, Concluded, Final, Ended (returning to base);
 *   Refers to the end, finish, final state, or point of return/dissolution.
 
 Example::   *Le **mau** ro tama o sun.* = "The **end** of the road is known."
-Example::   *A sun **mau** ro tilo.* = "I understand the **end** of the time/cycle."
+Example::   *A sun **mau** ro tilon.* = "I understand the **end** of the time/cycle."
 Example::   *Se o **mau** ro toki.* = "That is the **conclusion** of the speech."
 Example::   ***Mau** o ama nu.* = "The **end** is a new beginning."
 

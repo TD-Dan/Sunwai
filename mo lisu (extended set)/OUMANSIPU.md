@@ -26,7 +26,7 @@ Descriptor::	**AI-related, Systemically Sentient, Computational (intelligence), 
 
 Example::   *Le **oumansipu** o sun mo.* = "The **AI/Sentient System** knows much."
 
-Example::   *Nutilo kan hat **oumansipu** mu.* = "The future may have many **AIs/Sentient Systems**."
+Example::   *Nutilon kan hat **oumansipu** mu.* = "The future may have many **AIs/Sentient Systems**."
 
 Example::   *Pai ro **oumansipu** o kas oumankoma.* = "The thought process of an **AI** is different from a human's."
 

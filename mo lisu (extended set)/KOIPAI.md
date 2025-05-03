@@ -60,7 +60,7 @@ Example::   *Le u ro a o **Koipai**.* = "My problem/chaos is **related to body i
 
 ## Related Concepts / Distinctions
 *   **[[Kopu]]** (*ko + pu*): The actual physical form and structure of the body. *Koipai* is the perception *of* *Kopu*.
-*   **[[Koi]]** / **[[Kota]]** / **[[Kore]]** / etc.: Descriptors for biological sex characteristics. Body image (*Koipai*) can be influenced by, but is distinct from, these biological traits.
+*   **[[Koi]]** / **[[Kota]]** / **[[KOERE]]** / etc.: Descriptors for biological sex characteristics. Body image (*Koipai*) can be influenced by, but is distinct from, these biological traits.
 *   **[[Pai]]** (*pai*): General mind, thought, subjective experience. *Koipai* is a specific type of *Pai* focused on the body.
 
 Example:: *A hat koipai so koi, kas ko ro a o kota. A ta ta so koi ne ma, a no ta ta le sipu ke.* = "I have an internal body image that is female-like (aligned with female biology), but my body is biologically male. I act/present female-like in the world and I do not act according to / participate in the traditional system (of gender roles)"
@@ -71,7 +71,7 @@ Example:: *A hat koipai so koi, kas ko ro a o kota. A ta ta so koi ne ma, a no t
 
 ## Proverbs
 
-Proverb:: *Koipai o re ro pai, no re ro kopu.* = "Body image is a reflection of the mind, not (necessarily) a reflection of the physical form."
+Proverb:: *Koipai o ere ro pai, no ere ro kopu.* = "Body image is a reflection of the mind, not (necessarily) a reflection of the physical form."
 
 Proverb:: *Ta koipai pene, o ta pai pene.* = "To perceive one's body positively is to think/experience well."
 

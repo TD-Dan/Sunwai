@@ -7,9 +7,6 @@ tags:
   - word
 to: 8
 ---
-Okay, let's revise the dictionary entry for *SI*. The goal is to ensure its definition clearly encompasses the broader sense of "governing principle/law" alongside "measure/standard," particularly to support its role in *sipu*.
-
-Here's the revised entry:
 
 # SI
 
@@ -63,7 +60,7 @@ Example::   *Ta *so si* o pene.* = "A **principled/measured** action is good."
 
 *   **[[SISI]]** = Number (*si* + *si* = "number number")
 *   **[[SIPU]]** = System, Mechanism (*si* + *[[pu]]* = "rule-based structure")
-*   **[[TILOSI]]** = Clock, Schedule (*[[tilo]]* + *si* = "time measured/regulated")
+*   **[[TILOSI]]** = Clock, Schedule (*[[TILON]]* + *si* = "time measured/regulated")
 *   **[[SIPENE]]** = Harmony, Justice, Fairness, Golden Ratio (*si* + *[[pene]]* = "principle/standard of beauty/goodness")
 *   **[[LISUSI]]** = Grammar, Syntax; Definition (*[[lisu]]* + *si* = "word rule/principle")
 

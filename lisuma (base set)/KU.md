@@ -29,20 +29,20 @@ Example::   ***Ku** o se?* = "**What** is that?" / "**Question:** that thing." (
 ### Concept
 *   Refers to the faculty of sense, a specific sensation, perception itself, or the act/state of inquiry. Often requires [[le]].
 
-Example::   *Le **ku** ro a o lo.* = "My **sensation** is intense/strong." (Using [[LO]])
+Example::   *Le **ku** ro a o mo.* = "My **sensation** is intense/strong."
 Example::   *Ouman hat **ku**.* = "Sentient beings possess **sense/perception**."
 Example::   *Le **ku** o pene.* = "The **inquiry/questioning** is good."
 
 ### Action
-*   The act of perceiving through senses, feeling neutrally, inquiring, or questioning. Often requires [[ta]].
+*   The act of perceiving through senses, feeling neutrally, inquiring, or questioning.
 
 Example::   *A **ku** u!* = "I **sense** chaos/trouble!"
 Example::   *Neko **ku** oum.* = "The cat **perceives** everything."
 Example::   *A ta **ku** ne e.* = "I **inquire** about you / I **question** you."
-Example::   *Ta **ku** tilo pi **ku**?* = "**Sense** the cycle of time?" (Using [[TILO]] and question *ku*)
+Example::   *Ta **ku** tilon pi **ku**?* = "**Sense** the cycle of time?"
 
 ### Descriptor
-*   Describes something related to senses, perception, or inquiry. Optional [[so]] marker clarifies.
+*   Describes something related to senses, perception, or inquiry.
 
 Example::   *Se o pai **so ku**.* = "That is a **sensory/perceptive** thought/game."
 Example::   *Ouman o **ku**.* = "The person is **perceptive/inquiring**."
@@ -58,7 +58,7 @@ Example::   *Le toki **so ku** o u.* = "The **questioning/inquiring** speech is 
 *   **[[Kutape]]** (*KU* + *[[TAPE]]*): To taste; Tongue/Mouth ("sense food").
 *   **[[Kupene]]** (*KU* + *[[PENE]]*): Pleasure, good sensation ("good sense"). 
 *   **[[Kupai]]** (*KU* + *[[PAI]]*): Intuition, hunch ("sense thought/play").
-*   **[[KULO]]** (*KU* + *[[LO]]*): Color ("sense length/magnitude" -> wavelength).
+*   **[[KULO]]** (*KU* + *[[LON]]*): Color ("sense length/magnitude" -> wavelength).
 
 ## Origin
 

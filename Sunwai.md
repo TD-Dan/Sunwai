@@ -77,7 +77,7 @@ The 15 used letters are ordered for easy remembering with phonetic sounds and cr
 
 **[[A]] [[E]] [[I]] [[O]] [[U]]**				(the vowels, from common to rare)
 **[[TA]] [[NE]] [[SI]] [[KO]] [[MU]]**		(the common consonants)
-**[[WAI]] [[LE]] [[KAS]] [[RO]] [[PU]]**		(the rare consonants)
+**[[WAI]] [[LE]] [[HI]] [[RO]] [[PU]]**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -610,7 +610,7 @@ Example:: *se pene, usi a tape.* = "Its good, if you eat."
 
 * With a number:
 	*  *E hat tape ta ti* = "You have eaten three **times**."
-	* *Si e an ti.* = "Measure yourself two times."
+	* *Si ere an ti.* = "Measure yourself two times."
 
 ## Markers
 Sunwai uses markers to clarify usage of words. These are optional and allow for more precise communication when needed.
@@ -737,57 +737,57 @@ Example:: *Le a ta wai i oumanheim.* = "I am going to home." ("I movement into b
 ## Numerals
 Numbers in Sunwai default to base10 and are represented overloading existing [[Sunwai]] words. Numeral use is usually defined usually by the si, sisi or to markers. See [[Sunwai#Numeral marker si]] for more info.
 
-|                 |        | metaphorical meaning                   |
-| --------------- | ------ | -------------------------------------- |
-| 0               | Seno   | Nothingness, emptiness                 |
-| 1               | Li     | Smallest unit                          |
-| 2               | Re     | Mirror, reflection                     |
-| 3               | Ta     | Change, action                         |
-| 4               | Ma     | Stability, directions                  |
-| 5               | Ka     | Half                                   |
-| 6               | Pai    | Play/thinking                          |
-| 7               | Kulo   | Spectrum, rainbow hues                 |
-| 8               | Pu     | Form, structure                        |
-| 9               | Ne     | Growth, expection of fullfilment       |
-| 10              | Liseno | One zero                               |
-| 11              | Lili   | One one                                |
-| 12              | Lire   | One two                                |
-| 13              | Lita   | one three                              |
-| ...             |        | lima, lika, lipai, likulo, lipu, line  |
-| 20              | Reseno | Two zero                               |
-| 21              | Reli   | Two one                                |
-| 22              | Rere   | Two two                                |
-| ...             |        | reta, rema, reka, repai, rekulo, rene  |
-| 30              | Taseno | Three zero                             |
-| 31              | Tali   | Three one                              |
-| 32              | Tare   | Three two                              |
-| 33              | Tata   | Three three                            |
-| ...             |        |                                        |
-| 40              | Maseno |                                        |
-| 50              | Kaseno |                                        |
-| ...             |        | Paiseno, kuloseno, puseno, nesono      |
-| 100             | Ro     |                                        |
-| 1 000           | Kilo   | [[#Special set: Mathematics]]          |
-| 1 000 000       | Meka   | [[#Special set: Mathematics]]          |
-| 1^9             | Kika   | [[#Special set: Mathematics]]          |
-| 1^12            | Tera   | [[#Special set: Mathematics]]          |
-| 0.1             |        | [[#Special set: Mathematics]]          |
-| 0.001           |        | [[#Special set: Mathematics]]          |
-| 1 <sup>-3</sup> | Mili   | [[#Special set: Mathematics]]          |
-| π               | Pi     | 3.14...                                |
-| φ               | Sipene | Golden ratio 1.618...                  |
-| τ               | Tau    | 2π, Tau, [[#Special set: Mathematics]] |
+|                 |         | metaphorical meaning                        |
+| --------------- | ------- | ------------------------------------------- |
+| 0               | Seno    | Nothingness, emptiness                      |
+| 1               | Li      | Smallest unit                               |
+| 2               | Ere     | Mirror, reflection                          |
+| 3               | Ta      | Change, action                              |
+| 4               | Ma      | Stability, directions                       |
+| 5               | Ka      | Half                                        |
+| 6               | Pai     | Play/thinking                               |
+| 7               | Kulo    | Spectrum, rainbow hues                      |
+| 8               | Pu      | Form, structure                             |
+| 9               | Ne      | Growth, expection of fullfilment            |
+| 10              | Liseno  | One zero                                    |
+| 11              | Lili    | One one                                     |
+| 12              | Liere   | One two                                     |
+| 13              | Lita    | one three                                   |
+| ...             |         | lima, lika, lipai, likulo, lipu, line       |
+| 20              | Ereseno | Two zero                                    |
+| 21              | Ereli   | Two one                                     |
+| 22              | Erere   | Two two                                     |
+| ...             |         | ereta, erema, ereka, erepai, erekulo, erene |
+| 30              | Taseno  | Three zero                                  |
+| 31              | Tali    | Three one                                   |
+| 32              | Taere   | Three two                                   |
+| 33              | Tata    | Three three                                 |
+| ...             |         |                                             |
+| 40              | Maseno  |                                             |
+| 50              | Kaseno  |                                             |
+| ...             |         | Paiseno, kuloseno, puseno, neseno           |
+| 100             | Ro      |                                             |
+| 1 000           | Kilo    | [[#Special set: Mathematics]]               |
+| 1 000 000       | Meka    | [[#Special set: Mathematics]]               |
+| 1^9             | Kika    | [[#Special set: Mathematics]]               |
+| 1^12            | Tera    | [[#Special set: Mathematics]]               |
+| 0.1             |         | [[#Special set: Mathematics]]               |
+| 0.001           |         | [[#Special set: Mathematics]]               |
+| 1 <sup>-3</sup> | Mili    | [[#Special set: Mathematics]]               |
+| π               | Pi      | 3.14...                                     |
+| φ               | Sipene  | Golden ratio 1.618...                       |
+| τ               | Tau     | 2π, Tau, [[#Special set: Mathematics]]      |
 
 ### Examples
 
-Example:: *A hat **si re** neko.* = " I have two cats."
+Example:: *A hat **si ere** neko.* = " I have two cats."
 Example:: ***si ma** wahiko* = "Four ducks."
 
 * **long numbers:**
 
 Example:: *si litama* = 124
 Example:: *si rone* =*si lisenone* = 109
-Example:: *si rero* = *si resenoseno* = 200
+Example:: *si erero* = *si eresenoseno* = 200
 Example:: *si takilo-kuloro* = *si takulosenoseno* =3700
 Example:: *si takulokilo* =37 000
 Example:: *si paitameka-marokilo-nere* = 63 400 092
@@ -814,7 +814,7 @@ author-comment:: This still needs lots of work.
 | Structure         | Meaning                      | Example Sentence     | Translation                |
 | ----------------- | ---------------------------- | -------------------- | -------------------------- |
 | **si+numeral+to** | Standard ordinal (technical) | _A ta **si li to**._ | "I go **first**."          |
-| **si + numeral**  | Hybrid cardinal/ordinal      | _An o **si re**._    | "We are measured **two**." |
+| **si + numeral**  | Hybrid cardinal/ordinal      | _An o **si ere**._   | "We are measured **two**." |
 | **to + numeral**  | Ordinal                      | _Sun o **to ta**._   | "Knowledge is **third**."  |
 |                   |                              |                      |                            |
 
@@ -827,8 +827,8 @@ author-comment:: This still needs lots of work.
 * 1. Basic Ordinals:
 	- **si li to** = "first"
 	    - _A ta **si li to**._ = "I go **first**."
-	- **si re to** = "second"
-	    - *Tilo **si re to** o pene!* = "The **second** time is beautiful!"
+	- **si ere to** = "second"
+	    - *Tilo **si ere to** o pene!* = "The **second** time is beautiful!"
 	- **si ma to** = "fourth"
 	    - *Heim o **si ma to**.* = "Home is the **fourth**"
 

@@ -25,7 +25,7 @@ Descriptor::	**Canine, Dog-like; Loyal, Faithful, Companionable**
 
 Example::   *Le **inuko** o mo.* = "The **dog** is big."
 
-Example::   *A hat **si re inuko**.* = "I have **two dogs**."
+Example::   *A hat **si ere inuko**.* = "I have **two dogs**."
 
 Example::   *An tape **inuko** ku? No! An no tape inuko!* = "Do we eat **dog**? No! We do not eat dog!"
 

@@ -46,7 +46,7 @@ Example:: *Se ko o **tape** mo.* = "That creature is **very hungry**." (Lit. "Th
 
 *   [[Tapeheim]] = Restaurant, kitchen (*[[tape]]* + *[[heim]]* = "food home").
 *   [[Tapepene]] = Delicious (*[[tape]]* + *[[pene]]* = "good food").
-*   [[Tapetilo]] = Mealtime (*[[tape]]* + *[[tilo]]* = "food time").
+*   [[Tapetilo]] = Mealtime (*[[tape]]* + *[[TILON]]* = "food time").
 *   [[Pisutape]] = Business lunch (*[[pisu]]* + *[[tape]]* = "business food").
 *   [[Ketape]] = Taste, tongue (*[[ke]]* + *[[tape]]* = "sense food").
 

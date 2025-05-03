@@ -44,7 +44,7 @@ Example::   *Mo **se** e.* = "Bigger **than** you."
 
 Example::   *Usi a hat tape, **se** a pa ne e.* = "If I have food, **then** I give [it] to you."
 
-Example::   *Usi tilo o pene, **se** an wai.* = "If the time is good, **then** we flow/go."
+Example::   *Usi tilon o pene, **se** an wai.* = "If the time is good, **then** we flow/go."
 
 Example::   *Usi e sun, **se** toki.* = "If you understand, **then** speak." (Marker optional but adds flow).
 
