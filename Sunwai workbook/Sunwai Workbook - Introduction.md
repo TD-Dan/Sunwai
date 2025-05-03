@@ -70,4 +70,4 @@ Having a goal in mind can help keep you motivated throughout your learning journ
 
 Are you ready to begin? Let's explore the elegant world of Sunwai together. May your journey be filled with `sun` (clarity) and `pene` (beauty/goodness)!
 
-Lets start from --> [[Lesson 1.1]]
+Lets start from --> [[Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation]]

@@ -9,7 +9,7 @@ tags:
 to: 2500
 ---
 
-# # PAITAPE
+# PAITAPE
 
 IPA::					/ˈpɑi.tɑ.pe/  
 Concept:: 		**Cake, pastry, dessert, sweet baked good, celebration food**  

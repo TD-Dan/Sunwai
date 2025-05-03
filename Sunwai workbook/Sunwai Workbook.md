@@ -9,20 +9,32 @@ author-comment:: Integrate overarching story that carries trough the lessons
 
 # Part 1: The Sounds and Shapes of Sunwai (Foundations)
 
-## [[Lesson 1.1]]
-![[Lesson 1.1#In this lesson]]
-## [[Lesson 1.2]]
-![[Lesson 1.2#In this lesson]]
+## [[Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation]]
+![[Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation#In this lesson]]
+## [[Lesson 1.2 - Syllables and Stress]]
+![[Lesson 1.2 - Syllables and Stress#In this lesson]]
 
-*   **Lesson 1.3: Words Have Roles (M, C, A, D)**
-    *   Objective: Grasp the core concept that Sunwai words have flexible roles.
-    *   Content: Introduction to Markers (M), Concepts (C), Actions (A), Descriptors (D) with simple examples. Emphasize context dependence.
-    *   Vocabulary: `le`, `ta`, `so`, `o`, `li`, `mo`. Review previous vocab.
-    *   Exercises: Identifying potential roles of given words (using dictionary hints), matching roles to functions.
+## [[Lesson 1.3 - Words Wear Different Hats]]
+![[Lesson 1.3 - Words Wear Different Hats#In this lesson]]
+
+## [[Lesson 1.4 - Words Have Roots]]
+![[Lesson 1.4 - Words Have Roots#In this lesson]]
+
+**Extra Lesson 1.5: Names Have Homes Too! (Proper Nouns in Sunwai)**
+- **Objective:** Understand how to adapt and use external names (people, places) in Sunwai.
+- **Content:**
+    - Explain the need for adaptation (Sunwai phonetics).
+    - Introduce the "Sunwai-nization" principle (Sound Substitution, Syllable Restructuring).
+    - Provide simple examples (using names like San, Mari, Lonon, Pari, Tokio).
+    - Explain writing conventions (Latin caps recommended).
+    - Show how names fit into simple sentences (A o Mari., E o San., Lonon o maheim mo.).
+    - Briefly mention descriptive compounds as an alternative.
+- **Vocabulary:** Introduce lisu (word/name), maheim (homeland/city/country).
+- **Exercises:** Simple adaptation practice (give an English name, ask for a plausible Sunwai adaptation), using adapted names in X o Y sentences.
 
 # Part 2: Building Basic Sentences (Core Structures & Particles)
 
-*   **Lesson 2.1: Being and Equality (`o`)**
+*  **Lesson 2.1: Establishing States with o (Before Actions)**
     *   Objective: Construct simple `X o Y` sentences (Equatives/Predication).
     *   Content: Using the particle `o` to link Concepts and Descriptors. Word order (`X o Y`, `Y o X`).
     *   Vocabulary: `pene`, `li`, `mo`, `inuko`, `waku`, `ma`. Review `a`, `e`, `neko`.
@@ -33,20 +45,20 @@ author-comment:: Integrate overarching story that carries trough the lessons
     *   Vocabulary: `tape` (eat/food), `wai` (flow/water), `toki` (speak/language), `pai` (think/play), `pu` (form/build).
     *   Exercises: Creating simple C-A and C-A-C sentences, identifying C and A roles by position, simple translation.
 
-## [[Lesson 2.3]]
-![[Lesson 2.3#In this lesson]]
+## [[Lesson 2.3 - Time and Process]]
+![[Lesson 2.3 - Time and Process#In this lesson]]
 
-*   **Lesson 7: Negation (`no`)**
+*   **Lesson 2.4: Negation (`no`)**
     *   Objective: Use `no` to negate words and simple sentences.
     *   Content: Placing `no` before the element being negated. Negating `o` sentences and simple Actions.
     *   Vocabulary: `no`. Review previous vocab.
     *   Exercises: Making sentences negative, translating negative sentences.
-*   **Lesson 8: Asking Simple Questions (`ku`)**
+*   **Lesson 2.5: Asking Simple Questions (`ku`)**
     *   Objective: Form basic yes/no questions using `ku`.
     *   Content: Adding `ku` to the end of statements.
     *   Vocabulary: `ku`. Review previous vocab.
     *   Exercises: Turning statements into questions, answering simple `ku` questions with `hai` (yes) or `no`. (Introduce `hai` briefly here).
-*   **Lesson 9: Possession (`hat` and `ro`)**
+*   **Lesson 2.6: Possession (`hat` and `ro`)**
     *   Objective: Express possession using `hat` (X has Y) and `ro` (Y of X).
     *   Content: Structure and meaning of `X hat Y` and `Y ro X`.
     *   Vocabulary: `hat`, `ro`, `heim`, `lisu`, `mama`, `an`.

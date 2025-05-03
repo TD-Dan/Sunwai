@@ -9,7 +9,7 @@
 *   **Practice breaking down words with Neko.**
 
 ---
-## Lesson intro
+## Lets go!
 
 *Hai!* It's Neko again! In the last lesson, we learned the 15 letters - the ingredients of Sunwai (`A E I O U T N S K M W L H R P`). Now, let's see how we combine them into **syllables** (`lisu pi` - word circles/parts), the small chunks of sound that make up words. Sunwai has a simple recipe for this.
 
@@ -152,4 +152,4 @@ Let's practice with these words:
 
 *Pene!* You now understand how Sunwai sounds are put together into syllables and words, and how the basic rhythm works. This structure makes words distinct and relatively easy to pronounce.
 
-In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [[Lesson 1.3 Words Have Roles (M, C, A, D)]]
+In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [[Lesson 1.3]]

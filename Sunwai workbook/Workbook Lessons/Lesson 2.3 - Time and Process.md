@@ -8,9 +8,9 @@
 *   **Practice basic sentences:** Use these new words as concepts in simple `X o Y` structures (e.g., *Nu o u.* - The future is uncertain).
 
 ---
+## Lets go!
 
-## Lesson intro
-
+ Hai! Neko lon an a! (Hello! Neko is long/tall and I am [small]!) We've learned about things (ko, inuko, neko). Now let's learn how to talk about when things happen. Sunwai uses simple words to show the flow of time, like the journey of our friend, Uramako!
 
 ## Objective
 

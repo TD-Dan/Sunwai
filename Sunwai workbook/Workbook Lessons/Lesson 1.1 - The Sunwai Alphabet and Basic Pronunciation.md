@@ -9,8 +9,7 @@
 *   **Practice saying your first Sunwai words!**
 
 ---
-
-## Lesson intro
+## Lets go!
 
 *Hai!* (Hello!) I'm Neko, and I'll be helping you learn Sunwai. Don't worry, Sunwai is designed to be easy and fun, like `pai` (play)! One of the best parts is that it only uses 15 letters with sounds common across many languages. Let's start there!
 
@@ -148,4 +147,4 @@ Let's see how the letters build these words:
 
 In the next lesson, we'll see how these letters combine into syllables, the chunks that make up words.
 
-Ready to continue? --> [[Lesson 1.2 Syllables and Stress]]
+Ready to continue? --> [[Lesson 1.2 - Syllables and Stress]]
