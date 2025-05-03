@@ -3046,6 +3046,65 @@ Example::	*Sisi e **ata** heim o eheim* = "Two together with four is twentyfour.
 
 Proverb:: *An ta ata, oum wai pene!* = "When we meet, all becomes harmony!"
 
+# AMA
+
+IPA::				/ˈɑː.mɑ/
+Concept::		**Start, Beginning, Commencement, Origin Point, Initiation, Foundation (as starting point), Basis**
+Action::		**To start, begin, commence, initiate, originate (from a basis), found (as in foundation)**
+Descriptor::	**Starting, Beginning, Initial, Foundational (as start), Primary (as start), Original (as origin point)**
+
+> Represents the initiation or starting point of an action, process, event, or entity, often emphasizing the origin from a present observer, a specific location, or a tangible foundation. Derived from observer/here (*A*) and foundation/ground (*MA*). Contrasts with ongoing action (*TA*) and completion (*MAU*).
+
+## Usage
+
+### Concept
+*   Refers to the start, beginning, or origin point itself.
+
+Example::   *Le **ama** ro tama o pene.* = "The **beginning** of the road is beautiful."
+Example::   *An sun **ama** ro tilo.* = "We know the **origin/start** of time."
+Example::   *Se o **ama** nu.* = "That is a new **beginning**."
+Example::   *Oum **ama** o li.* = "Every **start** is small."
+Example::   *Se o **ama** ro a.* = "That is my **starting point / my basis**."
+
+### Action
+*   The act of starting, initiating, or originating something from a specific basis or point. 
+
+Example::   *A **ta ama** le toki.* = "I **start** the speech (from my perspective/here)."
+Example::   *Pai nu **ta ama** ne sun ke.* = "New thought **originates from / is founded on** old knowledge."
+Example::   ***Ama!*** = "**Begin! / Start!**" (Imperative).
+Example::   *An **ama** ne heim.* = "We **start** at home / We **found** [it] at home."
+
+### Descriptor
+*   Describes something as being the first, initial, or foundational instance in a sequence or development.
+
+Example::   *Se o lisu **so ama**.* = "That is the **starting/initial** word."
+Example::   *A hat **ama** pai.* = "I have the **initial/foundational** thought."
+Example::   *Le tilo **ama** o mo.* = "The **beginning** time (e.g., genesis) is significant."
+Example::   *Sipu o **ama** ne ma.* = "The system is **founded/originating** on earth."
+
+## Compounds
+*   **[[Amaheim]]** (*ama* + *HEIM*): Starting point, Base camp, Origin location ("start home/center").
+*   **[[Amasun]]** (*ama* + *SUN*): Foundational principle, Basic knowledge, Starting clarity ("start knowledge").
+
+## Origin
+
+*   **Sunwai**: Compound of **A** (Observer, Self, Here, Real, 1) + **MA** (Earth, Land, Foundation, Material). Conceptualized as "Self/Here-Foundation," "Primary Foundation," or "The Grounding Point for Observation/Action."
+*   **Sanskrit/Hindi**: _आरम्भ_ (_Ārambh_, "Beginning, undertaking").
+*   **Finnish**: _aamu_ ("morning").
+*   **English**: _dawn_.
+*   **Japanese**: _暁_ (_Akatsuki_, "dawn, daybreak").
+*   **Hebrew**: _אדמה_ (_adamah_, "earth, ground") and _אדם_ (_adam_, first human).
+*   **Proto-Indo-European**: _\*amma_ ("mother"), linking to origin/source concepts found in derivatives like **Basque** _ama_ and **Swahili** _mama_.
+
+## Proverbs
+
+Proverb:: *Oum ama o a.* = "Every beginning involves the self/observer."
+
+Proverb:: *Ama o ma ro ta nu.* = "The start is the foundation for the next action."
+
+Proverb:: *I ama, oum o kan.* = "At the beginning, everything is possible."
+
+
 # OUMAN
 
 IPA::					/ˈoum.ɑn/
@@ -3152,51 +3211,6 @@ Example::   *An o sipu **so tama**.* = "We are a **connecting** system."
 Proverb:: *Oum tama wai heim.* = "All roads flow home."
 Proverb:: *Tama pene o tama sun.* = "A good path is a clear path."
 Proverb:: *Ta tama o ta an.* = "To connect/bridge is to create togetherness."
-# TAWAI
-
-IPA::           /ˈtɑ.wɑi/
-Concept::       **Current (flow of liquid, esp. water); River, Stream; Flow of Charge, Electricity**
-Action::        **To flow (as current); To stream; To conduct electricity; To power electrically**
-Descriptor::    **Flowing (like current), Streaming; Electrical, Electrically powered**
-
-> Represents the directed flow or movement, primarily of liquids like water (current, river) but extended to the flow of electric charge (electricity, electrical current). Derived from action/change (`[[TA]]`) and flow/liquid (`[[WAI]]`). Context usually distinguishes between meanings.
-
-## Usage
-
-### Concept
-*   Refers to a river, a stream, a current of water, or electricity itself.
-
-Example::   *Le **tawai** ro ma o lo.* = "The **river** of the land is long."
-Example::   *Le **tawai** o mo.* = "The **current** (water or electric) is strong."
-Example::   *An na **tawai**.* = "We need **electricity**."
-Example::   *Sipu se hat **tawai** li.* = "That system has a weak **current**."
-
-### Action
-*   The act of flowing like a river, streaming, or conducting/using electricity.
-
-Example::   *Wai **tawai** ne ma.* = "Water **flows** on the land."
-Example::   *Sipu se **tawai** ne tasipu.* = "That system **runs on** energy."
-Example::   *Piko **tawai**.* = "The computer **uses electricity**."
-Example::   *Ta **tawai** pene!* = "**Conduct/Flow** well!"
-
-### Descriptor
-*   Describes something as flowing like a current or being related to electricity.
-
-Example::   *Ma o **tawai**.* = "The land is **streaming** (with rivers)."
-Example::   *Piko o **tawai**.* = "The computer is **electrical**."
-Example::   *Se o pu **so tawai**.* = "That is an **electrically powered** structure."
-
-## Compounds
-*   **[[Tawaiheim]]** (`tawai` + `[[heim]]`): Power station, Dam, Electrical Grid Hub ("electricity/current home/center").
-*   **[[Tawaisun]]** (`tawai` + `[[sun]]`): Electrical Engineering, Hydrodynamics ("current/electricity knowledge").
-*   **[[Tawaipiko]]** (`tawai` + `[[piko]]`): Electric device ("electricity computer/robot").
-
-## Origin
-*   **Sunwai**: Compound of **TA** (Action, change, process, function) + **WAI** (Flow, liquid, change). Represents "Active Flow" or "Functioning Flow."
-
-## Proverbs
-
-Proverb:: *Tawai mo o u.* = "A strong current is chaotic/dangerous."
 # TILO
 
 IPA::				/ˈtiː.lo/
@@ -3253,6 +3267,51 @@ Proverb:: *Ouman o tilo.* = "Humanity is (bound by) time / is a cycle."
 
 Proverb:: *Oum wai ne tilo.* = "Everything flows in time."
 
+# TAWAI
+
+IPA::           /ˈtɑ.wɑi/
+Concept::       **Current (flow of liquid, esp. water); River, Stream; Flow of Charge, Electricity**
+Action::        **To flow (as current); To stream; To conduct electricity; To power electrically**
+Descriptor::    **Flowing (like current), Streaming; Electrical, Electrically powered**
+
+> Represents the directed flow or movement, primarily of liquids like water (current, river) but extended to the flow of electric charge (electricity, electrical current). Derived from action/change (`[[TA]]`) and flow/liquid (`[[WAI]]`). Context usually distinguishes between meanings.
+
+## Usage
+
+### Concept
+*   Refers to a river, a stream, a current of water, or electricity itself.
+
+Example::   *Le **tawai** ro ma o lo.* = "The **river** of the land is long."
+Example::   *Le **tawai** o mo.* = "The **current** (water or electric) is strong."
+Example::   *An na **tawai**.* = "We need **electricity**."
+Example::   *Sipu se hat **tawai** li.* = "That system has a weak **current**."
+
+### Action
+*   The act of flowing like a river, streaming, or conducting/using electricity.
+
+Example::   *Wai **tawai** ne ma.* = "Water **flows** on the land."
+Example::   *Sipu se **tawai** ne tasipu.* = "That system **runs on** energy."
+Example::   *Piko **tawai**.* = "The computer **uses electricity**."
+Example::   *Ta **tawai** pene!* = "**Conduct/Flow** well!"
+
+### Descriptor
+*   Describes something as flowing like a current or being related to electricity.
+
+Example::   *Ma o **tawai**.* = "The land is **streaming** (with rivers)."
+Example::   *Piko o **tawai**.* = "The computer is **electrical**."
+Example::   *Se o pu **so tawai**.* = "That is an **electrically powered** structure."
+
+## Compounds
+*   **[[Tawaiheim]]** (`tawai` + `[[heim]]`): Power station, Dam, Electrical Grid Hub ("electricity/current home/center").
+*   **[[Tawaisun]]** (`tawai` + `[[sun]]`): Electrical Engineering, Hydrodynamics ("current/electricity knowledge").
+*   **[[Tawaipiko]]** (`tawai` + `[[piko]]`): Electric device ("electricity computer/robot").
+
+## Origin
+*   **Sunwai**: Compound of **TA** (Action, change, process, function) + **WAI** (Flow, liquid, change). Represents "Active Flow" or "Functioning Flow."
+
+## Proverbs
+
+Proverb:: *Tawai mo o u.* = "A strong current is chaotic/dangerous."
 # TOKI
 
 IPA::				/ˈtoː.ki/
@@ -4108,6 +4167,60 @@ Proverb:: *Kuha o lono mo.* = "Smell is strong memory."
 Proverb:: *Ta kuha u, ta sun u.* = "To smell chaos/danger is to know chaos/danger."
 
 Proverb:: *Kuha o no sun.* = "Smell is not (necessarily) truth/knowledge."
+# MAU
+
+IPA::				/mau/
+Concept::		**End, Finish, Completion (esp. returning to base state), Conclusion, Cessation (returning to potential); Grounding point (final), Material Dissolution/Return**
+Action::		**To end, finish, complete, conclude, cease (esp. returning to potential/base); To ground finally, return to source**
+Descriptor::	**Finished, Completed, Concluded, Final, Ended (returning to base); Grounded (finally), Returned to potential**
+
+> Represents the conclusion or cessation of an action, process, or entity, often implying a return to a foundational state, the ground, or potential. Derived from foundation/ground (*MA*) and chaos/uncertainty/potential/cessation (*U*). It signifies completion by reaching a stable base or dissolving back into potential. Contrasts with starting (*AMA*) and ongoing action (*TA*).
+
+## Usage
+
+### Concept
+*   Refers to the end, finish, final state, or point of return/dissolution.
+
+Example::   *Le **mau** ro tama o sun.* = "The **end** of the road is known."
+Example::   *A sun **mau** ro tilo.* = "I understand the **end** of the time/cycle."
+Example::   *Se o **mau** ro toki.* = "That is the **conclusion** of the speech."
+Example::   ***Mau** o ama nu.* = "The **end** is a new beginning."
+
+### Action
+*   The act of finishing, concluding, returning something to its base state, or dissolving into potential.
+
+Example::   *A **ta mau** le toki.* = "I **finish/conclude** the speech."
+Example::   *Ta **mau** se!* = "**Finish** that! / **Bring it to its end state!**"
+Example::   *Ko **mau** i ma.* = "Life **ends/returns** to the earth."
+Example::   *Sipu **mau** i lu.* = "The system **concludes/dissolves** into potential."
+
+### Descriptor
+*   Describes something as being finished, final, concluded, or having returned to a base/potential state. Optional *so* marker.
+
+Example::   *Le toki o **mau**.* = "The speech is **finished/concluded**."
+Example::   *A o **mau**.* = "I am **finished/done** (returning to rest/potential)."
+Example::   *Sipu o **mau**.* = "The system is **complete/at its end state**."
+Example::   *Se o **mau** pu.* = "That is the **final/grounded** form."
+
+## Compounds
+*   **[[Mauheim]]** (*mau* + *HEIM*): Final resting place, Graveyard; Conclusion point ("end/return home/center").
+*   **[[Mauko]]** (*mau* + *KO*): Corpse, Deceased body (returned to earth/potential) ("end/return lifeform").
+
+## Origin
+
+*   **Sunwai**: Compound of **MA** (Earth, Land, Foundation, Material) + **U** (Chaos, Uncertainty, Rotation, Potential, Cessation). Conceptualized as "Returning to Foundation/Potential," "Foundation reaching Potential/Cessation," or "Final Grounding before Uncertainty/Potential."
+*   **Maori**: _mau_ ("be firm, fixed, lasting, caught, held")
+*   **Hawaiian**:  _pau_ ("finished, ended, completed, consumed, all gone")
+*   **Arabic**: _تمام_ (_tamām_, "complete, perfect, finished")
+*   **Swahili**: _mwisho_ ("end") 
+*   **Latin**: _mors_ ("death")
+
+## Proverbs
+
+Proverb:: *Ama o mau o ama nu.* = "The beginning (contains) the end contains the new beginning."
+
+Proverb:: *Ta mau pene, o ama pene.* = "To finish well is to begin well (the next cycle)."
+
 # MAMA
 
 IPA::				/ˈmɑ.mɑ/
@@ -5015,53 +5128,6 @@ Proverb:: *Ta ro oumankoma wai ma.* = "The actions of humans affect the Earth." 
 
 Proverb:: *Lono oumankoma o ke oumankoma.* = "The memory of humankind is the past of humankind."
 
-# OUMANAN
-
-IPA::				/ˈoum.ɑn.an/
-Concept::		**Spouse, Life-Partner, Committed Partner (Person Together)**
-Action::		**(Rarely used) To be partnered**
-Descriptor::	**(Rarely used) Partnered**
-
-> **Extended Set.** A gender-neutral term for a committed partner in a long-term relationship, akin to a spouse or life-partner. Emphasizes the togetherness (*AN*) aspect of the relationship with a sentient being (*OUMAN*). Naturally inclusive of various relationship structures (dyadic, polyamorous, etc.).
-
-## Usage
-
-### Concept (Primary Use)
-*   Refers to the individual partner(s) or the concept of the partnership based on togetherness.
-
-Example::   *A hat **oumanan**.* = "I have a **partner(s)**."
-
-Example::   *Se o **oumanan** ro a.* = "That is my **partner**." / "Those are my **partners**." (Context or explicit numbering clarifies singular/plural if needed: *Se o **si re oumanan** ro a.* = "Those are my **two partners**.")
-
-Example::   *Le oumanta an oumani o **oumanan**.* = "The man and woman are **partners**."
-
-Example::   *Le **oumanan** o pene ne heim.* = "The **partnership (togetherness)** is good in the home."
-
-### Action
-*   To be in the state of partnership/togetherness. Generally less common than using concept + 'o'.
-
-Example::   *An **ta oumanan** pi tilo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
-
-### Descriptor
-*   Describes the state of being partnered. Generally less common.
-
-Example::   *An o **oumanan**.* = "We are **partners/together**."
-Example::   *Se o tilo **oumanan** ro an.* = "That is our **partnered** time."
-
-## Compounds
-
-*   **[[Oumananata]]** (*oumanan* + *ata*): Wedding, Union Ceremony, Partnership Gathering ("partner meeting/union").
-
-## Origin
-
-*   **Sunwai**: Compound of **OUMAN** (Sentient being, person) + **AN** (Together, We, And). Conceptualizes a spouse/life-partner as the "Sentient Being one is Together With." Inherently flexible regarding number of partners.
-
-## Proverbs
-
-Proverb:: *Oumanan o an ro pai an ko.* = "A partner is the togetherness of mind and body."
-
-Proverb:: *Oumanan an, o an mo.* = "Partners together enhance community/togetherness."
-
 # OUMANWAILU
 
 IPA::				/ˈou.mɑn.wɑi.lu/
@@ -5119,6 +5185,53 @@ Proverb:: *Oumanwailu o toki ro pai.* = "Music is the language of the mind/emoti
 Proverb:: *I oumanwailu, an o an mo.* = "In music, we are more together."
 
 Proverb:: *Ta oumanwailu pene, o ta an pene.* = "To make beautiful music is to create beautiful togetherness."
+
+# OUMANAN
+
+IPA::				/ˈoum.ɑn.an/
+Concept::		**Spouse, Life-Partner, Committed Partner (Person Together)**
+Action::		**(Rarely used) To be partnered**
+Descriptor::	**(Rarely used) Partnered**
+
+> **Extended Set.** A gender-neutral term for a committed partner in a long-term relationship, akin to a spouse or life-partner. Emphasizes the togetherness (*AN*) aspect of the relationship with a sentient being (*OUMAN*). Naturally inclusive of various relationship structures (dyadic, polyamorous, etc.).
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the individual partner(s) or the concept of the partnership based on togetherness.
+
+Example::   *A hat **oumanan**.* = "I have a **partner(s)**."
+
+Example::   *Se o **oumanan** ro a.* = "That is my **partner**." / "Those are my **partners**." (Context or explicit numbering clarifies singular/plural if needed: *Se o **si re oumanan** ro a.* = "Those are my **two partners**.")
+
+Example::   *Le oumanta an oumani o **oumanan**.* = "The man and woman are **partners**."
+
+Example::   *Le **oumanan** o pene ne heim.* = "The **partnership (togetherness)** is good in the home."
+
+### Action
+*   To be in the state of partnership/togetherness. Generally less common than using concept + 'o'.
+
+Example::   *An **ta oumanan** pi tilo lo.* = "We **are partnered/together** for a long cycle/time." (*ta* clarifies action state).
+
+### Descriptor
+*   Describes the state of being partnered. Generally less common.
+
+Example::   *An o **oumanan**.* = "We are **partners/together**."
+Example::   *Se o tilo **oumanan** ro an.* = "That is our **partnered** time."
+
+## Compounds
+
+*   **[[Oumananata]]** (*oumanan* + *ata*): Wedding, Union Ceremony, Partnership Gathering ("partner meeting/union").
+
+## Origin
+
+*   **Sunwai**: Compound of **OUMAN** (Sentient being, person) + **AN** (Together, We, And). Conceptualizes a spouse/life-partner as the "Sentient Being one is Together With." Inherently flexible regarding number of partners.
+
+## Proverbs
+
+Proverb:: *Oumanan o an ro pai an ko.* = "A partner is the togetherness of mind and body."
+
+Proverb:: *Oumanan an, o an mo.* = "Partners together enhance community/togetherness."
 
 # URAMAKO
 
@@ -5337,6 +5450,57 @@ author-comment:: Heimima is missing full entry in dictionary
 ## Origin
 
 Sunwai: Heim + i + ma ("home inside ground")
+# KOWAI
+
+IPA::				/ˈko.wɑi/
+Concept::		**(Generally used as Descriptor) The biological state of changing sex characteristics over time (Sequential Hermaphroditism) or having fluid sex characteristics.**
+Action::		**To change biological sex characteristics over time.**
+Descriptor::	**Exhibiting biologically fluid or changing sex characteristics (Sex-Fluid).**
+
+> A descriptor primarily used to denote the biological state where an individual lifeform can change its primary sex characteristics or functions (e.g., from male to female or vice-versa) during its lifespan, or exhibits fluidity in these characteristics. Derived from lifeform/body (`KO`) + flow/change (`WAI`). This is a biological descriptor.
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate biologically fluid or changing sex characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
+
+Example::   *Waiko mu o **kowai**.* = "Many fish are biologically **sex-fluid**."
+
+Example::   *Le sipu ro ko se o **kowai**.* = "The biology of that lifeform is **sex-fluid**."
+
+Example::   *Se o Kopu **so kowai**.* = "That is a **biologically fluid body form**."
+
+### Concept
+*   Refers to the biological phenomenon of sex fluidity or change. Often requires `le` marker.
+
+Example::   *Le **kowai** o sun hi ne ko.* = "Biological **sex-fluidity** is interesting knowledge in lifeforms."
+
+Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in some fish."
+
+### Action
+*   To undergo a biological change in sex characteristics. Requires `ta` marker.
+
+Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
+
+Example::   *Ko kan **ta kowai** ne tilo hi.* = "Lifeforms can **change biologically** at different times."
+
+## Related Concepts / Distinctions
+*   **Koi** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).
+*   **Kota** (`ko + ta`): Descriptor for biological male characteristics (can be a stage for a `Kowai` being).
+*   (Other biological descriptors: Kore, Koa)
+*   **Kopu** (`ko + pu`): The physical body form (can change in a `Kowai` being).
+*   **Koipai** (`ko + i + pai`): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **WAI** (Flow, Change, Liquid). Conceptually links this biological state to the idea of sex characteristics "flowing" or "changing" over time.
+
+## Proverbs
+
+Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
+
+Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."
+
 # KOTA
 
 IPA::				/ˈko.tɑ/
@@ -5443,66 +5607,108 @@ Proverb:: *Sipu ke o no sun kore.* = "Traditional systems often don't understand
 
 Proverb:: *Kore o sun oum; Oum ko o pene.* = "Intersex biology is part of the spectrum of knowledge; All life is good/valid."
 
-# KOPU
+# KOUWAI
 
-IPA::				/ˈko.pu/
-Concept::		**Body Form, Physical Appearance, Physical Structure/Representation (of a lifeform)**
-Action::		**To take physical form, manifest bodily**
-Descriptor::	**Relating to the physical form/appearance of the body**
+IPA::				/ˈko.u.wai/
+Concept::		**Bodily Fluid (e.g., blood, sap, lymph, milk, sweat, tears, reproductive fluids); Biological Liquid; Natural Essence/Juice (from living source)**
+Action::		**To bleed, secrete (bodily fluid), lactate; To flow with vital essence**
+Descriptor::	**Related to bodily fluids, Biological liquid, Essential (as fluid), Secretory**
 
-> **Extended Set.** Represents the physical form, structure, and appearance of a body (`[[KO]]`), distinct from its substance (`[[PE]]`), biological characteristics (`[[Koi]]`, `[[Kota]]`, etc.), or internal body image (`[[Koipai]]`). Derived from body (`KO`) + form/structure (`PU`).
+> Represents liquids originating from or essential to lifeforms (*KO*), often implying a vital but potentially uncontrolled or fundamental ("chaotic" - *U*) nature compared to neutral *WAI*. Includes blood, sap, lymph, milk, sweat, tears, reproductive fluids, natural plant/fruit juices, etc.
 
 ## Usage
 
-### Concept (Primary Use)
-*   Refers to the tangible shape, structure, or visual representation of a body.
+### Concept
+*   Refers to a specific bodily fluid or biological liquid essence.
 
-Example::   *Le **kopu** ro a o pene.* = "My **body form/physical appearance** is good."
-
-Example::   *Neko hat **kopu** li.* = "The cat has a small **physical form/structure**."
-
-Example::   *Le **kopu** ro sipu se o u.* = "The **physical structure** of that system (if biological) is chaotic."
-
-Example::   *Pai ro **kopu** o no mo se pai ro koipai.* = "Thoughts about the **physical form** are not more important than thoughts about body image."
+Example::   *Le **kouwai** ro a o [[Aikulo]].* = "My **blood** is red." *(Using [[Aikulo]])*
+Example::   ***Kouwai** ro lumiako o wai li.* = "The **sap** of the plant flows slowly."
+Example::   *Se o **kouwai** ro mamapi.* = "That is the **milk** of the mother."
+Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eyes are few/slow." (Lit: "The bodily fluid on my eye...")
 
 ### Action
-*   The act of a being or concept taking on a physical, bodily form.
+*   The act of secreting or flowing with bodily fluid.
 
-Example::   *Sun **ta kopu** ne lisu.* = "Knowledge **takes form/manifests physically** in words/symbols." (Metaphorical)
-
-Example::   *Ko se **kopu** mo.* = "That lifeform **manifests physically** as large."
+Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
+Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
+Example::   *Lumiako **ta kouwai** ne tilopene.* = "The plant **flows with sap** in the good time (spring)."
 
 ### Descriptor
-*   Describes something relating to the physical shape or structure of the body.
+*   Describes something related to biological fluids.
 
-Example::   *A pai **so kopu**.* = "I have thoughts **relating to physical form**."
+Example::   *Se o sipu **so kouwai**.* = "That is a **circulatory** (biological fluid) system."
+Example::   *A hat kulo **kouwai** ne kune.* = "I have the colour of **blood** on my hand."
+Example::   *Tape **so kouwai** o mo.* = "The **essence-rich** (juicy) food is substantial."
 
-Example::   *Se o **kopu** pene.* = "That is a beautiful **physical form**."
+## Compounds
 
-*   Can be modified by biological descriptors:
-    *   *E hat **kopu Koi**.* = "You have a **body form [with] female characteristics**."
-    *   *Le ouman o hat **kopu Kota**.* = "The person has a **body form [with] male characteristics**."
-
-## Related Concepts
-*   Koipai (`ko + i + pai`): Body Image (internal perception of `kopu`).
-*   Koi (`ko + i`): Descriptor for biological female characteristics.
-*   Kota (`ko + ta`): Descriptor for biological male characteristics.
-*   Kore (`ko + re`): Descriptor for intersex biological characteristics.
-*   [[Koa]] (`ko + a`): Descriptor for asexual/undifferentiated biology.
-*   Kowai (`ko + wai`): Descriptor for biologically sex-fluid characteristics.
+*   **[[Kouwaiwai]]** (*kouwai* + *WAI*): Circulation (of bodily fluids); Flow of vital essence.
+*   **[[Kouwaita]]** (*kouwai* + *TA*): Bleeding, Secretion (as an event/process).
+*   **[[Kouwaiheim]]** (*kouwai* + *HEIM*): Heart, Core circulatory organ; Sapwood ("bodily fluid home/center").
+*   **[[Penekouwai]]** (*pene* + *kouwai*): Healthy blood/sap; Vitality (fluid aspect) ("good bodily fluid").
+*   **[[Lumiakokouwai]]** (*lumiako* + *kouwai*): Plant juice, Fruit juice ("plant bodily fluid").
 
 ## Origin
 
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **PU** (Form, Structure, Arrangement). Signifies "Body-Form."
+*   **Sunwai**: Compound of **KO** (Lifeform) + **U** (Chaos, Uncertainty, Essence/Potential?) + **WAI** (Liquid, Flow, Change). Conceptualized as "Lifeform's Chaotic/Essential Liquid." The *U* adds nuance suggesting vitality, fundamental nature, potential uncontrollability, or raw essence compared to plain *WAI*.
 
 ## Proverbs
 
-Proverb:: *Kopu o no ko.* = "The physical form is not the (entire) lifeform/body." (Distinguishes appearance from the whole being).
+Proverb:: *Kouwai o ko wai.* = "Bodily fluid is the flow of life."
 
-Proverb:: *Kopu wai, usi ko wai.* = "The body's form flows/changes, if the lifeform flows/changes."
+Proverb:: *Ta kouwai o ta ko.* = "To secrete/flow with essence is to be alive/act biologically."
 
----
-This entry establishes `Kopu`. The biological terms (`Koi`, `Kota`, etc.) remain as descriptors that modify `Kopu` or other relevant nouns, maintaining flexibility. This structure seems robust and clear.
+# KOI
+
+IPA::				/ˈko.i/
+Concept::		**(Generally used as Descriptor) The biological state/role associated with producing the larger gamete type (e.g., ova, eggs).**
+Action::		**(Rarely used) To function biologically in the manner associated with producing the larger gamete type.**
+Descriptor::	**Exhibiting biological characteristics related to the production or role of the larger gamete type (e.g., ova, eggs).**
+
+> **Extended Set.** A descriptor primarily used to denote the biological state or characteristics associated with the production of the larger, typically less mobile type of gamete (e.g., ova in animals, ovules in plants) involved in sexual reproduction. Derived from lifeform/body (*KO*) + internal principle/potential (*I*). This is a biological descriptor, distinct from gender identity (Koipai) or physical form (*Kopu*).
+
+## Usage
+
+### Descriptor (Primary Use)
+*   Modifies a noun (*Ko*, *Ouman*, *Kopu*, specific species names) to indicate the biological role associated with large gamete production. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
+
+Example::   *Se o neko **Koi**.* = "That cat **has the biology associated with producing ova**." / "That is a biologically **female** cat." (*Using the common English equivalent for fluency*).
+
+Example::   *A kelumia ouman **so Koi**.* = "I see a person **whose biology relates to ova production**." / "I see a biologically **female** person."
+
+Example::   *Le Kopu **Koi** hat sipu hi.* = "The **biologically female body form** has different systems."
+
+### Concept
+*   Refers to the biological category or characteristics defined by large gamete production. Often requires *le* marker.
+
+Example::   *Le **Koi** o sun mo ne ko mu.* = "The **biological state related to large gamete production** is important knowledge for many lifeforms."
+
+Example::   *An toki ne **Koi** an Kota.* = "We talk about the **biological roles related to large gametes** and small gametes."
+
+### Action
+*   To biologically function or develop in the manner associated with producing large gametes. Less common than descriptive use.
+
+Example::   *Le nuko se **ta Koi**.* = "That offspring **is developing the biology associated with large gamete production**."
+
+Example::   *I tilo pi, ko se **ta Koi**.* = "In its life cycle, that lifeform **functions biologically as the large-gamete producer**." (E.g., during the female phase of a sequential hermaphrodite).
+
+## Related Concepts / Distinctions
+*   **Kota** (*ko + ta*): Descriptor for the biological role associated with producing the smaller gamete type.
+*   **Kopi** (*ko + pi*): The gamete (egg/seed/etc.) itself. *Koi* describes the *producer*.
+*   (Other biological descriptors: Kore, Koa, Kowai)
+*   **Kopu** (*ko + pu*): The physical body form.
+*   **Koipai** (*ko + i + pai*): Body image.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **I** (In, Inside, Internal principle). Conceptually links this biological role to the typically larger, internal, or contained nature of the ovum/egg gamete compared to the smaller, more external/active sperm/pollen gamete (*Kota*).
+
+## Proverbs
+
+Proverb:: *Koi o no oum ro ko.* = "The biological role [of large gamete producer] is not the entirety of the lifeform."
+
+Proverb:: *Sun koi o sun kopita.* = "Understanding the biology [of the large gamete producer] involves understanding reproduction."
+
 Okay, here is the draft dictionary entry for *Kopita*.
 
 ---
@@ -5618,6 +5824,66 @@ Proverb:: *I kopi li, ko mo o kan.* = "In a small egg/seed, a great lifeform is 
 
 Proverb:: *Kopi o pi ro ko.* = "The egg/seed is the circle/cycle of life."
 
+# KOPU
+
+IPA::				/ˈko.pu/
+Concept::		**Body Form, Physical Appearance, Physical Structure/Representation (of a lifeform)**
+Action::		**To take physical form, manifest bodily**
+Descriptor::	**Relating to the physical form/appearance of the body**
+
+> **Extended Set.** Represents the physical form, structure, and appearance of a body (`[[KO]]`), distinct from its substance (`[[PE]]`), biological characteristics (`[[Koi]]`, `[[Kota]]`, etc.), or internal body image (`[[Koipai]]`). Derived from body (`KO`) + form/structure (`PU`).
+
+## Usage
+
+### Concept (Primary Use)
+*   Refers to the tangible shape, structure, or visual representation of a body.
+
+Example::   *Le **kopu** ro a o pene.* = "My **body form/physical appearance** is good."
+
+Example::   *Neko hat **kopu** li.* = "The cat has a small **physical form/structure**."
+
+Example::   *Le **kopu** ro sipu se o u.* = "The **physical structure** of that system (if biological) is chaotic."
+
+Example::   *Pai ro **kopu** o no mo se pai ro koipai.* = "Thoughts about the **physical form** are not more important than thoughts about body image."
+
+### Action
+*   The act of a being or concept taking on a physical, bodily form.
+
+Example::   *Sun **ta kopu** ne lisu.* = "Knowledge **takes form/manifests physically** in words/symbols." (Metaphorical)
+
+Example::   *Ko se **kopu** mo.* = "That lifeform **manifests physically** as large."
+
+### Descriptor
+*   Describes something relating to the physical shape or structure of the body.
+
+Example::   *A pai **so kopu**.* = "I have thoughts **relating to physical form**."
+
+Example::   *Se o **kopu** pene.* = "That is a beautiful **physical form**."
+
+*   Can be modified by biological descriptors:
+    *   *E hat **kopu Koi**.* = "You have a **body form [with] female characteristics**."
+    *   *Le ouman o hat **kopu Kota**.* = "The person has a **body form [with] male characteristics**."
+
+## Related Concepts
+*   Koipai (`ko + i + pai`): Body Image (internal perception of `kopu`).
+*   Koi (`ko + i`): Descriptor for biological female characteristics.
+*   Kota (`ko + ta`): Descriptor for biological male characteristics.
+*   Kore (`ko + re`): Descriptor for intersex biological characteristics.
+*   [[Koa]] (`ko + a`): Descriptor for asexual/undifferentiated biology.
+*   Kowai (`ko + wai`): Descriptor for biologically sex-fluid characteristics.
+
+## Origin
+
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **PU** (Form, Structure, Arrangement). Signifies "Body-Form."
+
+## Proverbs
+
+Proverb:: *Kopu o no ko.* = "The physical form is not the (entire) lifeform/body." (Distinguishes appearance from the whole being).
+
+Proverb:: *Kopu wai, usi ko wai.* = "The body's form flows/changes, if the lifeform flows/changes."
+
+---
+This entry establishes `Kopu`. The biological terms (`Koi`, `Kota`, etc.) remain as descriptors that modify `Kopu` or other relevant nouns, maintaining flexibility. This structure seems robust and clear.
 # KOIPAI
 
 IPA::				/ˈko.i.pɑi/
@@ -5686,56 +5952,54 @@ Proverb:: *Ta koipai pene, o ta pai pene.* = "To perceive one's body positively 
 Proverb:: *Sun koipai o sun a.* = "Understanding body image is understanding the self."
 
 
-# KOI
+# KOAN
 
-IPA::				/ˈko.i/
-Concept::		**(Generally used as Descriptor) The biological state/role associated with producing the larger gamete type (e.g., ova, eggs).**
-Action::		**(Rarely used) To function biologically in the manner associated with producing the larger gamete type.**
-Descriptor::	**Exhibiting biological characteristics related to the production or role of the larger gamete type (e.g., ova, eggs).**
+IPA::				/ˈko.an/
+Concept::		**Intimate Bodily Togetherness/Connection; Physical Closeness (e.g., holding, cuddling, nuzzling, grooming)**
+Action::		**To be physically close/connected/intimate; To cuddle, hold, nuzzle** (*ta Koan*)
+Descriptor::	**Physically Intimate/Close/Connected**
 
-> **Extended Set.** A descriptor primarily used to denote the biological state or characteristics associated with the production of the larger, typically less mobile type of gamete (e.g., ova in animals, ovules in plants) involved in sexual reproduction. Derived from lifeform/body (*KO*) + internal principle/potential (*I*). This is a biological descriptor, distinct from gender identity (Koipai) or physical form (*Kopu*).
+> **Extended Set.** Represents a state or act of close, often affectionate, physical connection and togetherness between lifeforms (*KO* + *AN*). The meaning centers on general physical intimacy like holding, cuddling, nuzzling, grooming, or huddling for warmth. It does **not** inherently refer to sexual activity.
 
 ## Usage
 
-### Descriptor (Primary Use)
-*   Modifies a noun (*Ko*, *Ouman*, *Kopu*, specific species names) to indicate the biological role associated with large gamete production. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
-
-Example::   *Se o neko **Koi**.* = "That cat **has the biology associated with producing ova**." / "That is a biologically **female** cat." (*Using the common English equivalent for fluency*).
-
-Example::   *A kelumia ouman **so Koi**.* = "I see a person **whose biology relates to ova production**." / "I see a biologically **female** person."
-
-Example::   *Le Kopu **Koi** hat sipu hi.* = "The **biologically female body form** has different systems."
-
 ### Concept
-*   Refers to the biological category or characteristics defined by large gamete production. Often requires *le* marker.
+*   Refers to the state or concept of close physical connection.
 
-Example::   *Le **Koi** o sun mo ne ko mu.* = "The **biological state related to large gamete production** is important knowledge for many lifeforms."
+Example::   *Le **Koan** ro mama an nuko o pene.* = "The **physical closeness/connection** between the parent and offspring is beautiful/good."
 
-Example::   *An toki ne **Koi** an Kota.* = "We talk about the **biological roles related to large gametes** and small gametes."
+Example::   *Mu ko na **Koan** ne eistilo.* = "Many lifeforms need **bodily togetherness** (e.g., huddling) in the cold season."
+
+Example::   *Le **Koan** i oumanan o mo.* = "The **physical closeness** within the partnership is significant."
 
 ### Action
-*   To biologically function or develop in the manner associated with producing large gametes. Less common than descriptive use.
+*   Engaging in acts of physical closeness or intimacy. Requires *ta* marker for clarity as a verb.
 
-Example::   *Le nuko se **ta Koi**.* = "That offspring **is developing the biology associated with large gamete production**."
+Example::   *Neko re **ta Koan**.* = "The two cats **are physically close / cuddling**."
 
-Example::   *I tilo pi, ko se **ta Koi**.* = "In its life cycle, that lifeform **functions biologically as the large-gamete producer**." (E.g., during the female phase of a sequential hermaphrodite).
+Example::   *An **ta Koan**.* = "We **are physically close / cuddle**." (Default reading is non-sexual closeness).
 
-## Related Concepts / Distinctions
-*   **Kota** (*ko + ta*): Descriptor for the biological role associated with producing the smaller gamete type.
-*   **Kopi** (*ko + pi*): The gamete (egg/seed/etc.) itself. *Koi* describes the *producer*.
-*   (Other biological descriptors: Kore, Koa, Kowai)
-*   **Kopu** (*ko + pu*): The physical body form.
-*   **Koipai** (*ko + i + pai*): Body image.
+Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle / are physically close**."
+
+### Descriptor
+*   Describes a situation or relationship characterized by physical closeness/intimacy. Often requires *so* marker.
+
+Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
+
+Example::   *Se o tilo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
+
+**Usage Note on Expressing Sexual Intimacy:**
+*Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *Kopita*.
 
 ## Origin
 
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **I** (In, Inside, Internal principle). Conceptually links this biological role to the typically larger, internal, or contained nature of the ovum/egg gamete compared to the smaller, more external/active sperm/pollen gamete (*Kota*).
+*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **AN** (Together, And, We). Conceptualizes intimacy as "Body Togetherness." Definition explicitly focuses on non-sexual physical closeness and connection.
 
 ## Proverbs
 
-Proverb:: *Koi o no oum ro ko.* = "The biological role [of large gamete producer] is not the entirety of the lifeform."
+Proverb:: *Koan o heim ro ko.* = "Physical closeness is a home for the body." (Implies comfort, safety).
 
-Proverb:: *Sun koi o sun kopita.* = "Understanding the biology [of the large gamete producer] involves understanding reproduction."
+Proverb:: *I Koan pene, pai pene.* = "In good/harmonious physical connection, the mind/experience is good/harmonious."
 
 # KIPU
 
@@ -5797,157 +6061,6 @@ Proverb:: *Mu kipu pu toki mo.* = "Many symbols/characters build a big language.
 Proverb:: *Kipu o pu ro pai.* = "Symbols/Characters are the forms of thought."
 
 Proverb:: *Sun i kipu li.* = "Knowledge (can be) in a small symbol."
-# KOAN
-
-IPA::				/ˈko.an/
-Concept::		**Intimate Bodily Togetherness/Connection; Physical Closeness (e.g., holding, cuddling, nuzzling, grooming)**
-Action::		**To be physically close/connected/intimate; To cuddle, hold, nuzzle** (*ta Koan*)
-Descriptor::	**Physically Intimate/Close/Connected**
-
-> **Extended Set.** Represents a state or act of close, often affectionate, physical connection and togetherness between lifeforms (*KO* + *AN*). The meaning centers on general physical intimacy like holding, cuddling, nuzzling, grooming, or huddling for warmth. It does **not** inherently refer to sexual activity.
-
-## Usage
-
-### Concept
-*   Refers to the state or concept of close physical connection.
-
-Example::   *Le **Koan** ro mama an nuko o pene.* = "The **physical closeness/connection** between the parent and offspring is beautiful/good."
-
-Example::   *Mu ko na **Koan** ne eistilo.* = "Many lifeforms need **bodily togetherness** (e.g., huddling) in the cold season."
-
-Example::   *Le **Koan** i oumanan o mo.* = "The **physical closeness** within the partnership is significant."
-
-### Action
-*   Engaging in acts of physical closeness or intimacy. Requires *ta* marker for clarity as a verb.
-
-Example::   *Neko re **ta Koan**.* = "The two cats **are physically close / cuddling**."
-
-Example::   *An **ta Koan**.* = "We **are physically close / cuddle**." (Default reading is non-sexual closeness).
-
-Example::   *Mamapi an nuko **ta Koan**.* = "The parent and offspring **cuddle / are physically close**."
-
-### Descriptor
-*   Describes a situation or relationship characterized by physical closeness/intimacy. Often requires *so* marker.
-
-Example::   *An hat pai **so Koan**.* = "We have an **intimate (physically close)** relationship/thought."
-
-Example::   *Se o tilo **so Koan**.* = "That is a time of **physical closeness/intimacy**."
-
-**Usage Note on Expressing Sexual Intimacy:**
-*Koan* itself does not mean "sex". To specifically describe physical intimacy that *is* sexual in nature, one must use descriptive phrases involving *[[Napai]]* (Sexuality/Desire-Mind) or rely on strong contextual cues. The phrase ***ta Koan so Napai*** ("to be physically close/intimate in a sexual manner") explicitly denotes sexual intimacy involving connection. For the biological act of reproduction, use *Kopita*.
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **AN** (Together, And, We). Conceptualizes intimacy as "Body Togetherness." Definition explicitly focuses on non-sexual physical closeness and connection.
-
-## Proverbs
-
-Proverb:: *Koan o heim ro ko.* = "Physical closeness is a home for the body." (Implies comfort, safety).
-
-Proverb:: *I Koan pene, pai pene.* = "In good/harmonious physical connection, the mind/experience is good/harmonious."
-
-# KOUWAI
-
-IPA::				/ˈko.u.wai/
-Concept::		**Bodily Fluid (e.g., blood, sap, lymph, milk, sweat, tears, reproductive fluids); Biological Liquid; Natural Essence/Juice (from living source)**
-Action::		**To bleed, secrete (bodily fluid), lactate; To flow with vital essence**
-Descriptor::	**Related to bodily fluids, Biological liquid, Essential (as fluid), Secretory**
-
-> Represents liquids originating from or essential to lifeforms (*KO*), often implying a vital but potentially uncontrolled or fundamental ("chaotic" - *U*) nature compared to neutral *WAI*. Includes blood, sap, lymph, milk, sweat, tears, reproductive fluids, natural plant/fruit juices, etc.
-
-## Usage
-
-### Concept
-*   Refers to a specific bodily fluid or biological liquid essence.
-
-Example::   *Le **kouwai** ro a o [[Aikulo]].* = "My **blood** is red." *(Using [[Aikulo]])*
-Example::   ***Kouwai** ro lumiako o wai li.* = "The **sap** of the plant flows slowly."
-Example::   *Se o **kouwai** ro mamapi.* = "That is the **milk** of the mother."
-Example::   *Le **kouwai** ne kulumia ro a o li wai.* = "The **tears** in my eyes are few/slow." (Lit: "The bodily fluid on my eye...")
-
-### Action
-*   The act of secreting or flowing with bodily fluid.
-
-Example::   *Kune ro a **ta kouwai**.* = "My hand **is bleeding**."
-Example::   *Mamapi **ta kouwai** ne nuko.* = "The mother **lactates/secretes milk** for the newborn."
-Example::   *Lumiako **ta kouwai** ne tilopene.* = "The plant **flows with sap** in the good time (spring)."
-
-### Descriptor
-*   Describes something related to biological fluids.
-
-Example::   *Se o sipu **so kouwai**.* = "That is a **circulatory** (biological fluid) system."
-Example::   *A hat kulo **kouwai** ne kune.* = "I have the colour of **blood** on my hand."
-Example::   *Tape **so kouwai** o mo.* = "The **essence-rich** (juicy) food is substantial."
-
-## Compounds
-
-*   **[[Kouwaiwai]]** (*kouwai* + *WAI*): Circulation (of bodily fluids); Flow of vital essence.
-*   **[[Kouwaita]]** (*kouwai* + *TA*): Bleeding, Secretion (as an event/process).
-*   **[[Kouwaiheim]]** (*kouwai* + *HEIM*): Heart, Core circulatory organ; Sapwood ("bodily fluid home/center").
-*   **[[Penekouwai]]** (*pene* + *kouwai*): Healthy blood/sap; Vitality (fluid aspect) ("good bodily fluid").
-*   **[[Lumiakokouwai]]** (*lumiako* + *kouwai*): Plant juice, Fruit juice ("plant bodily fluid").
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform) + **U** (Chaos, Uncertainty, Essence/Potential?) + **WAI** (Liquid, Flow, Change). Conceptualized as "Lifeform's Chaotic/Essential Liquid." The *U* adds nuance suggesting vitality, fundamental nature, potential uncontrollability, or raw essence compared to plain *WAI*.
-
-## Proverbs
-
-Proverb:: *Kouwai o ko wai.* = "Bodily fluid is the flow of life."
-
-Proverb:: *Ta kouwai o ta ko.* = "To secrete/flow with essence is to be alive/act biologically."
-
-# KOWAI
-
-IPA::				/ˈko.wɑi/
-Concept::		**(Generally used as Descriptor) The biological state of changing sex characteristics over time (Sequential Hermaphroditism) or having fluid sex characteristics.**
-Action::		**To change biological sex characteristics over time.**
-Descriptor::	**Exhibiting biologically fluid or changing sex characteristics (Sex-Fluid).**
-
-> A descriptor primarily used to denote the biological state where an individual lifeform can change its primary sex characteristics or functions (e.g., from male to female or vice-versa) during its lifespan, or exhibits fluidity in these characteristics. Derived from lifeform/body (`KO`) + flow/change (`WAI`). This is a biological descriptor.
-
-## Usage
-
-### Descriptor (Primary Use)
-*   Modifies a noun (`[[Ko]]`, `[[Ouman]]`, `[[Kopu]]`, specific species names) to indicate biologically fluid or changing sex characteristics. Often requires `so` marker for clarity when acting purely descriptively, though predicate use with `o` is common.
-
-Example::   *Waiko mu o **kowai**.* = "Many fish are biologically **sex-fluid**."
-
-Example::   *Le sipu ro ko se o **kowai**.* = "The biology of that lifeform is **sex-fluid**."
-
-Example::   *Se o Kopu **so kowai**.* = "That is a **biologically fluid body form**."
-
-### Concept
-*   Refers to the biological phenomenon of sex fluidity or change. Often requires `le` marker.
-
-Example::   *Le **kowai** o sun hi ne ko.* = "Biological **sex-fluidity** is interesting knowledge in lifeforms."
-
-Example::   *An sun **kowai** ne waiko pi.* = "We understand **sex-fluidity** in some fish."
-
-### Action
-*   To undergo a biological change in sex characteristics. Requires `ta` marker.
-
-Example::   *I tilo pi, ko se **ta kowai** ro Koi nu Kota.* = "In its life cycle, that lifeform **changes biologically** from female to male."
-
-Example::   *Ko kan **ta kowai** ne tilo hi.* = "Lifeforms can **change biologically** at different times."
-
-## Related Concepts / Distinctions
-*   **Koi** (`ko + i`): Descriptor for biological female characteristics (can be a stage for a `Kowai` being).
-*   **Kota** (`ko + ta`): Descriptor for biological male characteristics (can be a stage for a `Kowai` being).
-*   (Other biological descriptors: Kore, Koa)
-*   **Kopu** (`ko + pu`): The physical body form (can change in a `Kowai` being).
-*   **Koipai** (`ko + i + pai`): Body image.
-
-## Origin
-
-*   **Sunwai**: Compound of **KO** (Lifeform, Body) + **WAI** (Flow, Change, Liquid). Conceptually links this biological state to the idea of sex characteristics "flowing" or "changing" over time.
-
-## Proverbs
-
-Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
-
-Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."
-
 # MAMASUN
 
 IPA::				/ˈmɑ.mɑ.sun/

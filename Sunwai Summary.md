@@ -36,6 +36,8 @@
 | **Linking**         | Use `o` to link Concepts or assign qualities: **`Concept o Descriptor` (C o D)**. Ex: *Neko o pene* (Cat is beautiful). |
 | **Role Clarifiers** | Particles (`le`, `ta`, `so`, `si`, `se`, etc.) clarify word roles when needed for precision.                            |
 | **Word Order**      | Flexible, but the C-A-C flow is the default for clarity without extra markers.                                          |
+|                     |                                                                                                                         |
+author-comment:: Linking section is misleading: there are many grammatical structures in sunwai and this gives the impression that there is only one.
 ## Examples
 
 Example:: *A tape.* = "I eat."
