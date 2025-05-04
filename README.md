@@ -27,25 +27,15 @@
     *   Clear **rules for compounding** (e.g., *ta*+*ma* -> *tama* "road") create predictable new words.
     *   **Specialized Sets** allow for precision in technical fields (math, science, etc.).
 
-## Core Structure & Flow
+## Key documents
 
-| **Aspect**          | **Details**                                                                                                             |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Word Roles**      | Words act flexibly in multiple roles as **Marker (M)**, **Concept (C)**, **Action (A)**, or **Descriptor (D)**.         |
-| **Basic Flow**      | Common sentence flow is **`Concept - Action - Concept` (C-A-C)**. Ex: *Wahiko tape paitape* (Duck eats cake).           |
-| **Linking**         | Use `o` to link Concepts or assign qualities: **`Concept o Descriptor` (C o D)**. Ex: *Neko o pene* (Cat is beautiful). Other more elaborate sentence structures exists. |
-| **Role Clarifiers** | Particles (`le`, `ta`, `so`, `si`, `se`, etc.) clarify word roles when needed for precision.                            |
-| **Word Order**      | Flexible, but the C-A-C flow is the default for clarity without extra markers.                                          |
-## Examples
+   * [Summary](Sunwai%20summary.md)
+   * [Main documentation](Sunwai.md)
+   * [Compiled full dictionary]("Full%20dictionary.baked.md")
+   * [Reference sheet](Sunwai%20Reference%20Sheet.md)
 
-Example:: *A tape.* = "I eat."
-Example:: *Ouman o pene!* = "Sentient life is beautiful!"
-Example:: *Neko o li se inuko.* = "The cat is smaller than the dog."
 
-## Inspiration
-Aims to improve on minimalist predecessors by integrating robust grammar and artistic flexibility. Designed by Daniel Herkert, with AI-assisted linguistic research. Designed to be both practical and beautiful.
-
-Proverb:: *Toki o sun!* = "Language is wisdom!"
+**Toki o sun!** = "Language is wisdom!"
 
 
 ## About this repository and md files
