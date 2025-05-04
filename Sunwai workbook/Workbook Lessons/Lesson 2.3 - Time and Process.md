@@ -27,7 +27,7 @@ By the end of this lesson, you will be able to:
 Sunwai uses simple, core words to represent fundamental ideas. One key set of concepts relates to the progression of time or the stages of any process – from its beginning to its end.
 
 Let's look at a visual representation of this flow:
-![[spatial and temporal states.png]]
+![spatial and temporal states](Images/spatial%20and%20temporal%20states.png)
 
 This sequence shows:
 1.  A **Sunrise**: Symbolizing the beginning.
@@ -38,27 +38,27 @@ This sequence shows:
 
 Now, let's learn the Sunwai words for each stage:
 
-**1. [[AMA]] (`/ˈɑː.mɑ/`)**
+**1. [AMA](../../lisuma%20(base%20set)/AMA.md) (`/ˈɑː.mɑ/`)**
     *   **Visual:** Sunrise
     *   **Keywords:** Start, Origin, Beginning
     *   **Meaning:** Represents the **start** or **origin point**. Think of the moment something commences. (*Derived from A - Observer/Here + MA - Foundation*).
 
-**2. [[KE]] (`/ˈke/`)**
+**2. [KE](../../lisuma%20(base%20set)/KE.md) (`/ˈke/`)**
     *   **Visual:** Old Uramako
     *   **Keywords:** Previous, Old, Past
     *   **Meaning:** Represents what came **before** the current moment, the **previous** stage, or simply the **past**. The old rabbit symbolizes this look backward.
 
-**3. [[KA]] (`/ˈkɑ/`)**
+**3. [KA](../../lisuma%20(base%20set)/KA.md) (`/ˈkɑ/`)**
     *   **Visual:** Uramako (the central one)
     *   **Keywords:** Center, Current, Balance, Present
     *   **Meaning:** Represents the **present** moment, the **current** stage, or a point of **balance**. It's the "now" in the sequence. (Note: `KA` also means the number 5, but here we focus on its time/process meaning).
 
-**4. [[NU]] (`/ˈnu/`)**
+**4. [NU](../../lisuma%20(base%20set)/NU.md) (`/ˈnu/`)**
     *   **Visual:** Nuko Uramako (Baby Rabbit)
     *   **Keywords:** Next, New, Future
     *   **Meaning:** Represents what comes **after** the present, the **next** step, something **new**, or the **future**. The baby rabbit (`NUKO URAMAKO`) perfectly symbolizes this potential and newness.
 
-**5. [[MAU]] (`/maˈu/`)**
+**5. [MAU](../../lisuma%20(base%20set)/MAU.md) (`/maˈu/`)**
     *   **Visual:** Tombstone
     *   **Keywords:** End, Finish, Conclusion, Return
     *   **Meaning:** Represents the **end** of a process, the **finish**, or the **conclusion**, often suggesting a return to a base state or potential. (*Derived from MA - Foundation + U - Potential/Cessation*).
@@ -67,13 +67,13 @@ Now, let's learn the Sunwai words for each stage:
 
 You saw the rabbit figure in several stages! The Sunwai word is:
 
-*   **[[URAMAKO]] (`/ˈuː.ɾa.ma.ko/`)**: Rabbit, Hare.
+*   **[URAMAKO](../../mo%20lisu%20(extended%20set)/URAMAKO.md) (`/ˈuː.ɾa.ma.ko/`)**: Rabbit, Hare.
     *   *(This word itself is a compound: U (Chaos/Uncertainty) + RAN (Fast) + MA (Earth) + KO (Lifeform) = "Chaotic/Skittish Fast Earth Lifeform", but you mainly need to know it means rabbit for now!)*
 
 And for the baby rabbit representing the future (`NU` stage):
 
-*   **[[NUKO]] (`/ˈnuː.ko/`)**: Newborn, Offspring, Baby, Infant.
-*   **[[NUKO]] [[URAMAKO]] (`/ˈnuː.ko ˈuː.ɾa.ma.ko/`)**: Baby Rabbit, Young Hare.
+*   **[NUKO](../../lisuma%20(base%20set)/NUKO.md) (`/ˈnuː.ko/`)**: Newborn, Offspring, Baby, Infant.
+*   **[NUKO](../../lisuma%20(base%20set)/NUKO.md) [URAMAKO](../../mo%20lisu%20(extended%20set)/URAMAKO.md) (`/ˈnuː.ko ˈuː.ɾa.ma.ko/`)**: Baby Rabbit, Young Hare.
 
 Yes! You could also say NU URAMAKO, but we will go with NUKO URAMAKO here.
 
@@ -167,4 +167,4 @@ author-comment:: This section needs more content. Maybe another visualisation wi
     *   The rabbit is not old.
     *   The end is memory.
 
-> Answers can be found in [[Appendix A - Answer Key for Exercises]]
+> Answers can be found in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)

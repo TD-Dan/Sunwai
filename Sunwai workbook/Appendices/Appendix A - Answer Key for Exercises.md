@@ -1,6 +1,3 @@
-Okay, here is the answer key for the exercises in the completed workbook lessons (1.1, 1.2, and 2.3). This can be saved as `Appendix A - Answer Key for Exercises.md`.
-
---- START OF FILE Appendix A - Answer Key for Exercises.md ---
 
 # **Appendix A: Answer Key for Workbook Exercises**
 

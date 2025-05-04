@@ -1,5 +1,5 @@
 
-# **Lesson 1.2: Syllables and Stress (Building Blocks)**
+# Lesson 1.2: Syllables and Stress (Building Blocks)
 
 ## In this lesson:
 
@@ -63,7 +63,7 @@ This recipe allows for different syllable shapes:
 *   **Same Vowel Doubled:** `aa`, `ee`, `ii`, `oo`, `uu` are not standard syllables (they are used for stress).
 *   **No Vowel:** Every syllable *must* have at least one vowel. `ts`, `nk`, `m` are not valid syllables.
 
-![[allowed syllables.jpg]]
+![allowed syllables](Images/allowed%20syllables.jpg)
 
 ## Word Stress (Lisuwailu)
 
@@ -146,10 +146,10 @@ Let's practice with these words:
     *   `ouman` (oo-man)
     *   `Neko` (Nee-ko)
 
-*(Check your answers for Exercises 1, 2, & 3 in [[Appendix A - Answer Key for Exercises]]!)*
+*(Check your answers for Exercises 1, 2, & 3 in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 
 ---
 
 *Pene!* You now understand how Sunwai sounds are put together into syllables and words, and how the basic rhythm works. This structure makes words distinct and relatively easy to pronounce.
 
-In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [[Lesson 1.3 - Words Wear Different Hats]]]]
+In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [Lesson 1.3 - Words Wear Different Hats](Lesson%201.3%20-%20Words%20Wear%20Different%20Hats.md)]]

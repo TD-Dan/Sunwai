@@ -1,5 +1,5 @@
 
-# **Lesson 1.4: Words Have Roots (Compounding and the Root KO)**
+# Lesson 1.4: Words Have Roots (Compounding and the Root KO)
 
 ## In this lesson:
 
@@ -146,10 +146,10 @@ Now let's build another lifeform word using compounding:
     *   I have a small dog.
     *   A cat is a lifeform.
 
-*(Check your answers in [[Appendix A - Answer Key for Exercises]]!)*
+*(Check your answers in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 
 ---
 
 *Pene ran!* (Fast good! / Well done!) You've learned about the building blocks of Sunwai vocabulary – roots and compounds – and met the essential root `KO` and our canine friend `INUKO`. Seeing how words connect helps unlock the logic and beauty of the language.
 
-In the next lesson, we'll take a quick look at a practical challenge: How do we talk about people and places whose names don't follow Sunwai rules? --> [[Lesson 1.5 - Names Have Homes Too]]
+In the next lesson, we'll take a quick look at a practical challenge: How do we talk about people and places whose names don't follow Sunwai rules? --> [Lesson 1.5 - Names Have Homes Too](Lesson%201.5%20-%20Names%20Have%20Homes%20Too)

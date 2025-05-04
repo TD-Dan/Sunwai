@@ -1,5 +1,5 @@
 
-# **Lesson 1.1: The Sunwai Alphabet & Basic Pronunciation**
+# Lesson 1.1: The Sunwai Alphabet & Basic Pronunciation
 
 ## In this lesson:
 
@@ -11,7 +11,7 @@
 ---
 ## Lets go!
 
-![[hai neko se.jpg]]
+![hai neko se](Images/hai%20neko%20se.jpg)
 *Hai!* (Hello!) I'm Neko, and I'll be helping you learn Sunwai. Don't worry, Sunwai is designed to be easy and fun, like `pai` (play)! One of the best parts is that it only uses 15 letters with sounds common across many languages. Let's start there!
 
 ## Objective
@@ -46,7 +46,7 @@ You can learn the order with a little chant! The consonant names combine the let
 
 Try it out and create your own melody!
 
-![[alphabet chant.jpg]]
+![alphabet chant](Images/alphabet%20chant.jpg)
 
 ## Basic Pronunciation (Lisuwailu)
 
@@ -142,7 +142,7 @@ Let's see how the letters build these words:
     *   Listen to a simple Sunwai word (like `neko`, `sun`, `a`, `o`).
     *   Try to write down the letters you hear.
 
-*(Check your answers for Exercises 2 & 3 in [[Appendix A - Answer Key for Exercises]]!)*
+*(Check your answers for Exercises 2 & 3 in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 
 ---
 
@@ -150,4 +150,4 @@ Let's see how the letters build these words:
 
 In the next lesson, we'll see how these letters combine into syllables, the chunks that make up words.
 
-Ready to continue? --> [[Lesson 1.2 - Syllables and Stress]]
+Ready to continue? --> [Lesson 1.2 - Syllables and Stress](Lesson%201.2%20-%20Syllables%20and%20Stress.md)
