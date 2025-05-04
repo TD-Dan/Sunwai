@@ -46,7 +46,7 @@ Example::	*A nu lono.* = "I just **remembered**." / "I now **recall**."
 - **[[Senolono]]** = Forgotten, amnesia, unrecorded (*seno + lono* = "no memory")
 
 ## Origin
-* [[Sunwai]]: *lon+no* ("long no" - acquiring of knowledge is an along and arduos process), (secon n is dropped per sunwai compounding rules)
+* **Sunwai**: *lon+no* ("long no" - acquiring of knowledge is an along and arduos process), (secon n is dropped per sunwai compounding rules)
 - **English** _know_
 - **Latin** _cognosco_ (know)
 - **Greek** _gnosis_ (knowledge)

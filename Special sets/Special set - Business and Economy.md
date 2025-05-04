@@ -1,6 +1,6 @@
-# Special set: Business and economy
+# Special set: Business and Economy
 
-(( work under progress, not a complete list yet ))
+author-comment:: Mainly a placeholder for now
 
 ---
 ### PISUATA

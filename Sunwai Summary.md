@@ -1,6 +1,6 @@
 # Sunwai Summary
 
-**[[Sunwai]]** is a constructed language designed for universal communication, uniquely **blending elegant simplicity with expressive depth and practical structure**. It builds on principles from Toki Pona while enhancing grammatical precision, extendability, and artistic possibilities.
+Sunwai is a constructed language designed for universal communication, uniquely **blending elegant simplicity with expressive depth and practical structure**. It builds on principles from Toki Pona while enhancing grammatical precision, extendability, and artistic possibilities.
 
 ## Key Features
 

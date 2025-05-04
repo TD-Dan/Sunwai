@@ -1,5 +1,5 @@
 
-# Special set: Linguistics (`Tokisun`)
+# Special set: Linguistics (*Tokisun*)
 
 This special set provides terminology for discussing language structure, sounds, meaning, and use.
 
@@ -7,13 +7,12 @@ This special set provides terminology for discussing language structure, sounds,
 
 ## Related words already part of the base or extended set
 
-[[KI]]
-[[KIPU]]
-[[LISU]]
-[[TOKI]]
+* [KI](../lisuma%20(base%20set)/KI.md)
+* [KIPU](../mo%20lisu%20(extended%20set)/KIPU.md)
+* [LISU](../lisuma%20(base%20set)/LISU.md)
+* [TOKI](../lisuma%20(base%20set)/TOKI.md)
 
-## New compounds
-
+## New words
 
 ### Kipuan
 
@@ -144,8 +143,7 @@ Descriptor::    **Translated, Interpretive**
 
 ---
 
-## Standard phrases
-
+## New standardized phrases
 
 ### Lisu Le
 

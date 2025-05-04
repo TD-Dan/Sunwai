@@ -2,15 +2,15 @@
 
 This set adds support for the special concepts and words used in the field of mathematics.
 
-author-comment:: work under progress, not a complete list yet.
+author-comment:: work under progress, not a complete yet.
 
----
+## Overall design
 
 - Fractions and real numbers
 
- - Additional geometric shapes that expand base set to include all mathematical shapes.
+ - Additional geometric shapes that expand base set.
 
-Adopt the SI unit metric prefixes as they are, but adjust for the [[Sunwai]] syllable and pronunciation rules.
+Adopt the SI unit metric prefixes as they are, but adjust for the [Sunwai](../Sunwai.md) syllable and pronunciation rules.
 
 | tesi     | 10<sup>-1</sup>  | teka     | 10<sup>1</sup>  |
 | -------- | ---------------- | -------- | --------------- |
@@ -24,36 +24,37 @@ Adopt the SI unit metric prefixes as they are, but adjust for the [[Sunwai]] syl
 | septo    | 10<sup>-21</sup> | seta     | 10<sup>21</sup> |
 | okto     | 10<sup>-24</sup> | ota      | 10<sup>24</sup> |
 
+## Related words already in base or extended set
+
+* [SI](../lisuma%20(base%20set)/SI.md)
+* [SISI](../lisuma%20(base%20set)/SISI.md)
+* [PI](../lisuma%20(base%20set)/PI.md)
+
+## New words
 ### TAU
 /ˈtau/
-TΔU
 1. **Tau** (num) - 2 x pi
 ### KILO
-/ˈkiː.lo/  
-XYLO
+/ˈkiː.lo/
 1. **Kilo-** (10³) – SI prefix for one thousand.
 ### MEKA
-/ˈmeː.kɑ/  
-MΞXΔ
+/ˈmeː.kɑ/
 1. **Mega-** (10⁶) – SI prefix for one million.
 
 ### TERA
-/ˈteː.ɾɑ/  
-TΞǑΔ
+/ˈteː.ɾɑ/
 1. **Tera-** (10¹²) – SI prefix for one trillion.
 
-### MOMORU
-/ˈmoː.mo.ru/
-MOMOǑU
+### MOMOHI
+/ˈmoː.mo.hi/
 1. **Maximum, maxima**
 
 Origins:
-* [[Sunwai]]: *mo + mo + ru* = "really big high"
+* **Sunwai**: *mo + mo + hi* = "really big high"
 ### LILIMA
 /ˈliː.li.mɑ/
-LYLYMΔ
 1. **Minimum, minima**
 
 Origins:
-* [[Sunwai]]: *li + li + ma* = "really small low"
+* **Sunwai**: *li + li + ma* = "really small low"
 

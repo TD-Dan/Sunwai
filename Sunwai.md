@@ -7,12 +7,9 @@ Sunwai is a constructed language that aims to serve as an unifying common langua
 * One page summary: [Sunwai Summary](Sunwai%20Summary.md)
 * Learning the language: [Sunwai Workbook](Sunwai%20workbook/Sunwai%20Workbook.md)
 * Core grammar at a glance: [Sunwai Reference Sheet](Sunwai%20Reference%20Sheet.md)
-* Complete dictionary: [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked)
-* This document in Sunwai: [Oum sun ro Sunwai i li toki](Oum%20sun%20ro%20Sunwai%20i%20li%20toki.md) and [Oum sun ro Sunwai i mo toki](Oum%20sun%20ro%20Sunwai%20i%20mo%20toki.md)
+* Complete dictionary: [Full dictionary](Full%20dictionary.baked.md)
 
-<!--
 author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor and even major changes.
--->
 
 ## Base principles
 ### Easy to learn, hard to master
@@ -21,17 +18,15 @@ Vowels and consonants used are the most common and easy to produce across all la
 Pronunciation, word order, syllable stressing and typography are all flexible and can be understood even if you use your native style. This supports suitability for poetic, musical and other artistic purposes. Artistic freedom also makes sure it can be hard to master as the ways of expression are limitless.
 * Multiple homophones (Words have many layered meanings) allow for wordplay and nuanced meanings.
 * Word order does not matter, except for particles that describe unidirectional relations.
-	-> [Sunwai Special set - Typography](Sunwai%20Special%20set%20-%20Typography.md) defines the base for artistic letterforms that can be used with Sunwai.
+* Flexible typography that allows latin, cyrillic, greek or custom logograms and pictograms to be used.
 ### Inclusion and neutrality is default
 Inclusivity is created by broadening terms, not creating division or exclusivity. There is no distinction between male/female/other, human/animal/other or good/bad in the words themselves. However, language by its nature is a system of categorization; all of these these distinctions can be made if necessary for any specific use case. Sunwai is not a human centerric language at its roots but extends and specialices to be one.
-	-> [#4. Generality Over Specificity](#4.%20Generality%20Over%20Specificity)
 ### Extendability rules
-The language can be extended beyond the base and extended set by following common rules. This makes it possible to incorporate specialist fields, such as software, engineering and medicine, into the language without losing the needed precision of words in such use cases.
-	-> [#Special sets](#Special%20sets)
+The language can be extended beyond the base and extended set by following common rules. These are called special sets and make it possible to incorporate specialist fields, such as software, engineering and medicine, into the language without losing the needed accuracy.
 ### Worldwide heritage
 Takes words and concepts from accross all languages. A celebration of human roots and varied cultures.
 
-While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [#heim](#heim) refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and history.
+While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [heim](lisuma%20(base%20set)/HEIM.md) refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and language history.
 ### Language is wisdom solidified
 Words contain meaning and meaning carries values. What words convey and carry inside them is not a trivial thing. Therefore language must hold beauty in its essence.
 
@@ -41,7 +36,7 @@ Examples:
 
 **Toki o sun!** = "Language is wisdom!"
 ### Tought shapes world. Tought is language. Therefore language shapes world!
-It is not triial how we speak and think. The ideas contained in words affect the way we think and act. Therefore it is critical that we use a language that contains the right
+It is not trivial how we speak and think. The ideas contained in words affect the way we think and act. Therefore it is critical that we use a language that contains the right values.
 
 **Sun wai oum. Sun o toki. Sunta toki wai wai oum!** = "Tought shapes world. Tought is language. Therefore language shapes world!"
 
@@ -88,44 +83,44 @@ Pronunciation of the letter can:
 
 ## Vowels
 
-| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | Letter variant in Sunwai | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
-| --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ----------------------------- | -------------------------- | -------------------------------------- |
-| **a**     | [ɑ](https://en.wikipedia.org/wiki/Open*back*unrounded*vowel "Open back unrounded vowel")             | [a](https://en.wikipedia.org/wiki/Open*front*unrounded*vowel "Open front unrounded vowel") [ä](https://en.wikipedia.org/wiki/Open*central*unrounded*vowel "Open central unrounded vowel") [ɐ](https://en.wikipedia.org/wiki/Near-open*central*vowel "Near-open central vowel") | **A Δ**                        | 45%                           | 39%                        | 42%                                    |
-| **e**     | [e](https://en.wikipedia.org/wiki/Close-mid*front*unrounded*vowel "Close-mid front unrounded vowel") | [ɛ](https://en.wikipedia.org/wiki/Open-mid*front*unrounded*vowel "Open-mid front unrounded vowel")                                                                                                                                                                             | **Ξ ɵ**                        | 22%                           | 25%                        | 27%                                    |
-| **i**     | [i](https://en.wikipedia.org/wiki/Close*front*unrounded*vowel "Close front unrounded vowel")         | **[ɪ](https://en.wikipedia.org/wiki/Near-close*near-front*unrounded*vowel) [y](https://en.wikipedia.org/wiki/Close*front*rounded*vowel "Close front rounded vowel") [ʏ](https://en.wikipedia.org/wiki/Near-close*near-front*rounded*vowel)**                                   | **Y  i**                       | 15%                           | 12%                        | 10%                                    |
-| **o**     | [o](https://en.wikipedia.org/wiki/Close-mid*back*rounded*vowel "Close-mid back rounded vowel")       | [ɔ](https://en.wikipedia.org/wiki/Open-mid*back*rounded*vowel)                                                                                                                                                                                                                 | **O o**                        | 11%                           | 15%                        | 18%                                    |
-| **u**     | [u](https://en.wikipedia.org/wiki/Close*back*rounded*vowel "Close back rounded vowel")               | [ɯ](https://en.wikipedia.org/wiki/Close*back*unrounded*vowel)                                                                                                                                                                                                                  | **U u**                        | 9%                            | 9%                         | 7%                                     |
+| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
+| --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------------- | -------------------------------------- |
+| **a**     | [ɑ](https://en.wikipedia.org/wiki/Open*back*unrounded*vowel "Open back unrounded vowel")             | [a](https://en.wikipedia.org/wiki/Open*front*unrounded*vowel "Open front unrounded vowel") [ä](https://en.wikipedia.org/wiki/Open*central*unrounded*vowel "Open central unrounded vowel") [ɐ](https://en.wikipedia.org/wiki/Near-open*central*vowel "Near-open central vowel") | 45%                           | 39%                        | 42%                                    |
+| **e**     | [e](https://en.wikipedia.org/wiki/Close-mid*front*unrounded*vowel "Close-mid front unrounded vowel") | [ɛ](https://en.wikipedia.org/wiki/Open-mid*front*unrounded*vowel "Open-mid front unrounded vowel")                                                                                                                                                                             | 22%                           | 25%                        | 27%                                    |
+| **i**     | [i](https://en.wikipedia.org/wiki/Close*front*unrounded*vowel "Close front unrounded vowel")         | **[ɪ](https://en.wikipedia.org/wiki/Near-close*near-front*unrounded*vowel) [y](https://en.wikipedia.org/wiki/Close*front*rounded*vowel "Close front rounded vowel") [ʏ](https://en.wikipedia.org/wiki/Near-close*near-front*rounded*vowel)**                                   | 15%                           | 12%                        | 10%                                    |
+| **o**     | [o](https://en.wikipedia.org/wiki/Close-mid*back*rounded*vowel "Close-mid back rounded vowel")       | [ɔ](https://en.wikipedia.org/wiki/Open-mid*back*rounded*vowel)                                                                                                                                                                                                                 | 11%                           | 15%                        | 18%                                    |
+| **u**     | [u](https://en.wikipedia.org/wiki/Close*back*rounded*vowel "Close back rounded vowel")               | [ɯ](https://en.wikipedia.org/wiki/Close*back*unrounded*vowel)                                                                                                                                                                                                                  | 9%                            | 9%                         | 7%                                     |
 
-(( Current vowel distribution suggest that future word additions should prefer adding words with a and i, and avoid using e, and o and boost the usage of u in sentence level. ))
+author-comment:: Current vowel distribution suggest that future word additions should prefer adding words with a and i, and avoid using e, and o and boost the usage of u in sentence level. This needds to be updated, lots of additions have been done since last calculations.
 
-Refer to the section [#Dimensionality of prime roots](#Dimensionality%20of%20prime%20roots) for letter identity and usage.
-
-[IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA*vowel*chart*with*audio)
-
-
-> See asection [#Phonetics](#Phonetics) for more information on prononcuation of the language.
 ## Consonants
 
 | Character   | IPA (standard) | Allowed IPA Variations  | letter variant in Sunwai | target frequency among consonants | Current frequency in words | Current estimated sentence level usage |
-| ----------- | -------------- | ----------------------- | ------------------------------ | --------------------------------- | -------------------------- | -------------------------------------- |
-| **t** (ta)  | [t]            | [t̪], [tʰ], [ʈ]         | **Γ ⵜ**                        | 17%                               | 18%                        | 20%                                    |
-| **n** (ne)  | [n]            | [n̼], [n̥]              | **ꓵ ʌ**                        | 35%                               | 22%                        | 25%                                    |
-| **s** (si)  | [s]            | [ɕ], [ʂ]                | **⽇ɸ**                         | 11%                               | 9%                         | 10%                                    |
-| **k** (ko)  | [k]            | [kʰ], [c] [g]           | **X x**                        | 8%                                | 11%                        | 12%                                    |
-| **m** (mu)  | [m]            | [m̥] [ɱ̊]               | **ᛖ m**                        | 7%                                | 6%                         | 5%                                     |
-| **w** (wai) | [w]            | [v]                     | **W w**                        | 4%                                | 4%                         | 9%                                     |
-| **l** (le)  | [l]            | ( [ɾ] <sup>1</sup>)     | **┴ l**                        | 4%                                | 5%                         | 4%                                     |
-| **h** (hi)  | [h]            | [x], [ç], [ʝ], [ħ], [ɦ] | **H h**                        | 3%                                | 6%                         | 7%                                     |
-| **r** (ro)  | [ɾ]            | [ʀ] [ʀ̥] [ɽr] [ɽ̊r̥]    | **Ǒ ᴛ**                        | 5%                                | 3%                         | 5%                                     |
-| **p** (pu)  | [b]            | [p]                     | **Ϙ ϙ**                        | 6%                                | 7%                         | 8%                                     |
-(( Current vowel distribution suggest that future word additions should prefer adding words with n, m, s and r , and avoid using t, k, w, h and r. ))
-
-Refer to the section [#Dimensionality of prime roots](#Dimensionality%20of%20prime%20roots) for letter identity and usage.
-
-https://en.wikipedia.org/wiki/IPA_consonant_chart_with_audio
+| ----------- | -------------- | ----------------------- | ------------------------ | --------------------------------- | -------------------------- | -------------------------------------- |
+| **t** (ta)  | [t]            | [t̪], [tʰ], [ʈ]         | **Γ ⵜ**                  | 17%                               | 18%                        | 20%                                    |
+| **n** (ne)  | [n]            | [n̼], [n̥]              | **ꓵ ʌ**                  | 35%                               | 22%                        | 25%                                    |
+| **s** (si)  | [s]            | [ɕ], [ʂ]                | **⽇ɸ**                   | 11%                               | 9%                         | 10%                                    |
+| **k** (ko)  | [k]            | [kʰ], [c] [g]           | **X x**                  | 8%                                | 11%                        | 12%                                    |
+| **m** (mu)  | [m]            | [m̥] [ɱ̊]               | **ᛖ m**                  | 7%                                | 6%                         | 5%                                     |
+| **w** (wai) | [w]            | [v]                     | **W w**                  | 4%                                | 4%                         | 9%                                     |
+| **l** (le)  | [l]            | ( [ɾ] <sup>1</sup>)     | **┴ l**                  | 4%                                | 5%                         | 4%                                     |
+| **h** (hi)  | [h]            | [x], [ç], [ʝ], [ħ], [ɦ] | **H h**                  | 3%                                | 6%                         | 7%                                     |
+| **r** (ro)  | [ɾ]            | [ʀ] [ʀ̥] [ɽr] [ɽ̊r̥]    | **Ǒ ᴛ**                  | 5%                                | 3%                         | 5%                                     |
+| **p** (pu)  | [b]            | [p]                     | **Ϙ ϙ**                  | 6%                                | 7%                         | 8%                                     |
+author-comment:: Current vowel distribution suggest that future word additions should prefer adding words with n, m, s and r , and avoid using t, k, w, h and r. The current frequencies need updating also.
 
 > <sup>1</sup>) [ɾ] can be used to replace [l] where native Japanese and some East Asian dialect speakers lack the consonant natively.
 
+
+**Links:**
+
+> See section on [phonetics](#Detailed%20Phonetics,%20writing%20and%20speaking%20guide) for more information on pronunciation of the language.
+
+Hear the letters:
+* [IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio)
+* [IPA consonant chart with audio](https://en.wikipedia.org/wiki/IPA_consonant_chart_with_audio)
+
+> Refer to the  [Sunwai - Appendix 1 - Dimensionalities](Appendices/Sunwai%20-%20Appendix%201%20-%20Dimensionalities.md) for letter identity and usage in compounds.
 
 # Syllables
 
@@ -171,7 +166,7 @@ Where:
 
 > Long syllable form allows for varied root words that are both easy to distinguish and define the character of the language.
 
-> Souble vowel (aa,ii..) is reserved for word stress, see section [#Stylistic recommendations for clear communication](#Stylistic%20recommendations%20for%20clear%20communication) below
+> Double vowel (aa,ii..) is reserved for word stress, see section [Stylistic recommendations for clear communication](#Stylistic%20recommendations%20for%20clear%20communication) for more info.
 ### Stylistic recommendations for clear communication
 
 **1. Stress on first syllable**
@@ -197,8 +192,8 @@ Each word entry in the dictionary typically lists its potential roles:
 
 1.  **Marker (M):** Grammatical function (particles, pronouns, conjunctions like `o`, `an`, `le`, `ta`, `si`, `se`). Defines syntax.
 2.  **Concept (C):** Noun-like function (things, ideas, beings like `wai`, `sun`, `ouman`). Ontological particular.
-3.  **Action (A):** Verb-like function (processes, changes, doings like `tape` [to eat], `wai` [to flow], `pene` [to improve]). How the concept interacts.
-4.  **Descriptor (D):** Adjective/Adverb-like function (qualities, descriptions like `pene` [good/beautiful], `li` [small], `mo` [big]). Ontological universal.
+3.  **Action (A):** Verb-like function (processes, changes, doings like `tape` ("to eat"), `wai` ("to flow"), `pene` ("to improve"). How the concept interacts.
+4.  **Descriptor (D):** Adjective/Adverb-like function (qualities, descriptions like `pene` ("good/beautiful"), `li` ("small"), `mo` ("big"). Ontological universal.
 
 This layering allows for rich wordplay and requires attention to context for interpretation, but also provides inherent efficiency.
 
@@ -218,14 +213,14 @@ While the official Base and Extended sets cover much communication, creating new
 Forming new words primarily involves combining existing Sunwai words:
 
 1.  **Identify Core Concepts:** Break down the new idea into essential parts representable by existing words.
-2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `sun` [wisdom] + `wai` [flow] → `Sunwai`).
+2.  **Combine Logically:** Join the words, often reflecting modifier-head or conceptual flow (e.g., `sun` ("wisdom") + `wai` ("flow") → `Sunwai`).
 
 **Hierarchy for Word Creation:**
 Follow this preferred order when developing a new term:
 
 1.  **Compound Internally First:** Always try to build the word from existing Sunwai roots/compounds that logically convey the meaning. This maintains system integrity (e.g., `oum` + `an` → `ouman`).
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
-    *   *Example:* **`neko`** (cat) is internally `ne` (nine) + `ko` (lifeform). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
+    *   *Example:* **`neko`** ("cat") is internally `ne` ("on/at; nine") + `ko` ("lifeform"). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
 3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
 4. **Prioritize Productive Prefixes (Especially [NO](lisuma%20(base%20set)/NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](lisuma%20(base%20set)/NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
 5.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
@@ -248,9 +243,9 @@ New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of s
 
 A practical application of Sunwai's philosophy is preferring simple, general terms when context is clear. Compounding allows for specificity *when necessary*, rather than defaulting to narrow terms.
 
-*   **Example:** Use **`ouman`** (sentient being) for general reference. Only use more specific compounds like `ouman`**`koma`** (human of Earth), `ouman`**`uma`** (extraterrestrial), or `ouman`**`pi`** (AI) when the distinction is crucial to the meaning. This maintains neutrality and inclusivity by default.
+*   **Example:** Use `ouman` (sentient being) for general reference. Only use more specific compounds like `oumankoma` (human of Earth), `oumanuma` (extraterrestrial), or `oumanpi` (AI) when the distinction is crucial for the sentence. This maintains neutrality and inclusivity by default.
 
-Proverb:: *Oumankoma, oumanuma an oumanpi o oum ouman!* = "Humans, aliens and ai are all sentient beings"
+Proverb:: *Oumankoma, oumanuma an oumanpi o oum ouman!* = "Humans, aliens and ai are all sentient beings!"
 ### 5. Fitting the new word into correct word set
 
 Newly created words, following these principles, typically expand the **Extended Set** (cross-domain useful words) or contribute to **Special Sets** (domain-specific vocabulary like mathematics, engineering, etc.), all building upon the foundational **Base Set**.
@@ -258,7 +253,7 @@ Newly created words, following these principles, typically expand the **Extended
 # Word sets
 Words are divided into base set, extended set and many special sets. **Base set** consists roughly 100 most used words and should suffice for casual everyday use. **Extended set** of 300-1000  words add depth and presiness to the language. In addition **Special set**s for mathematics, engineering, medicine etc. can be added.
 
-> -> Refer to the [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked) for full list and descriptions of the words.
+> -> Refer to the [Full dictionary](Full%20dictionary.baked) for full list and descriptions of the words.
 
 ## Base set
 Base set covers all day to day encounters and broad concepts. . Knowing these words gives you ability to fully interact with society. It can also be tought as a 'travel set'. These words used in sentences rely heavily on context to be understood as they are quite broad in their meaning and can have multiple meanings and uses.
@@ -266,10 +261,10 @@ Base set covers all day to day encounters and broad concepts. . Knowing these wo
 In total the base set has roughly 100 Words.
 
 
-Base set is further divided into [#Roots](#Roots) and [#Base compounds](#Base%20compounds).
+Base set is further divided into [Roots](#Roots) and [Base compounds](#Base%20compounds).
 
 
-> The full mapping of base set meanings over semantic spatial dimensions can be found in [#Appendix 1: Dimensionality of base set](#Appendix%201:%20Dimensionality%20of%20base%20set).
+> The full mapping of base set meanings over semantic spatial dimensions can be found in [Sunwai - Appendix 1 - Dimensionalities](Appendices/Sunwai%20-%20Appendix%201%20-%20Dimensionalities.md)
 
 ### Roots
 #### Prime roots (5 words)
@@ -293,7 +288,7 @@ Rest of the base set is made of compounds.
 * Can introduce new syllables if needed
 
 ## Extended set
-Extended set of roughly 1000 words is created by combining [#Base set](#Base%20set) words into compound words. This set brings clarity and exactness to communication and removes ambiquity in communication.
+Extended set of roughly 1000 words is created by combining [Base set](#Base%20set) words into compound words. This set brings clarity and exactness to communication and removes ambiquity in communication.
 
 Words in extended set are cross domain words that are generally useful in any field.
 
@@ -309,11 +304,11 @@ Special sets can:
 - loan words directly from established practises, words must be "sunwainisized": letter, syllable and word rules have to be adhered to.
 
 Special sets so far:
--> [Special set Typography](Special%20set%20Typography)
--> [Special set Linguistics](Special%20set%20Linguistics)
-->[Special set Mathematics](Special%20set%20Mathematics)
-->[Special set Business and economy](Special%20set%20Business%20and%20economy)
-->[Special set Civil engineering and architecture](Special%20set%20Civil%20engineering%20and%20architecture)
+* [Special set - Typography](Special%20sets/Special%20set%20Typography/Special%20set%20-%20Typography.md)
+* [Special set - Linguistics](Special%20sets/Special%20set%20-%20Linguistics.md)
+* [Special set - Mathematics](Special%20sets/Special%20set%20-%20Mathematics.md)
+* [Special set - Business and Economy](Special%20sets/Special%20set%20-%20Business%20and%20Economy.md)
+* [Special set - Mathematics](Special%20sets/Special%20set%20-%20Mathematics.md)
 
 # Sentences, grammar
 
@@ -477,7 +472,7 @@ No specific verb needed for existence or location, always use **o**.
 	[Subject] ta [action] [Target]
 
 The action between subject and target indicates directed action.
-The particle [#ta](#ta) can be used as action marker to resolve ambiquity in a sentence, if necessary.
+The particle [TA](lisuma%20(base%20set)/TA.md) can be used as action marker to resolve ambiquity in a sentence, if necessary.
 
 - **Action:**
     - *A **ta** heim.* = "I aim."
@@ -547,14 +542,11 @@ Example:: *A toki **pae** e.* = "I speak **for / on behalf of** you."
 * *A o li se.* = "I am smaller."
 * *Inuko o mo se* = "Dog is bigger."
 
-With rule [#2. Excaggaration (X is more intense)](#2.%20Excaggaration%20(X%20is%20more%20intense)):
-* *A o li se se.* = "I am much smaller."
-	vs.* *A o li li se.* = "I am tinier."
-* *Neko o li li inuko se se.* = "Cat is much tinier than dog."
 ### 12. Causative (X makes Y do Z)
-(( needs particles and improvement ))
-`[Causer] ? [Doer] ? [Action]`  
 
+author-comment:: causative needs particles and work
+
+`[Causer] ? [Doer] ? [Action]`  
 
 ### 13. Conditional (If X, then Y)
 
@@ -619,7 +611,7 @@ Sunwai uses markers to clarify usage of words. These are optional and allow for 
 	le [subject]
 	le [concept] [action]
 
- Concept marker [#Le](#Le) can be used to clarify the usage of the next word:
+ Concept marker [LE](lisuma%20(base%20set)/LE.md) can be used to clarify the usage of the next word:
  	*A **le waiko*** = I (as) **the fish**.
  		vs. A waiko = "I swim."
  	*A ta le tama ne wai* = "I take the bridge over the water" ("I action bridge(subject of action) over water")
@@ -633,7 +625,7 @@ Example:: *Le neko **tabe*** = "The cat **eats**."
 
 	ta [action]
 
-Action marker [#Ta](#Ta) can be used to mark action in the following word:
+Action marker [TA](lisuma%20(base%20set)/TA.md) can be used to mark action in the following word:
 	*A ta tape waiko.* = "I **eat** the fish."
 		vs. *A tape waiko* = "I food fish" (Clear if sitting in the table where food is presented, but not so clear without context.)
 
@@ -641,7 +633,7 @@ Action marker [#Ta](#Ta) can be used to mark action in the following word:
 
     so [descriptor]
 
-Descriptor marker [#So](#So) can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
+Descriptor marker [SO](lisuma%20(base%20set)/SO.md) can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
 
 *   **As Adjective:**
     *   Typically precedes the descriptor, which might precede or follow the noun it modifies, or act as a predicate linked by `o`.
@@ -663,10 +655,10 @@ Example::    *Neko ta tape so li.* = "The cat eats **subtly/a little bit**." - `
 
 	si [word]
 
-Numeral marker [#Si](#Si) can be use to clarify that the next word is a number
+Numeral marker [SI](lisuma%20(base%20set)/SI.md) can be use to clarify that the next word is a number
 	*si li* = 1
 
-> see [#Numbers](#Numbers) for more details
+> see section on [numbers](#Numbers) for more details
 
 ### Contrast marker Kas (conjunction)
 
@@ -690,8 +682,8 @@ When words that are used as markers are used in their other meanings they must b
 
 ## Pronunciation and artistic stress
 Pronunciation of the words is as free as is with syllables.
-Standard aproaoch is to apply stress  to the first syllable, but this is not necessary. Stress can also be placed on other parts if it enhances the message or adds poetic strength.
-	**Ne***ko o no o oumko* - *ne***ko** *no o* **oum***ko!*	- (This) cat<u>animal</u> is not <u>every</u>animal!. This cat does not resemble an animal!
+Standard aproach is to apply stress to the first syllable, but this is not necessary. Stress can also be placed on other parts if it enhances the message or adds poetic strength.
+	**Ne***ko o no ko* - *ne***ko** *o no * **ko**!*	- (This) cat<u>animal</u> is not <u>every</u>animal!. This cat does not resemble an animal!
 
 ## Simplicity over complexity
 Favor simple words and grammar when the context is clear.
@@ -730,9 +722,6 @@ Example:: *Le a ta wai i oumanheim.* = "I am going to home." ("I movement into b
 
 # Numbers
 
- > Refer to [#Special set: Mathematics](#Special%20set:%20Mathematics) for more mathematics related words, constructs and structures
- 
- author-comment:: IMPORTANT! Latest changes to number system have not been fully updated to other sections and dictionary!
 ## Numerals
 Numbers in Sunwai default to base10 and are represented overloading existing Sunwai words. Numeral use is usually defined usually by the si, sisi or to markers. See [](.md#Numeral%20marker%20si) for more info.
 
@@ -863,6 +852,11 @@ author-comment:: This still needs lots of work.
     - _A **to** e **to**!_ = "Me **first**, you **next**!"
         
 
+--- 
+
+ > Refer to [#Special set: Mathematics](#Special%20set:%20Mathematics) for more mathematics related words, constructs and structures
+ 
+---
 
 # Dictionary style guide:
 
@@ -970,23 +964,23 @@ Proverb:: *A o oum.* = "I am everything."
 
 # Appendices
 
-[Sunwai - Appendix 1 - Dimensionalities](Sunwai%20-%20Appendix%201%20-%20Dimensionalities.md)
+[Sunwai - Appendix 1 - Dimensionalities](Appendices/Sunwai%20-%20Appendix%201%20-%20Dimensionalities.md)
 
-[Sunwai - Appendix 2 - Selected translations](Sunwai%20-%20Appendix%202%20-%20Selected%20translations.md)
+[Sunwai - Appendix 2 - Selected translations](Appendices/Sunwai%20-%20Appendix%202%20-%20Selected%20translations.md)
 
-[Sunwai - Appendix 3 - Swadesh lists](Sunwai%20-%20Appendix%203%20-%20Swadesh%20lists.md)
+[Sunwai - Appendix 3 - Swadesh lists](Appendices/Sunwai%20-%20Appendix%203%20-%20Swadesh%20lists.md)
 
-[Sunwai - Appendix 4 - Common phrases and Idioms](Sunwai%20-%20Appendix%204%20-%20Common%20phrases%20and%20Idioms.md)
+[Sunwai - Appendix 4 - Common phrases and Idioms](Appendices/Sunwai%20-%20Appendix%204%20-%20Common%20phrases%20and%20Idioms.md)
 
 # Special sets
 
-[Sunwai Special set - Linguistics](Sunwai%20Special%20set%20-%20Linguistics.md)
+[Special set - Linguistics](Special%20sets/Special%20set%20-%20Linguistics.md)
 
-[Sunwai Special set - Mathematics](Sunwai%20Special%20set%20-%20Mathematics.md)
+[Special set - Mathematics](Special%20sets/Special%20set%20-%20Mathematics.md)
 
 [Special set Typography](Special%20set%20Typography)
 
-[Sunwai Special set - Business and economy](Sunwai%20Special%20set%20-%20Business%20and%20economy.md)
+[Special set - Business and Economy](Special%20sets/Special%20set%20-%20Business%20and%20Economy.md)
 
-[Sunwai Special set - Civil engineering and Architecture](Sunwai%20Special%20set%20-%20Civil%20engineering%20and%20Architecture.md)
+[Special set - Civil Engineering and Architecture](Special%20sets/Special%20set%20-%20Civil%20Engineering%20and%20Architecture.md)
 

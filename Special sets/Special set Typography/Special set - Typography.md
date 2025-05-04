@@ -1,24 +1,26 @@
 
 # Special set: Typography
 
+author-comment:: This is a very early draft.
 
 author-comment:: As a demonstration of Sunwai this whole set could/should be written in Sunwai!
 ## Typograhic letter variants
 
-[[Sunwai]] letter variants build on long lasting tradition of beautifull calligraphy, lettering and logograms. They are selected for vertical symmetry and inclusivity taking inspiration from all around the world.
+Sunwai letter variants build on long lasting tradition of beautifull calligraphy, lettering and logograms. They are selected for vertical symmetry and inclusivity taking inspiration from all around the world.
 
-[[Sunwai]] letter variants are an additional aesthetic variation and they do not alter pronunciation or meaning. They are not required as the modern latin letter variants can be used.
+Sunwai letter variants are an additional aesthetic variation and they do not alter pronunciation or meaning. They are not required as the modern latin letter variants can be used.
 
-As a stylistic choise they are a tool to distinquish [[Sunwai]] from other languages and convey a future oriented, forward looking attitude. Their design allows for huge artistic freedom in typography, as they can be distinquished from each other easily. This allows for the tradition of beautiful typography to evolve further combining the beauty accross all languages.
+As a stylistic choise they are a tool to distinquish Sunwai from other languages and convey a future oriented, forward looking attitude. Their design allows for huge artistic freedom in typography, as they can be distinquished from each other easily. This allows for the tradition of beautiful typography to evolve further combining the beauty accross all languages.
 
-First tests:
-
+First test of sunwai font:
 
 ![[Pasted image 20250501104226.png]]
 
-author-comment:: Capital K and lowercase r clash.Capital S and small s should look like each other. H and h should look more like eachother.
+author-comment:: Capital K and lowercase r clash.Capital S and small s should look like each other. H and h should look more like eachother. Font should show default nearest glyph for unsupported letters also. (b -> p, d -> t, etc.)
 
 ---
+
+## Possible unicode variants
 ### A Δ ᐃ - a ɑ α
 #### Majuscule
 **Shape**:
@@ -118,4 +120,5 @@ Origin:
 
 Origin:
 	Greek qoppa (Ϙ)
+
 ---
