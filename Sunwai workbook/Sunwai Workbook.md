@@ -1,7 +1,7 @@
 
 **Table of Contents:**
 
-**[[Sunwai Workbook - Introduction]]**
+**[Sunwai Workbook - Introduction](Sunwai%20Workbook%20-%20Introduction.md)**
 
 author-comment:: integrate essential phrases into each lesson
 
@@ -9,16 +9,16 @@ author-comment:: Integrate overarching story that carries trough the lessons
 
 # Part 1: The Sounds and Shapes of Sunwai (Foundations)
 
-## [[Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation]]
-![[Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation#In this lesson]]
-## [[Lesson 1.2 - Syllables and Stress]]
-![[Lesson 1.2 - Syllables and Stress#In this lesson]]
+## [Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation](Lesson%201.1%20-%20The%20Sunwai%20Alphabet%20and%20Basic%20Pronunciation.md)
+![](Lesson%201.1%20-%20The%20Sunwai%20Alphabet%20and%20Basic%20Pronunciation.md#In%20this%20lesson)
+## [Lesson 1.2 - Syllables and Stress](Lesson%201.2%20-%20Syllables%20and%20Stress.md)
+![](Lesson%201.2%20-%20Syllables%20and%20Stress.md#In%20this%20lesson)
 
-## [[Lesson 1.3 - Words Wear Different Hats]]
-![[Lesson 1.3 - Words Wear Different Hats#In this lesson]]
+## [Lesson 1.3 - Words Wear Different Hats](Lesson%201.3%20-%20Words%20Wear%20Different%20Hats.md)
+![](Lesson%201.3%20-%20Words%20Wear%20Different%20Hats.md#In%20this%20lesson)
 
-## [[Lesson 1.4 - Words Have Roots]]
-![[Lesson 1.4 - Words Have Roots#In this lesson]]
+## [Lesson 1.4 - Words Have Roots](Lesson%201.4%20-%20Words%20Have%20Roots.md)
+![](Lesson%201.4%20-%20Words%20Have%20Roots.md#In%20this%20lesson)
 
 **Extra Lesson 1.5: Names Have Homes Too! (Proper Nouns in Sunwai)**
 - **Objective:** Understand how to adapt and use external names (people, places) in Sunwai.
@@ -45,8 +45,8 @@ author-comment:: Integrate overarching story that carries trough the lessons
     *   Vocabulary: `tape` (eat/food), `wai` (flow/water), `toki` (speak/language), `pai` (think/play), `pu` (form/build).
     *   Exercises: Creating simple C-A and C-A-C sentences, identifying C and A roles by position, simple translation.
 
-## [[Lesson 2.3 - Time and Process]]
-![[Lesson 2.3 - Time and Process#In this lesson]]
+## [Lesson 2.3 - Time and Process](Lesson%202.3%20-%20Time%20and%20Process.md)
+![](Lesson%202.3%20-%20Time%20and%20Process.md#In%20this%20lesson)
 
 *   **Lesson 2.4: Negation (`no`)**
     *   Objective: Use `no` to negate words and simple sentences.
@@ -138,7 +138,7 @@ author-comment:: Integrate overarching story that carries trough the lessons
     *   Exercises: Reflection questions, setting personal goals for using Sunwai.
 
 **Appendices**
-* [[Appendix A - Answer Key for Exercises]]
+* [Appendix A - Answer Key for Exercises](Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)
 *   Workbook Appendix B: Core Vocabulary List (Base Set roots & key compounds covered)
 *   Workbook Appendix C: Grammar Summary (Key particles and structures - adapted from Reference Sheet)
 *   Workbook Appendix D: Number Reference (0-100)

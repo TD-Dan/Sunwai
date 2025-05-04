@@ -1,38 +1,35 @@
----
-links:
----
 
-# [[Sunwai]]	SUNWAI		⽇UꓵWΔI
+# Sunwai
 
-[[Sunwai]] is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
+Sunwai is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
 
-**Important links:**]]
-One page summary: [[Sunwai Summary
-Learning the language: [[Sunwai Workbook]]
-Core grammar at a glance: [[Sunwai Reference Sheet]]
-Complete dictionary: [[Sunwai full dictionary.baked]]
-This document in Sunwai: [[Oum sun ro Sunwai i li toki]] and [[Oum sun ro Sunwai i mo toki]]
+**Important links:**
+One page summary: [Sunwai Summary](Sunwai%20Summary.md)
+Learning the language: [Sunwai Workbook](Sunwai%20Workbook.md)
+Core grammar at a glance: [Sunwai Reference Sheet](Sunwai%20Reference%20Sheet.md)
+Complete dictionary: [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked)
+This document in Sunwai: [Oum sun ro Sunwai i li toki](Oum%20sun%20ro%20Sunwai%20i%20li%20toki.md) and [Oum sun ro Sunwai i mo toki](Oum%20sun%20ro%20Sunwai%20i%20mo%20toki.md)
 
 author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor and even major changes.
 
 ## Base principles
 ### Easy to learn, hard to master
-Vowels and consonants used are the most common and easy to produce across all languages. Learning the base set of 100 words gives you skills to speak with any [[Sunwai]] speaker in any general topic. This could also be 'Easy to learn, hard to master' as the extensions and freedom give limitless options for exploration.
+Vowels and consonants used are the most common and easy to produce across all languages. Learning the base set of 100 words gives you skills to speak with any Sunwai speaker in any general topic. This could also be 'Easy to learn, hard to master' as the extensions and freedom give limitless options for exploration.
 ### Artistic freedom
 Pronunciation, word order, syllable stressing and typography are all flexible and can be understood even if you use your native style. This supports suitability for poetic, musical and other artistic purposes. Artistic freedom also makes sure it can be hard to master as the ways of expression are limitless.
 * Multiple homophones (Words have many layered meanings) allow for wordplay and nuanced meanings.
 * Word order does not matter, except for particles that describe unidirectional relations.
-	-> [[Sunwai Special set - Typography]] defines the base for artistic letterforms that can be used with Sunwai.
+	-> [Sunwai Special set - Typography](Sunwai%20Special%20set%20-%20Typography.md) defines the base for artistic letterforms that can be used with Sunwai.
 ### Inclusion and neutrality is default
-Inclusivity is created by broadening terms, not creating division or exclusivity. There is no distinction between male/female/other, human/animal/other or good/bad in the words themselves. However, language by its nature is a system of categorization; all of these these distinctions can be made if necessary for any specific use case. [[Sunwai]] is not a human centerric language at its roots but extends and specialices to be one.
-	-> [[#4. Generality Over Specificity]]
+Inclusivity is created by broadening terms, not creating division or exclusivity. There is no distinction between male/female/other, human/animal/other or good/bad in the words themselves. However, language by its nature is a system of categorization; all of these these distinctions can be made if necessary for any specific use case. Sunwai is not a human centerric language at its roots but extends and specialices to be one.
+	-> [#4. Generality Over Specificity](#4.%20Generality%20Over%20Specificity)
 ### Extendability rules
 The language can be extended beyond the base and extended set by following common rules. This makes it possible to incorporate specialist fields, such as software, engineering and medicine, into the language without losing the needed precision of words in such use cases.
-	-> [[#Special sets]]
+	-> [#Special sets](#Special%20sets)
 ### Worldwide heritage
 Takes words and concepts from accross all languages. A celebration of human roots and varied cultures.
 
-While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [[#heim]] refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and history.
+While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [#heim](#heim) refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and history.
 ### Language is wisdom solidified
 Words contain meaning and meaning carries values. What words convey and carry inside them is not a trivial thing. Therefore language must hold beauty in its essence.
 
@@ -52,12 +49,12 @@ The constructs and ideas contained in a language are vital for the development a
 
 author-comment:: This sections needs fact checking regarding to TP principles.
 
-[[Sunwai]] takes on the principles of Toki Pona by Sonja Lang:
+Sunwai takes on the principles of Toki Pona by Sonja Lang:
 - Easy to learn and speak
 - Simple and consice base vocabulary that is very broad in its meaning.
 
-However, [[Sunwai]] adds improvements:
-- where toki pona is more of an abstract language and a philosophy, [[Sunwai]] aims also for everyday usability and practicality.
+However, Sunwai adds improvements:
+- where toki pona is more of an abstract language and a philosophy, Sunwai aims also for everyday usability and practicality.
 - Allows wide artistic and expressive freedom with pronunciation, syllables, word ordering and letterforms, making it suitable for poetic, technical and everyday use.
 - Advanced rules to create more specific words for more accurate communication
 	- broad to narrow words by using compound words: ne + ko = nine + animal = nineanimal = cat
@@ -70,14 +67,14 @@ The language was created and conceptualized over several years by Daniel Herkert
 
 > Sunwai alphabets is order: **A E I O U T N S K M W L H R P**
 
-[[Sunwai]] uses most used and easy to learn vowels and consonants, almost similar to Toki Pona.
+Sunwai uses most used and easy to learn vowels and consonants, almost similar to Toki Pona.
 Letter distribution across words follows Zipf distribution for natural feel in vowel and consonant frequencies. These are listed as 'target frequency' in the following tables.
 
 The 15 used letters are ordered for easy remembering with phonetic sounds and creates the Sunwai alphabetic order:
 
-**[[A]] [[E]] [[I]] [[O]] [[U]]**				(the vowels, from common to rare)
-**[[TA]] [[NE]] [[SI]] [[KO]] [[MU]]**		(the common consonants)
-**[[WAI]] [[LE]] [[HI]] [[RO]] [[PU]]**		(the rare consonants)
+**[A](A.md) [E](E.md) [I](I.md) [O](O.md) [U](U.md)**				(the vowels, from common to rare)
+**[TA](TA.md) [NE](NE.md) [SI](SI.md) [KO](KO.md) [MU](MU.md)**		(the common consonants)
+**[WAI](WAI.md) [LE](LE.md) [HI](HI.md) [RO](RO.md) [PU](PU.md)**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -89,7 +86,7 @@ Pronunciation of the letter can:
 
 ## Vowels
 
-| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | Letter variant in [[Sunwai]] | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
+| Character | IPA (standard)                                                                                       | Allowed IPA Variations                                                                                                                                                                                                                                                         | Letter variant in Sunwai | target frequency among vowels | Current frequency in words | Current estimated sentence level usage |
 | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ----------------------------- | -------------------------- | -------------------------------------- |
 | **a**     | [ɑ](https://en.wikipedia.org/wiki/Open*back*unrounded*vowel "Open back unrounded vowel")             | [a](https://en.wikipedia.org/wiki/Open*front*unrounded*vowel "Open front unrounded vowel") [ä](https://en.wikipedia.org/wiki/Open*central*unrounded*vowel "Open central unrounded vowel") [ɐ](https://en.wikipedia.org/wiki/Near-open*central*vowel "Near-open central vowel") | **A Δ**                        | 45%                           | 39%                        | 42%                                    |
 | **e**     | [e](https://en.wikipedia.org/wiki/Close-mid*front*unrounded*vowel "Close-mid front unrounded vowel") | [ɛ](https://en.wikipedia.org/wiki/Open-mid*front*unrounded*vowel "Open-mid front unrounded vowel")                                                                                                                                                                             | **Ξ ɵ**                        | 22%                           | 25%                        | 27%                                    |
@@ -99,15 +96,15 @@ Pronunciation of the letter can:
 
 (( Current vowel distribution suggest that future word additions should prefer adding words with a and i, and avoid using e, and o and boost the usage of u in sentence level. ))
 
-Refer to the section [[#Dimensionality of prime roots]] for letter identity and usage.
+Refer to the section [#Dimensionality of prime roots](#Dimensionality%20of%20prime%20roots) for letter identity and usage.
 
 [IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA*vowel*chart*with*audio)
 
 
-> See asection [[#Phonetics]] for more information on prononcuation of the language.
+> See asection [#Phonetics](#Phonetics) for more information on prononcuation of the language.
 ## Consonants
 
-| Character   | IPA (standard) | Allowed IPA Variations  | letter variant in [[Sunwai]] | target frequency among consonants | Current frequency in words | Current estimated sentence level usage |
+| Character   | IPA (standard) | Allowed IPA Variations  | letter variant in Sunwai | target frequency among consonants | Current frequency in words | Current estimated sentence level usage |
 | ----------- | -------------- | ----------------------- | ------------------------------ | --------------------------------- | -------------------------- | -------------------------------------- |
 | **t** (ta)  | [t]            | [t̪], [tʰ], [ʈ]         | **Γ ⵜ**                        | 17%                               | 18%                        | 20%                                    |
 | **n** (ne)  | [n]            | [n̼], [n̥]              | **ꓵ ʌ**                        | 35%                               | 22%                        | 25%                                    |
@@ -121,7 +118,7 @@ Refer to the section [[#Dimensionality of prime roots]] for letter identity and 
 | **p** (pu)  | [b]            | [p]                     | **Ϙ ϙ**                        | 6%                                | 7%                         | 8%                                     |
 (( Current vowel distribution suggest that future word additions should prefer adding words with n, m, s and r , and avoid using t, k, w, h and r. ))
 
-Refer to the section [[#Dimensionality of prime roots]] for letter identity and usage.
+Refer to the section [#Dimensionality of prime roots](#Dimensionality%20of%20prime%20roots) for letter identity and usage.
 
 https://en.wikipedia.org/wiki/IPA_consonant_chart_with_audio
 
@@ -172,7 +169,7 @@ Where:
 
 > Long syllable form allows for varied root words that are both easy to distinguish and define the character of the language.
 
-> Souble vowel (aa,ii..) is reserved for word stress, see section [[#Stylistic recommendations for clear communication]] below
+> Souble vowel (aa,ii..) is reserved for word stress, see section [#Stylistic recommendations for clear communication](#Stylistic%20recommendations%20for%20clear%20communication) below
 ### Stylistic recommendations for clear communication
 
 **1. Stress on first syllable**
@@ -209,7 +206,7 @@ Sunwai vocabulary is built from two main types of words:
 
 *   **Root Words:** These are the foundational, often single-syllable building blocks of the language (e.g., `a`, `ta`, `wai`, `sun`, `heim`). They represent the most basic concepts. (They are sometimes categorized as Prime, Secondary, and Tertiary roots based on their phonetic simplicity and foundational role).
 *   **Compound Words:** The vast majority of Sunwai words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
-* Additionally, Sunwai utilizes **productive prefixes**, most notably [[NO]], which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
+* Additionally, Sunwai utilizes **productive prefixes**, most notably [NO](NO.md), which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
 
 ### 3. Principles for Creating New Words
 
@@ -228,7 +225,7 @@ Follow this preferred order when developing a new term:
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
     *   *Example:* **`neko`** (cat) is internally `ne` (nine) + `ko` (lifeform). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
 3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
-4. **Prioritize Productive Prefixes (Especially [[NO]]):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [[NO]] prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
+4. **Prioritize Productive Prefixes (Especially [NO](NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
 5.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
     *   Highly specific, culturally bound concepts (unique foods, rituals) difficult to compound clearly.
     *   Technical/scientific terms challenging to represent concisely via compounding.
@@ -240,7 +237,7 @@ Follow this preferred order when developing a new term:
     *   Apply simplification rules: e.g., vowel and consonant doubling is removed (`sun + ne -> sune`), (`ta + an -> tan`)
     *   Avoid syllable repetition unless specifically creating an emphasis word (`li li` -> tiny) or an established concept derived from repetition (`sisi` -> number concept).
 *   **Word Length:** Aim for conciseness. While not a hard rule, words over 3-4 syllables warrant scrutiny – could a phrase or simpler term work?
-*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [[SENO]], [[NOPENE]]) warrant separate entries.
+*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [SENO](SENO.md), [NOPENE](NOPENE)) warrant separate entries.
 
 **Guiding Philosophy:**
 New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
@@ -259,7 +256,7 @@ Newly created words, following these principles, typically expand the **Extended
 # Word sets
 Words are divided into base set, extended set and many special sets. **Base set** consists roughly 100 most used words and should suffice for casual everyday use. **Extended set** of 300-1000  words add depth and presiness to the language. In addition **Special set**s for mathematics, engineering, medicine etc. can be added.
 
-> -> Refer to the [[Sunwai full dictionary.baked]] for full list and descriptions of the words.
+> -> Refer to the [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked) for full list and descriptions of the words.
 
 ## Base set
 Base set covers all day to day encounters and broad concepts. . Knowing these words gives you ability to fully interact with society. It can also be tought as a 'travel set'. These words used in sentences rely heavily on context to be understood as they are quite broad in their meaning and can have multiple meanings and uses.
@@ -267,15 +264,15 @@ Base set covers all day to day encounters and broad concepts. . Knowing these wo
 In total the base set has roughly 100 Words.
 
 
-Base set is further divided into [[#Roots]] and [[#Base compounds]].
+Base set is further divided into [#Roots](#Roots) and [#Base compounds](#Base%20compounds).
 
 
-> The full mapping of base set meanings over semantic spatial dimensions can be found in [[#Appendix 1: Dimensionality of base set]].
+> The full mapping of base set meanings over semantic spatial dimensions can be found in [#Appendix 1: Dimensionality of base set](#Appendix%201:%20Dimensionality%20of%20base%20set).
 
 ### Roots
 #### Prime roots (5 words)
 - The 5 vowel letters ( A E I O U) make a micro language by themselves.
-- They define the tonality of [[Sunwai]].
+- They define the tonality of Sunwai.
 - Each prime root together with others map multiple dimensions of meaning. For example a in the context of interaction resolves to I/me, observer, locust of attention. In the context of physicality it represents solidity. This embodies the concept that on the surface words are easy to learn and seem simple (I/me), but actually convey a deeper meaning and truth about the universe.
 #### Secondary Roots (10 words)
 - Are made of single syllables and are the two groups: common TA NE SI KO MU and rare WAI LEI SI RO PU.
@@ -283,7 +280,7 @@ Base set is further divided into [[#Roots]] and [[#Base compounds]].
 
 #### Tertiary Roots ( ~35 words)
 * More varied syllables in the form CVV, CVC, CVVC and VVC
-- Together with prime, secondary and tertiary roots define the vocal repertoire of [[Sunwai]]. No other syllables can be used in [[Sunwai]] than the roots.
+- Together with prime, secondary and tertiary roots define the vocal repertoire of Sunwai. No other syllables can be used in Sunwai than the roots.
 - Examples: Heim, Oum, Hat, Hai
 
 ### Base compounds
@@ -294,15 +291,15 @@ Rest of the base set is made of compounds.
 * Can introduce new syllables if needed
 
 ## Extended set
-Extended set of roughly 1000 words is created by combining [[#Base set]] words into compound words. This set brings clarity and exactness to communication and removes ambiquity in communication.
+Extended set of roughly 1000 words is created by combining [#Base set](#Base%20set) words into compound words. This set brings clarity and exactness to communication and removes ambiquity in communication.
 
 Words in extended set are cross domain words that are generally useful in any field.
 
-As the extended set is constructed from the base words it aims to be mostly self teaching. Meaning of extended words could be learned just from reading or interaction with [[Sunwai]] speakers. Every extended word includes some kind of insight or 'knack' to make remembering it easy. For example the word for **maheim** is a compound word made from **ma** + **heim**, 'land' + 'home'.
+As the extended set is constructed from the base words it aims to be mostly self teaching. Meaning of extended words could be learned just from reading or interaction with Sunwai speakers. Every extended word includes some kind of insight or 'knack' to make remembering it easy. For example the word for **maheim** is a compound word made from **ma** + **heim**, 'land' + 'home'.
 
 
 ## Special sets
-Numerous special sets extend [[Sunwai]] into specific domains. They provide words and constructs to exactly communicate the nuances and finer details in those fields. Size of special sets is not limited, but their word lists should reflect the principles of [[Sunwai]]: Most used words should appear first in the dictionary and be the shortest and easiest to remember. It is recommended to further split the sets into subsets.
+Numerous special sets extend Sunwai into specific domains. They provide words and constructs to exactly communicate the nuances and finer details in those fields. Size of special sets is not limited, but their word lists should reflect the principles of Sunwai: Most used words should appear first in the dictionary and be the shortest and easiest to remember. It is recommended to further split the sets into subsets.
 
 Special sets can:
 - extend usage of existing words.
@@ -310,11 +307,11 @@ Special sets can:
 - loan words directly from established practises, words must be "sunwainisized": letter, syllable and word rules have to be adhered to.
 
 Special sets so far:
--> [[Special set Typography]]
--> [[Special set Linguistics]]
-->[[Special set Mathematics]]
-->[[Special set Business and economy]]
-->[[Special set Civil engineering and architecture]]
+-> [Special set Typography](Special%20set%20Typography)
+-> [Special set Linguistics](Special%20set%20Linguistics)
+->[Special set Mathematics](Special%20set%20Mathematics)
+->[Special set Business and economy](Special%20set%20Business%20and%20economy)
+->[Special set Civil engineering and architecture](Special%20set%20Civil%20engineering%20and%20architecture)
 
 # Sentences, grammar
 
@@ -416,7 +413,7 @@ Further examples:
 
 ### 4. Negation and Meaning Reversal with NO
 
- The root [[NO]] is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
+ The root [NO](NO.md) is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
 #### Particle Usage 
 
 	no [X]
@@ -431,7 +428,7 @@ Example:: *A hat **no** heim.* = "I have **no** home." / "I do **not** have a ho
 
 	noX
 
-A core feature of Sunwai is the ability of `[[NO]]` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
+A core feature of Sunwai is the ability of `[NO](NO.md)` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
 
 **Principle:** Apply this prefix logically where an opposite or absence makes sense. You do not need a dictionary entry for every possible `noX` combination; the meaning is derived from the prefix rule and the base word.
 
@@ -449,7 +446,7 @@ A core feature of Sunwai is the ability of `[[NO]]` to function as a productive 
 *   *(ta -> action/change)* `nota` = **inaction/stasis**
     *   Example:: *So o **nota**.* = "Stillness is **inaction**."
 
-> Refer to the main dictionary entry for [[NO]] for more details and nuances.
+> Refer to the main dictionary entry for [NO](NO.md) for more details and nuances.
 
 
 ### 5. Existential/Locative (There is X / X is Y)
@@ -478,7 +475,7 @@ No specific verb needed for existence or location, always use **o**.
 	[Subject] ta [action] [Target]
 
 The action between subject and target indicates directed action.
-The particle [[#ta]] can be used as action marker to resolve ambiquity in a sentence, if necessary.
+The particle [#ta](#ta) can be used as action marker to resolve ambiquity in a sentence, if necessary.
 
 - **Action:**
     - *A **ta** heim.* = "I aim."
@@ -521,7 +518,7 @@ Use repetition for emphasis
 
 	[Subject] [Action] [Object (optional)] pae [Beneficiary]
 
-*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[[pae]]**.
+*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[PAE](pae.md)**.
 
 Example:: *A ta tape **pae** e.* = "I provide/get food **for** you."
 
@@ -548,7 +545,7 @@ Example:: *A toki **pae** e.* = "I speak **for / on behalf of** you."
 * *A o li se.* = "I am smaller."
 * *Inuko o mo se* = "Dog is bigger."
 
-With rule [[#2. Excaggaration (X is more intense)]]:
+With rule [#2. Excaggaration (X is more intense)](#2.%20Excaggaration%20(X%20is%20more%20intense)):
 * *A o li se se.* = "I am much smaller."
 	vs.* *A o li li se.* = "I am tinier."
 * *Neko o li li inuko se se.* = "Cat is much tinier than dog."
@@ -620,7 +617,7 @@ Sunwai uses markers to clarify usage of words. These are optional and allow for 
 	le [subject]
 	le [concept] [action]
 
- Concept marker [[#Le]] can be used to clarify the usage of the next word:
+ Concept marker [#Le](#Le) can be used to clarify the usage of the next word:
  	*A **le waiko*** = I (as) **the fish**.
  		vs. A waiko = "I swim."
  	*A ta le tama ne wai* = "I take the bridge over the water" ("I action bridge(subject of action) over water")
@@ -634,7 +631,7 @@ Example:: *Le neko **tabe*** = "The cat **eats**."
 
 	ta [action]
 
-Action marker [[#Ta]] can be used to mark action in the following word:
+Action marker [#Ta](#Ta) can be used to mark action in the following word:
 	*A ta tape waiko.* = "I **eat** the fish."
 		vs. *A tape waiko* = "I food fish" (Clear if sitting in the table where food is presented, but not so clear without context.)
 
@@ -642,7 +639,7 @@ Action marker [[#Ta]] can be used to mark action in the following word:
 
     so [descriptor]
 
-Descriptor marker [[#So]] can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
+Descriptor marker [#So](#So) can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
 
 *   **As Adjective:**
     *   Typically precedes the descriptor, which might precede or follow the noun it modifies, or act as a predicate linked by `o`.
@@ -664,16 +661,16 @@ Example::    *Neko ta tape so li.* = "The cat eats **subtly/a little bit**." - `
 
 	si [word]
 
-Numeral marker [[#Si]] can be use to clarify that the next word is a number
+Numeral marker [#Si](#Si) can be use to clarify that the next word is a number
 	*si li* = 1
 
-> see [[#Numbers]] for more details
+> see [#Numbers](#Numbers) for more details
 
 ### Contrast marker Kas (conjunction)
 
     kas [clause]
 
-Contrast marker [[KAS]] can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
+Contrast marker [KAS](KAS.md) can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
 
 *   Links contrasting statements:
 
@@ -731,11 +728,11 @@ Example:: *Le a ta wai i oumanheim.* = "I am going to home." ("I movement into b
 
 # Numbers
 
- > Refer to [[#Special set: Mathematics]] for more mathematics related words, constructs and structures
+ > Refer to [#Special set: Mathematics](#Special%20set:%20Mathematics) for more mathematics related words, constructs and structures
  
  author-comment:: IMPORTANT! Latest changes to number system have not been fully updated to other sections and dictionary!
 ## Numerals
-Numbers in Sunwai default to base10 and are represented overloading existing [[Sunwai]] words. Numeral use is usually defined usually by the si, sisi or to markers. See [[Sunwai#Numeral marker si]] for more info.
+Numbers in Sunwai default to base10 and are represented overloading existing Sunwai words. Numeral use is usually defined usually by the si, sisi or to markers. See [](Sunwai.md#Numeral%20marker%20si) for more info.
 
 |                 |         | metaphorical meaning                        |
 | --------------- | ------- | ------------------------------------------- |
@@ -767,16 +764,16 @@ Numbers in Sunwai default to base10 and are represented overloading existing [[S
 | 50              | Kaseno  |                                             |
 | ...             |         | Paiseno, kuloseno, puseno, neseno           |
 | 100             | Ro      |                                             |
-| 1 000           | Kilo    | [[#Special set: Mathematics]]               |
-| 1 000 000       | Meka    | [[#Special set: Mathematics]]               |
-| 1^9             | Kika    | [[#Special set: Mathematics]]               |
-| 1^12            | Tera    | [[#Special set: Mathematics]]               |
-| 0.1             |         | [[#Special set: Mathematics]]               |
-| 0.001           |         | [[#Special set: Mathematics]]               |
-| 1 <sup>-3</sup> | Mili    | [[#Special set: Mathematics]]               |
+| 1 000           | Kilo    | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 1 000 000       | Meka    | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 1^9             | Kika    | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 1^12            | Tera    | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 0.1             |         | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 0.001           |         | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
+| 1 <sup>-3</sup> | Mili    | [#Special set: Mathematics](#Special%20set:%20Mathematics)               |
 | π               | Pi      | 3.14...                                     |
 | φ               | Sipene  | Golden ratio 1.618...                       |
-| τ               | Tau     | 2π, Tau, [[#Special set: Mathematics]]      |
+| τ               | Tau     | 2π, Tau, [#Special set: Mathematics](#Special%20set:%20Mathematics)      |
 
 ### Examples
 
@@ -797,7 +794,7 @@ Example:: *si paitameka-marokilo-nere* = 63 400 092
 Example:: ***Le sisi ta** o pene* = "**The number three (concept)** is good."
 
 ## Ordinals
-In [[Sunwai]], ordinals (first, second, third, etc.) are formed using the particles **[[#si]]** (numeral marker) and **[[#to]]** (sequence marker). These particles orbit numerals freely, allowing both technical precision and poetic ambiguity.
+In Sunwai, ordinals (first, second, third, etc.) are formed using the particles **[#si](#si)** (numeral marker) and **[#to](#to)** (sequence marker). These particles orbit numerals freely, allowing both technical precision and poetic ambiguity.
 
 author-comment:: This still needs lots of work.
 ### Core Principles
@@ -903,13 +900,13 @@ Example:: ***A** o ouman.* = "**I** am human."
 ```
 ## 4. Compounds  
 - List compounds as bullet points with definitions and roots.  
-- Use `[[#Compound]]` syntax for internal links.  
+- Use `[#Compound](#Compound)` syntax for internal links.  
 
 Example:  
 ```markdown
 ## Compounds  
-- **[[Tama]]** = Road (*ta + ma* = "movement on earth")  
-- **[[Neko]]** = Cat (*ne + ko* = "nine-lifeform")  
+- **[TAMA](Tama.md)** = Road (*ta + ma* = "movement on earth")  
+- **[NEKO](Neko.md)** = Cat (*ne + ko* = "nine-lifeform")  
 ```
 ## 5. Origin  
 - Use bullet points with language names in **bold**.  
@@ -920,7 +917,7 @@ Example:
 Example:  
 ```markdown
 ## Origin  
-- **Sunwai**: **[[AN]]** + **[[TA]]** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **[AN](AN.md)** + **[TA](TA.md)** = "Togetherness action" - 'n' dropped for ease of speak
 - **Arabic**: _أَنَا_ (_Ana_, I)  
 - **Sanskrit**: _अहम्_ (_Aham_, self)  
 ```
@@ -940,7 +937,7 @@ Proverb:: *Ouman o i a.* = "Sentience is in me."
 - **Examples**: Italicize Sunwai sentences with *asterisks*, add translations in "quotes". No need to use explicit markers when sentence structure (SVO word order) is clear.
 - **Origin**: Italicize with _underscores_ to distinguish from Sunwai words.
 - **Homonyms**: Clarify context-specific meanings (e.g., *a* = "I" vs. "one").  
-- **Cross-references**: Link related entries with `[[#Entry]]`.  
+- **Cross-references**: Link related entries with `[#Entry](#Entry)`.  
 - **Author Comments**: Use `author-comment::` for unresolved notes.  
 - **Markdown**: Dont use tables; use lists and headers for readability. Follow the style strictly as its used for data retrieval.
 ## Example Entry  
@@ -958,7 +955,7 @@ Descriptor::	**1, one**
 Example::	_**A** o ouman._ = "**I** am human."  
 
 ### Descriptor  
-- Numeral "one" (with [[si]] marker)  
+- Numeral "one" (with [SI](si.md) marker)  
 Example:: *Si **a** neko.* = "One cat."  
 
 ## Origin  
@@ -971,23 +968,23 @@ Proverb:: *A o oum.* = "I am everything."
 
 # Appendices
 
-[[Sunwai - Appendix 1 - Dimensionalities]]
+[Sunwai - Appendix 1 - Dimensionalities](Sunwai%20-%20Appendix%201%20-%20Dimensionalities.md)
 
-[[Sunwai - Appendix 2 - Selected translations]]
+[Sunwai - Appendix 2 - Selected translations](Sunwai%20-%20Appendix%202%20-%20Selected%20translations.md)
 
-[[Sunwai - Appendix 3 - Swadesh lists]]
+[Sunwai - Appendix 3 - Swadesh lists](Sunwai%20-%20Appendix%203%20-%20Swadesh%20lists.md)
 
-[[Sunwai - Appendix 4 - Common phrases and Idioms]]
+[Sunwai - Appendix 4 - Common phrases and Idioms](Sunwai%20-%20Appendix%204%20-%20Common%20phrases%20and%20Idioms.md)
 
 # Special sets
 
-[[Sunwai Special set - Linguistics]]
+[Sunwai Special set - Linguistics](Sunwai%20Special%20set%20-%20Linguistics.md)
 
-[[Sunwai Special set - Mathematics]]
+[Sunwai Special set - Mathematics](Sunwai%20Special%20set%20-%20Mathematics.md)
 
-[[Special set Typography]]
+[Special set Typography](Special%20set%20Typography)
 
-[[Sunwai Special set - Business and economy]]
+[Sunwai Special set - Business and economy](Sunwai%20Special%20set%20-%20Business%20and%20economy.md)
 
-[[Sunwai Special set - Civil engineering and Architecture]]
+[Sunwai Special set - Civil engineering and Architecture](Sunwai%20Special%20set%20-%20Civil%20engineering%20and%20Architecture.md)
 

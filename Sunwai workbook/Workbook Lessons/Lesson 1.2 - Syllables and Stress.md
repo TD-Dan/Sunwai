@@ -11,7 +11,7 @@
 ---
 ## Lets go!
 
-*Hai!* It's Neko again! In the last lesson, we learned the 15 letters - the ingredients of Sunwai (`A E I O U T N S K M W L H R P`). Now, let's see how we combine them into **syllables** (`lisu pi` - word circles/parts), the small chunks of sound that make up words. Sunwai has a simple recipe for this.
+*Hai!* It's Neko again! In the last lesson, we learned the 15 letters - the ingredients of Sunwai (`A E I O U T N S K M W L H R P`). Now, let's see how we combine them into **syllables** (`kipuan` - symbols together), the small chunks of sound that make up words. Sunwai has a simple recipe for this.
 
 ## Objective
 
@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to:
 *   Break simple Sunwai words into their component syllables.
 *   Identify the typically stressed syllable in a Sunwai word.
 
-## The Sunwai Syllable Recipe (Sipu Lisu Pi)
+## The Sunwai Syllable Recipe (Sipu kipuan)
 
 Every language has rules about how sounds can combine to form syllables and words. These rules might feel natural in your native language, but they can differ significantly between languages! Sunwai has its own specific, consistent set of rules designed for clarity and ease of learning across different language backgrounds.
 
@@ -65,7 +65,7 @@ This recipe allows for different syllable shapes:
 
 ![[allowed syllables.jpg]]
 
-## Word Stress (Pai Lisu)
+## Word Stress (Lisuwailu)
 
 How do you know which part of a Sunwai word to emphasize?
 
@@ -152,4 +152,4 @@ Let's practice with these words:
 
 *Pene!* You now understand how Sunwai sounds are put together into syllables and words, and how the basic rhythm works. This structure makes words distinct and relatively easy to pronounce.
 
-In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [[Lesson 1.3]]
+In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [[Lesson 1.3 - Words Wear Different Hats]]]]

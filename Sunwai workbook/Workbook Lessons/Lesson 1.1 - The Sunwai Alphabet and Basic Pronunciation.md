@@ -11,6 +11,7 @@
 ---
 ## Lets go!
 
+![[hai neko se.jpg]]
 *Hai!* (Hello!) I'm Neko, and I'll be helping you learn Sunwai. Don't worry, Sunwai is designed to be easy and fun, like `pai` (play)! One of the best parts is that it only uses 15 letters with sounds common across many languages. Let's start there!
 
 ## Objective
@@ -41,11 +42,13 @@ Let's break them down:
 
 You can learn the order with a little chant! The consonant names combine the letter with a common vowel:
 
-*   **A E I O U** (Vowels)
-*   **TA NE SI KO MU** (Common Consonants)
-*   **WAI LE HI RO PU** (Less Common Consonants)
+**A E I O U** ! -  **TA NE SI KO MU** ! - **WAI LE HI RO PU** !
 
-## Basic Pronunciation (Toki Lisu)
+Try it out and create your own melody!
+
+![[alphabet chant.jpg]]
+
+## Basic Pronunciation (Lisuwailu)
 
 Sunwai is flexible, but here are the standard sounds. Don't worry about perfection – clarity and consistency are key! Using your native pronunciation is often okay, especially when learning.
 
