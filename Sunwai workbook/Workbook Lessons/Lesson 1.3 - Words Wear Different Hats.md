@@ -94,24 +94,24 @@ Think about the different roles these familiar words can play:
 ## Exercises
 
 **1. Identify Potential Roles:** For each word, list the possible roles (C, A, D, M) it *could* have based on the descriptions above.
-    *   `heim` (home, center; to center/target; central/homely) -> ______, ______, ______
-    *   `o` (is/are marker; to be) -> ______, ______
-    *   `li` (smallness; to reduce; small; numeral 1) -> ______, ______, ______, ______
-    *   `ma` (earth/ground; to ground; earthen) -> ______, ______, ______
-    *   `ku` (question marker; sense/inquiry; to sense/ask; sensory/inquiring) -> ______, ______, ______, ______
+*   `heim` (home, center; to center/target; central/homely) -> ______, ______, ______
+*   `o` (is/are marker; to be) -> ______, ______
+*   `li` (smallness; to reduce; small; numeral 1) -> ______, ______, ______, ______
+*   `ma` (earth/ground; to ground; earthen) -> ______, ______, ______
+*   `ku` (question marker; sense/inquiry; to sense/ask; sensory/inquiring) -> ______, ______, ______, ______
 
 **2. Role Guessing (Context):** Based *only* on the sentence position, what is the *most likely* role (C, A, or D) of the **bold** word?
-    *   `A **pene**.` -> ______ (I am good/beautiful)
-    *   `**Pene** o mo.` -> ______ (Beauty/Goodness is big)
-    *   `An ta **pene** le heim.` -> ______ (We improve the home)
-    *   `Ma **wai**.` -> ______ (The earth flows/changes / The earth is watery) - *Could be A or D! Context needed.*
-    *   `Le **sun** o pene.` -> ______ (The clarity/knowledge is good)
-    *   `A **sun** e.` -> ______ (I understand you)
+*   `A **pene**.` -> ______ (I am good/beautiful)
+*   `**Pene** o mo.` -> ______ (Beauty/Goodness is big)
+*   `An ta **pene** le heim.` -> ______ (We improve the home)
+*   `Ma **wai**.` -> ______ (The earth flows/changes / The earth is watery) - *Could be A or D! Context needed.*
+*   `Le **sun** o pene.` -> ______ (The clarity/knowledge is good)
+*   `A **sun** e.` -> ______ (I understand you)
 
 **3. Why Markers Help:** Look at the sentence `Ma wai.` above. Why might adding `le`, `ta`, or `so` before `wai` be helpful?
-    *   `Le ma le wai.` = ________________________________________
-    *   `Ma ta wai.` = ________________________________________
-    *   `Ma so wai.` = ________________________________________
+*   `Le ma le wai.` = ________________________________________
+*   `Ma ta wai.` = ________________________________________
+*   `Ma so wai.` = ________________________________________
 
 *(Check your answers in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 

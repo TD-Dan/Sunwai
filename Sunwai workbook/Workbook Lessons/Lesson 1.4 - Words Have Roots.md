@@ -113,38 +113,36 @@ Now let's build another lifeform word using compounding:
 ## Exercises
 
 **1. Match Word Type:** Label each word as a "Root" or a "Compound".
-    *   `ko` -> ______
-    *   `inuko` -> ______
-    *   `ma` -> ______
-    *   `sunwai` -> ______
-    *   `neko` -> ______
-    *   `i` -> ______
+*   `ko` -> ______
+*   `inuko` -> ______
+*   `ma` -> ______
+*   `sunwai` -> ______
+*   `neko` -> ______
+*   `i` -> ______
 
 **2. Root Finding:** Which word below contains the root `KO`?
-    *   A) `kulo` (color)
-    *   B) `neko` (cat)
-    *   C) `toki` (language)
-    *   D) `kas` (but/separate)
+*   A) `kulo` (color)
+*   B) `neko` (cat)
+*   C) `toki` (language)
+*   D) `kas` (but/separate)
 
-**3. Compound Structure:** What are the main parts (roots) that make up the word `INUKO`?
-    *   ____________ + ____________ = `INUKO`
 
-**4. Fill-in-the-Blanks:** Choose the best word (`ko`, `inuko`, `neko`) to complete the sentence.
-    *   `Oum ______ o pene.` (All lifeforms are good.)
-    *   `Le ______ ro a o mo.` (My dog is big.)
-    *   `Se li ______ o no ______ mo.` (That small cat is not a big dog.)
+**3. Fill-in-the-Blanks:** Choose the best word (`ko`, `inuko`, `neko`) to complete the sentence.
+*   `Oum ______ o pene.` (All lifeforms are good.)
+*   `Le ______ ro a o mo.` (My dog is big.)
+*   `Se li ______ o no ______ mo.` (That small cat is not a big dog.)
 
-**5. Simple Translation (Sunwai -> English):**
-    *   `Inuko o ko.`
-    *   `A hat ere ko.` (Using `ere` = two)
-    *   `Ko o no sun.`
-    *   `Le neko li o no inuko.`
+**4. Simple Translation (Sunwai -> English):**
+*   `Inuko o ko.`
+*   `A hat ere ko.` (Using `ere` = two)
+*   `Ko o no sun.`
+*   `Le neko li o no inuko.`
 
-**6. Simple Translation (English -> Sunwai):**
-    *   A dog is beautiful.
-    *   Life is good.
-    *   I have a small dog.
-    *   A cat is a lifeform.
+**5. Simple Translation (English -> Sunwai):**
+*   A dog is beautiful.
+*   Life is good.
+*   I have a small dog.
+*   A cat is a lifeform.
 
 *(Check your answers in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 

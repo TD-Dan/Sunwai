@@ -130,41 +130,41 @@ author-comment:: This section needs more content. Maybe another visualisation wi
 ## Exercises
 
 **1. Matching Words and Concepts:** Match the Sunwai word to its primary English meaning.
-    *   AMA			->		A. Future
-    *   KE				->		B. Present
-    *   KA				->		C. Rabbit
-    *   NU				->		D. End
-    *   MAU			->		E. Beginning
-    *   URAMAKO	->		F. Past
+*   AMA			->		A. Future
+*   KE				->		B. Present
+*   KA				->		C. Rabbit
+*   NU				->		D. End
+*   MAU			->		E. Beginning
+*   URAMAKO	->		F. Past
 
 **2. Matching Visuals:** Match the Sunwai word to its visual representation in the sequence.
-    *   AMA			->		A. Tombstone
-    *   KE				->		B. Baby Rabbit
-    *   KA				->		C. Old Rabbit
-    *   NU				->		D. Central Rabbit
-    *   MAU			->		E. Sunrise
+*   AMA			->		A. Tombstone
+*   KE				->		B. Baby Rabbit
+*   KA				->		C. Old Rabbit
+*   NU				->		D. Central Rabbit
+*   MAU			->		E. Sunrise
 
 **3. Fill-in-the-Blanks:** Choose the best word (`AMA`, `KE`, `KA`, `NU`, `MAU`) to complete the sentence.
-    *   `______ o lono.` (The past is memory.)
-    *   `Le uramako ______ o li.` (The baby rabbit is small.)
-    *   `______ o u.` (The future is uncertain.)
-    *   `Le ______ o pene.` (The beginning is good.)
-    *   `An no pai ______` (We don't think about the end.)
+*   `______ o lono.` (The past is memory.)
+*   `Le uramako ______ o li.` (The baby rabbit is small.)
+*   `______ o u.` (The future is uncertain.)
+*   `Le ______ o pene.` (The beginning is good.)
+*   `An no pai ______` (We don't think about the end.)
 
 **4. Word Identification:**
-    *   What is the Sunwai word for Rabbit/Hare? ______________ 
-    *   What is the Sunwai word for Baby Animal? ______________ 
+*   What is the Sunwai word for Rabbit/Hare? ______________ 
+*   What is the Sunwai word for Baby Animal? ______________ 
 
 **5. Simple Translation (Sunwai -> English):**
-    *   `Uramako o li.`
-    *   `Mau o u.`
-    *   `Ama o mo.`
-    *   `Nuko uramako o pene.`
+*   `Uramako o li.`
+*   `Mau o u.`
+*   `Ama o mo.`
+*   `Nuko uramako o pene.`
 
 **6. Simple Translation (English -> Sunwai):**
-    *   The past is big.
-    *   The future is good.
-    *   The rabbit is not old.
-    *   The end is memory.
+*   The past is big.
+*   The future is good.
+*   The rabbit is not old.
+*   The end is memory.
 
 > Answers can be found in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)

@@ -108,39 +108,35 @@ Let's see how the letters build these words:
 ## Exercises
 
 **1. Sound Check:** Read these Sunwai letters aloud using the standard pronunciation guide.
-    *   A E I O U
-    *   T N S K M
-    *   W L H R P
+*   A E I O U
+*   T N S K M
+*   W L H R P
 
 **2. Matching Sounds (English Keyword -> Sunwai Letter):** What Sunwai letter makes the primary sound in...?
-    *   f**a**ther -> ______
-    *   **b**oy -> ______ (Remember the standard pronunciation!)
-    *   ma**ch**ine -> ______
-    *   bu**tt**er -> ______
-    *   **h**at -> ______
-    *   **g**o -> ______
-    *   **w**et -> ______
+*   f**a**ther -> ______
+*   **b**oy -> ______ (Remember the standard pronunciation!)
+*   ma**ch**ine -> ______
+*   bu**tt**er -> ______
+*   **h**at -> ______
+*   **g**o -> ______
+*   **w**et -> ______
 
 **3. Letter Recognition:** Write down the *first* letter of each Sunwai word below:
-    *   `toki` -> ______
-    *   `ouman` (person/sentient being) -> ______ (*You haven't seen this word yet, but sound it out!*)
-    *   `Neko` -> ______
-    *   `a` -> ______
-    *   `pene` (good/beautiful) -> ______
+*   `toki` -> ______
+*   `ouman` (person/sentient being) -> ______ (*You haven't seen this word yet, but sound it out!*)
+*   `Neko` -> ______
+*   `a` -> ______
+*   `pene` (good/beautiful) -> ______
 
 **4. Reading Practice:** Read these Sunwai words aloud clearly. Try saying hello to me!
-    *   `Sunwai`
-    *   `toki`
-    *   `sun`
-    *   `a`
-    *   `e`
-    *   `o`
-    *   `Neko`
-    *   `Hai`
-
-**5. Listening (Conceptual - If you have audio or a practice partner):**
-    *   Listen to a simple Sunwai word (like `neko`, `sun`, `a`, `o`).
-    *   Try to write down the letters you hear.
+*   `Sunwai`
+*   `toki`
+*   `sun`
+*   `a`
+*   `e`
+*   `o`
+*   `Neko`
+*   `Hai`
 
 *(Check your answers for Exercises 2 & 3 in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 

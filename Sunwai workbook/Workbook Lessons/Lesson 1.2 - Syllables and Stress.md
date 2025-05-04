@@ -113,38 +113,38 @@ Let's practice with these words:
 ## Exercises
 
 **1. Syllable Shape ID:** Identify the structure (V, CV, VC, CVV, CVC, VVC, CVVC) of these single syllables:
-    *   `o` -> ______ (V)
-    *   `mu` -> ______ (CV)
-    *   `an` -> ______ (VC)
-    *   `hai` -> ______ (CVV)
-    *   `kas` -> ______ (CVC)
-    *   `eis` -> ______ (VVC)
-    *   `ta` -> ______ (CV)
+*   `o` -> ______ (V)
+*   `mu` -> ______ (CV)
+*   `an` -> ______ (VC)
+*   `hai` -> ______ (CVV)
+*   `kas` -> ______ (CVC)
+*   `eis` -> ______ (VVC)
+*   `ta` -> ______ (CV)
 
 **2. Syllable Splitting:** Break these words into their syllables. (Hint: Look for the vowels!) These might be a bit hard to get "right" as there might be multiple possibilities and recognising existing syllables (we call these roots in Sunwai!) comes easier as you progress in your vocabulary.
-    *   `pene` -> ______ . ______ (pe . ne)
-    *   `toki` -> ______ . ______ (to . ki)
-    *   `ouman` -> ______ . ______ (ou . man)
-    *   `Sunwai` -> ______ . ______ (Sun . wai)
-    *   `lutaum` (freedom) -> ______ . ______ (lu . taum) *or* (lut . aum) - *context often needed for multi-syllable non-compounds*
-    *   `kulo` (color) -> ______ . ______ (ku . lo)
+*   `pene` -> ______ . ______ (pe . ne)
+*   `toki` -> ______ . ______ (to . ki)
+*   `ouman` -> ______ . ______ (ou . man)
+*   `Sunwai` -> ______ . ______ (Sun . wai)
+*   `lutaum` (freedom) -> ______ . ______ (lu . taum) *or* (lut . aum) - *context often needed for multi-syllable non-compounds*
+*   `kulo` (color) -> ______ . ______ (ku . lo)
 
 **3. Valid or Invalid?** Is each item a valid Sunwai syllable according to the rules? (Yes/No)
-    *   `tik` -> ______ (Invalid: ends in k)
-    *   `ne` -> ______ (Valid)
-    *   `sta` -> ______ (Invalid: consonant cluster 'st')
-    *   `lon` -> ______ (Valid)
-    *   `eee` -> ______ (Invalid: double vowel)
-    *   `mah` -> ______ (Invalid: ends in h)
-    *   `au` -> ______ (Valid)
-    *   `ka` -> ______ (Valid)
+*   `tik` -> ______ (Invalid: ends in k)
+*   `ne` -> ______ (Valid)
+*   `sta` -> ______ (Invalid: consonant cluster 'st')
+*   `lon` -> ______ (Valid)
+*   `eee` -> ______ (Invalid: double vowel)
+*   `mah` -> ______ (Invalid: ends in h)
+*   `au` -> ______ (Valid)
+*   `ka` -> ______ (Valid)
 
 **4. Stress Practice:** Read these words aloud, trying to put stress (slightly longer vowel) on the first syllable.
-    *   `pene` (pee-ne)
-    *   `toki` (too-ki)
-    *   `kulo` (kuu-lo)
-    *   `ouman` (oo-man)
-    *   `Neko` (Nee-ko)
+*   `pene` (pee-ne)
+*   `toki` (too-ki)
+*   `kulo` (kuu-lo)
+*   `ouman` (oo-man)
+*   `Neko` (Nee-ko)
 
 *(Check your answers for Exercises 1, 2, & 3 in [Appendix A - Answer Key for Exercises](../Appendices/Appendix%20A%20-%20Answer%20Key%20for%20Exercises.md)!)*
 
