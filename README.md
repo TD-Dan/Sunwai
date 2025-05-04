@@ -53,10 +53,9 @@ Proverb:: *Toki o sun!* = "Language is wisdom!"
 The md files have been created and automated with [Obsidian](https://obsidian.md/) and are easily viewed and edited with it.
 
 **Following obsidian community plugins are used:**
-
-Advanced Tables
-Dataview
-Dataview Serializer
-Easy Bake
+* Advanced Tables
+* Dataview
+* Dataview Serializer
+* Easy Bake
 
 You can install these from obsidian options -> Community plugins -> Browse
