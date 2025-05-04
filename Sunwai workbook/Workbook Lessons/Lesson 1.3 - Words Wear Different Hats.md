@@ -119,4 +119,4 @@ Think about the different roles these familiar words can play:
 
 *Sun o wai!* (Clarity flows!) Understanding that words can play multiple roles is a huge step in learning Sunwai. It might seem tricky at first, but it allows for elegant and efficient communication once you get the hang of it. Trusting context is key, and the markers are there when you need extra precision.
 
-This wraps up Part 1! You've learned the sounds, syllables, basic word stress, and the flexible nature of words. In Part 2, we'll start building more complete sentences and explore different structures. --> [Lesson 2.1 Establishing States with `o` (Before Actions)](Lesson%202.1%20Establishing%20States%20with%20`o`%20(Before%20Actions))
+author-comment:: need brifge and link here
