@@ -46,3 +46,17 @@ Example:: *Neko o li se inuko.* = "The cat is smaller than the dog."
 Aims to improve on minimalist predecessors by integrating robust grammar and artistic flexibility. Designed by Daniel Herkert, with AI-assisted linguistic research. Designed to be both practical and beautiful.
 
 Proverb:: *Toki o sun!* = "Language is wisdom!"
+
+
+## About this repository and md files
+
+The md files have been created and automated with [Obsidian](https://obsidian.md/) and are easily viewed and edited with it.
+
+**Following obsidian community plugins are used:**
+
+Advanced Tables
+Dataview
+Dataview Serializer
+Easy Bake
+
+You can install these from obsidian options -> Community plugins -> Browse
