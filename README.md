@@ -1,4 +1,4 @@
-# Sunwai Summary
+# Sunwai Readme
 
 **Sunwai** is a constructed language designed for universal communication, uniquely **blending elegant simplicity with expressive depth and practical structure**.
 
@@ -29,7 +29,7 @@
 
 ## Key documents
 
-   * [Summary](Sunwai%20summary.md)
+   * [Summary](Sunwai%20Summary.md)
    * [Main documentation](Sunwai.md)
    * [Compiled full dictionary]("Full%20dictionary.baked.md")
    * [Reference sheet](Sunwai%20Reference%20Sheet.md)
