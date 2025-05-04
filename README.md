@@ -33,6 +33,7 @@
    * [Main documentation](Sunwai.md)
    * [Compiled full dictionary]("Full%20dictionary.baked.md")
    * [Reference sheet](Sunwai%20Reference%20Sheet.md)
+   * [Workbook](Sunwai%20workbook/Sunwai%20Workbook.md)
 
 
 **Toki o sun!** = "Language is wisdom!"
