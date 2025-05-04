@@ -4,13 +4,15 @@
 Sunwai is a constructed language that aims to serve as an unifying common language for humanity. It uses sounds common to all human languages and incorporates the most beautiful and common words all around the world. The base set of words consists of 100 short words that can be used for rudimentary communication. An extended set of 1000 compound words are created by combining words from the base set to cover all everyday communication. A set of rules to extend the word pool are provided to allow for more exact and precise communication when needed. 
 
 **Important links:**
-One page summary: [Sunwai Summary](Sunwai%20Summary.md)
-Learning the language: [Sunwai Workbook](Sunwai%20Workbook.md)
-Core grammar at a glance: [Sunwai Reference Sheet](Sunwai%20Reference%20Sheet.md)
-Complete dictionary: [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked)
-This document in Sunwai: [Oum sun ro Sunwai i li toki](Oum%20sun%20ro%20Sunwai%20i%20li%20toki.md) and [Oum sun ro Sunwai i mo toki](Oum%20sun%20ro%20Sunwai%20i%20mo%20toki.md)
+* One page summary: [Sunwai Summary](Sunwai%20Summary.md)
+* Learning the language: [Sunwai Workbook](Sunwai%20workbook/Sunwai%20Workbook.md)
+* Core grammar at a glance: [Sunwai Reference Sheet](Sunwai%20Reference%20Sheet.md)
+* Complete dictionary: [Sunwai full dictionary.baked](Sunwai%20full%20dictionary.baked)
+* This document in Sunwai: [Oum sun ro Sunwai i li toki](Oum%20sun%20ro%20Sunwai%20i%20li%20toki.md) and [Oum sun ro Sunwai i mo toki](Oum%20sun%20ro%20Sunwai%20i%20mo%20toki.md)
 
+<!--
 author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor and even major changes.
+-->
 
 ## Base principles
 ### Easy to learn, hard to master
@@ -72,9 +74,9 @@ Letter distribution across words follows Zipf distribution for natural feel in v
 
 The 15 used letters are ordered for easy remembering with phonetic sounds and creates the Sunwai alphabetic order:
 
-**[A](A.md) [E](E.md) [I](I.md) [O](O.md) [U](U.md)**				(the vowels, from common to rare)
-**[TA](TA.md) [NE](NE.md) [SI](SI.md) [KO](KO.md) [MU](MU.md)**		(the common consonants)
-**[WAI](WAI.md) [LE](LE.md) [HI](HI.md) [RO](RO.md) [PU](PU.md)**		(the rare consonants)
+**[A](lisuma%20(base%20set)/A.md) [E](lisuma%20(base%20set)/E.md) [I](lisuma%20(base%20set)/I.md) [O](lisuma%20(base%20set)/O.md) [U](lisuma%20(base%20set)/U.md)**				(the vowels, from common to rare)
+**[TA](lisuma%20(base%20set)/TA.md) [NE](lisuma%20(base%20set)/NE.md) [SI](lisuma%20(base%20set)/SI.md) [KO](lisuma%20(base%20set)/KO.md) [MU](lisuma%20(base%20set)/MU.md)**		(the common consonants)
+**[WAI](lisuma%20(base%20set)/WAI.md) [LE](lisuma%20(base%20set)/LE.md) [HI](lisuma%20(base%20set)/HI.md) [RO](lisuma%20(base%20set)/RO.md) [PU](lisuma%20(base%20set)/PU.md)**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -206,7 +208,7 @@ Sunwai vocabulary is built from two main types of words:
 
 *   **Root Words:** These are the foundational, often single-syllable building blocks of the language (e.g., `a`, `ta`, `wai`, `sun`, `heim`). They represent the most basic concepts. (They are sometimes categorized as Prime, Secondary, and Tertiary roots based on their phonetic simplicity and foundational role).
 *   **Compound Words:** The vast majority of Sunwai words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
-* Additionally, Sunwai utilizes **productive prefixes**, most notably [NO](NO.md), which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
+* Additionally, Sunwai utilizes **productive prefixes**, most notably [NO](lisuma%20(base%20set)/NO.md), which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
 
 ### 3. Principles for Creating New Words
 
@@ -225,7 +227,7 @@ Follow this preferred order when developing a new term:
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
     *   *Example:* **`neko`** (cat) is internally `ne` (nine) + `ko` (lifeform). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
 3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
-4. **Prioritize Productive Prefixes (Especially [NO](NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
+4. **Prioritize Productive Prefixes (Especially [NO](lisuma%20(base%20set)/NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](lisuma%20(base%20set)/NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
 5.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
     *   Highly specific, culturally bound concepts (unique foods, rituals) difficult to compound clearly.
     *   Technical/scientific terms challenging to represent concisely via compounding.
@@ -237,7 +239,7 @@ Follow this preferred order when developing a new term:
     *   Apply simplification rules: e.g., vowel and consonant doubling is removed (`sun + ne -> sune`), (`ta + an -> tan`)
     *   Avoid syllable repetition unless specifically creating an emphasis word (`li li` -> tiny) or an established concept derived from repetition (`sisi` -> number concept).
 *   **Word Length:** Aim for conciseness. While not a hard rule, words over 3-4 syllables warrant scrutiny – could a phrase or simpler term work?
-*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [SENO](SENO.md), [NOPENE](NOPENE)) warrant separate entries.
+*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [SENO](lisuma%20(base%20set)/SENO.md), [NOPENE](NOPENE)) warrant separate entries.
 
 **Guiding Philosophy:**
 New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
@@ -413,7 +415,7 @@ Further examples:
 
 ### 4. Negation and Meaning Reversal with NO
 
- The root [NO](NO.md) is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
+ The root [NO](lisuma%20(base%20set)/NO.md) is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
 #### Particle Usage 
 
 	no [X]
@@ -428,7 +430,7 @@ Example:: *A hat **no** heim.* = "I have **no** home." / "I do **not** have a ho
 
 	noX
 
-A core feature of Sunwai is the ability of `[NO](NO.md)` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
+A core feature of Sunwai is the ability of `[NO](lisuma%20(base%20set)/NO.md)` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
 
 **Principle:** Apply this prefix logically where an opposite or absence makes sense. You do not need a dictionary entry for every possible `noX` combination; the meaning is derived from the prefix rule and the base word.
 
@@ -446,7 +448,7 @@ A core feature of Sunwai is the ability of `[NO](NO.md)` to function as a produc
 *   *(ta -> action/change)* `nota` = **inaction/stasis**
     *   Example:: *So o **nota**.* = "Stillness is **inaction**."
 
-> Refer to the main dictionary entry for [NO](NO.md) for more details and nuances.
+> Refer to the main dictionary entry for [NO](lisuma%20(base%20set)/NO.md) for more details and nuances.
 
 
 ### 5. Existential/Locative (There is X / X is Y)
@@ -518,7 +520,7 @@ Use repetition for emphasis
 
 	[Subject] [Action] [Object (optional)] pae [Beneficiary]
 
-*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[PAE](pae.md)**.
+*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[PAE](lisuma%20(base%20set)/PAE.md)**.
 
 Example:: *A ta tape **pae** e.* = "I provide/get food **for** you."
 
@@ -670,7 +672,7 @@ Numeral marker [#Si](#Si) can be use to clarify that the next word is a number
 
     kas [clause]
 
-Contrast marker [KAS](KAS.md) can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
+Contrast marker [KAS](lisuma%20(base%20set)/KAS.md) can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
 
 *   Links contrasting statements:
 
@@ -732,7 +734,7 @@ Example:: *Le a ta wai i oumanheim.* = "I am going to home." ("I movement into b
  
  author-comment:: IMPORTANT! Latest changes to number system have not been fully updated to other sections and dictionary!
 ## Numerals
-Numbers in Sunwai default to base10 and are represented overloading existing Sunwai words. Numeral use is usually defined usually by the si, sisi or to markers. See [](Sunwai.md#Numeral%20marker%20si) for more info.
+Numbers in Sunwai default to base10 and are represented overloading existing Sunwai words. Numeral use is usually defined usually by the si, sisi or to markers. See [](.md#Numeral%20marker%20si) for more info.
 
 |                 |         | metaphorical meaning                        |
 | --------------- | ------- | ------------------------------------------- |
@@ -905,8 +907,8 @@ Example:: ***A** o ouman.* = "**I** am human."
 Example:  
 ```markdown
 ## Compounds  
-- **[TAMA](Tama.md)** = Road (*ta + ma* = "movement on earth")  
-- **[NEKO](Neko.md)** = Cat (*ne + ko* = "nine-lifeform")  
+- **[TAMA](lisuma%20(base%20set)/TAMA.md)** = Road (*ta + ma* = "movement on earth")  
+- **[NEKO](mo%20lisu%20(extended%20set)/NEKO.md)** = Cat (*ne + ko* = "nine-lifeform")  
 ```
 ## 5. Origin  
 - Use bullet points with language names in **bold**.  
@@ -917,7 +919,7 @@ Example:
 Example:  
 ```markdown
 ## Origin  
-- **Sunwai**: **[AN](AN.md)** + **[TA](TA.md)** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **[AN](lisuma%20(base%20set)/AN.md)** + **[TA](lisuma%20(base%20set)/TA.md)** = "Togetherness action" - 'n' dropped for ease of speak
 - **Arabic**: _أَنَا_ (_Ana_, I)  
 - **Sanskrit**: _अहम्_ (_Aham_, self)  
 ```
@@ -955,7 +957,7 @@ Descriptor::	**1, one**
 Example::	_**A** o ouman._ = "**I** am human."  
 
 ### Descriptor  
-- Numeral "one" (with [SI](si.md) marker)  
+- Numeral "one" (with [SI](lisuma%20(base%20set)/SI.md) marker)  
 Example:: *Si **a** neko.* = "One cat."  
 
 ## Origin  
