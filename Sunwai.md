@@ -109,6 +109,8 @@ author-comment:: Current vowel distribution suggest that future word additions s
 | **p** (pu)  | [b]            | [p]                     | **Ϙ ϙ**                  | 6%                                | 7%                         | 8%                                     |
 author-comment:: Current vowel distribution suggest that future word additions should prefer adding words with n, m, s and r , and avoid using t, k, w, h and r. The current frequencies need updating also.
 
+author-comment:: Perhaps replace P with B? bene, bu, bai?
+
 > <sup>1</sup>) [ɾ] can be used to replace [l] where native Japanese and some East Asian dialect speakers lack the consonant natively.
 
 
