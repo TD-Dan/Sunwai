@@ -1,20 +1,19 @@
 
 ## In Summary:
 
-| Feature                      | Toki Pona                                       | Sunwai                                                                 | Similarity Level |
-| :--------------------------- | :---------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
-| **Core Vocabulary Size**     | Very Small (fixed ~130)                         | Small Base Set (~100), expandable Extended Set and Special Sets        | High (initial)   |
-| **Polysemy of Core Words**   | Very High                                       | High (for Base Set)                                                    | High             |
-| **Phonetic Simplicity**      | Extremely High (9C, 5V)                         | High (10C, 5V)                                                         | High             |
-| **Syllable Structure**       | Simple: (C)V(N)                                 | More Complex: (C1)V1(V2)(C2)                                           | Medium           |
-| **Compounding**              | Phrasal (modifier phrases)                      | Lexical (new single words)                                             | Medium (concept) |
-| **Grammar Complexity**       | Minimal particles, fixed SVO                    | More particles (optional), flexible order with markers                 | Low to Medium    |
-| **Inflections/Gender**       | None                                            | None                                                                   | High             |
-| **Primary Goal**             | Philosophical minimalism, simplicity            | Unifying common language, clarity, extendibility, artistic freedom     | Medium           |
-| **Ease of Initial Learning** | Very High                                       | High                                                                   | High             |
-| **Capacity for Precision**   | Lower (relies on descriptive phrasing)          | Higher (due to larger vocab potential and compounding)                 | Low              |
-| **Word `toki`**              | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
-| **Word `kan` (`ken`)**       | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
+| Feature                      | Toki Pona                                       | Sunwai                                                                         | Similarity Level |
+| :--------------------------- | :---------------------------------------------- | :----------------------------------------------------------------------------- | :--------------- |
+| **Core Vocabulary Size**     | Very Small (fixed ~130)                         | Small Base Set (~100), expandable Extended Set and Special Sets                | High (initial)   |
+| **Polysemy of Core Words**   | Very High                                       | High (for Base Set)                                                            | High             |
+| **Phonetic Simplicity**      | Extremely High (9C, 5V)                         | High (10C, 5V)                                                                 | High             |
+| **Syllable Structure**       | Simple: (C)V(N)                                 | More Complex: (C1)V1(V2)(C2)                                                   | Medium           |
+| **Compounding**              | Phrasal (modifier phrases)                      | Lexical (new single words)                                                     | Medium (concept) |
+| **Grammar Complexity**       | Minimal particles, fixed SVO                    | More particles (optional), flexible order with markers                         | Low to Medium    |
+| **Inflections/Gender**       | None                                            | None                                                                           | High             |
+| **Primary Goal**             | Philosophical minimalism, simplicity            | Unifying common language, clarity, extendibility, artistic freedom             | Medium           |
+| **Ease of Initial Learning** | Very High                                       | High                                                                           | High             |
+| **Number System**            | Traditionally very limited, community additions | Precise Base-10 system. Unique root words for 0-9 and more                     | Very Low         |
+| **Capacity for Precision**   | Lower (relies on descriptive phrasing)          | Higher (due to larger vocab potential, compounding and precise number system)  | Low              |
 
 Both languages share a spirit of seeking a simpler, more fundamental way to communicate and think about the world, starting from a small set of core concepts. Sunwai builds on this by allowing more complexity and precision where deemed necessary for broader practical application, while Toki Pona fiercely maintains its minimalist purity. They are beautiful "cousins" in the conlanging world, each with its own distinct charm and purpose.
 
@@ -92,6 +91,10 @@ Both languages share a spirit of seeking a simpler, more fundamental way to comm
 6.  **Focus on "Everyday Usability and Practicality" (Sunwai):**
     *   While TP *can* be used for everyday things, its extreme minimalism can make precise, unambiguous technical or complex descriptions challenging.
     *   Sunwai, with its larger vocabulary potential and more developed grammatical toolkit (even if optional), aims to handle a broader range of practical and technical communication more directly.
+
+7.  **Number System and Quantification:**
+    *   **TP:** Employs a highly minimalist numeral system (traditionally "one, two, many"), prioritizing conceptual quantity over exactness, making precise mathematics difficult. Some community additions for expanding this system exist.
+    *   **Sunwai:** Features a base-10 number system with dedicated roots for 0-9 and methods for large numbers, ordinals, mathematical constants, operations etc. enabling precise mathematical support for broader practical and technical application.
 
 7.  **Handling of Specificity:**
     *   **TP:** Relies heavily on context and descriptive phrasing for specificity. "Car" might be *tomo tawa* ("moving structure").
