@@ -41,11 +41,11 @@ Example::   *A kelumia **Kopi** mu.* = "I see many **eggs/seeds**."
 *   Direct use as a verb (*ta kopi*) is highly uncommon and potentially unclear. Actions related to *kopi* (laying, producing, planting) are better expressed using verbs like *pu* (make/form) or context-specific verbs if developed (e.g., a verb for "plant seed").
 
 ### Descriptor
-*   Using *kopi* directly as an adjective (*so kopi*) is generally avoided as it lacks specific meaning. To describe qualities *associated* with eggs/seeds (e.g., potential, roundness, newness), use other relevant roots like *[[Lu]]*, *[[Pi]]*, or *[[Nu]]*. To describe something *related to the function* of *kopi*, compound nouns (*Kopiheim*, *Kopita*) or descriptive phrases are clearer.
+*   Using *kopi* directly as an adjective (*so kopi*) is generally avoided as it lacks specific meaning. To describe qualities *associated* with eggs/seeds (e.g., potential, roundness, newness), use other relevant roots like *[[LU]]*, *[[PI]]*, or *[[NU]]*. To describe something *related to the function* of *kopi*, compound nouns (*Kopiheim*, *Kopita*) or descriptive phrases are clearer.
 
 ## Related Concepts
 *   **[[Kopita]]** (*Kopi + ta*): The biological act of reproduction involving *Kopi*.
-*   **[[Nuko]]** (*nu + ko*): The newborn/offspring that develops from *Kopi*.
+*   **[[NUKO]]** (*nu + ko*): The newborn/offspring that develops from *Kopi*.
 *   **[[Kopiko]]** (*Kopi + ko*): Embryo, Larva ("egg/seed lifeform").
 
 ## Compounds

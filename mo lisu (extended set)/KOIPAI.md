@@ -61,7 +61,7 @@ Example::   *Le u ro a o **Koipai**.* = "My problem/chaos is **related to body i
 ## Related Concepts / Distinctions
 *   **[[Kopu]]** (*ko + pu*): The actual physical form and structure of the body. *Koipai* is the perception *of* *Kopu*.
 *   **[[Koi]]** / **[[Kota]]** / **[[KOERE]]** / etc.: Descriptors for biological sex characteristics. Body image (*Koipai*) can be influenced by, but is distinct from, these biological traits.
-*   **[[Pai]]** (*pai*): General mind, thought, subjective experience. *Koipai* is a specific type of *Pai* focused on the body.
+*   **[[PAI]]** (*pai*): General mind, thought, subjective experience. *Koipai* is a specific type of *Pai* focused on the body.
 
 Example:: *A hat koipai so koi, kas ko ro a o kota. A ta ta so koi ne ma, a no ta ta le sipu ke.* = "I have an internal body image that is female-like (aligned with female biology), but my body is biologically male. I act/present female-like in the world and I do not act according to / participate in the traditional system (of gender roles)"
 

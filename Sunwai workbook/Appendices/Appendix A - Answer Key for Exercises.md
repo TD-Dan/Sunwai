@@ -71,7 +71,7 @@ This appendix provides the answers for the exercises found in the Sunwai Workboo
     *   NU -> **B. Baby Rabbit**
     *   MAU -> **A. Tombstone**
 *   **Exercise 3:** Fill-in-the-Blanks
-    *   `**KE** o lono.`
+    *   `**KE** o luno.`
     *   `Le uramako **NU** o li.` (or `Le **NUKO** uramako o li.`)
     *   `**NU** o u.`
     *   `Le **AMA** o pene.`
@@ -88,4 +88,4 @@ This appendix provides the answers for the exercises found in the Sunwai Workboo
     *   The past is big. = **`Ke o mo.`**
     *   The future is good. = **`Nu o pene.`**
     *   The rabbit is not old. = **`Uramako no o ke.`**
-    *   The end is memory. = **`Mau o lono.`**
+    *   The end is memory. = **`Mau o luno.`**

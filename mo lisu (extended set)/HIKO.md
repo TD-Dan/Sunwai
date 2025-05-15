@@ -54,7 +54,7 @@ Example::   *Ko se o **hiko** kas kas.* = "That lifeform is **flying** different
 
 ## Proverbs
 
-Proverb:: *Hiko lono hi.* = "Birds remember the sky/heights."
+Proverb:: *Hiko luno hi.* = "Birds remember the sky/heights."
 
 Proverb:: *Ta hiko o kulumia oum.* = "To fly (like a bird) is to see everything."
 

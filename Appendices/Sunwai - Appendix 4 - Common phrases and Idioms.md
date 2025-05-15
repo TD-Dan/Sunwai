@@ -108,21 +108,21 @@ Example:: *Ku ko ne maheim se? Sun ro a o seno.* = "What lifeforms are in that l
 #### Breakdown
 [[SUN]] (Knowledge) + [[RO]] (of) + [[A]] (I/Me) + [[O]] (Is) + [[SENO]] (Zero/Nothing/Absence). Explicitly states a lack of specific information.
 
-### A lono.
+### A luno.
 *   I remember.
 
-Example:: *A lono heim ro ke.* = "I remember the home from the past."
+Example:: *A luno heim ro ke.* = "I remember the home from the past."
 
 #### Breakdown
-[[A]] (I) + [[LONO]] (Remember/Recall). Simple statement of recollection.
+[[A]] (I) + [[LUNO]] (Remember/Recall). Simple statement of recollection.
 
-### A no lono.
+### A no luno.
 *   I don't remember / I forget.
 
-Example:: *Ku lisu ro e? A no lono.* = "What is your name? I don't remember."
+Example:: *Ku lisu ro e? A no luno.* = "What is your name? I don't remember."
 
 #### Breakdown
-[[A]] (I) + [[NO]] (Not) + [[LONO]] (Remember). Expresses failure to recall. (Often used instead of the more complex `Lono ro a o seno` for simplicity).
+[[A]] (I) + [[NO]] (Not) + [[LUNO]] (Remember). Expresses failure to recall. (Often used instead of the more complex `luno ro a o seno` for simplicity).
 
 ## Acceptance
 
@@ -191,7 +191,7 @@ Example:: *Usi e kan, ta ki ne a?* = "If you can, please communicate with me / s
 ### Li ne li nu
 *   Little by little, step by step, gradually moving forward.
 
-Example:: *Sun o mo, kas a lono li ne li nu.* = "The knowledge is vast, but I learn step by step."
+Example:: *Sun o mo, kas a luno li ne li nu.* = "The knowledge is vast, but I learn step by step."
 
 #### Breakdown
 [[LI]] (Small/Little) + [[NE]] (At/On/Upon) + [[LI]] (Small/Little) + [[NU]] (Next/Following/Forward). A rhythmic phrase conveying gradual progression, taking small steps (`li`) towards the next stage (`nu`).

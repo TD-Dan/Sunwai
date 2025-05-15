@@ -16,7 +16,7 @@ Concept::       **Symbol, Character, Letter, Glyph, Sign, Icon; Representational
 Action::        **To symbolize, represent (with a sign/glyph), write/inscribe a character**
 Descriptor::    **Symbolic, Graphic (as character), Representational (by form)**
 
-> Represents a discrete visual or conceptual form (**[[pu]]**) whose primary function is communication, signification, or representation (**[[ki]]**). This includes letters of an alphabet, numerical digits, mathematical operators, icons, meaningful glyphs, or any standardized sign used to convey information. Contrasts with **[[lisu]]** (word, typically composed of **kipu**) and general **[[pu]]** (form/structure not necessarily for communication). Belongs to the **Base Set**.
+> Represents a discrete visual or conceptual form (**[[PU]]**) whose primary function is communication, signification, or representation (**[[KI]]**). This includes letters of an alphabet, numerical digits, mathematical operators, icons, meaningful glyphs, or any standardized sign used to convey information. Contrasts with **[[LISU]]** (word, typically composed of **kipu**) and general **[[PU]]** (form/structure not necessarily for communication). Belongs to the **Base Set**.
 
 ## Usage
 
@@ -53,14 +53,14 @@ Example::   *An toki **so kipu**.* = "We communicate **symbolically/using charac
 
 ## Compounds
 
-*   **[[KIPUTOKI]]** = Writing system, Script, Alphabet (*kipu* + *[[toki]]* = "symbol/character language").
-*   **[[KIPULISU]]** = Spelling, Orthography (*kipu* + *[[lisu]]* = "symbol/character word").
-*   **[[KIPUWAILU]]** = Phonetic Symbol/Notation (*kipu* + *[[wailu]]* = "symbol/character sound").
-*   **[[KIPUPENE]]** = Calligraphy, Elegant Symbol/Character Design (*kipu* + *[[pene]]* = "symbol/character beauty").
+*   **[[KIPUTOKI]]** = Writing system, Script, Alphabet (*kipu* + *[[TOKI]]* = "symbol/character language").
+*   **[[KIPULISU]]** = Spelling, Orthography (*kipu* + *[[LISU]]* = "symbol/character word").
+*   **[[KIPUWAILU]]** = Phonetic Symbol/Notation (*kipu* + *[[WAILU]]* = "symbol/character sound").
+*   **[[KIPUPENE]]** = Calligraphy, Elegant Symbol/Character Design (*kipu* + *[[PENE]]* = "symbol/character beauty").
 
 ## Origin
 
-*   **Sunwai**: Compound of **[[ki]]** (Communication, Expression, Signal, Message, Transmission) + **[[pu]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
+*   **Sunwai**: Compound of **[[KI]]** (Communication, Expression, Signal, Message, Transmission) + **[[PU]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
 
 ## Proverbs
 

@@ -7,10 +7,10 @@ This special set provides terminology for discussing language structure, sounds,
 
 ## Related words already part of the base or extended set
 
-* [KI](../lisuma%20(base%20set)/KI.md)
+* [KI](KI.md)
 * [KIPU](../mo%20lisu%20(extended%20set)/KIPU.md)
-* [LISU](../lisuma%20(base%20set)/LISU.md)
-* [TOKI](../lisuma%20(base%20set)/TOKI.md)
+* [LISU](LISU.md)
+* [TOKI](TOKI.md)
 * [[LISUMA]]
 
 ## New words
@@ -70,7 +70,7 @@ Descriptor::    **Grammatical, Syntactic; Definitional**
 
 ---
 
-### Lisulono
+### Lisuluno
 
 IPA::           /ˈli.su.lo.no/
 Concept::       **Dictionary, Lexicon, Glossary, Word Collection/Archive**
@@ -78,10 +78,10 @@ Descriptor::    **Lexicographical, Dictionary-related**
 
 > A book or electronic resource listing the words of a language (typically in alphabetical order) and giving their meaning, or giving the equivalent words in a different language. A stored collection/archive of words and their meanings.
 
-**Origin:** `Lisu` (Word) + `Lono` (Memory, Record, Archive, Stored Information) = "Word Record / Word Archive".
+**Origin:** `Lisu` (Word) + `luno` (Memory, Record, Archive, Stored Information) = "Word Record / Word Archive".
 
-**Example:** *Lisulono Sunwai o mo.* = "The Sunwai dictionary is big."
-**Example:** *A rota sun nu un Lisulono.* = "I get new knowledge from the dictionary."
+**Example:** *Lisuluno Sunwai o mo.* = "The Sunwai dictionary is big."
+**Example:** *A rota sun nu un Lisuluno.* = "I get new knowledge from the dictionary."
 
 ---
 

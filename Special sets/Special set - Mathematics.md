@@ -26,9 +26,9 @@ Adopt the SI unit metric prefixes as they are, but adjust for the [Sunwai](../Su
 
 ## Related words already in base or extended set
 
-* [SI](../lisuma%20(base%20set)/SI.md)
-* [SISI](../lisuma%20(base%20set)/SISI.md)
-* [PI](../lisuma%20(base%20set)/PI.md)
+* [SI](SI.md)
+* [SISI](SISI.md)
+* [PI](PI.md)
 
 ## New words
 ### TAU

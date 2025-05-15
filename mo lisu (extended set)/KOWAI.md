@@ -56,6 +56,6 @@ Example::   *Ko kan **ta kowai** ne tilon hi.* = "Lifeforms can **change biologi
 
 ## Proverbs
 
-Proverb:: *Lono ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
+Proverb:: *luno ro kowai o: ko kan wai.* = "Sex-fluid biology teaches that the body can change."
 
 Proverb:: *Ne ko kowai, koipai kan wai mo.* = "For a biologically sex-fluid lifeform, body image can change significantly."

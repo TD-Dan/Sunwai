@@ -38,7 +38,7 @@ Example::   *Sipu se **upai** mo.* = "That system **is very complex/mentally dif
 *   Describes thoughts, situations, feelings, problems, or games as confusing, mentally chaotic, anxious, worrisome, or mentally difficult/complex. Optional *so*.
 
 Example::   *Se o pai **so upai**.* = "That is a **confusing/anxious** thought."
-Example::   *A hat lono **upai**.* = "I have **worrisome/confusing** memories."
+Example::   *A hat luno **upai**.* = "I have **worrisome/confusing** memories."
 Example::   *Sipu toki o no **upai**.* = "The language system is not **mentally difficult/confusing**."
 Example::   *Le tama ro sun o **upai** li.* = "The path of knowledge is **a little confusing/mentally challenging**."
 

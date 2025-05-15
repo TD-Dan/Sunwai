@@ -25,7 +25,7 @@ Descriptor::	**Musical, Melodic, Relating to song/sentient sound**
 
 Example::   *Le **oumanwailu** ro [[Kohi]] o pene.* = "The **song** of the bird is beautiful." (*Using new [[Kohi]]*)
 
-Example::   *An lono **oumanwailu** ketilon.* = "We remember the **music** of the past."
+Example::   *An luno **oumanwailu** ketilon.* = "We remember the **music** of the past."
 
 Example::   ***Oumanwailu** wai ne ha.* = "**Music** flows on the air."
 
@@ -45,7 +45,7 @@ Example::   *Se o toki **so oumanwailu**.* = "That is **musical** speech / a **c
 
 Example::   *A hat pai **oumanwailu**.* = "I have **musical** thoughts / inspiration."
 
-Example::   *Pu ro [[Sipene]] o **oumanwailu**.* = "The structure of Harmony/Justice is **musical**." (Metaphorical)
+Example::   *Pu ro [[SIPENE]] o **oumanwailu**.* = "The structure of Harmony/Justice is **musical**." (Metaphorical)
 
 ## Compounds
 

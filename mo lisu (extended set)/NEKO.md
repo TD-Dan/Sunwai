@@ -67,4 +67,4 @@ Proverb:: *Neko o no inuko.* = "A cat is not a dog." (Highlights inherent differ
 
 Proverb:: *Pai neko, sunta sun neko.* = "Play like a cat, therefore understand the cat."
 
-Proverb:: *Neko pi ne lono.* = "The cat circles around memory." (Cats often seem contemplative or linked to unseen things).
+Proverb:: *Neko pi ne luno.* = "The cat circles around memory." (Cats often seem contemplative or linked to unseen things).

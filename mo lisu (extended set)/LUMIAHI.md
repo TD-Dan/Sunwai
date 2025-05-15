@@ -41,9 +41,9 @@ Example::   *A hat pai **so lumiahi**.* = "I have a **guiding** thought/principl
 Example::   *Oumanheim o **lumiahi**.* = "The universe is **stellar/star-filled**."
 
 ## Compounds
-*   **[[Lumiahiheim]]** (*lumiahi* + *[[heim]]*): Constellation; Observatory ("star home/center"). *(Potential Extended)*
-*   **[[Lumiahiwai]]** (*lumiahi* + *[[wai]]*): Starlight (as flow); Navigation by stars ("star flow"). *(Potential Extended)*
-*   **[[Lumiakulo]]** (*lumiahi* + *[[kulo]]*): Star color/spectrum ("star color"). *(Could be under LUMIA or KULO too).*
+*   **[[Lumiahiheim]]** (*lumiahi* + *[[HEIM]]*): Constellation; Observatory ("star home/center"). *(Potential Extended)*
+*   **[[Lumiahiwai]]** (*lumiahi* + *[[WAI]]*): Starlight (as flow); Navigation by stars ("star flow"). *(Potential Extended)*
+*   **[[Lumiakulo]]** (*lumiahi* + *[[KULO]]*): Star color/spectrum ("star color"). *(Could be under LUMIA or KULO too).*
 
 ## Origin
 *   **Sunwai**: Compound of **[[LUMIA]]** (Light, EM Radiation) + **[[HI]]** (High, Above). Represents "Light High/Above."

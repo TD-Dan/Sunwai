@@ -26,7 +26,7 @@ Descriptor::	**Extraterrestrial, Alien, Otherworldly, Non-terrestrial, Of unknow
 
 Example::   *Le **oumanuma** wai ne oumheim.* = "The **alien** travels in the universe."
 
-Example::   *An sunta lono **oumanuma** mu.* = "We conclude/deduce the memory/existence of many **aliens**."
+Example::   *An sunta luno **oumanuma** mu.* = "We conclude/deduce the memory/existence of many **aliens**."
 
 Example::   *A pai: Kan **oumanuma** o pene ku?* = "I think: Can **aliens** be good?"
 

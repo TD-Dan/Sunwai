@@ -61,6 +61,6 @@ Example::   *E o **inuko**?* = "Are you being **loyal/companionable**?"
 
 Proverb:: *Inuko o an ro ouman.* = "A dog is the companion of humans." (Lit: "Dog is togetherness of human.")
 
-Proverb:: *Inuko lono heim.* = "A dog remembers its home/pack."
+Proverb:: *Inuko luno heim.* = "A dog remembers its home/pack."
 
 Proverb:: *Ta inuko o ta an.* = "To be loyal (like a dog) is to be together."

@@ -43,7 +43,7 @@ Without clarifying Markers or clear context, word roles are inferred by position
 | **Negation**            | `no X`                          | *No neko* ("Not a cat")                                                                                    |
 | **Question**            | `... ku?`<br>`ku ...?`          | *E hat heim ku?* ("Do you have a home?")<br>*Ku tilon o se?* ("What time is it?")                          |
 | **Conditional**         | `usi X, se Y`<br>`Y, usi X`     | *Usi a hat tape, se pa* ("If I have food then (I) give.")                                                  |
-| **Logical Consequence** | `sunta X, se Y`<br>`Y, sunta X` | *Sunta e pai, se lono* ("Because you play you learn")<br>*E pai, sunta lono* ("You play, therefore learn") |
+| **Logical Consequence** | `sunta X, se Y`<br>`Y, sunta X` | *Sunta e pai, se luno* ("Because you play you learn")<br>*E pai, sunta luno* ("You play, therefore learn") |
 | **Intensifier**         | `X X`                           | repreating any word intensifies its meaning. *li* = small, *li li* = tiny.                                 |
 
 ### Particles
@@ -52,35 +52,35 @@ Particles are small words that help structure sentences and clarify meaning. The
 
 | Particle    | Function                                      | Example                                         |
 | ----------- | --------------------------------------------- | ----------------------------------------------- |
-| **[[o]]**   | Links things: 'is', 'are', equals             | *Neko **o** pene* = "Cat **is** beautiful"      |
-| **[[no]]**  | 'Not' or 'no'                                 | * **no** tape* = "**no** food"                  |
-| **[[an]]**  | 'And'                                         | *neko **an** inuko* = "cat **and** dog"         |
-| **[[au]]**  | 'Or'                                          | *kofi **au** tee* = "coffee **or** tea"         |
-| **[[ku]]**  | Marks a question                              | *E o pene **ku**?* = "Are you beautiful **?** " |
+| **[[O]]**   | Links things: 'is', 'are', equals             | *Neko **o** pene* = "Cat **is** beautiful"      |
+| **[[NO]]**  | 'Not' or 'no'                                 | * **no** tape* = "**no** food"                  |
+| **[[AN]]**  | 'And'                                         | *neko **an** inuko* = "cat **and** dog"         |
+| **[[AU]]**  | 'Or'                                          | *kofi **au** tee* = "coffee **or** tea"         |
+| **[[KU]]**  | Marks a question                              | *E o pene **ku**?* = "Are you beautiful **?** " |
 |             |                                               |                                                 |
-| **[[le]]**  | Shows the next word is a thing/idea (Concept) | ***le sun*** = "**the knowledge**"              |
-| **[[ta]]**  | Shows next word is an action                  | *A **ta heim** * = "I **aim**"                  |
-| **[[so]]**  | Shows the next word is  a description         | * **So mo** neko* = "the **big** cat"           |
-| **[[si]]**  | Shows the next word is a number               | * **si a** neko* = "**one** cat"                |
-| **[[to]]**  | Shows order (1st, 2nd...)                     | * **si a to** neko* = "**first** cat"           |
+| **[[LE]]**  | Shows the next word is a thing/idea (Concept) | ***le sun*** = "**the knowledge**"              |
+| **[[TA]]**  | Shows next word is an action                  | *A **ta heim** * = "I **aim**"                  |
+| **[[SO]]**  | Shows the next word is  a description         | * **So mo** neko* = "the **big** cat"           |
+| **[[SI]]**  | Shows the next word is a number               | * **si a** neko* = "**one** cat"                |
+| **[[TO]]**  | Shows order (1st, 2nd...)                     | * **si a to** neko* = "**first** cat"           |
 |             |                                               |                                                 |
-| **[[ti]]**  | Shows repetition ('again', 'times')           | *tape **ti** * = "eat **again**"                |
-| **[[se]]**  | Used for comparing ('than')                   | * **li se** inuko* = "**smaller than** a dog"   |
-| **[[i]]**   | Inside                                        | *Neko **i** heim* = "Cat **is inside** home"    |
-| **[[ne]]**  | Shows location ('on', 'at')                   | *neko **ne heim** * = "cat **at home** "        |
-| **[[hat]]** | Shows having/possession ('has')               | *A **hat** neko* = "I **have** a cat"           |
-| **[[ro]]**  | Shows belonging ('of', 's)                    | *heim **ro** a* = "home **of** me" / "my home"  |
+| **[[TI]]**  | Shows repetition ('again', 'times')           | *tape **ti** * = "eat **again**"                |
+| **[[SE]]**  | Used for comparing ('than')                   | * **li se** inuko* = "**smaller than** a dog"   |
+| **[[I]]**   | Inside                                        | *Neko **i** heim* = "Cat **is inside** home"    |
+| **[[NE]]**  | Shows location ('on', 'at')                   | *neko **ne heim** * = "cat **at home** "        |
+| **[[HAT]]** | Shows having/possession ('has')               | *A **hat** neko* = "I **have** a cat"           |
+| **[[RO]]**  | Shows belonging ('of', 's)                    | *heim **ro** a* = "home **of** me" / "my home"  |
 
 ## Selected Key Vocabulary
 ### Base Roots
 
-| *[[Lisu]]* | Meaning(s)         |
+| *[[LISU]]* | Meaning(s)         |
 | ---------- | ------------------ |
-| *[[a]]*    | I/me, one, here    |
-| *[[e]]*    | You, there         |
-| *[[i]]*    | Inside             |
-| *[[o]]*    | Is, =              |
-| *[[u]]*    | Chaos, uncertainty |
+| *[[A]]*    | I/me, one, here    |
+| *[[E]]*    | You, there         |
+| *[[I]]*    | Inside             |
+| *[[O]]*    | Is, =              |
+| *[[U]]*    | Chaos, uncertainty |
 | wai        | Water, flow        |
 | sun        | Knowledge, light   |
 
@@ -95,18 +95,18 @@ Particles are small words that help structure sentences and clarify meaning. The
 	´si X´
 	`si X to`
 
-| *[[Sisi]]* | *[[Lisu]]* | Metaphor      |
+| *[[SISI]]* | *[[LISU]]* | Metaphor      |
 | ---------- | ---------- | ------------- |
-| 0          | *[[seno]]* | Emptiness     |
-| 1          | *[[li]]*   | Smallest unit |
+| 0          | *[[SENO]]* | Emptiness     |
+| 1          | *[[LI]]*   | Smallest unit |
 | 2          | *[[ERE]]*   | Mirror        |
-| 3          | *[[ta]]*   | Action        |
-| 4          | *[[ma]]*   | Stability     |
-| 5          | *[[ka]]*   | Half          |
-| 6          | *[[pai]]*  | Play          |
-| 7          | *[[kulo]]* | Rainbow       |
-| 8          | *[[pu]]*   | Form          |
-| 9          | *[[ne]]*   | Surface       |
+| 3          | *[[TA]]*   | Action        |
+| 4          | *[[MA]]*   | Stability     |
+| 5          | *[[KA]]*   | Half          |
+| 6          | *[[PAI]]*  | Play          |
+| 7          | *[[KULO]]* | Rainbow       |
+| 8          | *[[PU]]*   | Form          |
+| 9          | *[[NE]]*   | Surface       |
 | 10         | liseno     | One zero      |
 
 ### Colors

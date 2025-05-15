@@ -27,7 +27,7 @@ Toki heim ro Sunwai o `Toki o sun!`. Se toki o "Toki o sun!". Pai sun se o:
 *   **No Hi an Oum:** Sunwai toki no ouman hi ne oum lisu. Sunwai na lisu oum. Sunwai o toki ne oum ouman.
 *   **Pene:** Toki kan o pene kulumia an kan ki pene an sipene.
 
-Pai sun Sunwai o no lono lisu. Se o ta e pai sun se an kulumia toki pu pai.
+Pai sun Sunwai o no luno lisu. Se o ta e pai sun se an kulumia toki pu pai.
 
 ## Ne Lisu Paisun Se
 
@@ -50,7 +50,7 @@ Ne pai sun mo ne lisu paisun se:
 3.  **Ta Lisu Si:** Hat Lisu Si Sunwai et e ne kulumia ran lisu li, pu ma, an lisu.
 4.  **Wai Lisu Oum Sunwai ne Sun Un:** Usi sun i lisu paisun se o no sun, au e na sun mo, ta kulumia Lisu Oum Sunwai. Se o lisu oum mo ro lisu paisun se. No na kulumia oum lisu se ne ke.
 5.  **Kulumia Lisu Sun Ro e:** Ta Lisu Sun ne Appendix A ne kulumia ta ro e an sun ta u.
-6.  **Ta e Lutaum:** Lono Sunwai hat lutaum. Heim ne sun pu ma ke. Sun li an ki pene wai an pai ta.
+6.  **Ta e Lutaum:** luno Sunwai hat lutaum. Heim ne sun pu ma ke. Sun li an ki pene wai an pai ta.
 7.  **(No na, kas pene):** Kan kulumia ouman nu, pai ta an e. Ta toki o tama pene ro pai sun.
 
 ## Pu Heim Paisun

@@ -21,7 +21,7 @@ Descriptor::	**Exhibiting biological characteristics typically associated with b
 ## Usage
 
 ### Descriptor (Primary Use)
-*   Modifies a noun (*[[Ko]]*, *[[Ouman]]*, *[[Kopu]]*) to indicate the presence of intersex biological characteristics. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
+*   Modifies a noun (*[[KO]]*, *[[OUMAN]]*, *[[Kopu]]*) to indicate the presence of intersex biological characteristics. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
 
 Example::   *Le ouman se o **Koere**.* = "That person is biologically **intersex**."
 

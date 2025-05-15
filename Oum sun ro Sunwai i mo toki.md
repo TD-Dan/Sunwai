@@ -1,7 +1,7 @@
 # Oum sun ro Sunwai i mo toki
 Sunwai o maheimtoki nu pu, se ta heim an anta le oum toki ro oumankoma. 
 ## Ma si
-### Ta li lono toki, ta mo mo toki pene oum
+### Ta li luno toki, ta mo mo toki pene oum
 
 ### Pupene lutaum
 

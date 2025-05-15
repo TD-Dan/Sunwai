@@ -21,7 +21,7 @@ Descriptor::	**Exhibiting biological characteristics related to the production o
 ## Usage
 
 ### Descriptor (Primary Use)
-*   Modifies a noun (*[[Ko]]*, *[[Ouman]]*, *[[Kopu]]*, specific species names) to indicate the biological role associated with large gamete production. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
+*   Modifies a noun (*[[KO]]*, *[[OUMAN]]*, *[[Kopu]]*, specific species names) to indicate the biological role associated with large gamete production. Often requires *so* marker for clarity when acting purely descriptively, though predicate use with *o* is common.
 
 Example::   *Se o neko **Koi**.* = "That cat **has the biology associated with producing ova**." / "That is a biologically **female** cat." (*Using the common English equivalent for fluency*).
 

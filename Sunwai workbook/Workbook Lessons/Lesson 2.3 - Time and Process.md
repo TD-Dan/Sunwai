@@ -38,27 +38,27 @@ This sequence shows:
 
 Now, let's learn the Sunwai words for each stage:
 
-**1. [AMA](../../lisuma%20(base%20set)/AMA.md) (`/ˈɑː.mɑ/`)**
+**1. [AMA](AMA.md) (`/ˈɑː.mɑ/`)**
     *   **Visual:** Sunrise
     *   **Keywords:** Start, Origin, Beginning
     *   **Meaning:** Represents the **start** or **origin point**. Think of the moment something commences. (*Derived from A - Observer/Here + MA - Foundation*).
 
-**2. [KE](../../lisuma%20(base%20set)/KE.md) (`/ˈke/`)**
+**2. [KE](KE.md) (`/ˈke/`)**
     *   **Visual:** Old Uramako
     *   **Keywords:** Previous, Old, Past
     *   **Meaning:** Represents what came **before** the current moment, the **previous** stage, or simply the **past**. The old rabbit symbolizes this look backward.
 
-**3. [KA](../../lisuma%20(base%20set)/KA.md) (`/ˈkɑ/`)**
+**3. [KA](KA.md) (`/ˈkɑ/`)**
     *   **Visual:** Uramako (the central one)
     *   **Keywords:** Center, Current, Balance, Present
     *   **Meaning:** Represents the **present** moment, the **current** stage, or a point of **balance**. It's the "now" in the sequence. (Note: `KA` also means the number 5, but here we focus on its time/process meaning).
 
-**4. [NU](../../lisuma%20(base%20set)/NU.md) (`/ˈnu/`)**
+**4. [NU](NU.md) (`/ˈnu/`)**
     *   **Visual:** Nuko Uramako (Baby Rabbit)
     *   **Keywords:** Next, New, Future
     *   **Meaning:** Represents what comes **after** the present, the **next** step, something **new**, or the **future**. The baby rabbit (`NUKO URAMAKO`) perfectly symbolizes this potential and newness.
 
-**5. [MAU](../../lisuma%20(base%20set)/MAU.md) (`/maˈu/`)**
+**5. [MAU](MAU.md) (`/maˈu/`)**
     *   **Visual:** Tombstone
     *   **Keywords:** End, Finish, Conclusion, Return
     *   **Meaning:** Represents the **end** of a process, the **finish**, or the **conclusion**, often suggesting a return to a base state or potential. (*Derived from MA - Foundation + U - Potential/Cessation*).
@@ -72,8 +72,8 @@ You saw the rabbit figure in several stages! The Sunwai word is:
 
 And for the baby rabbit representing the future (`NU` stage):
 
-*   **[NUKO](../../lisuma%20(base%20set)/NUKO.md) (`/ˈnuː.ko/`)**: Newborn, Offspring, Baby, Infant.
-*   **[NUKO](../../lisuma%20(base%20set)/NUKO.md) [URAMAKO](../../mo%20lisu%20(extended%20set)/URAMAKO.md) (`/ˈnuː.ko ˈuː.ɾa.ma.ko/`)**: Baby Rabbit, Young Hare.
+*   **[NUKO](NUKO.md) (`/ˈnuː.ko/`)**: Newborn, Offspring, Baby, Infant.
+*   **[NUKO](NUKO.md) [URAMAKO](../../mo%20lisu%20(extended%20set)/URAMAKO.md) (`/ˈnuː.ko ˈuː.ɾa.ma.ko/`)**: Baby Rabbit, Young Hare.
 
 Yes! You could also say NU URAMAKO, but we will go with NUKO URAMAKO here.
 
@@ -85,7 +85,7 @@ In this lesson, we'll use `AMA`, `KE`, `KA`, `NU`, `MAU`, and `URAMAKO` as **Con
 
 *Example Structure:* `[Concept] o [Descriptor].`
 *   `Ama o pene.` (The beginning is good.)
-*   `Ke o lono.` (The past is memory.)
+*   `Ke o luno.` (The past is memory.)
 
 **The story continues**
 
@@ -106,7 +106,7 @@ author-comment:: This section needs more content. Maybe another visualisation wi
 
 *   **o** - is, are
 *   **pene** - good, beautiful
-*   **lono** - memory
+*   **luno** - memory
 *   **u** - uncertain, chaos
 *   **ran** - fast
 *   **li** - small
@@ -118,7 +118,7 @@ author-comment:: This section needs more content. Maybe another visualisation wi
 ## Examples
 
 *   `Ama o pene.` = "The beginning is good."
-*   `Ke o lono.` = "The past is memory."
+*   `Ke o luno.` = "The past is memory."
 *   `Uramako ke o mo.` = "The old rabbit is big." (Referring to the past stage)
 *   `Ka o tilon a.` = "The present is my time." (Uses `tilo` - replace if needed: `Ka o pene.` = The present is good.)
 *   `Uramako o ran.` = "The rabbit is fast."
@@ -145,7 +145,7 @@ author-comment:: This section needs more content. Maybe another visualisation wi
 *   MAU			->		E. Sunrise
 
 **3. Fill-in-the-Blanks:** Choose the best word (`AMA`, `KE`, `KA`, `NU`, `MAU`) to complete the sentence.
-*   `______ o lono.` (The past is memory.)
+*   `______ o luno.` (The past is memory.)
 *   `Le uramako ______ o li.` (The baby rabbit is small.)
 *   `______ o u.` (The future is uncertain.)
 *   `Le ______ o pene.` (The beginning is good.)

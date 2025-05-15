@@ -39,7 +39,7 @@ Concept::		**(Rare/Derived) Addition, Inclusion, Similarity (as concepts)**
 *   **Placement Notes:** Generally placed near the element being added/emphasized (often after a noun/pronoun) or at the beginning of an added clause. Flexibility allows for nuance.
 
 ### Concept (Rare/Derived)
-*   (Rarely used directly as a noun). Refers abstractly to the idea of addition, inclusion, or similarity itself. Requires *[[le]]*.
+*   (Rarely used directly as a noun). Refers abstractly to the idea of addition, inclusion, or similarity itself. Requires *[[LE]]*.
     Example:: *Le **anse** ne pai o mo.* = "The **concept of addition/similarity** in thought is significant."
 
 ### Action / Descriptor

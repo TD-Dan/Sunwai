@@ -54,7 +54,7 @@ Example::   *Tilon se o **Kopita**.* = "That time is **reproductive** (e.g., a m
 
 ## Related Concepts / Distinctions
 *   **[[Kopi]]** (*ko + pi*): The egg, seed, spore, or gamete involved in *kopita*.
-*   **[[Nuko]]** (*nu + ko*): The newborn/offspring resulting from successful *kopita*.
+*   **[[NUKO]]** (*nu + ko*): The newborn/offspring resulting from successful *kopita*.
 *   **[[Koan]]** (*ko + an*): Intimate Bodily Togetherness/Connection. *kopita* is about biological function, *koan* is about physical closeness/connection. They may co-occur but are distinct concepts.
     *   *Example Distinction:* *Usi ko ere ta koan so napai, se kan ta kopita.* = "If two lifeforms are sexually intimate, they might reproduce."
 

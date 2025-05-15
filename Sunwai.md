@@ -26,7 +26,7 @@ The language can be extended beyond the base and extended set by following commo
 ### Worldwide heritage
 Takes words and concepts from accross all languages. A celebration of human roots and varied cultures.
 
-While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [heim](lisuma%20(base%20set)/HEIM.md) refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and language history.
+While the basic words and concepts are universal and broad in their meaning can they still reflect on human origins: the word [heim](HEIM.md) refers to any space dedicated to an individual or group of beings (house, apartment, cave, spaceship...) it still takes its roots from human experience and language history.
 ### Language is wisdom solidified
 Words contain meaning and meaning carries values. What words convey and carry inside them is not a trivial thing. Therefore language must hold beauty in its essence.
 
@@ -69,9 +69,9 @@ Letter distribution across words follows Zipf distribution for natural feel in v
 
 The 15 used letters are ordered for easy remembering with phonetic sounds and creates the Sunwai alphabetic order:
 
-**[A](lisuma%20(base%20set)/A.md) [E](lisuma%20(base%20set)/E.md) [I](lisuma%20(base%20set)/I.md) [O](lisuma%20(base%20set)/O.md) [U](lisuma%20(base%20set)/U.md)**				(the vowels, from common to rare)
-**[TA](lisuma%20(base%20set)/TA.md) [NE](lisuma%20(base%20set)/NE.md) [SI](lisuma%20(base%20set)/SI.md) [KO](lisuma%20(base%20set)/KO.md) [MU](lisuma%20(base%20set)/MU.md)**		(the common consonants)
-**[WAI](lisuma%20(base%20set)/WAI.md) [LE](lisuma%20(base%20set)/LE.md) [HI](lisuma%20(base%20set)/HI.md) [RO](lisuma%20(base%20set)/RO.md) [PU](lisuma%20(base%20set)/PU.md)**		(the rare consonants)
+**[A](A.md) [E](E.md) [I](I.md) [O](O.md) [U](U.md)**				(the vowels, from common to rare)
+**[TA](TA.md) [NE](NE.md) [SI](SI.md) [KO](KO.md) [MU](MU.md)**		(the common consonants)
+**[WAI](WAI.md) [LE](LE.md) [HI](HI.md) [RO](RO.md) [PU](PU.md)**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -203,7 +203,7 @@ Sunwai vocabulary is built from two main types of words:
 
 *   **Root Words:** These are the foundational, often single-syllable building blocks of the language (e.g., `a`, `ta`, `wai`, `sun`, `heim`). They represent the most basic concepts. (They are sometimes categorized as Prime, Secondary, and Tertiary roots based on their phonetic simplicity and foundational role).
 *   **Compound Words:** The vast majority of Sunwai words are formed by combining two or more roots, or existing compounds. This is the **primary and strongly preferred method of vocabulary expansion**, creating a logical and interconnected lexicon.
-* Additionally, Sunwai utilizes **productive prefixes**, most notably [NO](lisuma%20(base%20set)/NO.md), which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
+* Additionally, Sunwai utilizes **productive prefixes**, most notably [NO](NO.md), which modify the meaning of existing words, forming a key part of the language's structure and flexibility.
 
 ### 3. Principles for Creating New Words
 
@@ -222,7 +222,7 @@ Follow this preferred order when developing a new term:
 2.  **Seek Resonant Compounds:** *If* a meaningful internal compound *also happens* to phonetically suggest a relevant external word *without sacrificing internal logic*, this is ideal. It adds familiarity while respecting the system.
     *   *Example:* **`neko`** ("cat") is internally `ne` ("on/at; nine") + `ko` ("lifeform"). Its resemblance to Japanese *neko* is a bonus resonance, fitting the "Worldwide Heritage" spirit subtly.
 3.  **Prioritize Conceptual Fitness:** Ensure the new word fits naturally within Sunwai's semantic map. Is it aligned with its root meanings? Is it overly specific where a general term or phrase would do?
-4. **Prioritize Productive Prefixes (Especially [NO](lisuma%20(base%20set)/NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](lisuma%20(base%20set)/NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; lono → nolono). Relying on this productive rule keeps the lexicon concise and systematic.
+4. **Prioritize Productive Prefixes (Especially [NO](NO.md)):** Before creating entirely new roots or complex compounds to express an opposite or absence, always consider if the [NO](NO.md) prefix can be logically applied to an existing word. This is the **preferred method for negation and meaning reversal** (e.g., pene → nopene; luno → noluno). Relying on this productive rule keeps the lexicon concise and systematic.
 5.  **Limited Loans (Use Sparingly):** Direct borrowing is a last resort, acceptable *only* for:
     *   Highly specific, culturally bound concepts (unique foods, rituals) difficult to compound clearly.
     *   Technical/scientific terms challenging to represent concisely via compounding.
@@ -234,7 +234,7 @@ Follow this preferred order when developing a new term:
     *   Apply simplification rules: e.g., vowel and consonant doubling is removed (`sun + ne -> sune`), (`ta + an -> tan`)
     *   Avoid syllable repetition unless specifically creating an emphasis word (`li li` -> tiny) or an established concept derived from repetition (`sisi` -> number concept).
 *   **Word Length:** Aim for conciseness. While not a hard rule, words over 3-4 syllables warrant scrutiny – could a phrase or simpler term work?
-*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [SENO](lisuma%20(base%20set)/SENO.md), [NOPENE](NOPENE)) warrant separate entries.
+*  **Dictionary Scope:** Avoid creating individual dictionary entries for most NO- prefixed words. The general rule of meaning reversal is sufficient. Only fundamental or highly common/nuanced NO- compounds (like [SENO](SENO.md), [NOPENE](NOPENE)) warrant separate entries.
 
 **Guiding Philosophy:**
 New words should ideally reflect Sunwai's ethos: clarity, elegance, a blend of simplicity and depth, and the goal of "Language is wisdom solidified."
@@ -410,7 +410,7 @@ Further examples:
 
 ### 4. Negation and Meaning Reversal with NO
 
- The root [NO](lisuma%20(base%20set)/NO.md) is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
+ The root [NO](NO.md) is fundamental for expressing negation, opposition, or absence in Sunwai. It functions in two primary ways: as a standalone **Negation Particle** preceding the element it modifies, and as a **highly productive Prefix** that attaches to words to reverse their core meaning. Understanding both is key.
 #### Particle Usage 
 
 	no [X]
@@ -425,15 +425,15 @@ Example:: *A hat **no** heim.* = "I have **no** home." / "I do **not** have a ho
 
 	noX
 
-A core feature of Sunwai is the ability of `[NO](lisuma%20(base%20set)/NO.md)` to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
+A core feature of Sunwai is the ability of [NO](NO.md) to function as a productive prefix. When attached directly to the beginning of a root or compound word (Concepts, Actions, Descriptors), `no-` typically creates its semantic opposite or indicates the absence of the base concept.
 
 **Principle:** Apply this prefix logically where an opposite or absence makes sense. You do not need a dictionary entry for every possible `noX` combination; the meaning is derived from the prefix rule and the base word.
 
 **Common Examples Illustrating the Pattern:**
 *   *(pene -> beauty/good)* `nopene` = **bad/ugly/disharmonious**
     *   Example:: *Le **nopene** o u.* = "The **badness/ugliness** is chaos."
-*   *(lono -> memory/remember)* `nolono` = **forget/forgotten/unremembered**
-    *   Example:: *A lono, kas e **nolono**.* = "I remember, but you **forget**."
+*   *(luno -> memory/remember)* `noluno` = **forget/forgotten/unremembered**
+    *   Example:: *A luno, kas e **noluno**.* = "I remember, but you **forget**."
 *   *(sun -> clarity/knowledge)* `nosun` = **ignorance/unclear/darkness**
     *   Example:: *Sun o lumia; **nosun** o senokulo.* = "Clarity is light; **ignorance** is blackness."
 *   *(kan -> can/possible)* `nokan` = **unable/impossible**
@@ -443,7 +443,7 @@ A core feature of Sunwai is the ability of `[NO](lisuma%20(base%20set)/NO.md)` t
 *   *(ta -> action/change)* `nota` = **inaction/stasis**
     *   Example:: *So o **nota**.* = "Stillness is **inaction**."
 
-> Refer to the main dictionary entry for [NO](lisuma%20(base%20set)/NO.md) for more details and nuances.
+> Refer to the main dictionary entry for [NO](NO.md) for more details and nuances.
 
 
 ### 5. Existential/Locative (There is X / X is Y)
@@ -472,7 +472,7 @@ No specific verb needed for existence or location, always use **o**.
 	[Subject] ta [action] [Target]
 
 The action between subject and target indicates directed action.
-The particle [TA](lisuma%20(base%20set)/TA.md) can be used as action marker to resolve ambiquity in a sentence, if necessary.
+The particle [TA](TA.md) can be used as action marker to resolve ambiquity in a sentence, if necessary.
 
 - **Action:**
     - *A **ta** heim.* = "I aim."
@@ -515,7 +515,7 @@ Use repetition for emphasis
 
 	[Subject] [Action] [Object (optional)] pae [Beneficiary]
 
-*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[PAE](lisuma%20(base%20set)/PAE.md)**.
+*To indicate that an action is done for the benefit of or on behalf of a specific recipient (the beneficiary), use the dedicated benefactive particle **[PAE](PAE.md)**.
 
 Example:: *A ta tape **pae** e.* = "I provide/get food **for** you."
 
@@ -611,7 +611,7 @@ Sunwai uses markers to clarify usage of words. These are optional and allow for 
 	le [subject]
 	le [concept] [action]
 
- Concept marker [LE](lisuma%20(base%20set)/LE.md) can be used to clarify the usage of the next word:
+ Concept marker [LE](LE.md) can be used to clarify the usage of the next word:
  	*A **le waiko*** = I (as) **the fish**.
  		vs. A waiko = "I swim."
  	*A ta le tama ne wai* = "I take the bridge over the water" ("I action bridge(subject of action) over water")
@@ -625,7 +625,7 @@ Example:: *Le neko **tabe*** = "The cat **eats**."
 
 	ta [action]
 
-Action marker [TA](lisuma%20(base%20set)/TA.md) can be used to mark action in the following word:
+Action marker [TA](TA.md) can be used to mark action in the following word:
 	*A ta tape waiko.* = "I **eat** the fish."
 		vs. *A tape waiko* = "I food fish" (Clear if sitting in the table where food is presented, but not so clear without context.)
 
@@ -633,7 +633,7 @@ Action marker [TA](lisuma%20(base%20set)/TA.md) can be used to mark action in th
 
     so [descriptor]
 
-Descriptor marker [SO](lisuma%20(base%20set)/SO.md) can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
+Descriptor marker [SO](SO.md) can be used to clarify that the next word is being used in its descriptive capacity (as an adjective modifying a noun or as an adverb modifying an action/verb). Its use is optional but helpful in ambiguous contexts.
 
 *   **As Adjective:**
     *   Typically precedes the descriptor, which might precede or follow the noun it modifies, or act as a predicate linked by `o`.
@@ -655,7 +655,7 @@ Example::    *Neko ta tape so li.* = "The cat eats **subtly/a little bit**." - `
 
 	si [word]
 
-Numeral marker [SI](lisuma%20(base%20set)/SI.md) can be use to clarify that the next word is a number
+Numeral marker [SI](SI.md) can be use to clarify that the next word is a number
 	*si li* = 1
 
 > see section on [numbers](#Numbers) for more details
@@ -664,7 +664,7 @@ Numeral marker [SI](lisuma%20(base%20set)/SI.md) can be use to clarify that the 
 
     kas [clause]
 
-Contrast marker [KAS](lisuma%20(base%20set)/KAS.md) can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
+Contrast marker [KAS](KAS.md) can be used to introduce a clause or idea that contrasts with the preceding one, functioning similarly to "but" or "however". It signifies a separation or divergence in thought.
 
 *   Links contrasting statements:
 
@@ -879,7 +879,17 @@ Concept::		**Observer, self**
 Action::		**To observe**
 Descriptor::	**1, one**
 ```
-## 3. Usage
+
+## 3. Introductory Blurb (Optional but Recommended)
+
+*   A brief (1-2 sentences) overview of the word's core meaning, its derivation (if a compound), and key contrasts.
+
+Example (for APA):
+```markdown
+> A core root representing the action of an agent bringing something (an object, concept, opportunity, or responsibility) into their own possession, control, or sphere of activity. It implies a transfer, selection, or engagement directed towards or centered on the self (`[[A]]`). Derived from `[[A]]` (Self, Here, Actual, Observer) and `[[PA]]` (Give, Offer, Provide), conceptually "giving to self" or "actualizing a transfer/commitment to self." Contrasts with `[[PA]]` (to give away from self).
+```
+
+## 4. Usage
 
 - Split into subcategories: ### Marker, ### Concept, etc.
 - Provide examples using the Example:: prefix.
@@ -894,33 +904,49 @@ Example:
 Example:: ***A** o ouman.* = "**I** am human."
 
 ```
-## 4. Compounds  
+
+## 5. Compounds  
 - List compounds as bullet points with definitions and roots.  
 - Use `[#Compound](#Compound)` syntax for internal links.  
 
 Example:  
 ```markdown
 ## Compounds  
-- **[TAMA](lisuma%20(base%20set)/TAMA.md)** = Road (*ta + ma* = "movement on earth")  
+- **[TAMA](lisulono%20ma%20(base%20set)/TAMA.md) ** = Road (*ta + ma* = "movement on earth")  
 - **[NEKO](mo%20lisu%20(extended%20set)/NEKO.md)** = Cat (*ne + ko* = "nine-lifeform")  
 ```
-## 5. Origin  
-- Use bullet points with language names in **bold**.  
-- Include roots from Sunwai if aplicable
-- Include etymological roots and adaptations.  
-- - Use _underscores_ to italicize non-Sunwai words or transliterations within the Origin section.
+
+## 6. Distinctions (Optional but Recommended)
+*   Use this section to clarify the specific nuances of the word, especially how it differs from other closely related or potentially confusable words.
+*   Use bullet points. Clearly state `vs. [[OtherWord]]` and explain the difference. Provide contrastive examples if helpful.
+
+Example):
+```markdown
+## Distinctions
+
+*   **vs. `[[PA]]` (to give):** `APA` is transfer *to* the self/agent's sphere. `PA` is transfer *from* the self/agent's sphere.
+*   **vs. `[[HAT]]` (to have):** `APA` is the *action* of getting/acquiring. `HAT` is the *state* of possessing, often resulting from `APA`.
+    *   Example:: *A apa paitape. Sunta, a hat paitape.* = "I take the cake. Therefore, I have the cake."
+```
+
+## 7. Origin  
+-   Use bullet points with language names in **bold**.  
+*   If derived within Sunwai, state the Sunwai roots first (e.g., "**Sunwai**: `[[Root1]]` + `[[Root2]]`: Conceptualization...").
+*   Include etymological roots, conceptual links, or notable phonetic resonances from other languages.  
+*   Use _underscores_ to italicize non-Sunwai words or transliterations within the Origin section.
+
 
 Example:  
 ```markdown
 ## Origin  
-- **Sunwai**: **[AN](lisuma%20(base%20set)/AN.md)** + **[TA](lisuma%20(base%20set)/TA.md)** = "Togetherness action" - 'n' dropped for ease of speak
+- **Sunwai**: **[AN](lisulono%20ma%20(base%20set)/AN.md)** + **[TA](lisulono%20ma%20(base%20set)/TA.md)** = "Togetherness action" - 'n' dropped for ease of speak
 - **Arabic**: _أَنَا_ (_Ana_, I)  
 - **Sanskrit**: _अहम्_ (_Aham_, self)  
 ```
-## 6. Proverbs  
+## 8. Proverbs  
 - Format as `Proverb:: [Sunwai sentence] = "[Translation]"`. 
 - Each Proverb:: block must be preceded and followed by a single blank line for parsing.
-- Add contextual notes if needed.  
+- Dont add contextual notes, proverbs should stand by temselves. 
 
 Example:  
 ```markdown
@@ -929,38 +955,54 @@ Example:
 Proverb:: *Ouman o i a.* = "Sentience is in me."
 
 ```
-## 7. Notes & Formatting  
-- **Examples**: Italicize Sunwai sentences with *asterisks*, add translations in "quotes". No need to use explicit markers when sentence structure (SVO word order) is clear.
-- **Origin**: Italicize with _underscores_ to distinguish from Sunwai words.
-- **Homonyms**: Clarify context-specific meanings (e.g., *a* = "I" vs. "one").  
-- **Cross-references**: Link related entries with `[#Entry](#Entry)`.  
-- **Author Comments**: Use `author-comment::` for unresolved notes.  
-- **Markdown**: Dont use tables; use lists and headers for readability. Follow the style strictly as its used for data retrieval.
-## Example Entry  
+
+## General Formatting Notes & Reminders 
+*   **Word Roles (Metadata):** Clearly list Marker, Concept, Action, Descriptor roles. Use **bold** for the main English gloss in this section.
+*   **Examples (`Example::`):** Italicize Sunwai sentences with *asterisks*, add translations in "quotes". Use clear, concise examples demonstrating typical usage. Explicit markers can be omitted in examples if sentence structure (e.g., C-A-C flow) is unambiguous for the point being made.
+*   **Origin Section Non-Sunwai Words:** Italicize with _underscores_ (e.g., _pater_).
+*   **Homonyms/Polysemy:** The entire structure (Concept, Action, Descriptor) helps manage this. The "Introductory Blurb" and "Distinctions" sections further clarify nuances.
+*   **Cross-references:** Use `[[WordName]]` for linking to other Sunwai dictionary entries.
+*   **Author Comments:** Use `author-comment::` for unresolved notes, questions for later, or internal design thoughts. Do not comment outside author comment sections.
+*   **Markdown Structure:** Avoid tables. Use lists, headers, and consistent `Example::` / `Proverb::` block formatting for readability and potential automated parsing. Follow the overall style strictly.
+
+## Skeleton of Example Entry
 ```markdown
-### A  
-IPA::			/ˈɑ/  
-Marker::		**I/Me**  
-Concept::		**Observer, self**  
-Action::		**To observe**  
-Descriptor::	**1, one**  
+# WORDNAME
 
-## Usage  
-### Marker  
-- First-person pronoun  
-Example::	_**A** o ouman._ = "**I** am human."  
+IPA::           /.../
+Concept::       **Core Concept**
+Action::        **Core Action**
+Descriptor::    **Core Descriptor**
 
-### Descriptor  
-- Numeral "one" (with [SI](lisuma%20(base%20set)/SI.md) marker)  
-Example:: *Si **a** neko.* = "One cat."  
+> Introductory blurb explaining the essence, derivation, and key contrasts.
 
-## Origin  
-- **Hawaiian**: _Au_ ("me")  
-- **Arabic**: _أَنَا_ (_Ana_, "I")  
+## Usage
+### Concept
+Example:: *...*
+### Action
+Example:: *...*
+### Descriptor
+Example:: *...*
 
-## Proverbs  
-Proverb:: *A o oum.* = "I am everything."  
+## Compounds
+*   **[[COMPOUND1]]** (`[[ROOTA]]` + `[[ROOTB]]`): Meaning.
+*   ...
+
+## Distinctions
+*   **vs. `[[OTHERWORD1]]`:** Explanation of difference.
+    *   Example:: *...*
+*   ...
+
+## Origin
+- **Sunwai**: `[[ROOTA]]` + ...
+- **OtherLanguage**: _word_ (meaning).
+*   ...
+
+## Proverbs
+
+Proverb:: *...*
 ```
+
 
 # Appendices
 

@@ -40,7 +40,7 @@ Example::   *An pu sipu an se **ta oumansipu**.* = "We are building a system and
 ### Descriptor
 *   Describes something as being related to or characteristic of artificial/systemic intelligence.
 
-Example::   *Se o lono **so oumansipu**.* = "That is **AI-related** memory/data."
+Example::   *Se o luno **so oumansipu**.* = "That is **AI-related** memory/data."
 
 Example::   *A pai sipu **oumansipu**.* = "I am thinking about an **AI** system."
 

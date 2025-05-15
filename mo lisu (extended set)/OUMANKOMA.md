@@ -58,4 +58,4 @@ Proverb:: *Oumankoma o ko li ne oumheim.* = "Humans are small lifeforms in the u
 
 Proverb:: *Ta ro oumankoma wai ma.* = "The actions of humans affect the Earth." (Lit: "Action of humans flows [into] Earth.")
 
-Proverb:: *Lono oumankoma o ke oumankoma.* = "The memory of humankind is the past of humankind."
+Proverb:: *luno oumankoma o ke oumankoma.* = "The memory of humankind is the past of humankind."
