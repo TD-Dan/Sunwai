@@ -44,10 +44,9 @@ The constructs and ideas contained in a language are vital for the development a
 
 ## Similarities and roots with Toki Pona
 
-
 Sunwai shares with Toki Pona a foundation of a small, polysemous core vocabulary, phonetic simplicity using common cross-linguistic sounds, and a lack of grammatical gender or complex inflections, making both initially easy to learn. Both languages also encourage conceptual thinking by combining basic ideas to express more complex ones and share philosophical underpinnings regarding language's impact.
 
-However, Sunwai diverges by aiming for a significantly larger, extendable vocabulary through true lexical compounding (e.g., `WAIHEIM` from `WAI`+`HEIM`) rather than Toki Pona's primarily phrasal modification, and by offering a richer set of optional grammatical markers that allow for more flexible word order and greater precision for broader practical and technical communication. While certain core words like `TOKI` (language) and `KAN` (can/able) show clear resonance, Sunwai's syllable structure is more varied, and it explicitly embraces artistic freedom in expression, aiming for everyday usability and extendibility into specialized domains alongside its philosophical goals, whereas Toki Pona prioritizes its minimalist purity.
+However, Sunwai diverges by aiming for a significantly larger, extendable vocabulary through true lexical compounding (e.g., `WAIHEIM` from `WAI`+`HEIM`) rather than Toki Pona's primarily phrasal modification, and by offering a richer set of optional grammatical markers that allow for more flexible word order. Furthermore, while Toki Pona traditionally uses a very limited numeral system (one, two, many), Sunwai incorporates a base-10 system with words for 0-9 and methods for constructing larger numbers, aiming for greater numerical precision alongside its capacity for broader practical and technical communication. While certain core words like `TOKI` (language) and `KAN` (can/able) show clear resonance, Sunwai's syllable structure is more varied, and it explicitly embraces artistic freedom in expression, aiming for everyday usability and extendibility into specialized domains, whereas Toki Pona prioritizes its minimalist purity.
 
 > For a detailed comparison, see: [[Sunwai and Toki Pona - A Comparative Look]] )
 
