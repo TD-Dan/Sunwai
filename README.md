@@ -2,6 +2,8 @@
 
 **Sunwai** is a constructed language designed for universal communication, uniquely **blending elegant simplicity with expressive depth and practical structure**.
 
+**Pai wai oum. Pai o toki. Sunta toki wai wai oum!** = "Tought shapes world. Tought is language. Therefore language truly shapes world!"
+
 ## Key Features
 
 -   **Simplicity & Structured Depth**:
