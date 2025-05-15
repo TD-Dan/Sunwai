@@ -44,9 +44,8 @@ Example::   *A kutape **lon**.* = "I experience a **lasting** taste." (Focus on 
 
 *   **[[TILON]]** (*[[TI]]* + *lon*): Time, Duration ("Extended Interval").
 *   **[[KULO]]** (*[[KU]]* + *lon*, simplified): Color ("Sensed Length" -> Wavelength).
-*   **[[LUNO]]** (*lon* + *[[NO]]*, simplified): Memory, History ("Long Retention/Negation").
 *   **[[LONTAMA]]** (*lon* + *[[TAMA]]*): Long road, highway (emphasizing length).
-*   **[[LON]]** (*lon* + *[[LUNO]]*): Epic, saga, long-term memory/history ("long memory").
+*   **[[LONLUNO]]** (*lon* + *[[LUNO]]*): Epic, saga, long-term memory/history ("long memory").
 *   **[[LONHI]]** (*lon* + *[[HI]]*): Height, altitude ("long high").
 *   **[[LONKO]]** (*lon* + *ko*): Elongated/Tall lifeform (e.g., snake, giraffe).
 

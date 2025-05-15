@@ -44,21 +44,15 @@ The constructs and ideas contained in a language are vital for the development a
 
 ## Similarities and roots with Toki Pona
 
-author-comment:: This sections needs fact checking regarding to TP principles.
 
-Sunwai takes on the principles of Toki Pona by Sonja Lang:
-- Easy to learn and speak
-- Simple and consice base vocabulary that is very broad in its meaning.
+Sunwai shares with Toki Pona a foundation of a small, polysemous core vocabulary, phonetic simplicity using common cross-linguistic sounds, and a lack of grammatical gender or complex inflections, making both initially easy to learn. Both languages also encourage conceptual thinking by combining basic ideas to express more complex ones and share philosophical underpinnings regarding language's impact.
 
-However, Sunwai adds improvements:
-- where toki pona is more of an abstract language and a philosophy, Sunwai aims also for everyday usability and practicality.
-- Allows wide artistic and expressive freedom with pronunciation, syllables, word ordering and letterforms, making it suitable for poetic, technical and everyday use.
-- Advanced rules to create more specific words for more accurate communication
-	- broad to narrow words by using compound words: ne + ko = nine + animal = nineanimal = cat
-- Similar but more excact word overloading: one word can have multiple meanings depending on context, f.ex 'li' can indicate 'small, short' or number 'one' depending on context and sentences structure. It can also be used as a verb to mean 'to reduce, to shorten'. Overloading can always resolved with particles if necessary for clarity.
+However, Sunwai diverges by aiming for a significantly larger, extendable vocabulary through true lexical compounding (e.g., `WAIHEIM` from `WAI`+`HEIM`) rather than Toki Pona's primarily phrasal modification, and by offering a richer set of optional grammatical markers that allow for more flexible word order and greater precision for broader practical and technical communication. While certain core words like `TOKI` (language) and `KAN` (can/able) show clear resonance, Sunwai's syllable structure is more varied, and it explicitly embraces artistic freedom in expression, aiming for everyday usability and extendibility into specialized domains alongside its philosophical goals, whereas Toki Pona prioritizes its minimalist purity.
+
+> For a detailed comparison, see: [[Sunwai and Toki Pona - A Comparative Look]] )
 
 ## Creator and history of Sunwai
-The language was created and conceptualized over several years by Daniel Herkert as a hobby project to both create an unifying language for humanity and to improve upon the foundations laid by Toki Pona. Several AI language models were used as assistants to gather knowledge and statistics of humanitys languages. Sunwai was previously named penetoki.
+The language was created and conceptualized over several years by Daniel Herkert as a hobby project to both create an unifying language for humanity and to improve upon the foundations laid by Toki Pona. Several AI language models were used as assistants to gather knowledge and statistics of humanitys languages. Sunwai was previously named Penetoki.
 
 # Letters
 
