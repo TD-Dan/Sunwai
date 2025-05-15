@@ -1,4 +1,23 @@
 
+## In Summary:
+
+| Feature                      | Toki Pona                                       | Sunwai                                                                 | Similarity Level |
+| :--------------------------- | :---------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
+| **Core Vocabulary Size**     | Very Small (fixed ~130)                         | Small Base Set (~100), expandable Extended Set and Special Sets        | High (initial)   |
+| **Polysemy of Core Words**   | Very High                                       | High (for Base Set)                                                    | High             |
+| **Phonetic Simplicity**      | Extremely High (9C, 5V)                         | High (10C, 5V)                                                         | High             |
+| **Syllable Structure**       | Simple: (C)V(N)                                 | More Complex: (C1)V1(V2)(C2)                                           | Medium           |
+| **Compounding**              | Phrasal (modifier phrases)                      | Lexical (new single words)                                             | Medium (concept) |
+| **Grammar Complexity**       | Minimal particles, fixed SVO                    | More particles (optional), flexible order with markers                 | Low to Medium    |
+| **Inflections/Gender**       | None                                            | None                                                                   | High             |
+| **Primary Goal**             | Philosophical minimalism, simplicity            | Unifying common language, clarity, extendibility, artistic freedom     | Medium           |
+| **Ease of Initial Learning** | Very High                                       | High                                                                   | High             |
+| **Capacity for Precision**   | Lower (relies on descriptive phrasing)          | Higher (due to larger vocab potential and compounding)                 | Low              |
+| **Word `toki`**              | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
+| **Word `kan` (`ken`)**       | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
+
+Both languages share a spirit of seeking a simpler, more fundamental way to communicate and think about the world, starting from a small set of core concepts. Sunwai builds on this by allowing more complexity and precision where deemed necessary for broader practical application, while Toki Pona fiercely maintains its minimalist purity. They are beautiful "cousins" in the conlanging world, each with its own distinct charm and purpose.
+
 ## Similarities between Sunwai and Toki Pona:
 
 1.  **Small Core Vocabulary (Philosophical Starting Point):**
@@ -77,22 +96,3 @@
 7.  **Handling of Specificity:**
     *   **TP:** Relies heavily on context and descriptive phrasing for specificity. "Car" might be *tomo tawa* ("moving structure").
     *   **Sunwai:** Can use descriptive phrasing but also aims to create common compounds for frequently needed specific concepts (e.g., `PISU` for "market/trade," `SIPU` for "system").
-
-## In Summary:
-
-| Feature                      | Toki Pona                                       | Sunwai                                                                 | Similarity Level |
-| :--------------------------- | :---------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
-| **Core Vocabulary Size**     | Very Small (fixed ~130)                         | Small Base Set (~100), expandable Extended Set                         | High (initial)   |
-| **Polysemy of Core Words**   | Very High                                       | High (for Base Set)                                                    | High             |
-| **Phonetic Simplicity**      | Extremely High (9C, 5V)                         | High (10C, 5V)                                                         | High             |
-| **Syllable Structure**       | Simple: (C)V(N)                                 | More Complex: (C1)V1(V2)(C2)                                           | Medium           |
-| **Compounding**              | Phrasal (modifier phrases)                      | Lexical (new single words)                                             | Medium (concept) |
-| **Grammar Complexity**       | Minimal particles, fixed SVO                    | More particles (optional), flexible order with markers                 | Low to Medium    |
-| **Inflections/Gender**       | None                                            | None                                                                   | High             |
-| **Primary Goal**             | Philosophical minimalism, simplicity            | Unifying common language, clarity, extendibility, artistic freedom     | Medium           |
-| **Ease of Initial Learning** | Very High                                       | High                                                                   | High             |
-| **Capacity for Precision**   | Lower (relies on descriptive phrasing)          | Higher (due to larger vocab potential and compounding)                 | Low              |
-| **Word `toki`**              | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
-| **Word `kan` (`ken`)**       | Foundational                                    | Foundational (with TP resonance)                                       | Very High        |
-
-Both languages share a spirit of seeking a simpler, more fundamental way to communicate and think about the world, starting from a small set of core concepts. Sunwai builds on this by allowing more complexity and precision where deemed necessary for broader practical application, while Toki Pona fiercely maintains its minimalist purity. They are beautiful "cousins" in the conlanging world, each with its own distinct charm and purpose.
