@@ -38,7 +38,7 @@ Examples:
 ### Tought shapes world. Tought is language. Therefore language shapes world!
 It is not trivial how we speak and think. The ideas contained in words affect the way we think and act. Therefore it is critical that we use a language that contains the right values.
 
-**Sun wai oum. Sun o toki. Sunta toki wai wai oum!** = "Tought shapes world. Tought is language. Therefore language shapes world!"
+**Pai wai oum. Pai o toki. Sunta toki wai wai oum!** = "Tought shapes world. Tought is language. Therefore language truly shapes world!"
 
 The constructs and ideas contained in a language are vital for the development and betterment of humankind.
 
