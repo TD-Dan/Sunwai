@@ -7,6 +7,8 @@ author-comment:: integrate essential phrases into each lesson
 
 author-comment:: Integrate overarching story that carries trough the lessons
 
+author-comment:: Workbooks should consider the learning path from source language to Sunwai. F.ex what is easy for native English speakers is not necessary so for a Japanese speaker etc. So each workbook for each language should consider different paths starting from most relatable words and grammar. This could be a a different "Springboards" series of workbooks? A sort of a migration tool to loan a concept from programming.
+
 # Part 1: The Sounds and Shapes of Sunwai (Foundations)
 
 ## [Lesson 1.1 - The Sunwai Alphabet and Basic Pronunciation](Workbook%20Lessons/Lesson%201.1%20-%20The%20Sunwai%20Alphabet%20and%20Basic%20Pronunciation.md)

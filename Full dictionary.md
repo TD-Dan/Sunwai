@@ -4,6 +4,8 @@ copy from "Sunwai full dictionary automatic"
 use ctrl-h -> replace "[ " with "["
 use ctrl-p -> bake into "Sunwai full dictionary.baked" (might need to delete the previous file to make it work)
 -->
+
+author-comment:: need a word for container/box/enclosure
 # **Base set**
 
 [[A]]

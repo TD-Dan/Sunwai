@@ -1,3 +1,4 @@
+i
 
 # Lesson 1.3: Words Wear Different Hats (M, C, A, D)
 
