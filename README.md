@@ -34,6 +34,7 @@
    * [Compiled full dictionary]("Full%20dictionary.baked.md")
    * [Reference sheet](Sunwai%20Reference%20Sheet.md)
    * [Workbook](Sunwai%20workbook/Sunwai%20Workbook.md)
+   * [Sunwai and Tokipona comparison](Sunwai%20and%20Toki%20Pona%20-%20A%20Comparative%20Look.md)
 
 
 **Toki o sun!** = "Language is wisdom!"
