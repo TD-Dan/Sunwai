@@ -1,7 +1,7 @@
 ---
 roots:
-  - "[AN](AN.md)"
-  - "[TA](TA.md)"
+  - "[[AN]]"
+  - "[[TA]]"
 tags:
   - base-set
   - compound

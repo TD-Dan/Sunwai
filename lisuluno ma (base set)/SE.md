@@ -5,6 +5,7 @@ tags:
   - base-set
   - tertiary-root
   - word
+  - marker
 to: 80
 ---
 Okay, let's revise the dictionary entry for **SE** to incorporate its role as an optional marker for the consequent clause ("then") in conditional structures.
