@@ -72,10 +72,10 @@ How do you know which part of a Sunwai word to emphasize?
 *   **Rule of Thumb:** Stress usually falls on the **first syllable** of the word.
 *   **How to Stress:** Often, you make the first vowel sound a bit longer.
     *   `Neko` -> sounds more like `Nee-ko` (`/ˈneː.ko/`)
-    *   `pene` (good/beautiful) -> sounds more like `pee-ne` (`/ˈpeː.ne/`)
-    *   `ouman` (person) -> sounds more like `oo-man` (`/ˈou.man/`)
+    *   `pene` (good/beautiful) -> sounds more like `Bee-ne` (`/ˈbeː.ne/`)
+    *   `ouman` (person) -> sounds more like `Ou-man` (`/ˈou.man/`)
 *   **Exception:** If the first syllable already has two vowels (like `wai`, `hai`, `heim`), you usually don't lengthen it further. It's naturally a bit longer.
-    *   `heim` -> just `heim` (`/heim/`) - already contains CVVC.
+    *   `heim` -> just `Heim` (`/heim/`) - already contains CVVC.
     *   `Hai` -> just `Hai` (`/hɑi/`) - already contains CVV.
 
 *   **Artistic Freedom:** Remember, this is the *standard* way. Speakers can change stress for poetry, music, or emphasis! But learn the standard first.
@@ -85,7 +85,7 @@ How do you know which part of a Sunwai word to emphasize?
 Let's practice with these words:
 
 *   `wai` `/wɑi/` - water, flow, change
-*   `pene` `/ˈpeː.ne/` - good, beautiful, harmony
+*   `pene` `/ˈbeː.ne/` - good, beautiful, harmony
 *   `heim` `/heim/` - home, center, target
 *   `ouman` `/ˈou.man/` - person, sentient being
 *   `li` `/li/` - small, short; one (1)
@@ -140,7 +140,7 @@ Let's practice with these words:
 *   `ka` -> ______ (Valid)
 
 **4. Stress Practice:** Read these words aloud, trying to put stress (slightly longer vowel) on the first syllable.
-*   `pene` (pee-ne)
+*   `bene` (bee-ne)
 *   `toki` (too-ki)
 *   `kulo` (kuu-lo)
 *   `ouman` (oo-man)
@@ -150,6 +150,6 @@ Let's practice with these words:
 
 ---
 
-*Pene!* You now understand how Sunwai sounds are put together into syllables and words, and how the basic rhythm works. This structure makes words distinct and relatively easy to pronounce.
+*Bene!* You now understand how Sunwai sounds are put together into syllables and words, and how the basic rhythm works. This structure makes words distinct and relatively easy to pronounce.
 
 In the next lesson, we'll explore a core idea: how a single Sunwai word can often wear different hats – acting as a noun, verb, or descriptor depending on how it's used! --> [Lesson 1.3 - Words Wear Different Hats](Lesson%201.3%20-%20Words%20Wear%20Different%20Hats.md)]]
