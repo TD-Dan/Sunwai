@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - base-set
   - tertiary-root

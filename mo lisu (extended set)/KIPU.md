@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[KI]]"
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - compound
   - extended-set
@@ -16,7 +16,7 @@ Concept::       **Symbol, Character, Letter, Glyph, Sign, Icon; Representational
 Action::        **To symbolize, represent (with a sign/glyph), write/inscribe a character**
 Descriptor::    **Symbolic, Graphic (as character), Representational (by form)**
 
-> Represents a discrete visual or conceptual form (**[[PU]]**) whose primary function is communication, signification, or representation (**[[KI]]**). This includes letters of an alphabet, numerical digits, mathematical operators, icons, meaningful glyphs, or any standardized sign used to convey information. Contrasts with **[[LISU]]** (word, typically composed of **kipu**) and general **[[PU]]** (form/structure not necessarily for communication). Belongs to the **Base Set**.
+> Represents a discrete visual or conceptual form (**[[BU]]**) whose primary function is communication, signification, or representation (**[[KI]]**). This includes letters of an alphabet, numerical digits, mathematical operators, icons, meaningful glyphs, or any standardized sign used to convey information. Contrasts with **[[LISU]]** (word, typically composed of **kipu**) and general **[[BU]]** (form/structure not necessarily for communication). Belongs to the **Base Set**.
 
 ## Usage
 
@@ -60,12 +60,12 @@ Example::   *An toki **so kipu**.* = "We communicate **symbolically/using charac
 
 ## Origin
 
-*   **Sunwai**: Compound of **[[KI]]** (Communication, Expression, Signal, Message, Transmission) + **[[PU]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
+*   **Sunwai**: Compound of **[[KI]]** (Communication, Expression, Signal, Message, Transmission) + **[[BU]]** (Form, Structure, Arrangement, Organization). It signifies a "Communication Form" or "Representational Structure," highlighting the primary function of symbols and characters in conveying meaning or data.
 
 ## Proverbs
 
-Proverb:: *Mu kipu pu toki mo.* = "Many symbols/characters build a big language."
+Proverb:: *Mu kipu bu toki mo.* = "Many symbols/characters build a big language."
 
-Proverb:: *Kipu o pu ro pai.* = "Symbols/Characters are the forms of thought."
+Proverb:: *Kipu o bu ro pai.* = "Symbols/Characters are the forms of thought."
 
 Proverb:: *Sun i kipu li.* = "Knowledge (can be) in a small symbol."

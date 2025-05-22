@@ -30,7 +30,7 @@ Example::   *Le **wahiko** o kota.* = "The **duck** is biologically male."
 Example::   *Le ko **ta Wahiko** ne wai.* = "The creature **swims/acts like a duck** in the water."
 
 ### Descriptor
-Example::   *A hat pu **wahiko**.* = "I have a **duck-like** shape (e.g., decoy)."
+Example::   *A hat bu **wahiko**.* = "I have a **duck-like** shape (e.g., decoy)."
 
 ## Compounds
 *(None defined yet)*

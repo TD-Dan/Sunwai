@@ -36,7 +36,7 @@ Example::   *Mama **ke** mama.* = "Parents **come before** parents." (Generation
 ### Descriptor
 *   Describes something as being earlier in time or sequence; prior or former. Can imply "old" through context. Reduplication `ke ke` emphasizes significant precedence (ancient, long past), or previous of previous (-2)
 
-Example::   *Se o pu **ke**.* = "That is the **preceding/prior/former** form."
+Example::   *Se o bu **ke**.* = "That is the **preceding/prior/former** form."
 Example::   *E o ouman **ke** ro maheim an.* = "You are a **former** person of our homeland."
 Example::   *Le **ke ke** ouman o sun.* = "The **very ancient** (lit. preceding-preceding) person is wise."
 Example::   *A hat tape **ne ke**.* = "I had food **before / in the past**." (`ne ke` = "at a preceding time").

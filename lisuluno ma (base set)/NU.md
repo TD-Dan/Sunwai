@@ -24,7 +24,7 @@ Example::   *Le **nu** o u.* = "The **next (thing) / future** is uncertain." (*l
 
 Example::   *A pai **nu**.* = "I think about **what comes next / the future**." (*nu* as Concept/Object).
 
-Example::   *An pu **nu**.* = "We create the **future**." (Subject *an*, Verb *pu* implied, Object *nu*).
+Example::   *An bu **nu**.* = "We create the **future**." (Subject *an*, Verb *pu* implied, Object *nu*).
 
 ### Action
 *   The act of following or succeeding something/someone.
@@ -38,7 +38,7 @@ Example::   *Ko pene **nu** ko u.* = "Good lifeforms **follow** chaotic lifeform
 ### Descriptor
 *   Describes something as being later in time, space, or sequence; subsequent or next. Can imply "new" through context.
 
-Example::   *Se o pu **nu**.* = "That is the **following/subsequent/next** form." (Predicate Descriptor).
+Example::   *Se o bu **nu**.* = "That is the **following/subsequent/next** form." (Predicate Descriptor).
 
 Example::   *Ouman **nu** ta toki.* = "The **next/following** person speaks." (*nu* modifies *ouman*).
 

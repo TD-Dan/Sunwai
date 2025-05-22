@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[SI]]"
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - base-set
   - compound
@@ -49,7 +49,7 @@ Example::   *Ta **sipu** le lisu!* = "**Organize** the words!"
 
 Example::   *Se o pai **so sipu**.* = "That is a **systematic** thought." (`so` optional).
 
-Example::   *A hat pu **sipu**.* = "I have a **functional/system-like** structure."
+Example::   *A hat bu **sipu**.* = "I have a **functional/system-like** structure."
 
 Example::   *An toki **so sipu**.* = "We speak **systematically/in an organized way**."
 
@@ -66,7 +66,7 @@ Example::   *Oum ko o **sipu**.* = "All life **is systemic**." (Life functions a
 *   **[[sipusun]]** (`sipu` + `[[sun]]`): Systems Theory, Cybernetics, Knowledge of Systems
 ## Origin
 
-*   **Sunwai**: Compound of **[[SI]]** (Measure, unit, standard, rule, law, principle) + **[[PU]]** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
+*   **Sunwai**: Compound of **[[SI]]** (Measure, unit, standard, rule, law, principle) + **[[BU]]** (Form, Structure, Arrangement, Organization - physical or abstract). It signifies a "Rule-based/Principled Structure," forming the foundation for understanding how diverse systems function.
 
 ## Proverbs
 

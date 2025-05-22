@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[KI]]"
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - compound
   - extended-set

@@ -43,7 +43,7 @@ Example::   ***Ha** ta ne ma!* = "**Wind** blows over the land!"
 
 Example::   *Timo o **ha**.* = "Time is **ephemeral**."
 
-Example::   *Se o pu **so ha**.* = "That is an **airy/light** structure."
+Example::   *Se o bu **so ha**.* = "That is an **airy/light** structure."
 
 Example::   *Wai o **ha**.* = "The water is **gaseous** (steam)."
 

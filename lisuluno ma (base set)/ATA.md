@@ -24,7 +24,7 @@ Descriptor::	**Combined, United, Joined; Relating to a meeting/gathering; Encoun
 *   Refers to the event of a meeting, a gathering of people, a union of entities, an encounter, or a combined state.
 
 Example::   *Le **ata** ro an o pene.* = "Our **meeting/gathering** is good."
-Example::   *An pu **ata** mo ne maheim.* = "We are making a big **assembly/union** in the homeland."
+Example::   *An bu **ata** mo ne maheim.* = "We are making a big **assembly/union** in the homeland."
 Example::   *Se o **ata** u ro pai kas.* = "That is an unexpected **encounter** of different thoughts."
 Example::   ***Ata** ro wai an ai o mo.* = "The **combination** of water and fire is intense."
 
@@ -69,6 +69,6 @@ Example::   *An hat tilon **ata** pene.* = "We had a good **meeting** time."
 ## Proverbs
 
 Proverb:: *I ata, sun wai mo.* = "In meeting/gathering, knowledge flows greatly."
-Proverb:: *Ata li kan pu sipu mo.* = "Small gatherings/combinations can create big systems."
+Proverb:: *Ata li kan bu sipu mo.* = "Small gatherings/combinations can create big systems."
 Proverb:: *Ta ata o ta an, ta an o ta pene.* = "To meet/combine is to create togetherness, to be together is to create goodness."
 Proverb:: *Seno ata, seno nu sun.* = "Without meeting/encounter, no new knowledge."

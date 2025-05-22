@@ -29,7 +29,7 @@ Example:: *Le **paitape** o pene!* = "The **cake** is good/delicious!"
 
 Example:: *A hat si an **paitape**.* = "I have two **cakes**."
 
-Example:: *Mama pu **paitape** pi.* = "The parent makes/crafts a round **cake**."
+Example:: *Mama bu **paitape** pi.* = "The parent makes/crafts a round **cake**."
 
 ### Action
 

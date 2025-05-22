@@ -38,7 +38,7 @@ Example::   *Ta **sipene** se!* = "**Make it just/harmonious/precise!**"
 *   Describes something as being precisely balanced, just, fair, or related to the Golden Ratio.
 
 Example::   *Se o toki **sipene**.* = "That is **just/harmonious** language."
-Example::   *A hat pu **so sipene**.* = "I have a **precisely balanced** (Golden Ratio?) structure."
+Example::   *A hat bu **so sipene**.* = "I have a **precisely balanced** (Golden Ratio?) structure."
 Example::   *Ta **sipene** o pene.* = "A **just/fair** action is good."
 
 ## Compounds

@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[I]]"
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - base-set
   - word
@@ -16,7 +16,7 @@ Concept::		**Enclosure, Container, Cavity, Vessel, Box; Defined Space (physical 
 Action::		**To enclose, encase, contain (within a defined form/space); To compartmentalize, modularize**
 Descriptor::	**Enclosing, Containing (as a defined form/space), Encased, Compartmentalized, Modular**
 
-> Represents a defined form (*[[PU]]*) characterized by having an interior space or "insideness" (*[[I]]*). It encompasses physical containers (boxes, vessels, cases) as well as abstract enclosures or defined conceptual spaces (modules, compartments, parameters of a situation). The core idea is a structure that defines an "in" separate from an "out."
+> Represents a defined form (*[[BU]]*) characterized by having an interior space or "insideness" (*[[I]]*). It encompasses physical containers (boxes, vessels, cases) as well as abstract enclosures or defined conceptual spaces (modules, compartments, parameters of a situation). The core idea is a structure that defines an "in" separate from an "out."
 
 ## Usage
 
@@ -40,7 +40,7 @@ Example::   *Sipu se **ipu** oum ta li.* = "That system **encloses/contains** al
 ### Descriptor
 *   Describes something as enclosing, being a container, or being modular/compartmentalized.
 
-Example::   *A hat pu **so ipu**.* = "I have an **enclosing/container-like** structure."
+Example::   *A hat bu **so ipu**.* = "I have an **enclosing/container-like** structure."
 Example::   *Se o sipu **ipu** mo.* = "That is a big **modular/compartmentalized** system."
 Example::   *Pai ro an o **ipu**.* = "Our thinking is **compartmentalized/focused within defined spaces**."
 

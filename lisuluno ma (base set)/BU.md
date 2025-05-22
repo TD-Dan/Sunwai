@@ -7,9 +7,9 @@ tags:
 to: 15
 ---
 
-# PU
+# BU
 
-IPA::					/ˈpu/
+IPA::					/ˈbu/
 Concept::			**Form, Structure, Arrangement, Organization (physical or abstract)**
 Action::			**To form, structure, arrange, organize; To craft, shape, design (physically or abstractly)**
 
@@ -21,15 +21,15 @@ author-comment:: PU is missing Descriptor usage
 ### Concept
 *   Refers to the form, structure, organization, or arrangement itself, whether tangible or conceptual.
 
-Example::   *Le *pu* o pene!* = "The **sculpture/form** (physical structure) is beautiful!"
+Example::   *Le **pu** o pene!* = "The **sculpture/form** (physical structure) is beautiful!"
 
-Example::   *A pai le *pu* ro sipu.* = "I contemplate the **structure** of the system." (Can be physical or abstract).
+Example::   *A pai le **pu** ro sipu.* = "I contemplate the **structure** of the system." (Can be physical or abstract).
 
 Example::   ***Pu** ro toki o sipene.* = "Language’s **structure/organization** (abstract structure) is harmonious/precise."
 
-Example::   *Se o *pu* mo ro heim.* = "That is the large **structure** of the home." (Physical).
+Example::   *Se o **pu** mo ro heim.* = "That is the large **structure** of the home." (Physical).
 
-Example::   *An hat *pu* nu ro sunta.* = "We have a new **plan/structure** for the conclusion." (Abstract).
+Example::   *An hat **pu** nu ro sunta.* = "We have a new **plan/structure** for the conclusion." (Abstract).
 
 ### Action
 *   The act of giving form, structuring, arranging, or organizing, applicable to both materials and ideas. *ta* can optionally clarify verb usage.
@@ -59,7 +59,7 @@ Example::   *Ta **pu** le lisu!* = "**Structure/Organize** the words!" (Abstract
 
 ## Proverbs
 
-Proverb:: *A pu ma, sunta a pu pene.* = "I shape matter, therefore I create beauty." (Focuses on physical application).
+Proverb:: *A bu ma, sunta a bu pene.* = "I shape matter, therefore I create beauty." (Focuses on physical application).
 
 Proverb:: *Pu ro pai o sun.* = "The structure of thought is clarity/knowledge." (Focuses on abstract application).
 

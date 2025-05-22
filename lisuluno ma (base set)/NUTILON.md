@@ -24,7 +24,7 @@ Descriptor::	**Future, Forthcoming, Subsequent (in time)**
 
 Example::   *Le **nutilon** o u.* = "The **future** is uncertain."
 Example::   *A pai **nutilon**.* = "I think about the **future**."
-Example::   *An pu **nutilon**.* = "We build the **future**."
+Example::   *An bu **nutilon**.* = "We build the **future**."
 
 ### Action
 *   The act of something happening later, or mentally projecting into the future. Often context implies future action without explicit *nutilon* verb use (e.g., using *nu* marker).

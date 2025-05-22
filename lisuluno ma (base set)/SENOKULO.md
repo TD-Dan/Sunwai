@@ -36,7 +36,7 @@ Example::   *Ta **senokulo** se!* = "**Make it black!**"
 *   Describes something as being black in color or very dark.
 
 Example::   *Neko o **senokulo**.* = "The cat is **black**."
-Example::   *A hat pu **senokulo**.* = "I have a **black** structure."
+Example::   *A hat bu **senokulo**.* = "I have a **black** structure."
 Example::   *Wai o **senokulo** mo.* = "The water is intensely **dark**."
 
 ## Compounds

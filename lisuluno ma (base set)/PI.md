@@ -1,6 +1,6 @@
 ---
 roots:
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - base-set
   - tertiary-root
@@ -44,7 +44,7 @@ Example::   *Neko ta pai **pi** le heim.* = "The cat plays **circling** the home
 ### Descriptor
 *   Describes something as circular, round, cyclical, or surrounding. Can sometimes function adverbially.
 
-Example::   *A hat pu **pi**.* = "I have a **round** form/structure."
+Example::   *A hat bu **pi**.* = "I have a **round** form/structure."
 
 Example::   *Se o sun **pi**.* = "That is **cyclical** knowledge."
 

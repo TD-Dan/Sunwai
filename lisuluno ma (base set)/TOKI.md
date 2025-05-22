@@ -60,4 +60,4 @@ Example:: *A hat sun **so toki**.* = "I have **linguistic** knowledge."
 
 Proverb:: *Toki o sun.* = "Language **is** wisdom/clarity." (The motto of Sunwai).
 
-Proverb:: *Mu toki o u pu so mo. Sunwai o sun pu.* = "Many languages are a complexly chaotic structure. Sunwai is a clear structure."
+Proverb:: *Mu toki o u bu so mo. Sunwai o sun pu.* = "Many languages are a complexly chaotic structure. Sunwai is a clear structure."

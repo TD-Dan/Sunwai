@@ -105,7 +105,7 @@ Particles are small words that help structure sentences and clarify meaning. The
 | 5          | *[[KA]]*   | Half          |
 | 6          | *[[PAI]]*  | Play          |
 | 7          | *[[KULO]]* | Rainbow       |
-| 8          | *[[PU]]*   | Form          |
+| 8          | *[[BU]]*   | Form          |
 | 9          | *[[NE]]*   | Surface       |
 | 10         | liseno     | One zero      |
 

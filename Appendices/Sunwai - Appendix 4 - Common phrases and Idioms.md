@@ -155,7 +155,7 @@ Example:: *An na wai heim. Ran!* = "We need to go home. Hurry!"
 ### Lu!
 *   Clear out! / Make space! / Empty it!
 
-Example:: *Tape seno. Lu pu se!* = "The food is gone. Empty that container!"
+Example:: *Tape seno. Lu bu se!* = "The food is gone. Empty that container!"
 
 #### Breakdown
 [[LU]] (Void/Empty). Command related to creating emptiness or space.

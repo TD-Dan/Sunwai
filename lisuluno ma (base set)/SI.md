@@ -60,7 +60,7 @@ Example::   *Ta *so si* o pene.* = "A **principled/measured** action is good."
 ## Compounds
 
 *   **[[SISI]]** = Number (*si* + *si* = "number number")
-*   **[[SIPU]]** = System, Mechanism (*si* + *[[PU]]* = "rule-based structure")
+*   **[[SIPU]]** = System, Mechanism (*si* + *[[BU]]* = "rule-based structure")
 *   **[[TILOSI]]** = Clock, Schedule (*[[TILON]]* + *si* = "time measured/regulated")
 *   **[[SIPENE]]** = Harmony, Justice, Fairness, Golden Ratio (*si* + *[[PENE]]* = "principle/standard of beauty/goodness")
 *   **[[LISUSI]]** = Grammar, Syntax; Definition (*[[LISU]]* + *si* = "word rule/principle")

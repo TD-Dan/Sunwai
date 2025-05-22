@@ -58,4 +58,4 @@ Proverb:: *Penere o heim ro pai.* = "Friendship is a home for the mind/spirit."
 
 Proverb:: *Ta penere o ta an pene.* = "To act in friendship is to act with good togetherness."
 
-Proverb:: *Penere lon o pu ne kas kas kas.* = "Long friendship is built through many differences/separations (and reunions)."
+Proverb:: *Penere lon o bu ne kas kas kas.* = "Long friendship is built through many differences/separations (and reunions)."

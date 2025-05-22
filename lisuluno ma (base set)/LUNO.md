@@ -29,7 +29,7 @@ Example::   *Oum o **LUNO** ne tilo.* = "Everything becomes **history/a memory**
 Example::   *A hat **LUNO** mo ro haitoki an.* = "I have great **memories** of our conversation."
 
 ### Action
-*   The act of retrieving information/experiences from memory or being mindful of them. The act of creating a record is often *ta pu LUNO* or *ta kipu LUNO*.
+*   The act of retrieving information/experiences from memory or being mindful of them. The act of creating a record is often *ta bu LUNO* or *ta kipu LUNO*.
 
 Example::   *A **LUNO** e.* = "I **remember** you."
 Example::   *E **LUNO** sun se ku?* = "Do you **recall** that knowledge?"

@@ -64,7 +64,7 @@ The 15 used letters are ordered for easy remembering with phonetic sounds and cr
 
 **[A](A.md) [E](E.md) [I](I.md) [O](O.md) [U](U.md)**				(the vowels, from common to rare)
 **[TA](TA.md) [NE](NE.md) [SI](SI.md) [KO](KO.md) [MU](MU.md)**		(the common consonants)
-**[WAI](WAI.md) [LE](LE.md) [HI](HI.md) [RO](RO.md) [PU](PU.md)**		(the rare consonants)
+**[WAI](WAI.md) [LE](LE.md) [HI](HI.md) [RO](RO.md) [BU](BU.md)**		(the rare consonants)
 
 This can be sang with a melody to learn the alphabet.
 For the consonants these are the names of the letters and do not restrict them from being combined with other vowels.
@@ -514,7 +514,7 @@ Use repetition for emphasis
 
 Example:: *A ta tape **pae** e.* = "I provide/get food **for** you."
 
-Example:: *Mama pu paitape **pae** nuko.* = "The parent makes cake **for** the offspring."
+Example:: *Mama bu paitape **pae** nuko.* = "The parent makes cake **for** the offspring."
 
 Example:: *A toki **pae** e.* = "I speak **for / on behalf of** you."
 

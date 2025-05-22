@@ -27,7 +27,7 @@ Descriptor::	**(Derived) Benefactive, Representative (requires *so*)**
 
 Example::   *A ta tape **pae** e.* = "I get/make food **for** you." (Compare: *A pa tape **ne** e.* = "I give food **to** you.")
 
-Example::   *Mama pu paitape **pae** nuko.* = "The parent makes cake **for** the offspring."
+Example::   *Mama bu paitape **pae** nuko.* = "The parent makes cake **for** the offspring."
 
 Example::   *A toki **pae** maheim.* = "I speak **on behalf of / representing** the homeland."
 

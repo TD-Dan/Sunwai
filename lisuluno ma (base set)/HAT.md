@@ -41,13 +41,13 @@ Example::   ***Hat** tape o pene.* = "**Having** food is good." (Using `hat` as 
 
 Example::   *Se o heim **so hat** pene.* = "That is a home **having** beauty." (`so hat` optionally clarifies `hat` describes `heim`).
 
-Example::   *Le pu so **hat** wai o mo.* = "The container **holding** water is big." (Lit: "The form having water...").
+Example::   *Le bu so **hat** wai o mo.* = "The container **holding** water is big." (Lit: "The form having water...").
 
 Example::   *A o **hat** sun.* = "I **am having** knowledge." (I possess knowledge).
 
 ## Compounds
 
-author-comment:: No common compounds using HAT defined yet. Potential for compounds related to 'container' (*puhat*?) or 'wealth' (*muhat*?) exists if needed.
+None so far.
 
 ## Origin
 

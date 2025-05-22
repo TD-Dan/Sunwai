@@ -37,7 +37,7 @@ Example::   *Le lumiako **ta hiko** pi.* = "The seed/spore **flies** in a circle
 ### Descriptor
 *   Describes something as having the qualities or appearance of a bird or flying creature. Optional *[[SO]]*.
 
-Example::   *Se o pu **so hiko**.* = "That is an **avian/bird-like** structure (e.g., a nest, aerodynamic form)."
+Example::   *Se o bu **so hiko**.* = "That is an **avian/bird-like** structure (e.g., a nest, aerodynamic form)."
 Example::   *A hat pai **hiko**.* = "I have **bird-like** thoughts (e.g., soaring, perspective from above)."
 Example::   *Ko se o **hiko** kas kas.* = "That lifeform is **flying** differently/separately." *(Using [[KAS]])*
 

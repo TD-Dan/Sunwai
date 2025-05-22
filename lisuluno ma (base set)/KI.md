@@ -48,7 +48,7 @@ Example::   *Neko ki ne pai.* = "The cat **communicates/signals** through play."
 
 Example::   *Ouman o ko so ki.* = "Sentient beings are **communicative** lifeforms."
 
-Example::   *Se o pu ki.* = "That is a **symbolic/expressive** form."
+Example::   *Se o bu ki.* = "That is a **symbolic/expressive** form."
 
 Example::   *Wailu o ki.* = "The sound **is communicative/a signal**."
 

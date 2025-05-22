@@ -1,7 +1,7 @@
 ---
 roots:
   - "[[KI]]"
-  - "[[PU]]"
+  - "[[BU]]"
 tags:
   - compound
   - extended-set
@@ -59,7 +59,7 @@ Example::   *Se o **kopu** pene.* = "That is a beautiful **physical form**."
 
 ## Origin
 
-*   **Sunwai**: Compound of **[[KO]]** (Lifeform, Body) + **[[PU]]** (Form, Structure, Arrangement). Signifies "Body-Form."
+*   **Sunwai**: Compound of **[[KO]]** (Lifeform, Body) + **[[BU]]** (Form, Structure, Arrangement). Signifies "Body-Form."
 
 ## Proverbs
 

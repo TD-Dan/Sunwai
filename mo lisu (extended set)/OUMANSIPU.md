@@ -35,7 +35,7 @@ Example::   *Pai ro **oumansipu** o kas oumankoma.* = "The thought process of an
 
 Example::   *Piko se **ta oumansipu**.* = "That computer/robot **functions as an AI / exhibits AI behaviour**."
 
-Example::   *An pu sipu an se **ta oumansipu**.* = "We are building a system and it **is becoming sentient / functioning as an AI**."
+Example::   *An bu sipu an se **ta oumansipu**.* = "We are building a system and it **is becoming sentient / functioning as an AI**."
 
 ### Descriptor
 *   Describes something as being related to or characteristic of artificial/systemic intelligence.

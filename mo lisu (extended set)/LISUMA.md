@@ -29,9 +29,9 @@ Example::   *Oum **Lisuma** ne sunluno se o tao.* = "Every **entry** in that log
 Example::   *Se o **Lisuma** kas.* = "That is a different **item/entry**."
 
 ### Action
-*   Often, the act of creating an entry is expressed using more specific verbs like *ta pu Lisuma* (to create/form an entry), *ta luno Lisuma* (to record an entry), or *ta kipu Lisuma* (to write/inscribe an entry). *Lisuma* itself can imply "to be an entry."
+*   Often, the act of creating an entry is expressed using more specific verbs like *ta bu Lisuma* (to create/form an entry), *ta luno Lisuma* (to record an entry), or *ta kipu Lisuma* (to write/inscribe an entry). *Lisuma* itself can imply "to be an entry."
 
-Example::   *Piko **ta pu Lisuma** nu.* = "The computer **creates** a new **entry/record**."
+Example::   *Piko **ta bu Lisuma** nu.* = "The computer **creates** a new **entry/record**."
 Example::   *Lisu se **Lisuma** ne Lisuluno.* = "That word **is an entry** in the dictionary." (predicate use)
 
 ### Descriptor
@@ -52,7 +52,7 @@ Example::   *Sipu se hat toki **Lisuma**.* = "That system has **itemized/entry-b
 
 ## Proverbs
 
-Proverb:: *Mu Lisuma li pu Lisuluno mo.* = "Many small entries/items create a large record/collection."
+Proverb:: *Mu Lisuma li bu Lisuluno mo.* = "Many small entries/items create a large record/collection."
 
 Proverb:: *Sun Lisuma o sun oum.* = "To understand the item/entry is to understand the whole (context)."
 

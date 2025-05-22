@@ -40,7 +40,7 @@ Example::   *Ta **tawai** pene!* = "**Conduct/Flow** well!"
 
 Example::   *Ma o **tawai**.* = "The land is **streaming** (with rivers)."
 Example::   *Piko o **tawai**.* = "The computer is **electrical**."
-Example::   *Se o pu **so tawai**.* = "That is an **electrically powered** structure."
+Example::   *Se o bu **so tawai**.* = "That is an **electrically powered** structure."
 
 ## Compounds
 *   **[[Tawaiheim]]** (`tawai` + `[[heim]]`): Power station, Dam, Electrical Grid Hub ("electricity/current home/center").

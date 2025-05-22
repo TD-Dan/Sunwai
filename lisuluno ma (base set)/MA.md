@@ -14,7 +14,7 @@ Concept::       **Earth, Land, Soil, Ground; Physical Terrain/Location; Raw Mate
 Action::        **To ground (physically/metaphorically), to root, to establish (on a base), to provide foundation**
 Descriptor::    **Foundational, Ground-level, Earthen, Terrestrial**
 
-> Core root for the **physical planet, ground, unprocessed physical substrate, and the concept of foundation or basis.** Contrasts with *[[PE]]* (inherent tangible substance/quality of a specific thing) and *[[PU]]* (formed structure). *MA* is the base upon which things rest or from which they originate.
+> Core root for the **physical planet, ground, unprocessed physical substrate, and the concept of foundation or basis.** Contrasts with *[[PE]]* (inherent tangible substance/quality of a specific thing) and *[[BU]]* (formed structure). *MA* is the base upon which things rest or from which they originate.
 
 ## Usage
 
@@ -27,7 +27,7 @@ Example::   *Se o **ma** pene ro oumankoma.* = "That is the beautiful **homeland
 
 Example::   *Le **ma** ro sipu o sun.* = "The **foundation/basis** of the system is knowledge." (Abstract basis).
 
-Example::   *A pu ne **ma**.* = "I build/shape upon the **earth/ground**." (Using earth as the substrate/location).
+Example::   *A bu ne **ma**.* = "I build/shape upon the **earth/ground**." (Using earth as the substrate/location).
 
 ### Action
 *   The act of grounding something physically or metaphorically, establishing roots, setting a base, or providing foundation.
@@ -45,7 +45,7 @@ Example::   *Se o ko **so ma**.* = "That is an **earth-based/terrestrial** lifef
 
 Example::   *Sun **so ma** o pene.* = "**Foundational** knowledge is good." (*so* optional).
 
-Example::   *A hat pu **ma**.* = "I have an **earthen/clay** structure (e.g., raw pottery)." (Focus on the raw material aspect).
+Example::   *A hat bu **ma**.* = "I have an **earthen/clay** structure (e.g., raw pottery)." (Focus on the raw material aspect).
 
 ## Compounds
 
