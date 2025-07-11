@@ -9,6 +9,8 @@ Sunwai is a constructed language that aims to serve as an unifying common langua
 * Core grammar at a glance: [Sunwai Reference Sheet](Sunwai%20Reference%20Sheet.md)
 * Complete dictionary: [Full dictionary](Full%20dictionary.baked.md)
 
+* [[sunwai-2-0-roadmap]]
+
 author-comment:: This is a draft of a conlang and it is not complete nor is it exhaustive at this point in time. Subject to minor and even major changes.
 
 ## Base principles
